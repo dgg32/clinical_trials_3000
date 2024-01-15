@@ -1,350 +1,353 @@
 AIDS
-acellular pertussis
-acne vulgaris
-acute coronary syndrome
-acute myeloid leukemia
-adrenocortical carcinoma
-advanced breast cancer
-alcoholism
-allergic conjunctivitis
-alopecia
-alzheimer's disease
-amyloidosis
-anaemia
-analgesia
-ankylosing spondylitis
-anxiety disorders
-arrhythmia, cardiac
-arthritis, rheumatoid
-asthma
-asthma and rhinitis
-atherosclerosis
-atrophy, geographic
-atrophy, muscular
-attention deficit hyperactivity disorder (adhd)
-autoimmune diseases
-b-cell acute lymphoblastic leukemia, relapsed b-cell acute lymphoblastic leukemia, refractory b-cell acute lymphoblastic leukemia
-bipolar disorder
-bipolar i disorder
-bladder pain
-breast cancer
-breast neoplasms
-bronchiectasis
-bronchitis, chronic
-bronchospasm
-cachexia
-cancer
-cancer, advanced gastric
-cancer, breast
-cancer|neoplasms
-carcinoid tumor
-carcinoma, hepatocellular
-carcinoma, midline
-carcinoma, renal cell
-carcinoma, small cell
-cardiovascular disease
-cataract
-cerebrovascular accident
-cervical intraepithelial neoplasia
-cholestasis
-cholestasis, intrahepatic
-chronic constipation
-chronic idiopathic urticaria (ciu)
-chronic lymphocytic leukemia (cll)
-chronic myelogenous leukemia
-chronic myeloid leukemia (cml)
-chronic obstructive pulmonary disease (copd)
-chronic plaque psoriasis
-clostridium difficile infection
-cognitive disorders
-colitis, ulcerative
-constriction, bronchial
-coronary artery disease
-corticosteroid refractory acute graft vs host disease
-cough
-crohn's disease
-cystic fibrosis
-dementia
-dentin sensitivity
-denture retention
-depressive disorder
-depressive disorder and anxiety disorders
-depressive disorder, major
-dermatitis, atopic
-dermatitis, chronic
-dermatitis, seborrheic
-diabetes mellitus
-diabetes mellitus, type 1
-diabetes mellitus, type 2
-diabetic kidney disease
-diabetic macular edema
-diabetic neuropathic pain
-diphtheria
-drug-related side effects and adverse reactions
-dysentery, bacillary
-dyslipidaemias
-eczema
-embolism, pulmonary
-embryo transfer
-endometriosis
-eosinophilic asthma
-epilepsy
-epilepsy, partial
-epilepsy, tonic-clonic
-episodic migraine headache
-esophageal cancer
-fasciolasis
-fibrillation, atrial
-fibromyalgia syndrome, primary
-focal infection, dental
-fracture healing
-gastrointestinal diseases
-gastrointestinal motility
-gastroparesis
-gonorrhea
-haemophilus influenzae type b
-heart failure
-heart failure with preserved ejection fraction
-heart failure, chronic (chf)
-heart failure, congestive
-heart failure, congestive and microalbuminuria
-hepatitis a
-hepatitis b
-hepatitis b, chronic
-hepatitis c
-hepatitis c, chronic
-hepatocellular carcinoma (hcc)
-her2-negative metastatic breast cancer
-her2/neu over-expressing locally advanced breast cancer or metastatic breast cancer
-hereditary periodic fevers
-herpes genitalis
-herpes labialis
-herpes simplex
-herpes zoster
-hip fracture
-hiv infections
-huntington disease
-hypercholesterolemia
-hypereosinophilic syndrome
-hyperhidrosis
-hyperreactivity, bronchial
-hypertension
-hypertension, pulmonary
-hypertriglyceridemia
-hypertrophy, left ventricular
-hypogonadism, male
-idiopathic pulmonary fibrosis
-idiopathic thrombocytopenic purpura
-impetigo
-infection, human immunodeficiency virus
-infection, human immunodeficiency virus i
-infections, bacterial
-infections, herpesviridae
-infections, human immunodeficiency virus and herpesviridae
-infections, meningococcal
-infections, papillomavirus
-infections, respiratory syncytial virus
-infections, respiratory tract
-infections, rotavirus
-infections, staphylococcal
-infections, streptococcal
-inflammatory bowel diseases
-influenza
-influenza a virus, h1n1 subtype
-insulin resistance
-invasive aspergillosis / invasive mucormycosis
-invasive candidiasis
-invasive fungal infection
-invasive fungal infections
-irritable bowel syndrome
-ischaemic attack, transient
-juvenile psoriatic arthritis, enthesitis-related arthritis
-lennox-gastaut syndrome
-leukaemia, lymphocytic, chronic
-leukaemia, myelocytic, acute
-liver diseases
-lower urinary tract symptoms / benign prostatic hyperplasia
-lung cancer, non-small cell
-lung injury, acute
-lung injury, acute and respiratory distress syndrome, adult
-lupus erythematosus, cutaneous
-lupus nephritis
-lymphoma, follicular
-lymphoma, mantle-cell
-lymphoma, non-hodgkin
-malaria
-malaria, falciparum
-malaria, vivax
-mastocytosis
-measles
-measles, mumps, rubella
-melanoma
-meningitis, meningococcal
-meningococcal disease
-mental disorders
-metabolic syndrome x
-metastases, brain
-metastatic breast cancer
-metastatic melanoma
-metastatic renal cell carcinoma
-metastatic triple-negative breast cancer
-migraine
-migraine disorders
-migraine disorders and premenstrual syndrome
-migraine, without aura
-mild asthma and allergic rhinitis
-moderate to severe acute pain
-moderate to severe acute post-operative pain
-moderate to severe chronic plaque-type psoriasis
-moderate to severe scalp psoriasis
-mood disorders
-multiple myeloma (mm)
-multiple sclerosis
-multiple sclerosis, relapsing-remitting
-mumps
-muscle atrophy
-myasthenia gravis
-mycoses
-myelodysplastic syndrome (mds)
-myelofibrosis
-myocardial perfusion imaging
-nausea and vomiting, chemotherapy-induced
-nausea and vomiting, postoperative
-neisseria meningitidis
-neoplasms
-neoplasms, breast
-neoplasms, colorectal
-neoplasms, gastrointestinal tract
-neoplasms, head and neck
-neoplasms, ovarian
-neoplasms, prostate
-neoplasms|lung neoplasms
-neovascular age-related macular degeneration
-neuralgia, postherpetic
-neuroendocrine tumors (net)
-neurogenic detrusor overactivity
-neuropathy, diabetic
-non-radiographic spondyloarthritis
-non-small cell lung cancer
-non-small cell lung carcinoma (nsclc)
-obesity
-obsessive-compulsive disorder
-obsessive-compulsive disorder and depressive disorder
-obstetric labour, premature
-ocular hypertension
-oedema, pulmonary
-oesophagitis, eosinophilic
-open-angle glaucoma
-osteoarthritis
-osteopenia
-osteoporosis
-osteoporosis, male
-osteoporosis, postmenopausal
-otitis media
-ovarian cancer
-ovarian neoplasms|neoplasms|solid tumor|hepatic impairment
-pain, inflammatory
-pain, neuropathic
-pancreatic neuroendocrine tumor (pnet)
-pancreatitis, acute necrotizing
-panic disorder
-parkinson disease
-parkinson's disease dementia
-partial onset seizures
-peripheral neuropathic pain
-peripheral neuropathies
-persistent asthma
-pertussis
-philadelphia chromosome positive acute lymphoblastic leukemia (ph+ all)
-plaque psoriasis
-pneumonia, community-acquired
-poliomyelitis
-polyps, nasal
-post-polycythemia vera myelofibrosis (ppv-mf)
-post-traumatic stress disorder
-postherpetic neuralgia (phn)
-postpartum hemorrhage
-premature ejaculation
-premenstrual syndrome
-prostate cancer
-prostatic hyperplasia
-psoriasis
-psoriasis, nail
-psoriasis, palmoplantar
-psoriatic arthritis
-pulmonary arterial hypertension
-pulmonary disease, chronic obstructive
-refractory partial seizures
-renal cell carcinoma
-respiratory disorders
-respiratory syncytial virus infections
-restless legs syndrome
-retinal diseases
-retinopathy of prematurity
-retinopathy, diabetic
-rheumatoid arthritis
-rhinitis
-rhinitis, allergic, perennial
-rhinitis, allergic, perennial and seasonal
-rhinitis, allergic, seasonal
-rhinitis, vasomotor
-rubella
-sarcoma, soft tissue
-schizophrenia
-scleroderma, systemic
-secondary prevention of thromboembolic events
-seizure disorder generalized tonic clonic
-seizure, absence
-seizures
-sepsis
-shigella sonnei infection
-sickle cell disease
-sinusitis
-sinusitis, acute
-sjoegren's syndrome
-skin diseases
-skin infections, bacterial
-sleep disorders
-sleep initiation and maintenance disorders
-sma - spinal muscular atrophy
-smoking cessation
-social phobia
-soft tissue sarcoma
-solid tumor cancer with bone metastases
-solid tumours
-spasticity, post-stroke
-spondylitis, ankylosing
-spondyloarthritis
-streptococcus agalactiae
-streptococcus pneumoniae
-substance dependence
-systemic juvenile idiopathic arthritis (sjia)
-systemic lupus erythematosus
-tendon injuries
-tetanus
-therapeutic treatment of inhalation anthrax
-thromboembolism
-thrombosis, venous
-thyroid cancer
-tinnitus
-tobacco use disorder
-tooth erosion
-toxoplasmosis
-tuberculosis
-tumors characterized by genetic abnormalities of alk
-type 2 diabetes
-typhoid fever
-ulcers, duodenal and gastric
-uncontrolled asthma
-urinary bladder, overactive
-urinary incontinence
-urologic diseases
-urticaria
-varicella
-vascular disease, peripheral
-vasculitis
-virus diseases
-vomiting
-wet age related macular degeneration (amd)
-whole cell pertussis
-wound healing
+Acellular pertussis
+Acne vulgaris
+Acute coronary syndrome
+Acute myeloid leukemia
+Adrenocortical carcinoma
+Advanced breast cancer
+Alcoholism
+Allergic conjunctivitis
+Alopecia
+Alzheimer's disease
+Amyloidosis
+Anaemia
+Analgesia
+Ankylosing spondylitis
+Anxiety disorders
+Arrhythmia, cardiac
+Arthritis, rheumatoid
+Asthma
+Asthma and rhinitis
+Atherosclerosis
+Atrophy, geographic
+Atrophy, muscular
+Attention deficit hyperactivity disorder (adhd)
+Autoimmune diseases
+B-cell acute lymphoblastic leukemia, relapsed b-cell acute lymphoblastic leukemia, refractory b-cell acute lymphoblastic leukemia
+Bipolar disorder
+Bipolar i disorder
+Bladder pain
+Breast cancer
+Breast neoplasms
+Bronchiectasis
+Bronchitis, chronic
+Bronchospasm
+Cachexia
+Cancer
+Cancer, advanced gastric
+Cancer, breast
+Cancer|neoplasms
+Carcinoid tumor
+Carcinoma, hepatocellular
+Carcinoma, midline
+Carcinoma, renal cell
+Carcinoma, small cell
+Cardiovascular disease
+Cataract
+Cerebrovascular accident
+Cervical intraepithelial neoplasia
+Cholestasis
+Cholestasis, intrahepatic
+Chronic constipation
+Chronic idiopathic urticaria (ciu)
+Chronic lymphocytic leukemia (cll)
+Chronic myelogenous leukemia
+Chronic myeloid leukemia (cml)
+Chronic obstructive pulmonary disease (copd)
+Chronic plaque psoriasis
+Clostridium difficile infection
+Cognitive disorders
+Colitis, ulcerative
+Constriction, bronchial
+Coronary artery disease
+Corticosteroid refractory acute graft vs host disease
+Cough
+Crohn's disease
+Cystic fibrosis
+Dementia
+Dentin sensitivity
+Denture retention
+Depressive disorder
+Depressive disorder and anxiety disorders
+Depressive disorder, major
+Dermatitis, atopic
+Dermatitis, chronic
+Dermatitis, seborrheic
+Diabetes mellitus
+Diabetes mellitus, type 1
+Diabetes mellitus, type 2
+Diabetic kidney disease
+Diabetic macular edema
+Diabetic neuropathic pain
+Diphtheria
+Drug-related side effects and adverse reactions
+Dysentery, bacillary
+Dyslipidaemias
+Eczema
+Embolism, pulmonary
+Embryo transfer
+Endometriosis
+Eosinophilic asthma
+Epilepsy
+Epilepsy, partial
+Epilepsy, tonic-clonic
+Episodic migraine headache
+Esophageal cancer
+Fasciolasis
+Fibrillation, atrial
+Fibromyalgia syndrome, primary
+Focal infection, dental
+Fracture healing
+Gastrointestinal diseases
+Gastrointestinal motility
+Gastroparesis
+Gonorrhea
+Haemophilus influenzae type b
+Heart failure
+Heart failure with preserved ejection fraction
+Heart failure, chronic (chf)
+Heart failure, congestive
+Heart failure, congestive and microalbuminuria
+Hepatitis a
+Hepatitis b
+Hepatitis b, chronic
+Hepatitis c
+Hepatitis c, chronic
+Hepatocellular carcinoma (hcc)
+Her2-negative metastatic breast cancer
+Her2/neu over-expressing locally advanced breast cancer or metastatic breast cancer
+Hereditary periodic fevers
+Herpes genitalis
+Herpes labialis
+Herpes simplex
+Herpes zoster
+Hip fracture
+Hiv infections
+Huntington disease
+Hypercholesterolemia
+Hypereosinophilic syndrome
+Hyperhidrosis
+Hyperreactivity, bronchial
+Hypertension
+Hypertension, pulmonary
+Hypertriglyceridemia
+Hypertrophy, left ventricular
+Hypogonadism, male
+Idiopathic pulmonary fibrosis
+Idiopathic thrombocytopenic purpura
+Impetigo
+Infection, human immunodeficiency virus
+Infection, human immunodeficiency virus i
+Infections, bacterial
+Infections, herpesviridae
+Infections, human immunodeficiency virus and herpesviridae
+Infections, meningococcal
+Infections, papillomavirus
+Infections, respiratory syncytial virus
+Infections, respiratory tract
+Infections, rotavirus
+Infections, staphylococcal
+Infections, streptococcal
+Inflammatory bowel diseases
+Influenza
+Influenza a virus, h1n1 subtype
+Insulin resistance
+Invasive aspergillosis / invasive mucormycosis
+Invasive candidiasis
+Invasive fungal infection
+Invasive fungal infections
+Irritable bowel syndrome
+Ischaemic attack, transient
+Juvenile psoriatic arthritis, enthesitis-related arthritis
+Lennox-gastaut syndrome
+Leukaemia, lymphocytic, chronic
+Leukaemia, myelocytic, acute
+Liver diseases
+Lower urinary tract symptoms / benign prostatic hyperplasia
+Lung cancer, non-small cell
+Lung injury, acute
+Lung injury, acute and respiratory distress syndrome, adult
+Lupus erythematosus, cutaneous
+Lupus nephritis
+Lymphoma, follicular
+Lymphoma, mantle-cell
+Lymphoma, non-hodgkin
+Malaria
+Malaria, falciparum
+Malaria, vivax
+Mastocytosis
+Measles
+Measles, mumps, rubella
+Melanoma
+Meningitis, meningococcal
+Meningococcal disease
+Mental disorders
+Metabolic syndrome x
+Metastases, brain
+Metastatic breast cancer
+Metastatic melanoma
+Metastatic renal cell carcinoma
+Metastatic triple-negative breast cancer
+Migraine
+Migraine disorders
+Migraine disorders and premenstrual syndrome
+Migraine, without aura
+Mild asthma and allergic rhinitis
+Moderate to severe acute pain
+Moderate to severe acute post-operative pain
+Moderate to severe chronic plaque-type psoriasis
+Moderate to severe scalp psoriasis
+Mood disorders
+Multiple myeloma (mm)
+Multiple sclerosis
+Multiple sclerosis, relapsing-remitting
+Mumps
+Muscle atrophy
+Myasthenia gravis
+Mycoses
+Myelodysplastic syndrome (mds)
+Myelofibrosis
+Myocardial perfusion imaging
+Nausea and vomiting, chemotherapy-induced
+Nausea and vomiting, postoperative
+Neisseria meningitidis
+Neoplasms
+Neoplasms, breast
+Neoplasms, colorectal
+Neoplasms, gastrointestinal tract
+Neoplasms, head and neck
+Neoplasms, ovarian
+Neoplasms, prostate
+Neoplasms|lung neoplasms
+Neovascular age-related macular degeneration
+Neuralgia, postherpetic
+Neuroendocrine tumors (net)
+Neurogenic detrusor overactivity
+Neuropathy, diabetic
+Non-radiographic spondyloarthritis
+Non-small cell lung cancer
+Non-small cell lung carcinoma (nsclc)
+Obesity
+Obsessive-compulsive disorder
+Obsessive-compulsive disorder and depressive disorder
+Obstetric labour, premature
+Ocular hypertension
+Oedema, pulmonary
+Oesophagitis, eosinophilic
+Open-angle glaucoma
+Osteoarthritis
+Osteopenia
+Osteoporosis
+Osteoporosis, male
+Osteoporosis, postmenopausal
+Otitis media
+Ovarian cancer
+Ovarian neoplasms|neoplasms|solid tumor|hepatic impairment
+Pain, inflammatory
+Pain, neuropathic
+Pancreatic neuroendocrine tumor (pnet)
+Pancreatitis, acute necrotizing
+Panic disorder
+Parkinson disease
+Parkinson's disease dementia
+Partial onset seizures
+Peripheral neuropathic pain
+Peripheral neuropathies
+Persistent asthma
+Pertussis
+Philadelphia chromosome positive acute lymphoblastic leukemia (ph+ all)
+Plaque psoriasis
+Pneumonia, community-acquired
+Poliomyelitis
+Polyps, nasal
+Post-polycythemia vera myelofibrosis (ppv-mf)
+Post-traumatic stress disorder
+Postherpetic neuralgia (phn)
+Postpartum hemorrhage
+Premature ejaculation
+Premenstrual syndrome
+Prostate cancer
+Prostatic hyperplasia
+Psoriasis
+Psoriasis, nail
+Psoriasis, palmoplantar
+Psoriatic arthritis
+Pulmonary arterial hypertension
+Pulmonary disease, chronic obstructive
+Refractory partial seizures
+Renal cell carcinoma
+Respiratory disorders
+Respiratory syncytial virus infections
+Restless legs syndrome
+Retinal diseases
+Retinopathy of prematurity
+Retinopathy, diabetic
+Rheumatoid arthritis
+Rhinitis
+Rhinitis, allergic, perennial
+Rhinitis, allergic, perennial and seasonal
+Rhinitis, allergic, seasonal
+Rhinitis, vasomotor
+Rubella
+Sarcoma, soft tissue
+Schizophrenia
+Scleroderma, systemic
+Secondary prevention of thromboembolic events
+Seizure disorder generalized tonic clonic
+Seizure, absence
+Seizures
+Sepsis
+Shigella sonnei infection
+Sickle cell disease
+Sinusitis
+Sinusitis, acute
+Sjoegren's syndrome
+Skin diseases
+Skin infections, bacterial
+Sleep disorders
+Sleep initiation and maintenance disorders
+Sma - spinal muscular atrophy
+Smoking cessation
+Social phobia
+Soft tissue sarcoma
+Solid tumor cancer with bone metastases
+Solid tumours
+Spasticity, post-stroke
+Spondylitis, ankylosing
+Spondyloarthritis
+Streptococcus agalactiae
+Streptococcus pneumoniae
+Substance dependence
+Systemic juvenile idiopathic arthritis (sjia)
+Systemic lupus erythematosus
+Tendon injuries
+Tetanus
+Therapeutic treatment of inhalation anthrax
+Thromboembolism
+Thrombosis, venous
+Thyroid cancer
+Tinnitus
+Tobacco use disorder
+Tooth erosion
+Toxoplasmosis
+Transplantation, kidney
+Transplantation, liver
+Transplantation, organ
+Tuberculosis
+Tumors characterized by genetic abnormalities of alk
+Type 2 diabetes
+Typhoid fever
+Ulcers, duodenal and gastric
+Uncontrolled asthma
+Urinary bladder, overactive
+Urinary incontinence
+Urologic diseases
+Urticaria
+Varicella
+Vascular disease, peripheral
+Vasculitis
+Virus diseases
+Vomiting
+Wet age related macular degeneration (amd)
+Whole cell pertussis
+Wound healing

@@ -1,0 +1,288 @@
+text	preferredTerm	entityId	confidence	HPO	MSH
+10-valent pneumococcal polysaccharide and non-typeable haemophilus influenzae protein d conjugate vaccine	pneumococcal polysaccharide, type 37;Polyvalent pneumococcal vaccine;pneumococcal polysaccharide 6a;pneumococcal polysaccharide 6b	UMLS/C0245576;UMLS/C0305065;UMLS/C1098021;UMLS/C1098022	0.5190078020095825		MSH/C058381;MSH/D022242;MSH/C437065;MSH/C437065
+12-valent pneumococcal polysaccharide and non-typeable haemophilus influenzae protein d conjugate vaccine	pneumococcal polysaccharide, type 37;Polyvalent pneumococcal vaccine;pneumococcal polysaccharide 6a;pneumococcal polysaccharide 6b	UMLS/C0245576;UMLS/C0305065;UMLS/C1098021;UMLS/C1098022	0.609725832939148		MSH/C058381;MSH/D022242;MSH/C437065;MSH/C437065
+Abacavir	abacavir	UMLS/C0663655	0.9603832364082336		MSH/C106538
+Abacavir/lamivudine	abacavir / lamivudine	UMLS/C1613391	0.552099883556366		MSH/C492871
+Abacavir/lamivudine/zidovudine	abacavir	UMLS/C0663655	0.9580701589584351		MSH/C106538
+Acetylsalicylic acid/pantoprazole	aspirin	UMLS/C0004057	0.6609262824058533		MSH/D001241
+Adefovir/lamivudine	adefovir	UMLS/C0050175	0.9758250117301941		MSH/C053001
+Albiglutide	albiglutide	UMLS/C2607479	0.9908285737037659		MSH/C534611
+Albiglutide/metformin	albiglutide	UMLS/C2607479	0.6554814577102661		MSH/C534611
+Alisporivir					
+Alitretinoin	alitretinoin	UMLS/C0281666	0.9982038736343384		MSH/D000077556
+Alpelisib	alpelisib	UMLS/C4055478	0.9909002780914307		MSH/C585539
+Amlodipine/benazepril hcl	amlodipine / benazepril	UMLS/C0717411	0.7397399544715881		
+Amlodipine/enalapril	enalapril	UMLS/C0014025	0.5489432215690613		MSH/D004656
+Amlodipine/losartan	amlodipine	UMLS/C0051696	0.9745073914527893		MSH/D017311
+Amlodipine/rosuvastatin	amlodipine	UMLS/C0051696	0.9687915444374084		MSH/D017311
+Amoxicillin/clavulanic acid	amoxicillin / clavulanate	UMLS/C0054066	0.7776407599449158		MSH/D019980
+Artesunate/chlorproguanil/dapsone	artesunate	UMLS/C0052432	0.946690559387207		MSH/D000077332
+Atorvastatin/glimepiride	glimepiride	UMLS/C0061323	0.5167374014854431		MSH/C057619
+Batefenterol	batefenterol	UMLS/C4519138	0.9968811273574829		MSH/C588122
+Belimumab	belimumab	UMLS/C1723401	0.9961068630218506		MSH/C511911
+Benzoyl peroxide/clindamycin	benzoyl peroxide	UMLS/C0005088	0.9544157385826111		MSH/D001585
+Benzoyl peroxide/clindamycin phosphate	benzoyl peroxide / clindamycin	UMLS/C1720375	0.7177574634552002		MSH/C466951
+Benzoyl peroxide/salicylic acid	benzoyl peroxide / salicylic acid	UMLS/C2929668	0.8090472221374512		
+Brinzolamide	brinzolamide	UMLS/C0673966	0.9949681162834167		MSH/C111827
+Brolucizumab	brolucizumab	UMLS/C4550124	0.9944244623184204		MSH/C000622091
+Bupropion	bupropion	UMLS/C0085208	0.9925255179405212		MSH/D016642
+Cabotegravir	cabotegravir	UMLS/C4310385	0.9908441305160522		MSH/C584914
+Calcipotriol, calcipotriene	calcipotriene	UMLS/C0065767	0.9488076567649841		MSH/C055085
+Camicinal	Camicinal	UMLS/C4519144	0.979870617389679		MSH/C541863
+Canakinumab	canakinumab	UMLS/C2718773	0.990576446056366		MSH/C541220
+Candesartan	candesartan	UMLS/C0717550	0.9891654849052429		MSH/C081643
+Candesartan cilexetil/hydrochlorothiazide	candesartan cilexetil	UMLS/C0527379	0.765342116355896		MSH/C077793
+Carbomer and carmellose sodium gel	carboxymethylcellulose sodium	UMLS/C0037487	0.6364884972572327		MSH/D002266
+Carvedilol	carvedilol;Carvedilol, (+)-isomer;Carvedilol, (-)-isomer	UMLS/C0054836;UMLS/C4704735;UMLS/C4704736	0.9966771006584167		MSH/D000077261;MSH/D000077261;MSH/D000077261
+Carvedilol/lisinopril	carvedilol;Carvedilol, (+)-isomer;Carvedilol, (-)-isomer	UMLS/C0054836;UMLS/C4704735;UMLS/C4704736	0.9767431616783142		MSH/D000077261;MSH/D000077261;MSH/D000077261
+Casopitant					
+Cefadroxil	cefadroxil	UMLS/C0007538	0.997178852558136		MSH/D002434
+Cefixime	cefixime	UMLS/C0060400	0.9973928928375244		MSH/D020682
+Cefuroxime axetil	cefuroxime axetil	UMLS/C0055015	0.6188790798187256		MSH/C040738
+Ceritinib	ceritinib	UMLS/C3818721	0.9982356429100037		MSH/C586847
+Certolizumab pegol	certolizumab pegol	UMLS/C1872109	0.9853734374046326		MSH/D000068582
+Cilomilast	Cilomilast	UMLS/C0968887	0.9965181946754456		MSH/C433247
+Cilomilast/salmeterol/fluticasone propionate	Cilomilast	UMLS/C0968887	0.7172675132751465		MSH/C433247
+Ciprofloxacin	ciprofloxacin	UMLS/C0008809	0.9983096122741699		MSH/D002939
+Clobetasol	clobetasol	UMLS/C0008992	0.9932810068130493		MSH/D002990
+Combined diphtheria, tetanus, acellular pertussis adsorbed, hepatitis b (recombinant), inactivated polio vaccine	diphtheria antitoxin;Diphtheria Toxin;diphtheria toxoid vaccine, inactivated	UMLS/C0012547;UMLS/C0012550;UMLS/C0012551	0.5536857843399048		MSH/D004166;MSH/D004167;MSH/D004168
+Combined diphtheria, tetanus, acellular pertussis, haemophilus influenzae type b conjugate vaccine	tetanus toxoid vaccine, inactivated	UMLS/C0305062	0.9015460014343262		MSH/D013745
+Combined diphtheria, tetanus, acellular pertussis, hepatitis b, inactivated polio, haemophilus influenzae type b vaccine	tetanus toxoid vaccine, inactivated	UMLS/C0305062	0.9197308421134949		MSH/D013745
+Combined diphtheria, tetanus, acellular pertussis, inactivated polio, haemophilus influenzae type b conjugate vaccine	tetanus toxoid vaccine, inactivated	UMLS/C0305062	0.9302862286567688		MSH/D013745
+Combined diphtheria, tetanus, pertussis, hepb, polio, hib and neisseria meningitis serogroup c tetanus toxoid conjugate vaccine	tetanus toxoid vaccine, inactivated	UMLS/C0305062	0.9007495045661926		MSH/D013745
+Combined diphtheria, tetanus, whole cell pertussis, hepatitis b vaccine	tetanus toxoid vaccine, inactivated	UMLS/C0305062	0.9009349346160889		MSH/D013745
+Combined diphtheria, tetanus, whole cell pertussis, hepatitis b, haemophilus influenzae type b vaccine	tetanus toxoid vaccine, inactivated	UMLS/C0305062	0.8945971131324768		MSH/D013745
+Combined diphtheria, tetanus, whole cell pertussis, hepatitis b, haemophilus influenzae type b vaccine (kft)	tetanus toxoid vaccine, inactivated	UMLS/C0305062	0.9027326107025146		MSH/D013745
+Combined measles, mumps, rubella, varicella vaccine	Mumps Vaccine;CANDIDA/MUMPS	UMLS/C0026782;UMLS/C1874704	0.44157785177230835		MSH/D009108
+Combined reduced antigen content diphtheria, tetanus, acellular pertussis vaccine	Antigens, Fungal;Antigens, Tumor-Associated, Carbohydrate;Gene Products, env;Gene Products, gag;Hepatitis B Antibodies	UMLS/C0003330;UMLS/C0003341;UMLS/C0017278;UMLS/C0017279;UMLS/C0019164	0.4191805124282837		MSH/D000946;MSH/D015295;MSH/D015686;MSH/D015683;MSH/D006510
+Combined reduced antigen content diphtheria, tetanus, acellular pertussis, inactivated polio vaccine	Antigens, Fungal;Antigens, Tumor-Associated, Carbohydrate;Gene Products, env;Gene Products, gag;Hepatitis B Antibodies	UMLS/C0003330;UMLS/C0003341;UMLS/C0017278;UMLS/C0017279;UMLS/C0019164	0.48854508996009827		MSH/D000946;MSH/D015295;MSH/D015686;MSH/D015683;MSH/D006510
+Crizanlizumab	crizanlizumab	UMLS/C4524703	0.9949004650115967		MSH/C000614139
+Dabrafenib	dabrafenib	UMLS/C3467876	0.9973782300949097		MSH/C561627
+Dabrafenib/trametinib	dabrafenib	UMLS/C3467876	0.9695357084274292		MSH/C561627
+Danirixin	danirixin	UMLS/C4519256	0.9981618523597717		MSH/C581951
+Daprodustat	Daprodustat	UMLS/C4519188	0.9889805316925049		MSH/C000599718
+Darapladib	darapladib	UMLS/C2348075	0.9433040618896484		MSH/C529040
+Darotropium bromide	Darotropium Bromide	UMLS/C2699560	0.9795842170715332		
+Darotropium bromide/vilanterol	Darotropium Bromide	UMLS/C2699560	0.6687807440757751		
+Deferasirox	deferasirox	UMLS/C1619629	0.986588716506958		MSH/D000077588
+Degarelix acetate	degarelix acetate	UMLS/C2718533	0.9340160489082336		
+Denagliptin	denagliptin	UMLS/C2699586	0.9979739189147949		MSH/C551147
+Developmental cosmetic moisturizing creams					
+Digoxin	digoxin	UMLS/C0012265	0.9965978860855103		MSH/D004077
+Dilmapimod	dilmapimod	UMLS/C3272846	0.9883127212524414		MSH/C574213
+Diphtheria, tetanus, acellular pertussis vaccine adsorbed	diphtheria antitoxin;Diphtheria Toxin;diphtheria toxoid vaccine, inactivated	UMLS/C0012547;UMLS/C0012550;UMLS/C0012551	0.9008921980857849		MSH/D004166;MSH/D004167;MSH/D004168
+Dolutegravir	dolutegravir	UMLS/C3253985	0.989474356174469		MSH/C562325
+Dolutegravir/abacavir/lamivudine	abacavir / lamivudine	UMLS/C1613391	0.5278786420822144		MSH/C492871
+Dolutegravir/lamivudine	dolutegravir	UMLS/C3253985	0.9465277791023254		MSH/C562325
+Dolutegravir/rilpivirine	dolutegravir	UMLS/C3253985	0.9702891111373901		MSH/C562325
+Donepezil	donepezil	UMLS/C0527316	0.9978075623512268		MSH/D000077265
+Dutasteride	dutasteride	UMLS/C0754659	0.9980650544166565		MSH/D000068538
+Dutasteride/tamsulosin	dutasteride	UMLS/C0754659	0.9506256580352783		MSH/D000068538
+Eltrombopag	eltrombopag	UMLS/C1831905	0.9952731132507324		MSH/C520809
+Elubrixin	Elubrixin	UMLS/C4519321	0.997005045413971		
+Enzalutamide	enzalutamide	UMLS/C3496793	0.9980428814888		MSH/C540278
+Epelsiban	epelsiban	UMLS/C3274566	0.9774683713912964		MSH/C571185
+Epoprostenol	epoprostenol	UMLS/C0033567	0.992821216583252		MSH/D011464
+Eribulin mesilate	eribulin mesylate	UMLS/C2608038	0.9561359286308289		MSH/C490954
+Erlotinib	erlotinib	UMLS/C1135135	0.9445253610610962		MSH/D000069347
+Everolimus	everolimus	UMLS/C0541315	0.986271858215332		MSH/D000068338
+Exenatide	exenatide	UMLS/C0167117	0.9827603101730347		MSH/D000077270
+Fevipiprant	fevipiprant	UMLS/C4076895	0.9916226863861084		MSH/C000604875
+Fiboflapon	Fiboflapon	UMLS/C4550339	0.964216947555542		
+Fidaxomicin	fidaxomicin	UMLS/C0065023	0.9977651238441467		MSH/D000077732
+Fingolimod	fingolimod	UMLS/C1699926	0.9822161197662354		MSH/D000068876
+Fluticasone	fluticasone	UMLS/C0082607	0.9368850588798523		MSH/D000068298
+Fluticasone furoate	fluticasone furoate	UMLS/C1948374	0.7802206873893738		MSH/C523187
+Fluticasone furoate/levocabastine	fluticasone furoate	UMLS/C1948374	0.825867235660553		MSH/C523187
+Fluticasone furoate/umeclidinium bromide	fluticasone furoate	UMLS/C1948374	0.6405181884765625		MSH/C523187
+Fluticasone furoate/vilanterol	fluticasone furoate	UMLS/C1948374	0.7809839248657227		MSH/C523187
+Fluticasone furoate/vilanterol trifenatate	fluticasone furoate-vilanterol trifenatate	UMLS/C4020624	0.5963696837425232		MSH/C000611924
+Fluticasone furoate/vilanterol/umeclidinium bromid	fluticasone furoate	UMLS/C1948374	0.7340096235275269		MSH/C523187
+Fluticasone furoate/vilanterol/umeclidinium bromide	fluticasone furoate	UMLS/C1948374	0.7885125875473022		MSH/C523187
+Fluticasone propionate	fluticasone propionate	UMLS/C0117996	0.8505778312683105		MSH/D000068298
+Fluticasone propionate/salmeterol	Fluticasone Propionate, Salmeterol Xinafoate Drug Combination	UMLS/C1622832	0.6804608106613159		MSH/D000068297
+Fondaparinux sodium	fondaparinux sodium	UMLS/C1099664	0.925584614276886		MSH/D000077425
+Foretinib	Foretinib	UMLS/C2973987	0.9954344630241394		MSH/C544831
+Formoterol fumarate	formoterol fumarate	UMLS/C0771469	0.884088933467865		MSH/D000068759
+Fosamprenavir	fosamprenavir	UMLS/C1176315	0.9964955449104309		MSH/C426859
+Fosdevirine	Fosdevirine	UMLS/C4550352	0.9934968948364258		
+Fremanezumab	fremanezumab	UMLS/C4549503	0.9968141317367554		MSH/C000604315
+Gepotidacin	gepotidacin	UMLS/C4309999	0.99607914686203		MSH/C000612856
+Gilteritinib fumarate	gilteritinib fumarate	UMLS/C3896946	0.6488101482391357		
+Glatiramer acetate	glatiramer acetate	UMLS/C0289884	0.9723407626152039		MSH/D000068717
+Glimepiride/metformin	glimepiride	UMLS/C0061323	0.6214205622673035		MSH/C057619
+Glycerol and niacinamide face cream, serum and lotion	niacinamide	UMLS/C0028027	0.6677666902542114		MSH/D009536
+Glycopyrronium	glycopyrronium	UMLS/C3814772	0.9897972345352173		MSH/D006024
+Glycopyrronium bromide	Glycopyrronium Bromide	UMLS/C4082411	0.9876086711883545		MSH/D006024
+Griseofulvin	griseofulvin	UMLS/C0018242	0.9960502982139587		MSH/D006118
+H1n1 pandemic influenza vaccine	AS03-Adjuvanted H1N1 Pandemic Influenza Vaccine	UMLS/C2981835	0.8228923678398132		
+H5n1 pandemic influenza vaccine	AS03-Adjuvanted H1N1 Pandemic Influenza Vaccine	UMLS/C2981835	0.8363161087036133		
+H5n1 pre-pandemic influenza vaccine	Influenza virus vaccine;trivalent influenza vaccine	UMLS/C0021403;UMLS/C0770694	0.8109412789344788		MSH/D007252;MSH/D007252
+Haemophilus influenzae type b					
+Haemophilus influenzae type b vaccine	Haemophilus influenzae type b polysaccharide vaccine	UMLS/C0062086	0.795331597328186		MSH/C044237
+Haemophilus influenzae type b, meningococcal c and y-tetanus toxoid conjugate vaccine	Haemophilus influenzae type b polysaccharide vaccine	UMLS/C0062086	0.4536895155906677		MSH/C044237
+Haemophilus influenzae type b, meningococcal c-tetanus toxoid conjugate vaccine	Haemophilus influenzae type b polysaccharide vaccine	UMLS/C0062086	0.41149190068244934		MSH/C044237
+Hepatitis a (inactivated), hepatitis b (recombinant) vaccine	Vaccines, Recombinant	UMLS/C0034862	0.42277461290359497		MSH/D014614
+Hepatitis a vaccine, inactivated	Hepatitis A Vaccines;hepatitis A vaccine, inactivated	UMLS/C0170300;UMLS/C0795623	0.8869346380233765		MSH/D022362
+Hepatitis b vaccine, recombinant	hepatitis B surface antigen vaccine;Hepatitis B Vaccines	UMLS/C0062527;UMLS/C2240392	0.871115505695343		MSH/D017325
+Herpes simplex vaccine	Herpes Simplex Virus Vaccines	UMLS/C0770688	0.8434513211250305		MSH/D022301
+Herpes zoster subunit (hz/su) vaccine	Herpes Zoster Vaccine 1437173A	UMLS/C3272332	0.8111469745635986		
+Human papillomavirus types 16 and 18 vaccine					
+Ibandronic acid	ibandronic acid	UMLS/C0379200	0.9394897222518921		MSH/D000077557
+Iboctadekin					
+Imatinib mesilate	imatinib	UMLS/C0935989	0.8742073774337769		MSH/D000068877
+Inclisiran	Inclisiran	UMLS/C4307388	0.994566023349762		MSH/C585830
+Indacaterol	indacaterol	UMLS/C1722260	0.9906808137893677		MSH/C510790
+Indacaterol acetate/mometasone furoate	indacaterol	UMLS/C1722260	0.9073145389556885		MSH/C510790
+Indacaterol maleate/glycopyrronium bromide	indacaterol maleate	UMLS/C2920417	0.7201337218284607		
+Indacaterol, glycopyrrolate	indacaterol	UMLS/C1722260	0.9439689517021179		MSH/C510790
+Indacaterol/mometasone furoate	mometasone furoate	UMLS/C0066700	0.681352436542511		MSH/D000068656
+Indacterol					
+Infanrix penta/infanrix hexa / pediarix	Infanrix	UMLS/C0728745	0.6483181715011597		MSH/D022681
+Influenza vaccine	Influenza virus vaccine;trivalent influenza vaccine	UMLS/C0021403;UMLS/C0770694	0.8936297297477722		MSH/D007252;MSH/D007252
+Influenza vaccine (quadrivalent)	Influenza virus vaccine;trivalent influenza vaccine	UMLS/C0021403;UMLS/C0770694	0.913776159286499		MSH/D007252;MSH/D007252
+Influenza vaccine (split virion, inactivated)	Influenza virus vaccine;trivalent influenza vaccine	UMLS/C0021403;UMLS/C0770694	0.9161441326141357		MSH/D007252;MSH/D007252
+Influenza vaccine (split virion, inactivated, fluviral)	Influenza virus vaccine;trivalent influenza vaccine	UMLS/C0021403;UMLS/C0770694	0.9207762479782104		MSH/D007252;MSH/D007252
+Ipragliflozin	ipragliflozin	UMLS/C3492889	0.9970123171806335		MSH/C572941
+Isavuconazonium sulfate	isavuconazonium sulfate	UMLS/C4018470	0.9467849731445312		MSH/C508735
+Ketoconazole	ketoconazole	UMLS/C0022625	0.9985204339027405		MSH/D007654
+Lamivudine	lamivudine	UMLS/C0209738	0.9986566305160522		MSH/D019259
+Lamotrigine	lamotrigine	UMLS/C0064636	0.9981554746627808		MSH/D000077213
+Lanalumab					
+Lapatinib	lapatinib	UMLS/C1506770	0.9939717054367065		MSH/D000077341
+Lapatinib plus capecitabine	lapatinib	UMLS/C1506770	0.9933167695999146		MSH/D000077341
+Lenvatinib	lenvatinib	UMLS/C2986924	0.9972826242446899		MSH/C531958
+Letrozole	letrozole	UMLS/C0246421	0.9980862140655518		MSH/D000077289
+Leuprorelin acetate	leuprolide acetate	UMLS/C0700596	0.9512746334075928		MSH/D016729
+Levocetirizine	levocetirizine	UMLS/C1174893	0.997185468673706		MSH/C472067
+Licarbazepine	Licarbazepine	UMLS/C1567854	0.9960818290710449		MSH/C428744
+Linaclotide	linaclotide	UMLS/C2000261	0.9966285228729248		MSH/C523483
+Linerixibat	Linerixibat	UMLS/C5238076	0.9956446290016174		
+Linsitinib	Linsitinib	UMLS/C2987649	0.9965210556983948		MSH/C551528
+Lisinopril	lisinopril	UMLS/C0065374	0.9981604814529419		MSH/D017706
+Losmapimod	Losmapimod	UMLS/C3272847	0.9606833457946777		MSH/C543534
+Mapatumumab	mapatumumab	UMLS/C1665688	0.9827738404273987		MSH/C507357
+Maraviroc	maraviroc	UMLS/C1667052	0.9256769418716431		MSH/D000077592
+Measles, mumps, rubella vaccine	Measles Vaccine	UMLS/C0025010	0.48001828789711		MSH/D008458
+Meloxicam	meloxicam	UMLS/C0083381	0.9673972129821777		MSH/D000077239
+Melrilimab	Melrilimab	UMLS/C5421171	0.9486121535301208		
+Meningococcal group-b vaccine (rdna, component, adsorbed) rmenb+omv nz	meningococcal group B vaccine	UMLS/C3859491	0.8353109955787659		
+Meningococcal serogroup b vaccine	hepatitis B surface antigen vaccine;Hepatitis B Vaccines;meningococcal group B vaccine	UMLS/C0062527;UMLS/C2240392;UMLS/C3859491	0.5934520363807678		MSH/D017325
+Meningococcal serogroups a, c, w-135 and y vaccine	Vaccines	UMLS/C0042210	0.42009973526000977		MSH/D014612
+Meningococcal vaccine	Meningococcal vaccine	UMLS/C0700144	0.9333394169807434		MSH/D022401
+Mepolizumab	mepolizumab	UMLS/C0969324	0.9957464933395386		MSH/C434107
+Metformin	metformin	UMLS/C0025598	0.9976541996002197		MSH/D008687
+Methylphenidate	methylphenidate	UMLS/C0025810	0.9973195791244507		MSH/D008774
+Micafungin	micafungin	UMLS/C1120386	0.9973922967910767		MSH/D000077551
+Midostaurin	midostaurin	UMLS/C0526371	0.9963245987892151		MSH/C059539
+Milveterol	Milveterol	UMLS/C2698231	0.9907360672950745		
+Mirabegron	mirabegron	UMLS/C2983812	0.9950332045555115		MSH/C520025
+Molibresib	molibresib	UMLS/C4682384	0.9936473965644836		MSH/C554645
+Montelukast	montelukast	UMLS/C0298130	0.9863094687461853		MSH/C093875
+Nabumetone	nabumetone	UMLS/C0068334	0.9948006868362427		MSH/D000077430
+Nadroparin calcium	nadroparin	UMLS/C0206232	0.9892746210098267		MSH/D017762
+Naquotinib mesilate	naquotinib	UMLS/C4519293	0.8298704028129578		MSH/C000627869
+Naratriptan	naratriptan	UMLS/C0540623	0.958970844745636		MSH/C106783
+Nemiralisib	Nemiralisib	UMLS/C5197976	0.9908705353736877		MSH/C000629641
+Nepafenac ophthalmic suspension, 0.3%	nepafenac	UMLS/C0961209	0.8082636594772339		MSH/C414203
+Nicotine	nicotine	UMLS/C0028040	0.9951099753379822		MSH/D009538
+Nicotine polacrilex	nicotine polacrilex	UMLS/C0068722	0.9359140396118164		MSH/D061485
+Nicotine polacrilex lozenge 2 mg and 4 mg	nicotine polacrilex	UMLS/C0068722	0.8917503952980042		MSH/D061485
+Nilotinib	nilotinib	UMLS/C1721377	0.997029721736908		MSH/C498826
+Nivolumab	nivolumab	UMLS/C3657270	0.9964517951011658		MSH/D000077594
+Octreotide	octreotide	UMLS/C0028833	0.9956181049346924		MSH/D015282
+Ofatumumab	ofatumumab	UMLS/C1832027	0.990673303604126		MSH/C527517
+Oligofructose	oligofructose	UMLS/C0907858	0.9940126538276672		MSH/C120489
+Olodanrigan	Olodanrigan	UMLS/C5420974	0.9965986013412476		
+Olopatadine hydrochloride	olopatadine hydrochloride	UMLS/C0771892	0.9642196893692017		MSH/D000069605
+Omalizumab	omalizumab	UMLS/C0966225	0.9958490133285522		MSH/D000069444
+Omega-3-acid ethyl esters	omega-3 acid ethyl esters (USP)	UMLS/C1532673	0.9055203795433044		
+Omipalisib	omipalisib	UMLS/C4519177	0.9978832006454468		MSH/C561454
+Onabotulinumtoxina	onabotulinumtoxinA	UMLS/C2719767	0.9955636262893677		MSH/D019274
+Onasemnogene abeparvovec xioi	onasemnogene abeparvovec-xioi	UMLS/C5140521	0.7491863965988159		MSH/C000710948
+Onasemnogene abeparvovec-xioi	onasemnogene abeparvovec-xioi	UMLS/C5140521	0.8160256743431091		MSH/C000710948
+Otelixizumab	otelixizumab	UMLS/C2935224	0.9967637658119202		MSH/C550701
+Otilimab	Otilimab	UMLS/C4731002	0.9961314797401428		MSH/C000599766
+Oxcarbazepine	oxcarbazepine	UMLS/C0069751	0.9971246123313904		MSH/D000078330
+Oxytocin	oxytocin;Recombinant Oxytocin;Oxytocin, human	UMLS/C0030095;UMLS/C1704206;UMLS/C4082165	0.9971731305122375		MSH/D010121
+Panobinostat	panobinostat	UMLS/C1998098	0.9929962158203125		MSH/D000077767
+Papzopanib					
+Paroxetine	paroxetine	UMLS/C0070122	0.9974216818809509		MSH/D017374
+Pazopanib	pazopanib	UMLS/C1831796	0.9970963597297668		MSH/C516667
+Pectin	Pectins;pectin;pectate	UMLS/C0030744;UMLS/C0070203;UMLS/C0135827	0.9860203266143799		MSH/D010368;MSH/D010368;MSH/C003181
+Peficitinib hydrobromide	Peficitinib Hydrobromide	UMLS/C5418498	0.8947638273239136		
+Perampanel	perampanel	UMLS/C2698764	0.9984502196311951		MSH/C551441
+Pneumococcal polysaccharide conjugate vaccine (adsorbed)	Polyvalent pneumococcal vaccine	UMLS/C0305065	0.9021376967430115		MSH/D022242
+Poliomyelitis vaccine (inactivated)	Vaccines	UMLS/C0042210	0.9241194725036621		MSH/D014612
+Polysaccharide typhoid vaccine	Vi Capsular Polysaccharide Typhoid Vaccine	UMLS/C3273244	0.9280683994293213		
+Potassium nitrate/sodium fluoride	potassium nitrate / sodium fluoride	UMLS/C2929521	0.8461414575576782		
+Propafenone	propafenone	UMLS/C0033429	0.9983525276184082		MSH/D011405
+Pyrimethamine	pyrimethamine	UMLS/C0034283	0.9974560141563416		MSH/D011739
+Rabeprazole	rabeprazole	UMLS/C0378482	0.996912956237793		MSH/D064750
+Ranibizumab	ranibizumab	UMLS/C1566537	0.997442364692688		MSH/D000069579
+Raxibacumab	raxibacumab	UMLS/C2717174	0.9961848258972168		MSH/C542124
+Refanezumab	refanezumab	UMLS/C4726669	0.9782035946846008		MSH/C581856
+Regadenoson	regadenoson	UMLS/C1698215	0.9934607744216919		MSH/C430916
+Relacatib	relacatib	UMLS/C1700101	0.9924213886260986		MSH/C509706
+Remifentanil	remifentanil	UMLS/C0246631	0.9969009757041931		MSH/D000077208
+Reslizumab	reslizumab	UMLS/C1869620	0.9882667660713196		MSH/C515492
+Resveratrol	resveratrol	UMLS/C0073096	0.8785357475280762		MSH/D000077185
+Retapamulin	retapamulin	UMLS/C1703334	0.9920008778572083		MSH/C508887
+Retigabine	ezogabine	UMLS/C0530684	0.9861375689506531		MSH/C101866
+Retigabine, ezogabine	ezogabine	UMLS/C0530684	0.9395325779914856		MSH/C101866
+Retosiban	Retosiban	UMLS/C2699069	0.9936316609382629		MSH/C522194
+Ribavirin	ribavirin	UMLS/C0035525	0.9938116073608398		MSH/D012254
+Rilapladib	rilapladib	UMLS/C2699087	0.9911974668502808		MSH/C000592856
+Rilpivirine	rilpivirine	UMLS/C1566826	0.9981598854064941		MSH/D000068696
+Rivastigmine	rivastigmine	UMLS/C0649350	0.9983537197113037		MSH/D000068836
+Ronacaleret	ronacaleret	UMLS/C2825588	0.9974148273468018		MSH/C561716
+Ropinirole	ropinirole	UMLS/C0244821	0.9963095784187317		MSH/C046649
+Rosiglitazone	rosiglitazone	UMLS/C0289313	0.9953697323799133		MSH/D000077154
+Rosiglitazone/glimepiride	rosiglitazone	UMLS/C0289313	0.9704867005348206		MSH/D000077154
+Rosiglitazone/metformin	rosiglitazone	UMLS/C0289313	0.9601272940635681		MSH/D000077154
+Rosiglitazone/simvastatin	rosiglitazone	UMLS/C0289313	0.9680547118186951		MSH/D000077154
+Rotavirus vaccine	Rotavirus Vaccines	UMLS/C0597418	0.8744659423828125		MSH/D022243
+Rts,s vaccine	RTS,S-AS02A vaccine	UMLS/C1528874	0.6119772791862488		MSH/C493155
+Rufinamide	rufinamide	UMLS/C0213404	0.9958747625350952		MSH/C079703
+Ruxolitinib	ruxolitinib	UMLS/C2931926	0.9949251413345337		MSH/C540383
+Sacubitril/valsartan	sacubitril	UMLS/C4033447	0.9368798732757568		MSH/C000717211
+Salbutamol	albuterol	UMLS/C0001927	0.9979328513145447		MSH/D000420
+Salmeterol	salmeterol	UMLS/C0073992	0.9831406474113464		MSH/D000068299
+Sargramostim	sargramostim	UMLS/C0216231	0.9951181411743164		MSH/C081222
+Secukinumab	secukinumab	UMLS/C3179547	0.9885179996490479		MSH/C555450
+Seralaxin					
+Siponimod	siponimod	UMLS/C3657824	0.9768364429473877		MSH/C578989
+Solcitinib	Solcitinib	UMLS/C4726763	0.9948273301124573		
+Solifenacin succinate	solifenacin succinate	UMLS/C1509436	0.9805490970611572		MSH/D000069464
+Solifenacin succinate + tamsulosin	solifenacin succinate	UMLS/C1509436	0.863552987575531		MSH/D000069464
+Sumatriptan	sumatriptan	UMLS/C0075632	0.9472760558128357		MSH/D018170
+Sumatriptan/naproxen	naproxen / sumatriptan	UMLS/C2343923	0.6833059787750244		MSH/C000611385
+Tacrolimus	tacrolimus	UMLS/C0085149	0.9973077178001404		MSH/D016559
+Tacrolimus extended-release	tacrolimus	UMLS/C0085149	0.9938749074935913		MSH/D016559
+Tafenoquine	tafenoquine	UMLS/C0903411	0.9971532225608826		MSH/C055852
+Talnetant	Talnetant	UMLS/C1701942	0.994534969329834		MSH/C106716
+Tamsulosin hcl	tamsulosin	UMLS/C0257343	0.9663724303245544		MSH/D000077409
+Tapentadol	tapentadol	UMLS/C2001271	0.998235821723938		MSH/D000077432
+Tapinarof	tapinarof	UMLS/C4541381	0.995977520942688		MSH/C571829
+Tazarotene	tazarotene	UMLS/C0288792	0.9983029365539551		MSH/C086827
+Tenofovir disoproxil fumarate	tenofovir disoproxil fumarate	UMLS/C1099776	0.834966242313385		MSH/D000068698
+Tisagenlecleucel	tisagenlecleucel Injection	UMLS/C4529946	0.995421290397644		
+Tositumomab	tositumomab	UMLS/C0879399	0.9464842081069946		
+Trametinib	trametinib	UMLS/C2697961	0.9839447140693665		MSH/C560077
+Travoprost ophthalmic solution	travoprost	UMLS/C0937916	0.9298684597015381		MSH/D000069557
+Triclabendazole	triclabendazole	UMLS/C0077071	0.9945296049118042		MSH/D000077682
+Trivalent group b streptococcus vaccine	Streptococcal Vaccines	UMLS/C0887906	0.683249831199646		MSH/D022541
+Twinrix	Twinrix	UMLS/C0593953	0.8651844263076782		MSH/C433226
+Umeclidinium bromide	umeclidinium bromide	UMLS/C3709474	0.9580559134483337		
+Umeclidinium bromide/vilanterol	umeclidinium bromide	UMLS/C3709474	0.8981544375419617		
+Valaciclovir	valacyclovir	UMLS/C0249458	0.9947493076324463		MSH/D000077483
+Valsartan	valsartan	UMLS/C0216784	0.9907212257385254		MSH/D000068756
+Varicella vaccine	Chickenpox Vaccine;varicella-zoster virus vaccine live (Oka-Merck) strain	UMLS/C0078048;UMLS/C3464497	0.8836982250213623		MSH/D019433
+Vercirnon	Vercirnon	UMLS/C3713948	0.9747759103775024		MSH/C583420
+Vestipitant	vestipitant	UMLS/C2607417	0.8104814887046814		MSH/C534550
+Vestipitant/paroxetine	vestipitant	UMLS/C2607417	0.7531355023384094		MSH/C534550
+Vilanterol	vilanterol	UMLS/C2935023	0.8841880559921265		MSH/C550468
+Vilanterol/darotropium bromide	Darotropium Bromide	UMLS/C2699560	0.753665030002594		
+Vildagliptin	vildagliptin	UMLS/C1570906	0.9931241869926453		MSH/D000077597
+Zanamivir	zanamivir	UMLS/C0216660	0.9946432709693909		MSH/D053243
+Zoledronic acid	zoledronic acid	UMLS/C0257685	0.9591715931892395		MSH/D000077211
