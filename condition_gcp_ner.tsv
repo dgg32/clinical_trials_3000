@@ -1,0 +1,350 @@
+AIDS	Acquired Immunodeficiency Syndrome;AID - Artificial insemination by donor	UMLS/C0001175;UMLS/C0021588	0.8634194731712341		MSH/D000163;MSH/D007316
+acellular pertussis	Pertussis	UMLS/C0043167	0.9869630932807922		MSH/D014917
+acne vulgaris	Acne Vulgaris	UMLS/C0001144	0.9809718728065491		MSH/D000152
+acute coronary syndrome	Acute Coronary Syndrome	UMLS/C0948089	0.9168797135353088	HPO/HP:0033678	MSH/D054058
+acute myeloid leukemia	Leukemia, Myelocytic, Acute	UMLS/C0023467	0.8120123744010925	HPO/HP:0004808	MSH/D015470
+adrenocortical carcinoma	Adrenocortical carcinoma	UMLS/C0206686	0.9728708267211914	HPO/HP:0006744	MSH/D018268
+advanced breast cancer	Malignant Neoplasms	UMLS/C0006826	0.9890480041503906	HPO/HP:0002664	MSH/D009369
+alcoholism					
+allergic conjunctivitis	Allergic Conjunctivitis	UMLS/C0009766	0.820960521697998	HPO/HP:0007879	MSH/D003233
+alopecia	Alopecia	UMLS/C0002170	0.9234962463378906	HPO/HP:0001596;HPO/HP:0002293	MSH/D000505
+alzheimer's disease	Alzheimer's Disease	UMLS/C0002395	0.9649152159690857	HPO/HP:0002511	MSH/D000544
+amyloidosis	Amyloidosis	UMLS/C0002726	0.9711363315582275	HPO/HP:0011034	MSH/D000686
+anaemia	Anemia	UMLS/C0002871	0.9950461387634277	HPO/HP:0001903	MSH/D000740
+analgesia					
+ankylosing spondylitis	Ankylosing spondylitis	UMLS/C0038013	0.9875213503837585		MSH/D013167
+anxiety disorders	Anxiety Disorders	UMLS/C0003469	0.9672465324401855		MSH/D001008
+arrhythmia, cardiac	Cardiac Arrhythmia;Arrhythmic	UMLS/C0003811;UMLS/C4699552	0.9924275279045105	HPO/HP:0011675	MSH/D001145
+arthritis, rheumatoid	Arthritis	UMLS/C0003864	0.9727909564971924	HPO/HP:0001369	MSH/D001168
+asthma	Asthma	UMLS/C0004096	0.9980653524398804	HPO/HP:0002099	MSH/D001249
+asthma and rhinitis	Asthma	UMLS/C0004096	0.9987812638282776	HPO/HP:0002099	MSH/D001249
+atherosclerosis	Atherosclerosis	UMLS/C0004153	0.9898240566253662	HPO/HP:0002621;HPO/HP:0002635	MSH/D050197
+atrophy, geographic	Atrophic	UMLS/C0333641	0.9234810471534729		MSH/D001284
+atrophy, muscular	Atrophic	UMLS/C0333641	0.9428502321243286		MSH/D001284
+attention deficit hyperactivity disorder (adhd)	Attention deficit hyperactivity disorder	UMLS/C1263846	0.973170816898346	HPO/HP:0007018	MSH/D001289
+autoimmune diseases	Autoimmune Diseases	UMLS/C0004364	0.9501059055328369	HPO/HP:0002960	MSH/D001327
+b-cell acute lymphoblastic leukemia, relapsed b-cell acute lymphoblastic leukemia, refractory b-cell acute lymphoblastic leukemia	Acute lymphocytic leukemia;Precursor Cell Lymphoblastic Leukemia Lymphoma	UMLS/C0023449;UMLS/C1961102	0.634397566318512	HPO/HP:0006721	MSH/D054198
+bipolar disorder	Bipolar Disorder	UMLS/C0005586	0.9924861788749695	HPO/HP:0007302	MSH/D001714
+bipolar i disorder	Mixed bipolar I disorder	UMLS/C0236780	0.9776508808135986		
+bladder pain	Pain	UMLS/C0030193	0.9974032640457153	HPO/HP:0012531	MSH/D010146
+breast cancer	Malignant Neoplasms	UMLS/C0006826	0.9962812066078186	HPO/HP:0002664	MSH/D009369
+breast neoplasms	Neoplasms	UMLS/C0027651	0.9674257636070251	HPO/HP:0002664	MSH/D009369
+bronchiectasis	Bronchiectasis	UMLS/C0006267	0.997512936592102	HPO/HP:0002110	MSH/D001987
+bronchitis, chronic	Bronchitis	UMLS/C0006277	0.9971926212310791	HPO/HP:0012387	MSH/D001991
+bronchospasm	Bronchospasm	UMLS/C0006266	0.966127336025238	HPO/HP:0025428	MSH/D001986
+cachexia	Cachexia	UMLS/C0006625	0.9927160739898682	HPO/HP:0004326	MSH/D002100
+cancer	Malignant Neoplasms	UMLS/C0006826	0.9810777902603149	HPO/HP:0002664	MSH/D009369
+cancer, advanced gastric	Malignant Neoplasms	UMLS/C0006826	0.9764388203620911	HPO/HP:0002664	MSH/D009369
+cancer, breast	Malignant Neoplasms	UMLS/C0006826	0.9851447343826294	HPO/HP:0002664	MSH/D009369
+cancer|neoplasms	Malignant Neoplasms	UMLS/C0006826	0.9663353562355042	HPO/HP:0002664	MSH/D009369
+carcinoid tumor	Carcinoid Tumor	UMLS/C0007095	0.7205301523208618	HPO/HP:0100570	MSH/D002276
+carcinoma, hepatocellular	Carcinoma	UMLS/C0007097	0.8355624079704285	HPO/HP:0030731	MSH/D002277
+carcinoma, midline	Carcinoma	UMLS/C0007097	0.9327501654624939	HPO/HP:0030731	MSH/D002277
+carcinoma, renal cell	Carcinoma	UMLS/C0007097	0.9509323835372925	HPO/HP:0030731	MSH/D002277
+carcinoma, small cell	Carcinoma	UMLS/C0007097	0.9546968936920166	HPO/HP:0030731	MSH/D002277
+cardiovascular disease	Cardiovascular Diseases	UMLS/C0007222	0.9314723014831543	HPO/HP:0001626	MSH/D002318
+cataract	Bilateral cataracts (disorder)	UMLS/C0521707	0.9438368678092957		
+cerebrovascular accident	Cerebrovascular accident	UMLS/C0038454	0.9764518737792969	HPO/HP:0001297	MSH/D020521
+cervical intraepithelial neoplasia	Cervical Intraepithelial Neoplasia	UMLS/C0206708	0.9430478811264038	HPO/HP:0032242	MSH/D018290
+cholestasis	Cholestasis	UMLS/C0008370	0.9980593323707581	HPO/HP:0001396	MSH/D002779
+cholestasis, intrahepatic	Cholestasis	UMLS/C0008370	0.9856640696525574	HPO/HP:0001396	MSH/D002779
+chronic constipation	Constipation	UMLS/C0009806	0.9965277910232544	HPO/HP:0002019	MSH/D003248
+chronic idiopathic urticaria (ciu)	Idiopathic urticaria	UMLS/C0157741	0.9534041285514832		
+chronic lymphocytic leukemia (cll)	Lymphoid leukemia	UMLS/C0023448	0.9717933535575867	HPO/HP:0005526	MSH/D007945
+chronic myelogenous leukemia	Myeloid Leukemia, Chronic;Philadelphia chromosome positive chronic myelogenous leukemia;Chronic Myelogenous Leukemia, BCR-ABL1 Positive	UMLS/C0023473;UMLS/C0279543;UMLS/C1292771	0.9291055798530579	HPO/HP:0005506	MSH/D015464
+chronic myeloid leukemia (cml)	Myeloid Leukemia, Chronic;Philadelphia chromosome positive chronic myelogenous leukemia;Chronic Myelogenous Leukemia, BCR-ABL1 Positive	UMLS/C0023473;UMLS/C0279543;UMLS/C1292771	0.9157354831695557	HPO/HP:0005506	MSH/D015464
+chronic obstructive pulmonary disease (copd)	Chronic Obstructive Airway Disease	UMLS/C0024117	0.9842817187309265	HPO/HP:0006510	MSH/D029424
+chronic plaque psoriasis	Psoriasis	UMLS/C0033860	0.9613274931907654	HPO/HP:0003765	MSH/D011565
+clostridium difficile infection	Clostridium difficile infection	UMLS/C0343386	0.8992409110069275		MSH/D003015
+cognitive disorders	Cognition Disorders	UMLS/C0009241	0.947607696056366		MSH/D003072
+colitis, ulcerative	Colitis	UMLS/C0009319	0.9624027609825134	HPO/HP:0002583	MSH/D003092
+constriction, bronchial					
+coronary artery disease	Coronary Artery Disease	UMLS/C1956346	0.9619542360305786	HPO/HP:0001677	MSH/D003324
+corticosteroid refractory acute graft vs host disease	Graft-vs-Host Disease	UMLS/C0018133	0.616216242313385		MSH/D006086
+cough	Coughing	UMLS/C0010200	0.9914662837982178	HPO/HP:0012735	MSH/D003371
+crohn's disease	Crohn Disease	UMLS/C0010346	0.9899544715881348	HPO/HP:0100280	MSH/D003424
+cystic fibrosis	Cystic Fibrosis	UMLS/C0010674	0.9945330023765564		MSH/D003550
+dementia	Dementia	UMLS/C0497327	0.9841595888137817	HPO/HP:0000726	MSH/D003704
+dentin sensitivity	Dentin Sensitivity	UMLS/C0011432	0.7733232975006104		MSH/D003807
+denture retention	Denture Retention	UMLS/C0011397	0.9035170078277588		MSH/D003781
+depressive disorder	Depressive disorder	UMLS/C0011581	0.9891006946563721	HPO/HP:0000716	MSH/D003866
+depressive disorder and anxiety disorders	Depressive disorder	UMLS/C0011581	0.9878462553024292	HPO/HP:0000716	MSH/D003866
+depressive disorder, major	Depressive disorder	UMLS/C0011581	0.9722029566764832	HPO/HP:0000716	MSH/D003866
+dermatitis, atopic	Dermatitis	UMLS/C0011603	0.9921280741691589	HPO/HP:0011123	MSH/D003872
+dermatitis, chronic	Dermatitis	UMLS/C0011603	0.9937891364097595	HPO/HP:0011123	MSH/D003872
+dermatitis, seborrheic	Dermatitis	UMLS/C0011603	0.9950607419013977	HPO/HP:0011123	MSH/D003872
+diabetes mellitus	Diabetes Mellitus	UMLS/C0011849	0.9839887022972107	HPO/HP:0000819	MSH/D003920
+diabetes mellitus, type 1	Diabetes Mellitus, Insulin-Dependent	UMLS/C0011854	0.8789676427841187	HPO/HP:0100651	MSH/D003922
+diabetes mellitus, type 2	Diabetes Mellitus, Non-Insulin-Dependent	UMLS/C0011860	0.8965573906898499	HPO/HP:0005978	MSH/D003924
+diabetic kidney disease	Diabetic Nephropathy	UMLS/C0011881	0.9936677813529968		MSH/D003928
+diabetic macular edema	Macular edema due to diabetes mellitus	UMLS/C0730285	0.9784154891967773		
+diabetic neuropathic pain	Diabetic Neuralgia	UMLS/C0751074	0.9712811708450317		MSH/D003929
+diphtheria	Diphtheria;Diphtheria sp	UMLS/C0012546;UMLS/C1440557	0.8663719296455383		MSH/D004165
+drug-related side effects and adverse reactions	Adverse reaction to drug	UMLS/C0041755	0.6307891607284546	HPO/HP:0020172	MSH/D064420
+dysentery, bacillary	Dysentery	UMLS/C0013369	0.8596832156181335		MSH/D004403
+dyslipidaemias	Dyslipidemias	UMLS/C0242339	0.9965542554855347	HPO/HP:0003119	MSH/D050171
+eczema	Eczema	UMLS/C0013595	0.9811135530471802	HPO/HP:0000964;HPO/HP:0000976	MSH/D004485
+embolism, pulmonary	Embolism;Embolization, Therapeutic;Embolus	UMLS/C0013922;UMLS/C0013931;UMLS/C1704212	0.9556123614311218		MSH/D004617;MSH/D004621;MSH/D004617
+embryo transfer	Embryo transfer (procedure)	UMLS/C0013938	0.41695332527160645		MSH/D004624
+endometriosis	Endometriosis	UMLS/C0014175	0.8605644702911377	HPO/HP:0030127	MSH/D004715
+eosinophilic asthma	Asthma	UMLS/C0004096	0.9896817207336426	HPO/HP:0002099	MSH/D001249
+epilepsy	Epilepsy	UMLS/C0014544	0.9833658337593079	HPO/HP:0001250	MSH/D004827
+epilepsy, partial	Epilepsy	UMLS/C0014544	0.8394638299942017	HPO/HP:0001250	MSH/D004827
+epilepsy, tonic-clonic	Epilepsy	UMLS/C0014544	0.9284908175468445	HPO/HP:0001250	MSH/D004827
+episodic migraine headache	Migraine Disorders	UMLS/C0149931	0.9442554116249084	HPO/HP:0002076	MSH/D008881
+esophageal cancer	Esophageal carcinoma;Malignant neoplasm of esophagus	UMLS/C0152018;UMLS/C0546837	0.9808880686759949	HPO/HP:0011459	MSH/D004938
+fasciolasis					
+fibrillation, atrial	Atrial Fibrillation;Ventricular Fibrillation;Muscle fibrillation;Fibrillations	UMLS/C0004238;UMLS/C0042510;UMLS/C0231531;UMLS/C0232197	0.9319835305213928	HPO/HP:0005110;HPO/HP:0001663;HPO/HP:0010546	MSH/D001281;MSH/D014693
+fibromyalgia syndrome, primary	Fibromyalgia	UMLS/C0016053	0.9685829281806946		MSH/D005356
+focal infection, dental	Communicable Diseases;Infected;Infection	UMLS/C0009450;UMLS/C0439663;UMLS/C3714514	0.8930802345275879		MSH/D003141;MSH/D007239
+fracture healing	Fracture;Fractured	UMLS/C0016658;UMLS/C4554413	0.8714725971221924	HPO/HP:0020110	MSH/D050723
+gastrointestinal diseases	Gastrointestinal Diseases	UMLS/C0017178	0.9455003142356873	HPO/HP:0011024	MSH/D005767
+gastrointestinal motility	Gastrointestinal motility disorder;Abnormal gastrointestinal motility	UMLS/C0854121;UMLS/C2749202	0.8359515070915222	HPO/HP:0030895	
+gastroparesis	Gastroparesis	UMLS/C0152020	0.9877378940582275	HPO/HP:0002578	MSH/D018589
+gonorrhea	Gonorrhea	UMLS/C0018081	0.9353272914886475		MSH/D006069
+haemophilus influenzae type b	Haemophilus influenzae type b	UMLS/C0121772	0.8409411907196045		MSH/D019741
+heart failure	Heart failure;Congestive heart failure	UMLS/C0018801;UMLS/C0018802	0.9553740620613098	HPO/HP:0001635;HPO/HP:0001635	MSH/D006333;MSH/D006333
+heart failure with preserved ejection fraction	Heart failure;Congestive heart failure	UMLS/C0018801;UMLS/C0018802	0.9276509881019592	HPO/HP:0001635;HPO/HP:0001635	MSH/D006333;MSH/D006333
+heart failure, chronic (chf)	Heart failure;Congestive heart failure	UMLS/C0018801;UMLS/C0018802	0.9240520000457764	HPO/HP:0001635;HPO/HP:0001635	MSH/D006333;MSH/D006333
+heart failure, congestive	Heart failure;Congestive heart failure	UMLS/C0018801;UMLS/C0018802	0.9314095377922058	HPO/HP:0001635;HPO/HP:0001635	MSH/D006333;MSH/D006333
+heart failure, congestive and microalbuminuria	Heart failure;Congestive heart failure	UMLS/C0018801;UMLS/C0018802	0.9307264685630798	HPO/HP:0001635;HPO/HP:0001635	MSH/D006333;MSH/D006333
+hepatitis a	Hepatitis A	UMLS/C0019159	0.6270374655723572		MSH/D006506
+hepatitis b	Hepatitis B	UMLS/C0019163	0.6694303154945374		MSH/D006509
+hepatitis b, chronic	Hepatitis B	UMLS/C0019163	0.6292360424995422		MSH/D006509
+hepatitis c	Hepatitis C;hepatitis C virus	UMLS/C0019196;UMLS/C0220847	0.6117986440658569		MSH/D006526;MSH/D016174
+hepatitis c, chronic	Hepatitis C;hepatitis C virus	UMLS/C0019196;UMLS/C0220847	0.7635980844497681		MSH/D006526;MSH/D016174
+hepatocellular carcinoma (hcc)	Liver carcinoma	UMLS/C2239176	0.7706992626190186	HPO/HP:0001402	MSH/D006528
+her2-negative metastatic breast cancer	HER2/Neu Negative	UMLS/C2348908	0.5466001629829407		
+her2/neu over-expressing locally advanced breast cancer or metastatic breast cancer	Malignant Neoplasms	UMLS/C0006826	0.9930517673492432	HPO/HP:0002664	MSH/D009369
+hereditary periodic fevers	Hereditary Autoinflammatory Diseases	UMLS/C0751422	0.7432394623756409		MSH/D056660
+herpes genitalis	Genital Herpes	UMLS/C0019342	0.8437086939811707		MSH/D006558
+herpes labialis	Herpes Labialis	UMLS/C0019345	0.8711807131767273		MSH/D006560
+herpes simplex	Herpes Simplex Infections	UMLS/C0019348	0.7289988398551941		MSH/D006561
+herpes zoster	Herpes zoster disease	UMLS/C0019360	0.8394138216972351		MSH/D006562
+hip fracture	Fracture;Fractured	UMLS/C0016658;UMLS/C4554413	0.9824749231338501	HPO/HP:0020110	MSH/D050723
+hiv infections	Communicable Diseases;Infected;Infection	UMLS/C0009450;UMLS/C0439663;UMLS/C3714514	0.9554488062858582		MSH/D003141;MSH/D007239
+huntington disease	Huntington Disease	UMLS/C0020179	0.8588372468948364		MSH/D006816
+hypercholesterolemia	Hypercholesterolemia;Hypercholesterolemia result	UMLS/C0020443;UMLS/C1522133	0.9834073781967163	HPO/HP:0003124	MSH/D006937
+hypereosinophilic syndrome	Hypereosinophilic syndrome	UMLS/C1540912	0.9893458485603333		MSH/D017681
+hyperhidrosis	Hyperhidrosis disorder	UMLS/C0020458	0.9906715750694275	HPO/HP:0000975	MSH/D006945
+hyperreactivity, bronchial	Hyperreactivity	UMLS/C4693174	0.804632306098938		
+hypertension	Hypertensive disease	UMLS/C0020538	0.9589446783065796	HPO/HP:0000822	MSH/D006973
+hypertension, pulmonary	Hypertensive disease	UMLS/C0020538	0.9841609597206116	HPO/HP:0000822	MSH/D006973
+hypertriglyceridemia	Hypertriglyceridemia;Serum triglycerides increased;Hypertriglyceridemia result	UMLS/C0020557;UMLS/C0813230;UMLS/C1522137	0.9972718358039856	HPO/HP:0002155	MSH/D015228
+hypertrophy, left ventricular	Hypertrophy	UMLS/C0020564	0.9943064451217651		MSH/D006984
+hypogonadism, male	Hypogonadism	UMLS/C0020619	0.9849355816841125	HPO/HP:0000135	MSH/D007006
+idiopathic pulmonary fibrosis	Idiopathic Pulmonary Fibrosis	UMLS/C1800706	0.8854861259460449		MSH/D054990
+idiopathic thrombocytopenic purpura	Immune thrombocytopenic purpura	UMLS/C0398650	0.8391808867454529	HPO/HP:0001973	MSH/D016553
+impetigo	Impetigo	UMLS/C0021099	0.8969456553459167		MSH/D007169
+infection, human immunodeficiency virus	Communicable Diseases;Infected;Infection	UMLS/C0009450;UMLS/C0439663;UMLS/C3714514	0.9458832144737244		MSH/D003141;MSH/D007239
+infection, human immunodeficiency virus i	Communicable Diseases;Infected;Infection	UMLS/C0009450;UMLS/C0439663;UMLS/C3714514	0.9020141959190369		MSH/D003141;MSH/D007239
+infections, bacterial	Communicable Diseases;Infected;Infection	UMLS/C0009450;UMLS/C0439663;UMLS/C3714514	0.9054739475250244		MSH/D003141;MSH/D007239
+infections, herpesviridae	Communicable Diseases;Infected;Infection	UMLS/C0009450;UMLS/C0439663;UMLS/C3714514	0.9049040079116821		MSH/D003141;MSH/D007239
+infections, human immunodeficiency virus and herpesviridae	Communicable Diseases;Infected;Infection	UMLS/C0009450;UMLS/C0439663;UMLS/C3714514	0.9303680658340454		MSH/D003141;MSH/D007239
+infections, meningococcal	Communicable Diseases;Infected;Infection	UMLS/C0009450;UMLS/C0439663;UMLS/C3714514	0.8710012435913086		MSH/D003141;MSH/D007239
+infections, papillomavirus	Communicable Diseases;Infected;Infection	UMLS/C0009450;UMLS/C0439663;UMLS/C3714514	0.9447353482246399		MSH/D003141;MSH/D007239
+infections, respiratory syncytial virus	Communicable Diseases;Infected;Infection	UMLS/C0009450;UMLS/C0439663;UMLS/C3714514	0.9599206447601318		MSH/D003141;MSH/D007239
+infections, respiratory tract	Communicable Diseases;Infected;Infection	UMLS/C0009450;UMLS/C0439663;UMLS/C3714514	0.9246893525123596		MSH/D003141;MSH/D007239
+infections, rotavirus	Communicable Diseases;Infected;Infection	UMLS/C0009450;UMLS/C0439663;UMLS/C3714514	0.913840115070343		MSH/D003141;MSH/D007239
+infections, staphylococcal	Communicable Diseases;Infected;Infection	UMLS/C0009450;UMLS/C0439663;UMLS/C3714514	0.932502806186676		MSH/D003141;MSH/D007239
+infections, streptococcal	Communicable Diseases;Infected;Infection	UMLS/C0009450;UMLS/C0439663;UMLS/C3714514	0.9031402468681335		MSH/D003141;MSH/D007239
+inflammatory bowel diseases	Inflammatory Bowel Diseases	UMLS/C0021390	0.9665260314941406	HPO/HP:0002037	MSH/D015212
+influenza	Influenza	UMLS/C0021400	0.8941664695739746		MSH/D007251
+influenza a virus, h1n1 subtype	influenza A virus	UMLS/C0029347	0.8431829214096069		MSH/D009980
+insulin resistance					
+invasive aspergillosis / invasive mucormycosis	Aspergillosis, Nervous System Invasive	UMLS/C0752341	0.7720872759819031		MSH/D020953
+invasive candidiasis	Invasive Candidiasis	UMLS/C1609535	0.7491220831871033		MSH/D058365
+invasive fungal infection	Invasive Fungal Infections	UMLS/C1262313	0.8064723014831543	HPO/HP:0020101	MSH/D000072742
+invasive fungal infections	Invasive Fungal Infections	UMLS/C1262313	0.7097240686416626	HPO/HP:0020101	MSH/D000072742
+irritable bowel syndrome	Irritable Bowel Syndrome	UMLS/C0022104	0.9885811805725098		MSH/D043183
+ischaemic attack, transient	Transient Ischemic Attack	UMLS/C0007787	0.9424818754196167	HPO/HP:0002326	MSH/D002546
+juvenile psoriatic arthritis, enthesitis-related arthritis	Arthritis, Psoriatic	UMLS/C0003872	0.973957359790802		MSH/D015535
+lennox-gastaut syndrome	Lennox-Gastaut syndrome	UMLS/C0238111	0.9637051820755005		MSH/D065768
+leukaemia, lymphocytic, chronic	leukemia	UMLS/C0023418	0.9405752420425415	HPO/HP:0001909	MSH/D007938
+leukaemia, myelocytic, acute	leukemia	UMLS/C0023418	0.9050907492637634	HPO/HP:0001909	MSH/D007938
+liver diseases	Disease	UMLS/C0012634	0.9616058468818665		MSH/D004194
+lower urinary tract symptoms / benign prostatic hyperplasia	Symptoms	UMLS/C1457887	0.9674261808395386		
+lung cancer, non-small cell	Malignant Neoplasms	UMLS/C0006826	0.983176052570343	HPO/HP:0002664	MSH/D009369
+lung injury, acute	Traumatic injury	UMLS/C3263723	0.9796591997146606		MSH/D014947
+lung injury, acute and respiratory distress syndrome, adult	Traumatic injury	UMLS/C3263723	0.9761413335800171		MSH/D014947
+lupus erythematosus, cutaneous	Lupus Erythematosus	UMLS/C0409974	0.8151949048042297		
+lupus nephritis	Lupus Nephritis	UMLS/C0024143	0.9338756203651428	HPO/HP:0033726	MSH/D008181
+lymphoma, follicular	Lymphoma	UMLS/C0024299	0.9206958413124084	HPO/HP:0002665	MSH/D008223
+lymphoma, mantle-cell	Lymphoma	UMLS/C0024299	0.9638491272926331	HPO/HP:0002665	MSH/D008223
+lymphoma, non-hodgkin	Lymphoma	UMLS/C0024299	0.9806420803070068	HPO/HP:0002665	MSH/D008223
+malaria	Malaria	UMLS/C0024530	0.976625919342041		MSH/D008288
+malaria, falciparum	Malaria	UMLS/C0024530	0.9680811762809753		MSH/D008288
+malaria, vivax	Malaria	UMLS/C0024530	0.9829371571540833		MSH/D008288
+mastocytosis	Mastocytosis	UMLS/C0024899	0.9742298722267151	HPO/HP:0100495	MSH/D008415
+measles					
+measles, mumps, rubella					
+melanoma	melanoma	UMLS/C0025202	0.91895592212677	HPO/HP:0002861	MSH/D008545
+meningitis, meningococcal	Meningitis	UMLS/C0025289	0.8289894461631775	HPO/HP:0001287	MSH/D008581
+meningococcal disease	Meningococcal Infections	UMLS/C0025303	0.9483120441436768		MSH/D008589
+mental disorders	Mental disorders	UMLS/C0004936	0.9424005150794983		MSH/D001523
+metabolic syndrome x	Metabolic Syndrome X	UMLS/C0524620	0.8925323486328125		MSH/D024821
+metastases, brain	Neoplasm Metastasis;Metastasis	UMLS/C0027627;UMLS/C4255448	0.9786268472671509		MSH/D009362
+metastatic breast cancer	Neoplasm Metastasis;Metastasis	UMLS/C0027627;UMLS/C4255448	0.9162994623184204		MSH/D009362
+metastatic melanoma	Metastatic melanoma	UMLS/C0278883	0.9635964632034302		
+metastatic renal cell carcinoma	Metastatic Renal Cell Carcinoma	UMLS/C4721698	0.9494125247001648		
+metastatic triple-negative breast cancer	Metastatic Triple-Negative Breast Carcinoma	UMLS/C4727787	0.4781701862812042		
+migraine	Migraine Disorders	UMLS/C0149931	0.9677318334579468	HPO/HP:0002076	MSH/D008881
+migraine disorders	Migraine Disorders	UMLS/C0149931	0.9827343225479126	HPO/HP:0002076	MSH/D008881
+migraine disorders and premenstrual syndrome	Migraine Disorders	UMLS/C0149931	0.9828248023986816	HPO/HP:0002076	MSH/D008881
+migraine, without aura	Migraine Disorders	UMLS/C0149931	0.8949753642082214	HPO/HP:0002076	MSH/D008881
+mild asthma and allergic rhinitis	Asthma	UMLS/C0004096	0.9982461333274841	HPO/HP:0002099	MSH/D001249
+moderate to severe acute pain	Pain	UMLS/C0030193	0.9900137782096863	HPO/HP:0012531	MSH/D010146
+moderate to severe acute post-operative pain	Pain	UMLS/C0030193	0.96879643201828	HPO/HP:0012531	MSH/D010146
+moderate to severe chronic plaque-type psoriasis	Psoriasis	UMLS/C0033860	0.9444475769996643	HPO/HP:0003765	MSH/D011565
+moderate to severe scalp psoriasis	Psoriasis	UMLS/C0033860	0.989067018032074	HPO/HP:0003765	MSH/D011565
+mood disorders	Mood Disorders	UMLS/C0525045	0.9574894309043884		MSH/D019964
+multiple myeloma (mm)	Multiple Myeloma	UMLS/C0026764	0.9019646644592285	HPO/HP:0006775	MSH/D009101
+multiple sclerosis	Multiple Sclerosis	UMLS/C0026769	0.9490718841552734		MSH/D009103
+multiple sclerosis, relapsing-remitting	Multiple Sclerosis	UMLS/C0026769	0.9042742848396301		MSH/D009103
+mumps					
+muscle atrophy	Atrophic	UMLS/C0333641	0.9916694760322571		MSH/D001284
+myasthenia gravis	Myasthenia Gravis	UMLS/C0026896	0.8909069299697876		MSH/D009157
+mycoses	Mycoses	UMLS/C0026946	0.6609640717506409		MSH/D009181
+myelodysplastic syndrome (mds)	MYELODYSPLASTIC SYNDROME	UMLS/C3463824	0.9756770133972168	HPO/HP:0002863	MSH/D009190
+myelofibrosis	Primary Myelofibrosis;Myelofibrosis	UMLS/C0001815;UMLS/C0026987	0.9977991580963135	HPO/HP:0011974	MSH/D055728
+myocardial perfusion imaging					
+nausea and vomiting, chemotherapy-induced	Nausea	UMLS/C0027497	0.9896750450134277	HPO/HP:0002018	MSH/D009325
+nausea and vomiting, postoperative	Nausea	UMLS/C0027497	0.9914462566375732	HPO/HP:0002018	MSH/D009325
+neisseria meningitidis	Neisseria meningitidis	UMLS/C0027575	0.7649220824241638		MSH/D009345
+neoplasms	Neoplasms	UMLS/C0027651	0.8708804845809937	HPO/HP:0002664	MSH/D009369
+neoplasms, breast	Neoplasms	UMLS/C0027651	0.8546968102455139	HPO/HP:0002664	MSH/D009369
+neoplasms, colorectal	Neoplasms	UMLS/C0027651	0.7752700448036194	HPO/HP:0002664	MSH/D009369
+neoplasms, gastrointestinal tract	Neoplasms	UMLS/C0027651	0.8195325136184692	HPO/HP:0002664	MSH/D009369
+neoplasms, head and neck	Neoplasms	UMLS/C0027651	0.8711304664611816	HPO/HP:0002664	MSH/D009369
+neoplasms, ovarian	Neoplasms	UMLS/C0027651	0.8243177533149719	HPO/HP:0002664	MSH/D009369
+neoplasms, prostate	Neoplasms	UMLS/C0027651	0.8808900117874146	HPO/HP:0002664	MSH/D009369
+neoplasms|lung neoplasms	Neoplasms	UMLS/C0027651	0.8418356776237488	HPO/HP:0002664	MSH/D009369
+neovascular age-related macular degeneration	Age related macular degeneration	UMLS/C0242383	0.5490747094154358		MSH/D008268
+neuralgia, postherpetic	Neuralgia	UMLS/C0027796	0.8857167363166809	HPO/HP:0033345	MSH/D009437
+neuroendocrine tumors (net)	Neuroendocrine Tumors	UMLS/C0206754	0.7875690460205078	HPO/HP:0100634	MSH/D018358
+neurogenic detrusor overactivity	Overactive Detrusor	UMLS/C0268849	0.8672231435775757		MSH/D053201
+neuropathy, diabetic	Neuropathy	UMLS/C0442874	0.9067898988723755	HPO/HP:0009830	
+non-radiographic spondyloarthritis	Spondylarthritis	UMLS/C0949690	0.5467867851257324		MSH/D025241
+non-small cell lung cancer	Non-Small Cell Lung Carcinoma	UMLS/C0007131	0.9843614101409912	HPO/HP:0030358	MSH/D002289
+non-small cell lung carcinoma (nsclc)	Non-Small Cell Lung Carcinoma	UMLS/C0007131	0.9661318063735962	HPO/HP:0030358	MSH/D002289
+obesity	Obesity;BODY MASS INDEX QUANTITATIVE TRAIT LOCUS 20	UMLS/C0028754;UMLS/C4759928	0.9961704611778259	HPO/HP:0001513	MSH/D009765
+obsessive-compulsive disorder	Obsessive-Compulsive Disorder	UMLS/C0028768	0.892800509929657	HPO/HP:0000722	MSH/D009771
+obsessive-compulsive disorder and depressive disorder	Obsessive-Compulsive Disorder	UMLS/C0028768	0.9026182889938354	HPO/HP:0000722	MSH/D009771
+obstetric labour, premature	Anesthesia, Obstetrical;Obstetric Delivery;Extraction, Obstetrical;Paralysis, Obstetric;Obstetric Surgical Procedures	UMLS/C0002922;UMLS/C0011209;UMLS/C0015362;UMLS/C0030445;UMLS/C0038906	0.7622036933898926		MSH/D000773;MSH/D036861;MSH/D005113;MSH/D010246;MSH/D013513
+ocular hypertension	Ocular Hypertension;Raised intraocular pressure (finding)	UMLS/C0028840;UMLS/C0234708	0.9596644639968872	HPO/HP:0007906	MSH/D009798
+oedema, pulmonary	Edema	UMLS/C0013604	0.9974476099014282	HPO/HP:0000969	MSH/D004487
+oesophagitis, eosinophilic	Esophagitis	UMLS/C0014868	0.9958635568618774	HPO/HP:0100633	MSH/D004941
+open-angle glaucoma	Glaucoma	UMLS/C0017601	0.8413662314414978	HPO/HP:0000501	MSH/D005901
+osteoarthritis	Degenerative polyarthritis	UMLS/C0029408	0.9985959529876709	HPO/HP:0002758	MSH/D010003
+osteopenia	Osteopenia	UMLS/C0029453	0.9988536238670349	HPO/HP:0000938	MSH/D001851
+osteoporosis	Osteoporosis	UMLS/C0029456	0.9983245730400085	HPO/HP:0000939	MSH/D010024
+osteoporosis, male	Osteoporosis	UMLS/C0029456	0.996418297290802	HPO/HP:0000939	MSH/D010024
+osteoporosis, postmenopausal	Osteoporosis	UMLS/C0029456	0.8960204720497131	HPO/HP:0000939	MSH/D010024
+otitis media	Otitis Media	UMLS/C0029882	0.9034138321876526	HPO/HP:0000388	MSH/D010033
+ovarian cancer	Malignant neoplasm of ovary	UMLS/C1140680	0.9279928207397461	HPO/HP:0100615	MSH/D010051
+ovarian neoplasms|neoplasms|solid tumor|hepatic impairment	ovarian neoplasm	UMLS/C0919267	0.8536555767059326	HPO/HP:0100615	MSH/D010051
+pain, inflammatory	Pain	UMLS/C0030193	0.9772642850875854	HPO/HP:0012531	MSH/D010146
+pain, neuropathic	Pain	UMLS/C0030193	0.969903826713562	HPO/HP:0012531	MSH/D010146
+pancreatic neuroendocrine tumor (pnet)	Well Differentiated Pancreatic Endocrine Tumor	UMLS/C1337011	0.7583703398704529		
+pancreatitis, acute necrotizing	Pancreatitis	UMLS/C0030305	0.982018232345581	HPO/HP:0001733	MSH/D010195
+panic disorder	Panic Disorder	UMLS/C0030319	0.9914513826370239		MSH/D016584
+parkinson disease	Parkinson Disease;Parkinsonian Disorders	UMLS/C0030567;UMLS/C0242422	0.8513861894607544	HPO/HP:0001300	MSH/D010300;MSH/D020734
+parkinson's disease dementia	Parkinson Disease	UMLS/C0030567	0.9064221382141113		MSH/D010300
+partial onset seizures	Seizures	UMLS/C0036572	0.9758700132369995	HPO/HP:0001250	MSH/D012640
+peripheral neuropathic pain	Neuralgia;Neuropathy, Painful;Neuropathic pain	UMLS/C0027796;UMLS/C1850383;UMLS/C3714625	0.8918465375900269	HPO/HP:0033345	MSH/D009437;MSH/C564945
+peripheral neuropathies	Peripheral Neuropathy;Peripheral Nervous System Diseases	UMLS/C0031117;UMLS/C4721453	0.8638994693756104	HPO/HP:0009830;HPO/HP:0000759;HPO/HP:0001271	MSH/D010523
+persistent asthma	Asthma	UMLS/C0004096	0.9897797703742981	HPO/HP:0002099	MSH/D001249
+pertussis	Pertussis	UMLS/C0043167	0.9808096289634705		MSH/D014917
+philadelphia chromosome positive acute lymphoblastic leukemia (ph+ all)	Philadelphia Chromosome	UMLS/C0031526	0.5591004490852356		MSH/D010677
+plaque psoriasis	Psoriasis	UMLS/C0033860	0.9480341076850891	HPO/HP:0003765	MSH/D011565
+pneumonia, community-acquired	Pneumonia	UMLS/C0032285	0.9848225712776184	HPO/HP:0002090	MSH/D011014
+poliomyelitis	Poliomyelitis	UMLS/C0032371	0.9960476160049438		MSH/D011051
+polyps, nasal	Multiple polyps	UMLS/C0334108	0.9950724840164185		
+post-polycythemia vera myelofibrosis (ppv-mf)	Post-polycythemia vera myelofibrosis	UMLS/C3805232	0.5765892267227173		
+post-traumatic stress disorder	Post-Traumatic Stress Disorder	UMLS/C0038436	0.9348357319831848	HPO/HP:0033676	MSH/D013313
+postherpetic neuralgia (phn)	Postherpetic neuralgia	UMLS/C0032768	0.8635165095329285		MSH/D051474
+postpartum hemorrhage	Postpartum Hemorrhage	UMLS/C0032797	0.7167089581489563	HPO/HP:0011891	MSH/D006473
+premature ejaculation	Premature Ejaculation	UMLS/C0033038	0.7779215574264526	HPO/HP:0012876	MSH/D061686
+premenstrual syndrome	Premenstrual syndrome	UMLS/C0033046	0.96947181224823		MSH/D011293
+prostate cancer	Malignant Neoplasms	UMLS/C0006826	0.9876626133918762	HPO/HP:0002664	MSH/D009369
+prostatic hyperplasia	Prostatic Hyperplasia	UMLS/C2937421	0.9706733226776123		MSH/D011470
+psoriasis	Psoriasis	UMLS/C0033860	0.998209536075592	HPO/HP:0003765	MSH/D011565
+psoriasis, nail	Psoriasis	UMLS/C0033860	0.9975836873054504	HPO/HP:0003765	MSH/D011565
+psoriasis, palmoplantar	Psoriasis	UMLS/C0033860	0.997905433177948	HPO/HP:0003765	MSH/D011565
+psoriatic arthritis	Arthritis, Psoriatic	UMLS/C0003872	0.9918982982635498		MSH/D015535
+pulmonary arterial hypertension	Pulmonary arterial hypertension;Idiopathic pulmonary arterial hypertension	UMLS/C2973725;UMLS/C3203102	0.9347057938575745	HPO/HP:0002092	MSH/D000081029;MSH/D065627
+pulmonary disease, chronic obstructive	Lung diseases	UMLS/C0024115	0.8464757800102234	HPO/HP:0002088	MSH/D008171
+refractory partial seizures	Seizures, Focal	UMLS/C0751495	0.7216092944145203	HPO/HP:0007359	MSH/D012640
+renal cell carcinoma	Renal Cell Carcinoma	UMLS/C0007134	0.943068265914917	HPO/HP:0005584	MSH/D002292
+respiratory disorders	Respiration Disorders	UMLS/C0035204	0.9131158590316772		MSH/D012120
+respiratory syncytial virus infections	Respiratory Syncytial Virus Infections	UMLS/C0035235	0.946006715297699		MSH/D018357
+restless legs syndrome	Restless Legs Syndrome	UMLS/C0035258	0.9616542458534241	HPO/HP:0012452	MSH/D012148
+retinal diseases	Retinal Diseases	UMLS/C0035309	0.9133798480033875	HPO/HP:0000479;HPO/HP:0000488	MSH/D012164
+retinopathy of prematurity	Retinopathy of Prematurity	UMLS/C0035344	0.7714254260063171	HPO/HP:0500049	MSH/D012178
+retinopathy, diabetic	Retinal Diseases	UMLS/C0035309	0.9215808510780334	HPO/HP:0000479;HPO/HP:0000488	MSH/D012164
+rheumatoid arthritis	Rheumatoid Arthritis;Rheumatic Fever;Rheumatic arthritis	UMLS/C0003873;UMLS/C0035436;UMLS/C5445125	0.9668908715248108	HPO/HP:0001370	MSH/D001172;MSH/D012213
+rhinitis	Rhinitis	UMLS/C0035455	0.9967953562736511	HPO/HP:0012384	MSH/D012220
+rhinitis, allergic, perennial	Rhinitis	UMLS/C0035455	0.9650745391845703	HPO/HP:0012384	MSH/D012220
+rhinitis, allergic, perennial and seasonal	Rhinitis	UMLS/C0035455	0.9484283328056335	HPO/HP:0012384	MSH/D012220
+rhinitis, allergic, seasonal	Rhinitis	UMLS/C0035455	0.949813723564148	HPO/HP:0012384	MSH/D012220
+rhinitis, vasomotor	Rhinitis	UMLS/C0035455	0.9870204329490662	HPO/HP:0012384	MSH/D012220
+rubella					
+sarcoma, soft tissue	Sarcoma	UMLS/C1261473	0.9805901646614075	HPO/HP:0100242	MSH/D012509
+schizophrenia	Schizophrenia	UMLS/C0036341	0.9960739016532898	HPO/HP:0100753	MSH/D012559
+scleroderma, systemic	Scleroderma;Scleroderma <fungus>	UMLS/C0011644;UMLS/C1027109	0.9498561024665833	HPO/HP:0100324	MSH/D012594
+secondary prevention of thromboembolic events	Thromboembolism	UMLS/C0040038	0.8372358679771423	HPO/HP:0001907	MSH/D013923
+seizure disorder generalized tonic clonic	Epilepsy	UMLS/C0014544	0.9615710377693176	HPO/HP:0001250	MSH/D004827
+seizure, absence	Seizures	UMLS/C0036572	0.9699741005897522	HPO/HP:0001250	MSH/D012640
+seizures	Seizures	UMLS/C0036572	0.9877646565437317	HPO/HP:0001250	MSH/D012640
+sepsis	Septicemia;Sepsis	UMLS/C0036690;UMLS/C0243026	0.9910318851470947	HPO/HP:0100806	MSH/D018805;MSH/D018805
+shigella sonnei infection	Shigella sonnei;Disease caused by Shigella sonnei	UMLS/C0036960;UMLS/C0302361	0.6409727931022644		MSH/D012764
+sickle cell disease	Anemia, Sickle Cell	UMLS/C0002895	0.989196240901947		MSH/D000755
+sinusitis	Sinusitis	UMLS/C0037199	0.9001064896583557	HPO/HP:0000246	MSH/D012852
+sinusitis, acute	Sinusitis	UMLS/C0037199	0.8742387294769287	HPO/HP:0000246	MSH/D012852
+sjoegren's syndrome	Adie Syndrome;Adiposis Dolorosa;Autistic Disorder;Barrett Esophagus;Bartter Disease	UMLS/C0001519;UMLS/C0001529;UMLS/C0004352;UMLS/C0004763;UMLS/C0004775	0.9784592986106873	HPO/HP:0000717;HPO/HP:0100580	MSH/D000270;MSH/D000274;MSH/D001321;MSH/D001471;MSH/D001477
+skin diseases	Disease	UMLS/C0012634	0.9802995920181274		MSH/D004194
+skin infections, bacterial	Communicable Diseases;Infected;Infection	UMLS/C0009450;UMLS/C0439663;UMLS/C3714514	0.981795608997345		MSH/D003141;MSH/D007239
+sleep disorders	Sleep Disorders	UMLS/C0851578	0.9338240027427673		MSH/D012893
+sleep initiation and maintenance disorders					
+sma - spinal muscular atrophy	Spinal Muscular Atrophy	UMLS/C0026847	0.9106303453445435	HPO/HP:0007269	MSH/D009134
+smoking cessation					
+social phobia	Phobic anxiety disorder	UMLS/C0349231	0.8066427111625671		MSH/D010698
+soft tissue sarcoma	Sarcoma	UMLS/C1261473	0.9879910349845886	HPO/HP:0100242	MSH/D012509
+solid tumor cancer with bone metastases	Malignant Neoplasms	UMLS/C0006826	0.8627155423164368	HPO/HP:0002664	MSH/D009369
+solid tumours	Neoplasms	UMLS/C0027651	0.8135944604873657	HPO/HP:0002664	MSH/D009369
+spasticity, post-stroke	Muscle Spasticity;Spastic	UMLS/C0026838;UMLS/C0443306	0.87570720911026	HPO/HP:0001257	MSH/D009128;MSH/D009128
+spondylitis, ankylosing	Spondylitis;Spondylarthritis	UMLS/C0038012;UMLS/C0949690	0.9830023050308228	HPO/HP:0033631	MSH/D013166;MSH/D025241
+spondyloarthritis	Spondylarthritis	UMLS/C0949690	0.995861828327179		MSH/D025241
+streptococcus agalactiae	Streptococcus agalactiae	UMLS/C0579233	0.9048548936843872		MSH/D013292
+streptococcus pneumoniae	Streptococcus pneumoniae	UMLS/C0038410	0.9107212424278259		MSH/D013296
+substance dependence					
+systemic juvenile idiopathic arthritis (sjia)	Systemic onset juvenile chronic arthritis	UMLS/C1384600	0.7250906229019165		
+systemic lupus erythematosus	Lupus Erythematosus, Systemic	UMLS/C0024141	0.8244081139564514	HPO/HP:0002725	MSH/D008180
+tendon injuries	Traumatic injury	UMLS/C3263723	0.978265106678009		MSH/D014947
+tetanus					
+therapeutic treatment of inhalation anthrax	Anesthesia, Inhalation;Burns, Inhalation;Inhalation Therapy;Meconium Aspiration Syndrome;Smoke Inhalation Injury	UMLS/C0002917;UMLS/C0006437;UMLS/C0021459;UMLS/C0025048;UMLS/C0037367	0.632288932800293		MSH/D000769;MSH/D002059;MSH/D012138;MSH/D008471;MSH/D015208
+thromboembolism	Thromboembolism	UMLS/C0040038	0.9730882048606873	HPO/HP:0001907	MSH/D013923
+thrombosis, venous	Thrombosis;Thrombus;Blood Clot;Protothelenellaceae	UMLS/C0040053;UMLS/C0087086;UMLS/C0302148;UMLS/C1654047	0.9787921905517578		MSH/D013927;MSH/D013927
+thyroid cancer	Malignant Neoplasms	UMLS/C0006826	0.9950809478759766	HPO/HP:0002664	MSH/D009369
+tinnitus	Tinnitus	UMLS/C0040264	0.9000985026359558	HPO/HP:0000360	MSH/D014012
+tobacco use disorder					
+tooth erosion	Erosion lesion	UMLS/C1959609	0.9753170013427734		
+toxoplasmosis	Toxoplasmosis	UMLS/C0040558	0.9799553751945496		MSH/D014123
+tuberculosis	Tuberculosis	UMLS/C0041296	0.9897093772888184		MSH/D014376
+tumors characterized by genetic abnormalities of alk	Neoplasms;Tumor Mass	UMLS/C0027651;UMLS/C3273930	0.8738169074058533	HPO/HP:0002664	MSH/D009369
+type 2 diabetes	Diabetes Mellitus, Non-Insulin-Dependent	UMLS/C0011860	0.9809369444847107	HPO/HP:0005978	MSH/D003924
+typhoid fever	Typhoid Fever	UMLS/C0041466	0.8296900987625122		MSH/D014435
+ulcers, duodenal and gastric	Ulcer;Ulceration	UMLS/C0041582;UMLS/C3887532	0.9945350885391235		MSH/D014456
+uncontrolled asthma	Asthma	UMLS/C0004096	0.9722748398780823	HPO/HP:0002099	MSH/D001249
+urinary bladder, overactive	Overactivity	UMLS/C1536696	0.4352352023124695		
+urinary incontinence	Urinary Incontinence	UMLS/C0042024	0.9487581253051758	HPO/HP:0000020	MSH/D014549
+urologic diseases	Urologic Diseases	UMLS/C0042075	0.9288316965103149		MSH/D014570
+urticaria	Urticaria	UMLS/C0042109	0.8514837026596069	HPO/HP:0001025	MSH/D014581
+varicella					
+vascular disease, peripheral	Vascular Diseases	UMLS/C0042373	0.8924833536148071		MSH/D014652
+vasculitis	Vasculitis	UMLS/C0042384	0.8669445514678955	HPO/HP:0002633	MSH/D014657
+virus diseases	Virus Diseases	UMLS/C0042769	0.9215919375419617		MSH/D014777
+vomiting	Vomiting	UMLS/C0042963	0.9924463033676147	HPO/HP:0002013	MSH/D014839
+wet age related macular degeneration (amd)	Macular degeneration;Age related macular degeneration	UMLS/C0024437;UMLS/C0242383	0.9430444836616516	HPO/HP:0000608	MSH/D008268;MSH/D008268
+whole cell pertussis	Pertussis	UMLS/C0043167	0.8889185786247253		MSH/D014917
+wound healing	Injury wounds;Traumatic injury	UMLS/C0043250;UMLS/C3263723	0.8981597423553467		MSH/D014947;MSH/D014947

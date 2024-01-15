@@ -1,10 +1,10 @@
+AIDS
 acellular pertussis
 acne vulgaris
 acute coronary syndrome
 acute myeloid leukemia
 adrenocortical carcinoma
 advanced breast cancer
-aids
 alcoholism
 allergic conjunctivitis
 alopecia
@@ -14,7 +14,6 @@ anaemia
 analgesia
 ankylosing spondylitis
 anxiety disorders
-apertussis
 arrhythmia, cardiac
 arthritis, rheumatoid
 asthma
@@ -109,7 +108,6 @@ heart failure with preserved ejection fraction
 heart failure, chronic (chf)
 heart failure, congestive
 heart failure, congestive and microalbuminuria
-heart transplantation
 hepatitis a
 hepatitis b
 hepatitis b, chronic
@@ -161,12 +159,10 @@ invasive fungal infections
 irritable bowel syndrome
 ischaemic attack, transient
 juvenile psoriatic arthritis, enthesitis-related arthritis
-kidney transplantation
 lennox-gastaut syndrome
 leukaemia, lymphocytic, chronic
 leukaemia, myelocytic, acute
 liver diseases
-liver transplantation
 lower urinary tract symptoms / benign prostatic hyperplasia
 lung cancer, non-small cell
 lung injury, acute
@@ -231,8 +227,6 @@ neuropathy, diabetic
 non-radiographic spondyloarthritis
 non-small cell lung cancer
 non-small cell lung carcinoma (nsclc)
-nutritional status
-nutritional supplement
 obesity
 obsessive-compulsive disorder
 obsessive-compulsive disorder and depressive disorder
@@ -272,7 +266,6 @@ postherpetic neuralgia (phn)
 postpartum hemorrhage
 premature ejaculation
 premenstrual syndrome
-prevention of rejection after organ transplant
 prostate cancer
 prostatic hyperplasia
 psoriasis
@@ -337,9 +330,6 @@ tinnitus
 tobacco use disorder
 tooth erosion
 toxoplasmosis
-transplantation, kidney
-transplantation, liver
-transplantation, organ
 tuberculosis
 tumors characterized by genetic abnormalities of alk
 type 2 diabetes

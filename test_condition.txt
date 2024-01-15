@@ -1,4 +1,3 @@
-autoimmune diseases
-b-cell acute lymphoblastic leukemia, relapsed b-cell acute lymphoblastic leukemia, refractory b-cell acute lymphoblastic leukemia
-hello
-bipolar disorder
+measles, mumps, rubella
+hiv infections
+open-angle glaucoma
