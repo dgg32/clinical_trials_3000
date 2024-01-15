@@ -1,3 +1,4 @@
+text	preferredTerm	entityId	confidence	HPO	MSH
 AIDS	Acquired Immunodeficiency Syndrome;AID - Artificial insemination by donor	UMLS/C0001175;UMLS/C0021588	0.8634194731712341		MSH/D000163;MSH/D007316
 acellular pertussis	Pertussis	UMLS/C0043167	0.9869630932807922		MSH/D014917
 acne vulgaris	Acne Vulgaris	UMLS/C0001144	0.9809718728065491		MSH/D000152
