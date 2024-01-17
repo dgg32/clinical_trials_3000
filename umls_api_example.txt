@@ -1,0 +1,13 @@
+https://uts-ws.nlm.nih.gov/rest/content/current/MSH/D014839/relations?apiKey=
+
+https://uts-ws.nlm.nih.gov/rest/content/current/source/MSH/D014839/relations?includeAdditionalRelationLabels=may_be_treated_by&apiKey=
+
+
+
+https://uts-ws.nlm.nih.gov/rest/content/current/source/HPO/HP:0002013/relations?apiKey=
+
+
+https://uts-ws.nlm.nih.gov/rest/content/current/source/HPO/HP:0002013/relations?includeRelationLabels=CHD&apiKey=
+
+
+https://uts-ws.nlm.nih.gov/rest/content/current/source/HPO/HP:0011793/relations?includeRelationLabels=CHD&includeAdditionalRelationLabels=isa&apiKey=
