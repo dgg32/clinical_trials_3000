@@ -117,7 +117,6 @@ Griseofulvin
 H1n1 pandemic influenza vaccine
 H5n1 pandemic influenza vaccine
 H5n1 pre-pandemic influenza vaccine
-Haemophilus influenzae type b
 Haemophilus influenzae type b vaccine
 Haemophilus influenzae type b, meningococcal c and y-tetanus toxoid conjugate vaccine
 Haemophilus influenzae type b, meningococcal c-tetanus toxoid conjugate vaccine
@@ -136,7 +135,6 @@ Indacaterol acetate/mometasone furoate
 Indacaterol maleate/glycopyrronium bromide
 Indacaterol, glycopyrrolate
 Indacaterol/mometasone furoate
-Indacterol
 Infanrix penta/infanrix hexa / pediarix
 Influenza vaccine
 Influenza vaccine (quadrivalent)
@@ -147,7 +145,6 @@ Isavuconazonium sulfate
 Ketoconazole
 Lamivudine
 Lamotrigine
-Lanalumab
 Lapatinib
 Lapatinib plus capecitabine
 Lenvatinib
@@ -205,7 +202,6 @@ Otilimab
 Oxcarbazepine
 Oxytocin
 Panobinostat
-Papzopanib
 Paroxetine
 Pazopanib
 Pectin
@@ -249,7 +245,7 @@ Salbutamol
 Salmeterol
 Sargramostim
 Secukinumab
-Seralaxin
+Serelaxin
 Siponimod
 Solcitinib
 Solifenacin succinate
@@ -285,3 +281,6 @@ Vilanterol/darotropium bromide
 Vildagliptin
 Zanamivir
 Zoledronic acid
+indacaterol
+lanadelumab
+pazopanib

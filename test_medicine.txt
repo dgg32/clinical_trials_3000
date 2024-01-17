@@ -1,8 +1,24 @@
-eribulin mesilate
-erlotinib
-everolimus
-exenatide
-fevipiprant
-fiboflapon
-fidaxomicin
-fingolimod
+10-valent pneumococcal polysaccharide and non-typeable haemophilus influenzae protein d conjugate vaccine
+12-valent pneumococcal polysaccharide and non-typeable haemophilus influenzae protein d conjugate vaccine
+Abacavir
+Abacavir/lamivudine
+Abacavir/lamivudine/zidovudine
+Acetylsalicylic acid/pantoprazole
+Adefovir/lamivudine
+Albiglutide
+Albiglutide/metformin
+Alisporivir
+Alitretinoin
+Alpelisib
+Amlodipine/benazepril hcl
+Amlodipine/enalapril
+Amlodipine/losartan
+Amlodipine/rosuvastatin
+Amoxicillin/clavulanic acid
+Artesunate/chlorproguanil/dapsone
+Atorvastatin/glimepiride
+Batefenterol
+Belimumab
+Benzoyl peroxide/Clindamycin
+Benzoyl peroxide/Clindamycin phosphate
+Benzoyl peroxide/Salicylic acid

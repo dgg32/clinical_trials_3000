@@ -1,3 +1,4 @@
+ Chronic Obstructive Airway Disease
 AIDS
 Acellular pertussis
 Acne vulgaris
@@ -15,7 +16,6 @@ Analgesia
 Ankylosing spondylitis
 Anxiety disorders
 Arrhythmia, cardiac
-Arthritis, rheumatoid
 Asthma
 Asthma and rhinitis
 Atherosclerosis
@@ -58,6 +58,7 @@ Chronic plaque psoriasis
 Clostridium difficile infection
 Cognitive disorders
 Colitis, ulcerative
+Colorectal Neoplasms
 Constriction, bronchial
 Coronary artery disease
 Corticosteroid refractory acute graft vs host disease
@@ -93,11 +94,12 @@ Epilepsy, partial
 Epilepsy, tonic-clonic
 Episodic migraine headache
 Esophageal cancer
-Fasciolasis
+Fascioliasis
 Fibrillation, atrial
 Fibromyalgia syndrome, primary
 Focal infection, dental
 Fracture healing
+Gastrointestinal Neoplasms
 Gastrointestinal diseases
 Gastrointestinal motility
 Gastroparesis
@@ -119,7 +121,7 @@ Her2/neu over-expressing locally advanced breast cancer or metastatic breast can
 Hereditary periodic fevers
 Herpes genitalis
 Herpes labialis
-Herpes simplex
+Herpes simplex infection
 Herpes zoster
 Hip fracture
 Hiv infections
@@ -207,16 +209,11 @@ Myasthenia gravis
 Mycoses
 Myelodysplastic syndrome (mds)
 Myelofibrosis
-Myocardial perfusion imaging
 Nausea and vomiting, chemotherapy-induced
 Nausea and vomiting, postoperative
 Neisseria meningitidis
 Neoplasms
-Neoplasms, breast
-Neoplasms, colorectal
-Neoplasms, gastrointestinal tract
 Neoplasms, head and neck
-Neoplasms, ovarian
 Neoplasms, prostate
 Neoplasms|lung neoplasms
 Neovascular age-related macular degeneration
@@ -242,6 +239,7 @@ Osteoporosis, male
 Osteoporosis, postmenopausal
 Otitis media
 Ovarian cancer
+Ovarian neoplasms
 Ovarian neoplasms|neoplasms|solid tumor|hepatic impairment
 Pain, inflammatory
 Pain, neuropathic
@@ -273,7 +271,6 @@ Psoriasis, nail
 Psoriasis, palmoplantar
 Psoriatic arthritis
 Pulmonary arterial hypertension
-Pulmonary disease, chronic obstructive
 Refractory partial seizures
 Renal cell carcinoma
 Respiratory disorders

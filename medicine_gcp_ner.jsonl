@@ -1,0 +1,286 @@
+{"10-valent pneumococcal polysaccharide and non-typeable haemophilus influenzae protein d conjugate vaccine": [{"preferredTerms": "pneumococcal polysaccharide, type 37", "entityids": "UMLS/C0245576", "HPO": [], "MSH": ["MSH/C058381"]}, {"preferredTerms": "Haemophilus Vaccines", "entityids": "UMLS/C0206514", "HPO": [], "MSH": ["MSH/D018073"]}, {"preferredTerms": "Vaccines, Conjugate", "entityids": "UMLS/C0206515", "HPO": [], "MSH": ["MSH/D018074"]}]}
+{"12-valent pneumococcal polysaccharide and non-typeable haemophilus influenzae protein d conjugate vaccine": [{"preferredTerms": "pneumococcal polysaccharide, type 37", "entityids": "UMLS/C0245576", "HPO": [], "MSH": ["MSH/C058381"]}, {"preferredTerms": "Haemophilus Vaccines", "entityids": "UMLS/C0206514", "HPO": [], "MSH": ["MSH/D018073"]}, {"preferredTerms": "Vaccines, Conjugate", "entityids": "UMLS/C0206515", "HPO": [], "MSH": ["MSH/D018074"]}]}
+{"Abacavir": [{"preferredTerms": "abacavir", "entityids": "UMLS/C0663655", "HPO": [], "MSH": ["MSH/C106538"]}]}
+{"Abacavir/lamivudine": [{"preferredTerms": "abacavir / lamivudine", "entityids": "UMLS/C1613391", "HPO": [], "MSH": ["MSH/C492871"]}]}
+{"Abacavir/lamivudine/zidovudine": [{"preferredTerms": "abacavir", "entityids": "UMLS/C0663655", "HPO": [], "MSH": ["MSH/C106538"]}, {"preferredTerms": "lamivudine", "entityids": "UMLS/C0209738", "HPO": [], "MSH": ["MSH/D019259"]}, {"preferredTerms": "zidovudine", "entityids": "UMLS/C0043474", "HPO": [], "MSH": ["MSH/D015215"]}]}
+{"Acetylsalicylic acid/pantoprazole": [{"preferredTerms": "aspirin", "entityids": "UMLS/C0004057", "HPO": [], "MSH": ["MSH/D001241"]}]}
+{"Adefovir/lamivudine": [{"preferredTerms": "adefovir", "entityids": "UMLS/C0050175", "HPO": [], "MSH": ["MSH/C053001"]}, {"preferredTerms": "lamivudine", "entityids": "UMLS/C0209738", "HPO": [], "MSH": ["MSH/D019259"]}]}
+{"Albiglutide": [{"preferredTerms": "albiglutide", "entityids": "UMLS/C2607479", "HPO": [], "MSH": ["MSH/C534611"]}]}
+{"Albiglutide/metformin": [{"preferredTerms": "albiglutide", "entityids": "UMLS/C2607479", "HPO": [], "MSH": ["MSH/C534611"]}]}
+{"Alisporivir": [{"preferredTerms": "alisporivir", "entityids": "UMLS/C1567950", "HPO": [], "MSH": ["MSH/C499715"]}]}
+{"Alitretinoin": [{"preferredTerms": "alitretinoin", "entityids": "UMLS/C0281666", "HPO": [], "MSH": ["MSH/D000077556"]}]}
+{"Alpelisib": [{"preferredTerms": "alpelisib", "entityids": "UMLS/C4055478", "HPO": [], "MSH": ["MSH/C585539"]}]}
+{"Amlodipine/benazepril hcl": [{"preferredTerms": "amlodipine / benazepril", "entityids": "UMLS/C0717411", "HPO": [], "MSH": []}]}
+{"Amlodipine/enalapril": [{"preferredTerms": "enalapril", "entityids": "UMLS/C0014025", "HPO": [], "MSH": ["MSH/D004656"]}]}
+{"Amlodipine/losartan": [{"preferredTerms": "amlodipine", "entityids": "UMLS/C0051696", "HPO": [], "MSH": ["MSH/D017311"]}, {"preferredTerms": "losartan", "entityids": "UMLS/C0126174", "HPO": [], "MSH": ["MSH/D019808"]}]}
+{"Amlodipine/rosuvastatin": [{"preferredTerms": "amlodipine", "entityids": "UMLS/C0051696", "HPO": [], "MSH": ["MSH/D017311"]}, {"preferredTerms": "rosuvastatin", "entityids": "UMLS/C0965129", "HPO": [], "MSH": ["MSH/D000068718"]}]}
+{"Amoxicillin/clavulanic acid": [{"preferredTerms": "amoxicillin / clavulanate", "entityids": "UMLS/C0054066", "HPO": [], "MSH": ["MSH/D019980"]}]}
+{"Artesunate/chlorproguanil/dapsone": [{"preferredTerms": "artesunate", "entityids": "UMLS/C0052432", "HPO": [], "MSH": ["MSH/D000077332"]}, {"preferredTerms": "chlorproguanil", "entityids": "UMLS/C0055470", "HPO": [], "MSH": ["MSH/C007030"]}, {"preferredTerms": "dapsone", "entityids": "UMLS/C0010980", "HPO": [], "MSH": ["MSH/D003622"]}]}
+{"Atorvastatin/glimepiride": [{"preferredTerms": "glimepiride", "entityids": "UMLS/C0061323", "HPO": [], "MSH": ["MSH/C057619"]}]}
+{"Batefenterol": [{"preferredTerms": "batefenterol", "entityids": "UMLS/C4519138", "HPO": [], "MSH": ["MSH/C588122"]}]}
+{"Belimumab": [{"preferredTerms": "belimumab", "entityids": "UMLS/C1723401", "HPO": [], "MSH": ["MSH/C511911"]}]}
+{"Benzoyl peroxide/clindamycin": [{"preferredTerms": "benzoyl peroxide / clindamycin", "entityids": "UMLS/C1720375", "HPO": [], "MSH": ["MSH/C466951"]}]}
+{"Benzoyl peroxide/clindamycin phosphate": [{"preferredTerms": "benzoyl peroxide / clindamycin", "entityids": "UMLS/C1720375", "HPO": [], "MSH": ["MSH/C466951"]}]}
+{"Benzoyl peroxide/salicylic acid": [{"preferredTerms": "benzoyl peroxide / salicylic acid", "entityids": "UMLS/C2929668", "HPO": [], "MSH": []}]}
+{"Brinzolamide": [{"preferredTerms": "brinzolamide", "entityids": "UMLS/C0673966", "HPO": [], "MSH": ["MSH/C111827"]}]}
+{"Brolucizumab": [{"preferredTerms": "brolucizumab", "entityids": "UMLS/C4550124", "HPO": [], "MSH": ["MSH/C000622091"]}]}
+{"Bupropion": [{"preferredTerms": "bupropion", "entityids": "UMLS/C0085208", "HPO": [], "MSH": ["MSH/D016642"]}]}
+{"Cabotegravir": [{"preferredTerms": "cabotegravir", "entityids": "UMLS/C4310385", "HPO": [], "MSH": ["MSH/C584914"]}]}
+{"Calcipotriol, calcipotriene": [{"preferredTerms": "calcipotriene", "entityids": "UMLS/C0065767", "HPO": [], "MSH": ["MSH/C055085"]}]}
+{"Camicinal": [{"preferredTerms": "Camicinal", "entityids": "UMLS/C4519144", "HPO": [], "MSH": ["MSH/C541863"]}]}
+{"Canakinumab": [{"preferredTerms": "canakinumab", "entityids": "UMLS/C2718773", "HPO": [], "MSH": ["MSH/C541220"]}]}
+{"Candesartan": [{"preferredTerms": "candesartan", "entityids": "UMLS/C0717550", "HPO": [], "MSH": ["MSH/C081643"]}]}
+{"Candesartan cilexetil/hydrochlorothiazide": [{"preferredTerms": "candesartan cilexetil", "entityids": "UMLS/C0527379", "HPO": [], "MSH": ["MSH/C077793"]}]}
+{"Carbomer and carmellose sodium gel": [{"preferredTerms": "carboxymethylcellulose sodium", "entityids": "UMLS/C0037487", "HPO": [], "MSH": ["MSH/D002266"]}]}
+{"Carvedilol": [{"preferredTerms": "carvedilol", "entityids": "UMLS/C0054836", "HPO": [], "MSH": ["MSH/D000077261"]}]}
+{"Carvedilol/lisinopril": [{"preferredTerms": "carvedilol", "entityids": "UMLS/C0054836", "HPO": [], "MSH": ["MSH/D000077261"]}, {"preferredTerms": "lisinopril", "entityids": "UMLS/C0065374", "HPO": [], "MSH": ["MSH/D017706"]}]}
+{"Casopitant": [{"preferredTerms": "casopitant", "entityids": "UMLS/C2347566", "HPO": [], "MSH": []}]}
+{"Cefadroxil": [{"preferredTerms": "cefadroxil", "entityids": "UMLS/C0007538", "HPO": [], "MSH": ["MSH/D002434"]}]}
+{"Cefixime": [{"preferredTerms": "cefixime", "entityids": "UMLS/C0060400", "HPO": [], "MSH": ["MSH/D020682"]}]}
+{"Cefuroxime axetil": [{"preferredTerms": "cefuroxime axetil", "entityids": "UMLS/C0055015", "HPO": [], "MSH": ["MSH/C040738"]}]}
+{"Ceritinib": [{"preferredTerms": "ceritinib", "entityids": "UMLS/C3818721", "HPO": [], "MSH": ["MSH/C586847"]}]}
+{"Certolizumab pegol": [{"preferredTerms": "certolizumab pegol", "entityids": "UMLS/C1872109", "HPO": [], "MSH": ["MSH/D000068582"]}]}
+{"Cilomilast": [{"preferredTerms": "Cilomilast", "entityids": "UMLS/C0968887", "HPO": [], "MSH": ["MSH/C433247"]}]}
+{"Cilomilast/salmeterol/fluticasone propionate": [{"preferredTerms": "Cilomilast", "entityids": "UMLS/C0968887", "HPO": [], "MSH": ["MSH/C433247"]}]}
+{"Ciprofloxacin": [{"preferredTerms": "ciprofloxacin", "entityids": "UMLS/C0008809", "HPO": [], "MSH": ["MSH/D002939"]}]}
+{"Clobetasol": [{"preferredTerms": "clobetasol", "entityids": "UMLS/C0008992", "HPO": [], "MSH": ["MSH/D002990"]}]}
+{"Combined diphtheria, tetanus, acellular pertussis adsorbed, hepatitis b (recombinant), inactivated polio vaccine": [{"preferredTerms": "diphtheria antitoxin", "entityids": "UMLS/C0012547", "HPO": [], "MSH": ["MSH/D004166"]}, {"preferredTerms": "tetanus toxoid vaccine, inactivated", "entityids": "UMLS/C0305062", "HPO": [], "MSH": ["MSH/D013745"]}, {"preferredTerms": "hepatitis B surface antigen vaccine", "entityids": "UMLS/C0062527", "HPO": [], "MSH": []}, {"preferredTerms": "Oral Poliovirus Vaccine", "entityids": "UMLS/C0032375", "HPO": [], "MSH": ["MSH/D011055"]}]}
+{"Combined diphtheria, tetanus, acellular pertussis, haemophilus influenzae type b conjugate vaccine": [{"preferredTerms": "tetanus toxoid vaccine, inactivated", "entityids": "UMLS/C0305062", "HPO": [], "MSH": ["MSH/D013745"]}, {"preferredTerms": "Haemophilus B Conjugate Vaccine", "entityids": "UMLS/C0717811", "HPO": [], "MSH": []}]}
+{"Combined diphtheria, tetanus, acellular pertussis, hepatitis b, inactivated polio, haemophilus influenzae type b vaccine": [{"preferredTerms": "tetanus toxoid vaccine, inactivated", "entityids": "UMLS/C0305062", "HPO": [], "MSH": ["MSH/D013745"]}, {"preferredTerms": "Haemophilus influenzae type b polysaccharide vaccine", "entityids": "UMLS/C0062086", "HPO": [], "MSH": ["MSH/C044237"]}]}
+{"Combined diphtheria, tetanus, acellular pertussis, inactivated polio, haemophilus influenzae type b conjugate vaccine": [{"preferredTerms": "tetanus toxoid vaccine, inactivated", "entityids": "UMLS/C0305062", "HPO": [], "MSH": ["MSH/D013745"]}, {"preferredTerms": "Haemophilus B Conjugate Vaccine", "entityids": "UMLS/C0717811", "HPO": [], "MSH": []}]}
+{"Combined diphtheria, tetanus, pertussis, hepb, polio, hib and neisseria meningitis serogroup c tetanus toxoid conjugate vaccine": [{"preferredTerms": "tetanus toxoid vaccine, inactivated", "entityids": "UMLS/C0305062", "HPO": [], "MSH": ["MSH/D013745"]}, {"preferredTerms": "streptococcal polysaccharide-tetanus toxoid conjugate vaccine", "entityids": "UMLS/C0296104", "HPO": [], "MSH": ["MSH/C092872"]}]}
+{"Combined diphtheria, tetanus, whole cell pertussis, hepatitis b vaccine": [{"preferredTerms": "tetanus toxoid vaccine, inactivated", "entityids": "UMLS/C0305062", "HPO": [], "MSH": ["MSH/D013745"]}, {"preferredTerms": "hepatitis B surface antigen vaccine", "entityids": "UMLS/C0062527", "HPO": [], "MSH": []}]}
+{"Combined diphtheria, tetanus, whole cell pertussis, hepatitis b, haemophilus influenzae type b vaccine": [{"preferredTerms": "tetanus toxoid vaccine, inactivated", "entityids": "UMLS/C0305062", "HPO": [], "MSH": ["MSH/D013745"]}, {"preferredTerms": "hepatitis B surface antigen vaccine", "entityids": "UMLS/C0062527", "HPO": [], "MSH": []}, {"preferredTerms": "Haemophilus influenzae type b polysaccharide vaccine", "entityids": "UMLS/C0062086", "HPO": [], "MSH": ["MSH/C044237"]}]}
+{"Combined diphtheria, tetanus, whole cell pertussis, hepatitis b, haemophilus influenzae type b vaccine (kft)": [{"preferredTerms": "tetanus toxoid vaccine, inactivated", "entityids": "UMLS/C0305062", "HPO": [], "MSH": ["MSH/D013745"]}, {"preferredTerms": "hepatitis B surface antigen vaccine", "entityids": "UMLS/C0062527", "HPO": [], "MSH": []}, {"preferredTerms": "Haemophilus influenzae type b polysaccharide vaccine", "entityids": "UMLS/C0062086", "HPO": [], "MSH": ["MSH/C044237"]}]}
+{"Combined measles, mumps, rubella, varicella vaccine": [{"preferredTerms": "Mumps Vaccine", "entityids": "UMLS/C0026782", "HPO": [], "MSH": ["MSH/D009108"]}, {"preferredTerms": "Rubella virus vaccine", "entityids": "UMLS/C0035923", "HPO": [], "MSH": ["MSH/D012411"]}, {"preferredTerms": "Chickenpox Vaccine", "entityids": "UMLS/C0078048", "HPO": [], "MSH": ["MSH/D019433"]}]}
+{"Combined reduced antigen content diphtheria, tetanus, acellular pertussis vaccine": [{"preferredTerms": "Antigens, Fungal", "entityids": "UMLS/C0003330", "HPO": [], "MSH": ["MSH/D000946"]}, {"preferredTerms": "diphtheria antitoxin", "entityids": "UMLS/C0012547", "HPO": [], "MSH": ["MSH/D004166"]}, {"preferredTerms": "tetanus toxoid vaccine, inactivated", "entityids": "UMLS/C0305062", "HPO": [], "MSH": ["MSH/D013745"]}, {"preferredTerms": "acellular pertussis vaccine, inactivated", "entityids": "UMLS/C0982332", "HPO": [], "MSH": []}]}
+{"Combined reduced antigen content diphtheria, tetanus, acellular pertussis, inactivated polio vaccine": [{"preferredTerms": "Antigens, Fungal", "entityids": "UMLS/C0003330", "HPO": [], "MSH": ["MSH/D000946"]}, {"preferredTerms": "diphtheria antitoxin", "entityids": "UMLS/C0012547", "HPO": [], "MSH": ["MSH/D004166"]}, {"preferredTerms": "tetanus toxoid vaccine, inactivated", "entityids": "UMLS/C0305062", "HPO": [], "MSH": ["MSH/D013745"]}, {"preferredTerms": "Oral Poliovirus Vaccine", "entityids": "UMLS/C0032375", "HPO": [], "MSH": ["MSH/D011055"]}]}
+{"Crizanlizumab": [{"preferredTerms": "crizanlizumab", "entityids": "UMLS/C4524703", "HPO": [], "MSH": ["MSH/C000614139"]}]}
+{"Dabrafenib": [{"preferredTerms": "dabrafenib", "entityids": "UMLS/C3467876", "HPO": [], "MSH": ["MSH/C561627"]}]}
+{"Dabrafenib/trametinib": [{"preferredTerms": "dabrafenib", "entityids": "UMLS/C3467876", "HPO": [], "MSH": ["MSH/C561627"]}, {"preferredTerms": "trametinib", "entityids": "UMLS/C2697961", "HPO": [], "MSH": ["MSH/C560077"]}]}
+{"Danirixin": [{"preferredTerms": "danirixin", "entityids": "UMLS/C4519256", "HPO": [], "MSH": ["MSH/C581951"]}]}
+{"Daprodustat": [{"preferredTerms": "Daprodustat", "entityids": "UMLS/C4519188", "HPO": [], "MSH": ["MSH/C000599718"]}]}
+{"Darapladib": [{"preferredTerms": "darapladib", "entityids": "UMLS/C2348075", "HPO": [], "MSH": ["MSH/C529040"]}]}
+{"Darotropium bromide": [{"preferredTerms": "Darotropium Bromide", "entityids": "UMLS/C2699560", "HPO": [], "MSH": []}]}
+{"Darotropium bromide/vilanterol": [{"preferredTerms": "Darotropium Bromide", "entityids": "UMLS/C2699560", "HPO": [], "MSH": []}]}
+{"Deferasirox": [{"preferredTerms": "deferasirox", "entityids": "UMLS/C1619629", "HPO": [], "MSH": ["MSH/D000077588"]}]}
+{"Degarelix acetate": [{"preferredTerms": "degarelix acetate", "entityids": "UMLS/C2718533", "HPO": [], "MSH": []}]}
+{"Denagliptin": [{"preferredTerms": "denagliptin", "entityids": "UMLS/C2699586", "HPO": [], "MSH": ["MSH/C551147"]}]}
+{"Developmental cosmetic moisturizing creams": [{}]}
+{"Digoxin": [{"preferredTerms": "digoxin", "entityids": "UMLS/C0012265", "HPO": [], "MSH": ["MSH/D004077"]}]}
+{"Dilmapimod": [{"preferredTerms": "dilmapimod", "entityids": "UMLS/C3272846", "HPO": [], "MSH": ["MSH/C574213"]}]}
+{"Diphtheria, tetanus, acellular pertussis vaccine adsorbed": [{"preferredTerms": "diphtheria antitoxin", "entityids": "UMLS/C0012547", "HPO": [], "MSH": ["MSH/D004166"]}, {"preferredTerms": "tetanus toxoid vaccine, inactivated", "entityids": "UMLS/C0305062", "HPO": [], "MSH": ["MSH/D013745"]}, {"preferredTerms": "acellular pertussis vaccine, inactivated", "entityids": "UMLS/C0982332", "HPO": [], "MSH": []}]}
+{"Dolutegravir": [{"preferredTerms": "dolutegravir", "entityids": "UMLS/C3253985", "HPO": [], "MSH": ["MSH/C562325"]}]}
+{"Dolutegravir/abacavir/lamivudine": [{"preferredTerms": "abacavir / lamivudine", "entityids": "UMLS/C1613391", "HPO": [], "MSH": ["MSH/C492871"]}]}
+{"Dolutegravir/lamivudine": [{"preferredTerms": "dolutegravir", "entityids": "UMLS/C3253985", "HPO": [], "MSH": ["MSH/C562325"]}, {"preferredTerms": "lamivudine", "entityids": "UMLS/C0209738", "HPO": [], "MSH": ["MSH/D019259"]}]}
+{"Dolutegravir/rilpivirine": [{"preferredTerms": "dolutegravir", "entityids": "UMLS/C3253985", "HPO": [], "MSH": ["MSH/C562325"]}, {"preferredTerms": "rilpivirine", "entityids": "UMLS/C1566826", "HPO": [], "MSH": ["MSH/D000068696"]}]}
+{"Donepezil": [{"preferredTerms": "donepezil", "entityids": "UMLS/C0527316", "HPO": [], "MSH": ["MSH/D000077265"]}]}
+{"Dutasteride": [{"preferredTerms": "dutasteride", "entityids": "UMLS/C0754659", "HPO": [], "MSH": ["MSH/D000068538"]}]}
+{"Dutasteride/tamsulosin": [{"preferredTerms": "dutasteride", "entityids": "UMLS/C0754659", "HPO": [], "MSH": ["MSH/D000068538"]}, {"preferredTerms": "tamsulosin", "entityids": "UMLS/C0257343", "HPO": [], "MSH": ["MSH/D000077409"]}]}
+{"Eltrombopag": [{"preferredTerms": "eltrombopag", "entityids": "UMLS/C1831905", "HPO": [], "MSH": ["MSH/C520809"]}]}
+{"Elubrixin": [{"preferredTerms": "Elubrixin", "entityids": "UMLS/C4519321", "HPO": [], "MSH": []}]}
+{"Enzalutamide": [{"preferredTerms": "enzalutamide", "entityids": "UMLS/C3496793", "HPO": [], "MSH": ["MSH/C540278"]}]}
+{"Epelsiban": [{"preferredTerms": "epelsiban", "entityids": "UMLS/C3274566", "HPO": [], "MSH": ["MSH/C571185"]}]}
+{"Epoprostenol": [{"preferredTerms": "epoprostenol", "entityids": "UMLS/C0033567", "HPO": [], "MSH": ["MSH/D011464"]}]}
+{"Eribulin mesilate": [{"preferredTerms": "eribulin mesylate", "entityids": "UMLS/C2608038", "HPO": [], "MSH": ["MSH/C490954"]}]}
+{"Erlotinib": [{"preferredTerms": "erlotinib", "entityids": "UMLS/C1135135", "HPO": [], "MSH": ["MSH/D000069347"]}]}
+{"Everolimus": [{"preferredTerms": "everolimus", "entityids": "UMLS/C0541315", "HPO": [], "MSH": ["MSH/D000068338"]}]}
+{"Exenatide": [{"preferredTerms": "exenatide", "entityids": "UMLS/C0167117", "HPO": [], "MSH": ["MSH/D000077270"]}]}
+{"Fevipiprant": [{"preferredTerms": "fevipiprant", "entityids": "UMLS/C4076895", "HPO": [], "MSH": ["MSH/C000604875"]}]}
+{"Fiboflapon": [{"preferredTerms": "Fiboflapon", "entityids": "UMLS/C4550339", "HPO": [], "MSH": []}]}
+{"Fidaxomicin": [{"preferredTerms": "fidaxomicin", "entityids": "UMLS/C0065023", "HPO": [], "MSH": ["MSH/D000077732"]}]}
+{"Fingolimod": [{"preferredTerms": "fingolimod", "entityids": "UMLS/C1699926", "HPO": [], "MSH": ["MSH/D000068876"]}]}
+{"Fluticasone": [{"preferredTerms": "fluticasone", "entityids": "UMLS/C0082607", "HPO": [], "MSH": ["MSH/D000068298"]}]}
+{"Fluticasone furoate": [{"preferredTerms": "fluticasone furoate", "entityids": "UMLS/C1948374", "HPO": [], "MSH": ["MSH/C523187"]}]}
+{"Fluticasone furoate/levocabastine": [{"preferredTerms": "fluticasone furoate", "entityids": "UMLS/C1948374", "HPO": [], "MSH": ["MSH/C523187"]}, {"preferredTerms": "levocabastine", "entityids": "UMLS/C0064870", "HPO": [], "MSH": ["MSH/C047340"]}]}
+{"Fluticasone furoate/umeclidinium bromide": [{"preferredTerms": "fluticasone furoate", "entityids": "UMLS/C1948374", "HPO": [], "MSH": ["MSH/C523187"]}]}
+{"Fluticasone furoate/vilanterol": [{"preferredTerms": "fluticasone furoate", "entityids": "UMLS/C1948374", "HPO": [], "MSH": ["MSH/C523187"]}, {"preferredTerms": "vilanterol", "entityids": "UMLS/C2935023", "HPO": [], "MSH": ["MSH/C550468"]}]}
+{"Fluticasone furoate/vilanterol trifenatate": [{"preferredTerms": "fluticasone furoate-vilanterol trifenatate", "entityids": "UMLS/C4020624", "HPO": [], "MSH": ["MSH/C000611924"]}]}
+{"Fluticasone furoate/vilanterol/umeclidinium bromid": [{"preferredTerms": "fluticasone furoate", "entityids": "UMLS/C1948374", "HPO": [], "MSH": ["MSH/C523187"]}, {"preferredTerms": "vilanterol", "entityids": "UMLS/C2935023", "HPO": [], "MSH": ["MSH/C550468"]}, {"preferredTerms": "umeclidinium", "entityids": "UMLS/C3661274", "HPO": [], "MSH": ["MSH/C573971"]}]}
+{"Fluticasone furoate/vilanterol/umeclidinium bromide": [{"preferredTerms": "fluticasone furoate", "entityids": "UMLS/C1948374", "HPO": [], "MSH": ["MSH/C523187"]}, {"preferredTerms": "vilanterol", "entityids": "UMLS/C2935023", "HPO": [], "MSH": ["MSH/C550468"]}, {"preferredTerms": "umeclidinium bromide", "entityids": "UMLS/C3709474", "HPO": [], "MSH": []}]}
+{"Fluticasone propionate": [{"preferredTerms": "fluticasone propionate", "entityids": "UMLS/C0117996", "HPO": [], "MSH": ["MSH/D000068298"]}]}
+{"Fluticasone propionate/salmeterol": [{"preferredTerms": "Fluticasone Propionate, Salmeterol Xinafoate Drug Combination", "entityids": "UMLS/C1622832", "HPO": [], "MSH": ["MSH/D000068297"]}]}
+{"Fondaparinux sodium": [{"preferredTerms": "fondaparinux sodium", "entityids": "UMLS/C1099664", "HPO": [], "MSH": ["MSH/D000077425"]}]}
+{"Foretinib": [{"preferredTerms": "Foretinib", "entityids": "UMLS/C2973987", "HPO": [], "MSH": ["MSH/C544831"]}]}
+{"Formoterol fumarate": [{"preferredTerms": "formoterol fumarate", "entityids": "UMLS/C0771469", "HPO": [], "MSH": ["MSH/D000068759"]}]}
+{"Fosamprenavir": [{"preferredTerms": "fosamprenavir", "entityids": "UMLS/C1176315", "HPO": [], "MSH": ["MSH/C426859"]}]}
+{"Fosdevirine": [{"preferredTerms": "Fosdevirine", "entityids": "UMLS/C4550352", "HPO": [], "MSH": []}]}
+{"Fremanezumab": [{"preferredTerms": "fremanezumab", "entityids": "UMLS/C4549503", "HPO": [], "MSH": ["MSH/C000604315"]}]}
+{"Gepotidacin": [{"preferredTerms": "gepotidacin", "entityids": "UMLS/C4309999", "HPO": [], "MSH": ["MSH/C000612856"]}]}
+{"Gilteritinib fumarate": [{"preferredTerms": "gilteritinib fumarate", "entityids": "UMLS/C3896946", "HPO": [], "MSH": []}]}
+{"Glatiramer acetate": [{"preferredTerms": "glatiramer acetate", "entityids": "UMLS/C0289884", "HPO": [], "MSH": ["MSH/D000068717"]}]}
+{"Glimepiride/metformin": [{"preferredTerms": "glimepiride", "entityids": "UMLS/C0061323", "HPO": [], "MSH": ["MSH/C057619"]}]}
+{"Glycerol and niacinamide face cream, serum and lotion": [{"preferredTerms": "niacinamide", "entityids": "UMLS/C0028027", "HPO": [], "MSH": ["MSH/D009536"]}, {"preferredTerms": "Antilymphocyte Serum", "entityids": "UMLS/C0003372", "HPO": [], "MSH": ["MSH/D000961"]}]}
+{"Glycopyrronium": [{"preferredTerms": "glycopyrronium", "entityids": "UMLS/C3814772", "HPO": [], "MSH": ["MSH/D006024"]}]}
+{"Glycopyrronium bromide": [{"preferredTerms": "Glycopyrronium Bromide", "entityids": "UMLS/C4082411", "HPO": [], "MSH": ["MSH/D006024"]}]}
+{"Griseofulvin": [{"preferredTerms": "griseofulvin", "entityids": "UMLS/C0018242", "HPO": [], "MSH": ["MSH/D006118"]}]}
+{"H1n1 pandemic influenza vaccine": [{"preferredTerms": "AS03-Adjuvanted H1N1 Pandemic Influenza Vaccine", "entityids": "UMLS/C2981835", "HPO": [], "MSH": []}]}
+{"H5n1 pandemic influenza vaccine": [{"preferredTerms": "AS03-Adjuvanted H1N1 Pandemic Influenza Vaccine", "entityids": "UMLS/C2981835", "HPO": [], "MSH": []}]}
+{"H5n1 pre-pandemic influenza vaccine": [{"preferredTerms": "Influenza virus vaccine", "entityids": "UMLS/C0021403", "HPO": [], "MSH": ["MSH/D007252"]}]}
+{"Haemophilus influenzae type b vaccine": [{"preferredTerms": "Haemophilus influenzae type b polysaccharide vaccine", "entityids": "UMLS/C0062086", "HPO": [], "MSH": ["MSH/C044237"]}]}
+{"Haemophilus influenzae type b, meningococcal c and y-tetanus toxoid conjugate vaccine": [{"preferredTerms": "streptococcal polysaccharide-tetanus toxoid conjugate vaccine", "entityids": "UMLS/C0296104", "HPO": [], "MSH": ["MSH/C092872"]}]}
+{"Haemophilus influenzae type b, meningococcal c-tetanus toxoid conjugate vaccine": [{"preferredTerms": "Haemophilus influenzae type b polysaccharide vaccine", "entityids": "UMLS/C0062086", "HPO": [], "MSH": ["MSH/C044237"]}, {"preferredTerms": "streptococcal polysaccharide-tetanus toxoid conjugate vaccine", "entityids": "UMLS/C0296104", "HPO": [], "MSH": ["MSH/C092872"]}]}
+{"Hepatitis a (inactivated), hepatitis b (recombinant) vaccine": [{"preferredTerms": "hepatitis A vaccine, inactivated", "entityids": "UMLS/C0795623", "HPO": [], "MSH": []}, {"preferredTerms": "Vaccines, Recombinant", "entityids": "UMLS/C0034862", "HPO": [], "MSH": ["MSH/D014614"]}]}
+{"Hepatitis a vaccine, inactivated": [{"preferredTerms": "Hepatitis A Vaccines", "entityids": "UMLS/C0170300", "HPO": [], "MSH": ["MSH/D022362"]}]}
+{"Hepatitis b vaccine, recombinant": [{"preferredTerms": "hepatitis B surface antigen vaccine", "entityids": "UMLS/C0062527", "HPO": [], "MSH": []}]}
+{"Herpes simplex vaccine": [{"preferredTerms": "Herpes Simplex Virus Vaccines", "entityids": "UMLS/C0770688", "HPO": [], "MSH": ["MSH/D022301"]}]}
+{"Herpes zoster subunit (hz/su) vaccine": [{"preferredTerms": "Herpes Zoster Vaccine 1437173A", "entityids": "UMLS/C3272332", "HPO": [], "MSH": []}]}
+{"Human papillomavirus types 16 and 18 vaccine": [{"preferredTerms": "human papillomavirus vaccine, L1 type 16, 18", "entityids": "UMLS/C1721788", "HPO": [], "MSH": ["MSH/C510352"]}]}
+{"Ibandronic acid": [{"preferredTerms": "ibandronic acid", "entityids": "UMLS/C0379200", "HPO": [], "MSH": ["MSH/D000077557"]}]}
+{"Iboctadekin": [{"preferredTerms": "Recombinant Interleukin-18", "entityids": "UMLS/C1527127", "HPO": [], "MSH": []}]}
+{"Imatinib mesilate": [{"preferredTerms": "imatinib", "entityids": "UMLS/C0935989", "HPO": [], "MSH": ["MSH/D000068877"]}]}
+{"Inclisiran": [{"preferredTerms": "Inclisiran", "entityids": "UMLS/C4307388", "HPO": [], "MSH": ["MSH/C585830"]}]}
+{"Indacaterol": [{"preferredTerms": "indacaterol", "entityids": "UMLS/C1722260", "HPO": [], "MSH": ["MSH/C510790"]}]}
+{"Indacaterol acetate/mometasone furoate": [{"preferredTerms": "indacaterol", "entityids": "UMLS/C1722260", "HPO": [], "MSH": ["MSH/C510790"]}, {"preferredTerms": "mometasone furoate", "entityids": "UMLS/C0066700", "HPO": [], "MSH": ["MSH/D000068656"]}]}
+{"Indacaterol maleate/glycopyrronium bromide": [{"preferredTerms": "indacaterol maleate", "entityids": "UMLS/C2920417", "HPO": [], "MSH": []}, {"preferredTerms": "Glycopyrronium Bromide", "entityids": "UMLS/C4082411", "HPO": [], "MSH": ["MSH/D006024"]}]}
+{"Indacaterol, glycopyrrolate": [{"preferredTerms": "indacaterol", "entityids": "UMLS/C1722260", "HPO": [], "MSH": ["MSH/C510790"]}, {"preferredTerms": "glycopyrrolate", "entityids": "UMLS/C0017970", "HPO": [], "MSH": ["MSH/D006024"]}]}
+{"Indacaterol/mometasone furoate": [{"preferredTerms": "mometasone furoate", "entityids": "UMLS/C0066700", "HPO": [], "MSH": ["MSH/D000068656"]}]}
+{"Infanrix penta/infanrix hexa / pediarix": [{"preferredTerms": "Infanrix", "entityids": "UMLS/C0728745", "HPO": [], "MSH": ["MSH/D022681"]}, {"preferredTerms": "PENTA natural heparin pentassacharide", "entityids": "UMLS/C0701492", "HPO": [], "MSH": ["MSH/C064764"]}]}
+{"Influenza vaccine": [{"preferredTerms": "Influenza virus vaccine", "entityids": "UMLS/C0021403", "HPO": [], "MSH": ["MSH/D007252"]}]}
+{"Influenza vaccine (quadrivalent)": [{"preferredTerms": "Influenza virus vaccine", "entityids": "UMLS/C0021403", "HPO": [], "MSH": ["MSH/D007252"]}, {"preferredTerms": "Fluzone Quadrivalent Influenza Vaccine", "entityids": "UMLS/C4290039", "HPO": [], "MSH": []}]}
+{"Influenza vaccine (split virion, inactivated)": [{"preferredTerms": "Influenza virus vaccine", "entityids": "UMLS/C0021403", "HPO": [], "MSH": ["MSH/D007252"]}]}
+{"Influenza vaccine (split virion, inactivated, fluviral)": [{"preferredTerms": "Influenza virus vaccine", "entityids": "UMLS/C0021403", "HPO": [], "MSH": ["MSH/D007252"]}]}
+{"Ipragliflozin": [{"preferredTerms": "ipragliflozin", "entityids": "UMLS/C3492889", "HPO": [], "MSH": ["MSH/C572941"]}]}
+{"Isavuconazonium sulfate": [{"preferredTerms": "isavuconazonium sulfate", "entityids": "UMLS/C4018470", "HPO": [], "MSH": ["MSH/C508735"]}]}
+{"Ketoconazole": [{"preferredTerms": "ketoconazole", "entityids": "UMLS/C0022625", "HPO": [], "MSH": ["MSH/D007654"]}]}
+{"Lamivudine": [{"preferredTerms": "lamivudine", "entityids": "UMLS/C0209738", "HPO": [], "MSH": ["MSH/D019259"]}]}
+{"Lamotrigine": [{"preferredTerms": "lamotrigine", "entityids": "UMLS/C0064636", "HPO": [], "MSH": ["MSH/D000077213"]}]}
+{"Lapatinib": [{"preferredTerms": "lapatinib", "entityids": "UMLS/C1506770", "HPO": [], "MSH": ["MSH/D000077341"]}]}
+{"Lapatinib plus capecitabine": [{"preferredTerms": "lapatinib", "entityids": "UMLS/C1506770", "HPO": [], "MSH": ["MSH/D000077341"]}, {"preferredTerms": "capecitabine", "entityids": "UMLS/C0671970", "HPO": [], "MSH": ["MSH/D000069287"]}]}
+{"Lenvatinib": [{"preferredTerms": "lenvatinib", "entityids": "UMLS/C2986924", "HPO": [], "MSH": ["MSH/C531958"]}]}
+{"Letrozole": [{"preferredTerms": "letrozole", "entityids": "UMLS/C0246421", "HPO": [], "MSH": ["MSH/D000077289"]}]}
+{"Leuprorelin acetate": [{"preferredTerms": "leuprolide acetate", "entityids": "UMLS/C0700596", "HPO": [], "MSH": ["MSH/D016729"]}]}
+{"Levocetirizine": [{"preferredTerms": "levocetirizine", "entityids": "UMLS/C1174893", "HPO": [], "MSH": ["MSH/C472067"]}]}
+{"Licarbazepine": [{"preferredTerms": "Licarbazepine", "entityids": "UMLS/C1567854", "HPO": [], "MSH": ["MSH/C428744"]}]}
+{"Linaclotide": [{"preferredTerms": "linaclotide", "entityids": "UMLS/C2000261", "HPO": [], "MSH": ["MSH/C523483"]}]}
+{"Linerixibat": [{"preferredTerms": "Linerixibat", "entityids": "UMLS/C5238076", "HPO": [], "MSH": []}]}
+{"Linsitinib": [{"preferredTerms": "Linsitinib", "entityids": "UMLS/C2987649", "HPO": [], "MSH": ["MSH/C551528"]}]}
+{"Lisinopril": [{"preferredTerms": "lisinopril", "entityids": "UMLS/C0065374", "HPO": [], "MSH": ["MSH/D017706"]}]}
+{"Losmapimod": [{"preferredTerms": "Losmapimod", "entityids": "UMLS/C3272847", "HPO": [], "MSH": ["MSH/C543534"]}]}
+{"Mapatumumab": [{"preferredTerms": "mapatumumab", "entityids": "UMLS/C1665688", "HPO": [], "MSH": ["MSH/C507357"]}]}
+{"Maraviroc": [{"preferredTerms": "maraviroc", "entityids": "UMLS/C1667052", "HPO": [], "MSH": ["MSH/D000077592"]}]}
+{"Measles, mumps, rubella vaccine": [{"preferredTerms": "Measles Vaccine", "entityids": "UMLS/C0025010", "HPO": [], "MSH": ["MSH/D008458"]}, {"preferredTerms": "Rubella virus vaccine", "entityids": "UMLS/C0035923", "HPO": [], "MSH": ["MSH/D012411"]}]}
+{"Meloxicam": [{"preferredTerms": "meloxicam", "entityids": "UMLS/C0083381", "HPO": [], "MSH": ["MSH/D000077239"]}]}
+{"Melrilimab": [{"preferredTerms": "Melrilimab", "entityids": "UMLS/C5421171", "HPO": [], "MSH": []}]}
+{"Meningococcal group-b vaccine (rdna, component, adsorbed) rmenb+omv nz": [{"preferredTerms": "meningococcal group B vaccine", "entityids": "UMLS/C3859491", "HPO": [], "MSH": []}, {"preferredTerms": "DNA, Ribosomal", "entityids": "UMLS/C0012933", "HPO": [], "MSH": ["MSH/D004275"]}]}
+{"Meningococcal serogroup b vaccine": [{"preferredTerms": "hepatitis B surface antigen vaccine", "entityids": "UMLS/C0062527", "HPO": [], "MSH": []}]}
+{"Meningococcal serogroups a, c, w-135 and y vaccine": [{}]}
+{"Meningococcal vaccine": [{"preferredTerms": "Meningococcal vaccine", "entityids": "UMLS/C0700144", "HPO": [], "MSH": ["MSH/D022401"]}]}
+{"Mepolizumab": [{"preferredTerms": "mepolizumab", "entityids": "UMLS/C0969324", "HPO": [], "MSH": ["MSH/C434107"]}]}
+{"Metformin": [{"preferredTerms": "metformin", "entityids": "UMLS/C0025598", "HPO": [], "MSH": ["MSH/D008687"]}]}
+{"Methylphenidate": [{"preferredTerms": "methylphenidate", "entityids": "UMLS/C0025810", "HPO": [], "MSH": ["MSH/D008774"]}]}
+{"Micafungin": [{"preferredTerms": "micafungin", "entityids": "UMLS/C1120386", "HPO": [], "MSH": ["MSH/D000077551"]}]}
+{"Midostaurin": [{"preferredTerms": "midostaurin", "entityids": "UMLS/C0526371", "HPO": [], "MSH": ["MSH/C059539"]}]}
+{"Milveterol": [{"preferredTerms": "Milveterol", "entityids": "UMLS/C2698231", "HPO": [], "MSH": []}]}
+{"Mirabegron": [{"preferredTerms": "mirabegron", "entityids": "UMLS/C2983812", "HPO": [], "MSH": ["MSH/C520025"]}]}
+{"Molibresib": [{"preferredTerms": "molibresib", "entityids": "UMLS/C4682384", "HPO": [], "MSH": ["MSH/C554645"]}]}
+{"Montelukast": [{"preferredTerms": "montelukast", "entityids": "UMLS/C0298130", "HPO": [], "MSH": ["MSH/C093875"]}]}
+{"Nabumetone": [{"preferredTerms": "nabumetone", "entityids": "UMLS/C0068334", "HPO": [], "MSH": ["MSH/D000077430"]}]}
+{"Nadroparin calcium": [{"preferredTerms": "nadroparin", "entityids": "UMLS/C0206232", "HPO": [], "MSH": ["MSH/D017762"]}]}
+{"Naquotinib mesilate": [{"preferredTerms": "naquotinib", "entityids": "UMLS/C4519293", "HPO": [], "MSH": ["MSH/C000627869"]}]}
+{"Naratriptan": [{"preferredTerms": "naratriptan", "entityids": "UMLS/C0540623", "HPO": [], "MSH": ["MSH/C106783"]}]}
+{"Nemiralisib": [{"preferredTerms": "Nemiralisib", "entityids": "UMLS/C5197976", "HPO": [], "MSH": ["MSH/C000629641"]}]}
+{"Nepafenac ophthalmic suspension, 0.3%": [{"preferredTerms": "nepafenac", "entityids": "UMLS/C0961209", "HPO": [], "MSH": ["MSH/C414203"]}]}
+{"Nicotine": [{"preferredTerms": "nicotine", "entityids": "UMLS/C0028040", "HPO": [], "MSH": ["MSH/D009538"]}]}
+{"Nicotine polacrilex": [{"preferredTerms": "nicotine polacrilex", "entityids": "UMLS/C0068722", "HPO": [], "MSH": ["MSH/D061485"]}]}
+{"Nicotine polacrilex lozenge 2 mg and 4 mg": [{"preferredTerms": "nicotine polacrilex", "entityids": "UMLS/C0068722", "HPO": [], "MSH": ["MSH/D061485"]}]}
+{"Nilotinib": [{"preferredTerms": "nilotinib", "entityids": "UMLS/C1721377", "HPO": [], "MSH": ["MSH/C498826"]}]}
+{"Nivolumab": [{"preferredTerms": "nivolumab", "entityids": "UMLS/C3657270", "HPO": [], "MSH": ["MSH/D000077594"]}]}
+{"Octreotide": [{"preferredTerms": "octreotide", "entityids": "UMLS/C0028833", "HPO": [], "MSH": ["MSH/D015282"]}]}
+{"Ofatumumab": [{"preferredTerms": "ofatumumab", "entityids": "UMLS/C1832027", "HPO": [], "MSH": ["MSH/C527517"]}]}
+{"Oligofructose": [{"preferredTerms": "oligofructose", "entityids": "UMLS/C0907858", "HPO": [], "MSH": ["MSH/C120489"]}]}
+{"Olodanrigan": [{"preferredTerms": "Olodanrigan", "entityids": "UMLS/C5420974", "HPO": [], "MSH": []}]}
+{"Olopatadine hydrochloride": [{"preferredTerms": "olopatadine hydrochloride", "entityids": "UMLS/C0771892", "HPO": [], "MSH": ["MSH/D000069605"]}]}
+{"Omalizumab": [{"preferredTerms": "omalizumab", "entityids": "UMLS/C0966225", "HPO": [], "MSH": ["MSH/D000069444"]}]}
+{"Omega-3-acid ethyl esters": [{"preferredTerms": "omega-3 acid ethyl esters (USP)", "entityids": "UMLS/C1532673", "HPO": [], "MSH": []}]}
+{"Omipalisib": [{"preferredTerms": "omipalisib", "entityids": "UMLS/C4519177", "HPO": [], "MSH": ["MSH/C561454"]}]}
+{"Onabotulinumtoxina": [{"preferredTerms": "onabotulinumtoxinA", "entityids": "UMLS/C2719767", "HPO": [], "MSH": ["MSH/D019274"]}]}
+{"Onasemnogene abeparvovec xioi": [{"preferredTerms": "onasemnogene abeparvovec-xioi", "entityids": "UMLS/C5140521", "HPO": [], "MSH": ["MSH/C000710948"]}]}
+{"Onasemnogene abeparvovec-xioi": [{"preferredTerms": "onasemnogene abeparvovec-xioi", "entityids": "UMLS/C5140521", "HPO": [], "MSH": ["MSH/C000710948"]}]}
+{"Otelixizumab": [{"preferredTerms": "otelixizumab", "entityids": "UMLS/C2935224", "HPO": [], "MSH": ["MSH/C550701"]}]}
+{"Otilimab": [{"preferredTerms": "Otilimab", "entityids": "UMLS/C4731002", "HPO": [], "MSH": ["MSH/C000599766"]}]}
+{"Oxcarbazepine": [{"preferredTerms": "oxcarbazepine", "entityids": "UMLS/C0069751", "HPO": [], "MSH": ["MSH/D000078330"]}]}
+{"Oxytocin": [{"preferredTerms": "oxytocin", "entityids": "UMLS/C0030095", "HPO": [], "MSH": ["MSH/D010121"]}]}
+{"Panobinostat": [{"preferredTerms": "panobinostat", "entityids": "UMLS/C1998098", "HPO": [], "MSH": ["MSH/D000077767"]}]}
+{"Paroxetine": [{"preferredTerms": "paroxetine", "entityids": "UMLS/C0070122", "HPO": [], "MSH": ["MSH/D017374"]}]}
+{"Pazopanib": [{"preferredTerms": "pazopanib", "entityids": "UMLS/C1831796", "HPO": [], "MSH": ["MSH/C516667"]}]}
+{"Pectin": [{"preferredTerms": "Pectins", "entityids": "UMLS/C0030744", "HPO": [], "MSH": ["MSH/D010368"]}]}
+{"Peficitinib hydrobromide": [{"preferredTerms": "Peficitinib Hydrobromide", "entityids": "UMLS/C5418498", "HPO": [], "MSH": []}]}
+{"Perampanel": [{"preferredTerms": "perampanel", "entityids": "UMLS/C2698764", "HPO": [], "MSH": ["MSH/C551441"]}]}
+{"Pneumococcal polysaccharide conjugate vaccine (adsorbed)": [{"preferredTerms": "Polyvalent pneumococcal vaccine", "entityids": "UMLS/C0305065", "HPO": [], "MSH": ["MSH/D022242"]}]}
+{"Poliomyelitis vaccine (inactivated)": [{"preferredTerms": "Vaccines", "entityids": "UMLS/C0042210", "HPO": [], "MSH": ["MSH/D014612"]}]}
+{"Polysaccharide typhoid vaccine": [{"preferredTerms": "Vi Capsular Polysaccharide Typhoid Vaccine", "entityids": "UMLS/C3273244", "HPO": [], "MSH": []}]}
+{"Potassium nitrate/sodium fluoride": [{"preferredTerms": "potassium nitrate / sodium fluoride", "entityids": "UMLS/C2929521", "HPO": [], "MSH": []}]}
+{"Propafenone": [{"preferredTerms": "propafenone", "entityids": "UMLS/C0033429", "HPO": [], "MSH": ["MSH/D011405"]}]}
+{"Pyrimethamine": [{"preferredTerms": "pyrimethamine", "entityids": "UMLS/C0034283", "HPO": [], "MSH": ["MSH/D011739"]}]}
+{"Rabeprazole": [{"preferredTerms": "rabeprazole", "entityids": "UMLS/C0378482", "HPO": [], "MSH": ["MSH/D064750"]}]}
+{"Ranibizumab": [{"preferredTerms": "ranibizumab", "entityids": "UMLS/C1566537", "HPO": [], "MSH": ["MSH/D000069579"]}]}
+{"Raxibacumab": [{"preferredTerms": "raxibacumab", "entityids": "UMLS/C2717174", "HPO": [], "MSH": ["MSH/C542124"]}]}
+{"Refanezumab": [{"preferredTerms": "refanezumab", "entityids": "UMLS/C4726669", "HPO": [], "MSH": ["MSH/C581856"]}]}
+{"Regadenoson": [{"preferredTerms": "regadenoson", "entityids": "UMLS/C1698215", "HPO": [], "MSH": ["MSH/C430916"]}]}
+{"Relacatib": [{"preferredTerms": "relacatib", "entityids": "UMLS/C1700101", "HPO": [], "MSH": ["MSH/C509706"]}]}
+{"Remifentanil": [{"preferredTerms": "remifentanil", "entityids": "UMLS/C0246631", "HPO": [], "MSH": ["MSH/D000077208"]}]}
+{"Reslizumab": [{"preferredTerms": "reslizumab", "entityids": "UMLS/C1869620", "HPO": [], "MSH": ["MSH/C515492"]}]}
+{"Resveratrol": [{"preferredTerms": "resveratrol", "entityids": "UMLS/C0073096", "HPO": [], "MSH": ["MSH/D000077185"]}]}
+{"Retapamulin": [{"preferredTerms": "retapamulin", "entityids": "UMLS/C1703334", "HPO": [], "MSH": ["MSH/C508887"]}]}
+{"Retigabine": [{"preferredTerms": "ezogabine", "entityids": "UMLS/C0530684", "HPO": [], "MSH": ["MSH/C101866"]}]}
+{"Retigabine, ezogabine": [{"preferredTerms": "ezogabine", "entityids": "UMLS/C0530684", "HPO": [], "MSH": ["MSH/C101866"]}]}
+{"Retosiban": [{"preferredTerms": "Retosiban", "entityids": "UMLS/C2699069", "HPO": [], "MSH": ["MSH/C522194"]}]}
+{"Ribavirin": [{"preferredTerms": "ribavirin", "entityids": "UMLS/C0035525", "HPO": [], "MSH": ["MSH/D012254"]}]}
+{"Rilapladib": [{"preferredTerms": "rilapladib", "entityids": "UMLS/C2699087", "HPO": [], "MSH": ["MSH/C000592856"]}]}
+{"Rilpivirine": [{"preferredTerms": "rilpivirine", "entityids": "UMLS/C1566826", "HPO": [], "MSH": ["MSH/D000068696"]}]}
+{"Rivastigmine": [{"preferredTerms": "rivastigmine", "entityids": "UMLS/C0649350", "HPO": [], "MSH": ["MSH/D000068836"]}]}
+{"Ronacaleret": [{"preferredTerms": "ronacaleret", "entityids": "UMLS/C2825588", "HPO": [], "MSH": ["MSH/C561716"]}]}
+{"Ropinirole": [{"preferredTerms": "ropinirole", "entityids": "UMLS/C0244821", "HPO": [], "MSH": ["MSH/C046649"]}]}
+{"Rosiglitazone": [{"preferredTerms": "rosiglitazone", "entityids": "UMLS/C0289313", "HPO": [], "MSH": ["MSH/D000077154"]}]}
+{"Rosiglitazone/glimepiride": [{"preferredTerms": "rosiglitazone", "entityids": "UMLS/C0289313", "HPO": [], "MSH": ["MSH/D000077154"]}, {"preferredTerms": "glimepiride", "entityids": "UMLS/C0061323", "HPO": [], "MSH": ["MSH/C057619"]}]}
+{"Rosiglitazone/metformin": [{"preferredTerms": "rosiglitazone", "entityids": "UMLS/C0289313", "HPO": [], "MSH": ["MSH/D000077154"]}, {"preferredTerms": "metformin", "entityids": "UMLS/C0025598", "HPO": [], "MSH": ["MSH/D008687"]}]}
+{"Rosiglitazone/simvastatin": [{"preferredTerms": "rosiglitazone", "entityids": "UMLS/C0289313", "HPO": [], "MSH": ["MSH/D000077154"]}, {"preferredTerms": "simvastatin", "entityids": "UMLS/C0074554", "HPO": [], "MSH": ["MSH/D019821"]}]}
+{"Rotavirus vaccine": [{"preferredTerms": "Rotavirus Vaccines", "entityids": "UMLS/C0597418", "HPO": [], "MSH": ["MSH/D022243"]}]}
+{"Rts,s vaccine": [{"preferredTerms": "RTS,S-AS02A vaccine", "entityids": "UMLS/C1528874", "HPO": [], "MSH": ["MSH/C493155"]}]}
+{"Rufinamide": [{"preferredTerms": "rufinamide", "entityids": "UMLS/C0213404", "HPO": [], "MSH": ["MSH/C079703"]}]}
+{"Ruxolitinib": [{"preferredTerms": "ruxolitinib", "entityids": "UMLS/C2931926", "HPO": [], "MSH": ["MSH/C540383"]}]}
+{"Sacubitril/valsartan": [{"preferredTerms": "sacubitril", "entityids": "UMLS/C4033447", "HPO": [], "MSH": ["MSH/C000717211"]}, {"preferredTerms": "valsartan", "entityids": "UMLS/C0216784", "HPO": [], "MSH": ["MSH/D000068756"]}]}
+{"Salbutamol": [{"preferredTerms": "albuterol", "entityids": "UMLS/C0001927", "HPO": [], "MSH": ["MSH/D000420"]}]}
+{"Salmeterol": [{"preferredTerms": "salmeterol", "entityids": "UMLS/C0073992", "HPO": [], "MSH": ["MSH/D000068299"]}]}
+{"Sargramostim": [{"preferredTerms": "sargramostim", "entityids": "UMLS/C0216231", "HPO": [], "MSH": ["MSH/C081222"]}]}
+{"Secukinumab": [{"preferredTerms": "secukinumab", "entityids": "UMLS/C3179547", "HPO": [], "MSH": ["MSH/C555450"]}]}
+{"Serelaxin": [{"preferredTerms": "Serelaxin", "entityids": "UMLS/C3700393", "HPO": [], "MSH": []}]}
+{"Siponimod": [{"preferredTerms": "siponimod", "entityids": "UMLS/C3657824", "HPO": [], "MSH": ["MSH/C578989"]}]}
+{"Solcitinib": [{"preferredTerms": "Solcitinib", "entityids": "UMLS/C4726763", "HPO": [], "MSH": []}]}
+{"Solifenacin succinate": [{"preferredTerms": "solifenacin succinate", "entityids": "UMLS/C1509436", "HPO": [], "MSH": ["MSH/D000069464"]}]}
+{"Solifenacin succinate + tamsulosin": [{"preferredTerms": "solifenacin succinate", "entityids": "UMLS/C1509436", "HPO": [], "MSH": ["MSH/D000069464"]}, {"preferredTerms": "tamsulosin", "entityids": "UMLS/C0257343", "HPO": [], "MSH": ["MSH/D000077409"]}]}
+{"Sumatriptan": [{"preferredTerms": "sumatriptan", "entityids": "UMLS/C0075632", "HPO": [], "MSH": ["MSH/D018170"]}]}
+{"Sumatriptan/naproxen": [{"preferredTerms": "naproxen / sumatriptan", "entityids": "UMLS/C2343923", "HPO": [], "MSH": ["MSH/C000611385"]}]}
+{"Tacrolimus": [{"preferredTerms": "tacrolimus", "entityids": "UMLS/C0085149", "HPO": [], "MSH": ["MSH/D016559"]}]}
+{"Tacrolimus extended-release": [{"preferredTerms": "tacrolimus", "entityids": "UMLS/C0085149", "HPO": [], "MSH": ["MSH/D016559"]}]}
+{"Tafenoquine": [{"preferredTerms": "tafenoquine", "entityids": "UMLS/C0903411", "HPO": [], "MSH": ["MSH/C055852"]}]}
+{"Talnetant": [{"preferredTerms": "Talnetant", "entityids": "UMLS/C1701942", "HPO": [], "MSH": ["MSH/C106716"]}]}
+{"Tamsulosin hcl": [{"preferredTerms": "tamsulosin", "entityids": "UMLS/C0257343", "HPO": [], "MSH": ["MSH/D000077409"]}]}
+{"Tapentadol": [{"preferredTerms": "tapentadol", "entityids": "UMLS/C2001271", "HPO": [], "MSH": ["MSH/D000077432"]}]}
+{"Tapinarof": [{"preferredTerms": "tapinarof", "entityids": "UMLS/C4541381", "HPO": [], "MSH": ["MSH/C571829"]}]}
+{"Tazarotene": [{"preferredTerms": "tazarotene", "entityids": "UMLS/C0288792", "HPO": [], "MSH": ["MSH/C086827"]}]}
+{"Tenofovir disoproxil fumarate": [{"preferredTerms": "tenofovir disoproxil fumarate", "entityids": "UMLS/C1099776", "HPO": [], "MSH": ["MSH/D000068698"]}]}
+{"Tisagenlecleucel": [{"preferredTerms": "tisagenlecleucel Injection", "entityids": "UMLS/C4529946", "HPO": [], "MSH": []}]}
+{"Tositumomab": [{"preferredTerms": "tositumomab", "entityids": "UMLS/C0879399", "HPO": [], "MSH": []}]}
+{"Trametinib": [{"preferredTerms": "trametinib", "entityids": "UMLS/C2697961", "HPO": [], "MSH": ["MSH/C560077"]}]}
+{"Travoprost ophthalmic solution": [{"preferredTerms": "travoprost", "entityids": "UMLS/C0937916", "HPO": [], "MSH": ["MSH/D000069557"]}]}
+{"Triclabendazole": [{"preferredTerms": "triclabendazole", "entityids": "UMLS/C0077071", "HPO": [], "MSH": ["MSH/D000077682"]}]}
+{"Trivalent group b streptococcus vaccine": [{"preferredTerms": "Streptococcal Vaccines", "entityids": "UMLS/C0887906", "HPO": [], "MSH": ["MSH/D022541"]}]}
+{"Twinrix": [{"preferredTerms": "Twinrix", "entityids": "UMLS/C0593953", "HPO": [], "MSH": ["MSH/C433226"]}]}
+{"Umeclidinium bromide": [{"preferredTerms": "umeclidinium bromide", "entityids": "UMLS/C3709474", "HPO": [], "MSH": []}]}
+{"Umeclidinium bromide/vilanterol": [{"preferredTerms": "umeclidinium bromide", "entityids": "UMLS/C3709474", "HPO": [], "MSH": []}, {"preferredTerms": "vilanterol", "entityids": "UMLS/C2935023", "HPO": [], "MSH": ["MSH/C550468"]}]}
+{"Valaciclovir": [{"preferredTerms": "valacyclovir", "entityids": "UMLS/C0249458", "HPO": [], "MSH": ["MSH/D000077483"]}]}
+{"Valsartan": [{"preferredTerms": "valsartan", "entityids": "UMLS/C0216784", "HPO": [], "MSH": ["MSH/D000068756"]}]}
+{"Varicella vaccine": [{"preferredTerms": "Chickenpox Vaccine", "entityids": "UMLS/C0078048", "HPO": [], "MSH": ["MSH/D019433"]}]}
+{"Vercirnon": [{"preferredTerms": "Vercirnon", "entityids": "UMLS/C3713948", "HPO": [], "MSH": ["MSH/C583420"]}]}
+{"Vestipitant": [{"preferredTerms": "vestipitant", "entityids": "UMLS/C2607417", "HPO": [], "MSH": ["MSH/C534550"]}]}
+{"Vestipitant/paroxetine": [{"preferredTerms": "vestipitant", "entityids": "UMLS/C2607417", "HPO": [], "MSH": ["MSH/C534550"]}, {"preferredTerms": "paroxetine", "entityids": "UMLS/C0070122", "HPO": [], "MSH": ["MSH/D017374"]}]}
+{"Vilanterol": [{"preferredTerms": "vilanterol", "entityids": "UMLS/C2935023", "HPO": [], "MSH": ["MSH/C550468"]}]}
+{"Vilanterol/darotropium bromide": [{"preferredTerms": "Darotropium Bromide", "entityids": "UMLS/C2699560", "HPO": [], "MSH": []}]}
+{"Vildagliptin": [{"preferredTerms": "vildagliptin", "entityids": "UMLS/C1570906", "HPO": [], "MSH": ["MSH/D000077597"]}]}
+{"Zanamivir": [{"preferredTerms": "zanamivir", "entityids": "UMLS/C0216660", "HPO": [], "MSH": ["MSH/D053243"]}]}
+{"Zoledronic acid": [{"preferredTerms": "zoledronic acid", "entityids": "UMLS/C0257685", "HPO": [], "MSH": ["MSH/D000077211"]}]}
+{"indacaterol": [{"preferredTerms": "indacaterol", "entityids": "UMLS/C1722260", "HPO": [], "MSH": ["MSH/C510790"]}]}
+{"lanadelumab": [{"preferredTerms": "lanadelumab", "entityids": "UMLS/C4505508", "HPO": [], "MSH": ["MSH/C000596550"]}]}
+{"pazopanib": [{"preferredTerms": "pazopanib", "entityids": "UMLS/C1831796", "HPO": [], "MSH": ["MSH/C516667"]}]}

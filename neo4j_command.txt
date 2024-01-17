@@ -1,0 +1,32 @@
+CREATE CONSTRAINT IF NOT EXISTS FOR (c:Condition) REQUIRE c.UMLS IS UNIQUE
+;
+CREATE CONSTRAINT IF NOT EXISTS FOR (m:Medicine) REQUIRE m.UMLS IS UNIQUE
+;
+CREATE CONSTRAINT IF NOT EXISTS FOR (t:Trial) REQUIRE t.id IS UNIQUE
+;
+LOAD CSV WITH HEADERS FROM 'file:///conditions.tsv' AS row FIELDTERMINATOR '\t' MERGE (c:Condition {UMLS: row.UMLS, name: coalesce(row.name, ""), HPO: split(coalesce(row.HPO, ''), '|'), MSH: split(coalesce(row.MSH, ''), '|')})
+;
+LOAD CSV WITH HEADERS FROM 'file:///medicines.tsv' AS row FIELDTERMINATOR '\t' MERGE (c:Medicine {UMLS: row.UMLS, name: coalesce(row.name, ""), HPO: split(coalesce(row.HPO, ''), '|'), MSH: split(coalesce(row.MSH, ''), '|')})
+;
+LOAD CSV WITH HEADERS FROM 'file:///clinical_study_data_request_com_all_sponsor.tsv' AS row FIELDTERMINATOR '\t' MERGE (t:Trial {name: row.`Study Title`, id: row.`Posting ID`, sponsor: row.`Sponsor`, 
+original_medicine: row.`Medicine or Vaccine (generic name)`, original_condition: row.`Medical Condition`, phase: row.Phase, url: coalesce(row.`Link to study details on ClinicalTrials.gov (if available)`, ''), date_added: row.`Date Added to this Site`,
+analysis_ready_data: row.`Analysis-ready dataset`})
+;
+
+
+LOAD CSV WITH HEADERS FROM 'file:///trial_conditions.tsv' AS row FIELDTERMINATOR '\t' MERGE (p1:Trial {id: row.from}) MERGE (p2:Condition {UMLS: row.to}) MERGE (p1)-[r:FOCUSES_ON]->(p2)
+;
+LOAD CSV WITH HEADERS FROM 'file:///trial_medicines.tsv' AS row FIELDTERMINATOR '\t' MERGE (p1:Trial {id: row.from}) MERGE (p2:Medicine {UMLS: row.to}) MERGE (p1)-[r:TESTS]->(p2)
+;
+
+
+
+MATCH (m1:Medicine) <-[:TESTS]- (t1:Trial) -[:FOCUSES_ON]->(c1:Condition) WITH c1, collect(DISTINCT m1.name) AS drug_list WHERE size(drug_list) > 1 RETURN c1.name, drug_list LIMIT 20;
+
+MATCH (m1:Medicine) <-[:TESTS]- (t1:Trial) -[:FOCUSES_ON]->(c1:Condition {name:"Rhinitis"}) RETURN DISTINCT(m1.name) LIMIT 20;
+
+
+MATCH (m1:Medicine) <-[:TESTS]- (t1:Trial) WITH m1, collect(t1) AS trials RETURN m1, reduce(sum=0, x IN trials | sum+1) LIMIT 10
+
+
+MATCH (m1:Medicine) <-[:TESTS]- (t1:Trial) WITH m1, collect(DISTINCT t1) AS trials RETURN m1.name, reduce(sum=0, x IN trials | sum+1) AS `total trials` LIMIT 10
