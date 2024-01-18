@@ -1,6 +1,7 @@
 import requests
 import os
-
+from threading import Thread
+import queue
 umls_token = os.getenv('UMLS')
 
 #https://uts-ws.nlm.nih.gov/rest/content/current/source/MSH/D014839/relations?apiKey=
@@ -13,29 +14,59 @@ def get_parent_HPO(hpo_id: str, umls_token: str):
 
     results = []
     
-    for r in response["result"]:
-        if "relatedId" in r and "relatedIdName" in r:
-            parent_hpo = r["relatedId"].split("/")[-1]
-            parent_name = r["relatedIdName"]
-            if parent_hpo.startswith("HP:"):
-                results.append((parent_hpo, parent_name))
-    
-    return results
+    if "result" not in response:
+        return results
+
+    else:
+        for r in response["result"]:
+            if "relatedId" in r and "relatedIdName" in r:
+                parent_hpo = r["relatedId"].split("/")[-1]
+                parent_name = r["relatedIdName"]
+                if parent_hpo.startswith("HP:"):
+                    results.append((parent_hpo, parent_name))
+        
+        return results
 
 def recursive_get_parent_HPO(hpo_id: str, umls_token: str):
-    # history = []
 
-    # results = get_parent_HPO(hpo_id, umls_token)
+    in_queue = queue.Queue()
+    out_queue = queue.Queue()
 
-    # for r in results:
-    #     parent_hpo = r[0]
-    #     parent_name = r[1]
-    #     history.append((parent_hpo, parent_name))
+    threads = 1
 
-            
-    #     if parent_hpo != "HP:0000001":
-    #         sub_results = recursive_get_parent_HPO(parent_hpo, umls_token)
-    #         break
+    def work():
+        while True:
+            son_hpo_id = in_queue.get()
+            print ("son_hpo_id", son_hpo_id, get_parent_HPO(son_hpo_id, umls_token))
+
+            for entity in get_parent_HPO(son_hpo_id, umls_token):
+                print (entity)
+                out_queue.put((son_hpo_id, entity[0], entity[1]))
+                in_queue.put(entity[0])
+
+       
+            in_queue.task_done()
+    
+    for i in range(threads):
+        
+        t = Thread(target=work)
+        t.daemon = True
+        t.start()
+
+    
+    in_queue.put(hpo_id)
+        
+    
+    in_queue.join()   
+ 
+    result = []
+    
+    while not out_queue.empty():
+        
+        result.append( out_queue.get())
+
+    #print result
+    return result
 
 
     # return history
@@ -57,6 +88,6 @@ def get_may_be_treated_by(msh_id: str, umls_token: str):
     return may_be_treated_by_drugs
 
 if __name__ == "__main__":
-    print(get_parent_HPO("HP:0011458", umls_token))
-    #print(recursive_get_parent_HPO("HP:0011458", umls_token))
+    #print(get_parent_HPO("HP:0000001", umls_token))
+    print(recursive_get_parent_HPO("HP:0011458", umls_token))
     #print(get_may_be_treated_by("D014839", umls_token))
