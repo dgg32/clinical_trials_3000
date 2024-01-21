@@ -8,6 +8,7 @@ umls_token = os.getenv('UMLS')
 
 #https://uts-ws.nlm.nih.gov/rest/content/current/source/HPO/HP:0002013/relations?includeRelationLabels=CHD&apiKey=
 
+
 def get_parent_HPO(hpo_id: str, umls_token: str):
     url = f"https://uts-ws.nlm.nih.gov/rest/content/current/source/HPO/{hpo_id}/relations?includeRelationLabels=CHD&includeAdditionalRelationLabels=isa&apiKey={umls_token}"
     response = requests.get(url).json()
@@ -40,7 +41,6 @@ def recursive_get_parent_HPO(hpo_id: str, umls_token: str):
             print ("son_hpo_id", son_hpo_id, get_parent_HPO(son_hpo_id, umls_token))
 
             for entity in get_parent_HPO(son_hpo_id, umls_token):
-                print (entity)
                 out_queue.put((son_hpo_id, entity[0], entity[1]))
                 in_queue.put(entity[0])
 
