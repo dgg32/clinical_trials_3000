@@ -9,24 +9,49 @@ umls_token = os.getenv('UMLS')
 #https://uts-ws.nlm.nih.gov/rest/content/current/source/HPO/HP:0002013/relations?includeRelationLabels=CHD&apiKey=
 
 
-def get_parent_HPO(hpo_id: str, umls_token: str):
-    url = f"https://uts-ws.nlm.nih.gov/rest/content/current/source/HPO/{hpo_id}/relations?includeRelationLabels=CHD&includeAdditionalRelationLabels=isa&apiKey={umls_token}"
+def get_all_items(source_name: str, id: str, extra_parameter: str, umls_token: str):
+    url = f"https://uts-ws.nlm.nih.gov/rest/content/current/source/{source_name}/{id}/relations?{extra_parameter}&apiKey={umls_token}"
+
     response = requests.get(url).json()
 
-    results = []
+    page_count = int(response["pageCount"])
+
+    #print ("page_count", page_count)
+    
+    results = get_item(response)
+
+    for i in range(2, page_count+1):
+        new_url = url + f"&pageNumber={i}"
+
+        new_response = requests.get(new_url).json()
+
+        #print ("new_url", new_url)
+        #print ("new_response", new_response)
+
+        results += get_item(new_response)
+    
+    return results
+
+
+
+def get_item(response: str):
+
+    result = []
     
     if "result" not in response:
-        return results
+        return result
 
     else:
         for r in response["result"]:
-            if "relatedId" in r and "relatedIdName" in r:
-                parent_hpo = r["relatedId"].split("/")[-1]
-                parent_name = r["relatedIdName"]
-                if parent_hpo.startswith("HP:"):
-                    results.append((parent_hpo, parent_name))
+            if r["classType"] == "AtomClusterRelation" and "relatedId" in r and "relatedIdName" in r:
+                item_id = r["relatedId"].split("/")[-1]
+                item_name = r["relatedIdName"]
+
+
+                result.append((item_id, item_name))
+
         
-        return results
+        return result
 
 def recursive_get_parent_HPO(hpo_id: str, umls_token: str):
 
@@ -38,9 +63,9 @@ def recursive_get_parent_HPO(hpo_id: str, umls_token: str):
     def work():
         while True:
             son_hpo_id = in_queue.get()
-            print ("son_hpo_id", son_hpo_id, get_parent_HPO(son_hpo_id, umls_token))
+            #print ("son_hpo_id", son_hpo_id, get_all_items("HPO", son_hpo_id, "includeRelationLabels=CHD&includeAdditionalRelationLabels=isa", umls_token))
 
-            for entity in get_parent_HPO(son_hpo_id, umls_token):
+            for entity in get_all_items("HPO", son_hpo_id, "includeRelationLabels=CHD&includeAdditionalRelationLabels=isa", umls_token):
                 out_queue.put((son_hpo_id, entity[0], entity[1]))
                 in_queue.put(entity[0])
 
@@ -69,25 +94,18 @@ def recursive_get_parent_HPO(hpo_id: str, umls_token: str):
     return result
 
 
-    # return history
 
-def get_may_be_treated_by(msh_id: str, umls_token: str):
-    url = f"https://uts-ws.nlm.nih.gov/rest/content/current/source/MSH/{msh_id}/relations?includeAdditionalRelationLabels=may_be_treated_by&apiKey={umls_token}"
-    response = requests.get(url).json()
-
-    #print (response)
-    may_be_treated_by_drugs = []
-    
-    for r in response["result"]:
-        if "relatedId" in r and "relatedIdName" in r:
-            id = r["relatedId"].split("/")[-1]
-            name = r["relatedIdName"]
-
-            may_be_treated_by_drugs.append((id, name))
-
-    return may_be_treated_by_drugs
 
 if __name__ == "__main__":
     #print(get_parent_HPO("HP:0000001", umls_token))
+    #print(recursive_get_parent_HPO("HP:0011458", umls_token))
+
+#### get may_be_prevented_by drugs of a disease
+    result = get_all_items("MSH", "D014839", "includeAdditionalRelationLabels=may_be_prevented_by", umls_token)
+
+    assert len(result) == 40
+    print (result)
+    
+#### recursive get all parent HPO
+    print ("\n\n")
     print(recursive_get_parent_HPO("HP:0011458", umls_token))
-    #print(get_may_be_treated_by("D014839", umls_token))
