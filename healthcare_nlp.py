@@ -85,6 +85,7 @@ def get_json(json_form: str, category: str, corrections: dict, offset_text) -> s
 
                         HPO = []
                         MSH = []
+                        RXNORM = []
 
 
                         for id in linkedEntities[entityids]["vocabularyCodes"]:
@@ -92,8 +93,10 @@ def get_json(json_form: str, category: str, corrections: dict, offset_text) -> s
                                 HPO.append(id)
                             elif id.startswith("MSH"):
                                 MSH.append(id)
+                            elif id.startswith("RXNORM"):
+                                RXNORM.append(id)
 
-                        resolved_entities.append({"preferredTerms": preferredTerms, "entityids": entityids, "HPO": HPO, "MSH": MSH})
+                        resolved_entities.append({"preferredTerms": preferredTerms, "entityids": entityids, "HPO": HPO, "MSH": MSH, "RXNORM": RXNORM})
             else:
                 resolved_entities.append({})
         

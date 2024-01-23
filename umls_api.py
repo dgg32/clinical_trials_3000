@@ -7,30 +7,35 @@ umls_token = os.getenv('UMLS')
 #https://uts-ws.nlm.nih.gov/rest/content/current/source/MSH/D014839/relations?apiKey=
 
 #https://uts-ws.nlm.nih.gov/rest/content/current/source/HPO/HP:0002013/relations?includeRelationLabels=CHD&apiKey=
-
+done = set()
 
 def get_all_items(source_name: str, id: str, extra_parameter: str, umls_token: str):
     url = f"https://uts-ws.nlm.nih.gov/rest/content/current/source/{source_name}/{id}/relations?{extra_parameter}&apiKey={umls_token}"
 
     response = requests.get(url).json()
 
-    page_count = int(response["pageCount"])
+    if "status" in response and str(response["status"]) == "404":
+        return []
+    else:
+        #print ("response", response)
 
-    #print ("page_count", page_count)
-    
-    results = get_item(response)
+        page_count = int(response["pageCount"])
 
-    for i in range(2, page_count+1):
-        new_url = url + f"&pageNumber={i}"
+        #print ("page_count", page_count)
+        
+        results = get_item(response)
 
-        new_response = requests.get(new_url).json()
+        for i in range(2, page_count+1):
+            new_url = url + f"&pageNumber={i}"
 
-        #print ("new_url", new_url)
-        #print ("new_response", new_response)
+            new_response = requests.get(new_url).json()
 
-        results += get_item(new_response)
-    
-    return results
+            #print ("new_url", new_url)
+            #print ("new_response", new_response)
+
+            results += get_item(new_response)
+        
+        return results
 
 
 
@@ -54,6 +59,7 @@ def get_item(response: str):
         return result
 
 def recursive_get_parent_HPO(hpo_id: str, umls_token: str):
+    #print ("done", done)
 
     in_queue = queue.Queue()
     out_queue = queue.Queue()
@@ -65,11 +71,13 @@ def recursive_get_parent_HPO(hpo_id: str, umls_token: str):
             son_hpo_id = in_queue.get()
             #print ("son_hpo_id", son_hpo_id, get_all_items("HPO", son_hpo_id, "includeRelationLabels=CHD&includeAdditionalRelationLabels=isa", umls_token))
 
-            for entity in get_all_items("HPO", son_hpo_id, "includeRelationLabels=CHD&includeAdditionalRelationLabels=isa", umls_token):
-                out_queue.put((son_hpo_id, entity[0], entity[1]))
-                in_queue.put(entity[0])
+            if son_hpo_id not in done:
+                for entity in get_all_items("HPO", son_hpo_id, "includeRelationLabels=CHD&includeAdditionalRelationLabels=isa", umls_token):
+                    out_queue.put((son_hpo_id, entity[0], entity[1]))
+                    
+                    in_queue.put(entity[0])
+                done.add(son_hpo_id)
 
-       
             in_queue.task_done()
     
     for i in range(threads):
@@ -91,6 +99,7 @@ def recursive_get_parent_HPO(hpo_id: str, umls_token: str):
         result.append( out_queue.get())
 
     #print result
+    
     return result
 
 

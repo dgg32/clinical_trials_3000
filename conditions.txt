@@ -74,6 +74,7 @@ Depressive disorder, major
 Dermatitis, atopic
 Dermatitis, chronic
 Dermatitis, seborrheic
+Dermatologic disorders
 Diabetes mellitus
 Diabetes mellitus, type 1
 Diabetes mellitus, type 2
@@ -299,7 +300,6 @@ Sickle cell disease
 Sinusitis
 Sinusitis, acute
 Sjoegren's syndrome
-Skin diseases
 Skin infections, bacterial
 Sleep disorders
 Sleep initiation and maintenance disorders
