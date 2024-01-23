@@ -1,350 +1,350 @@
-{"Chronic Obstructive Airway Disease": [{"preferredTerms": "Chronic Obstructive Airway Disease", "entityids": "UMLS/C0024117", "HPO": ["HPO/HP:0006510"], "MSH": ["MSH/D029424"], "RXNORM": []}, {"preferredTerms": "Acquired Immunodeficiency Syndrome", "entityids": "UMLS/C0001175", "HPO": [], "MSH": ["MSH/D000163"], "RXNORM": []}]}
-{"AIDS": [{"preferredTerms": "Pertussis", "entityids": "UMLS/C0043167", "HPO": [], "MSH": ["MSH/D014917"], "RXNORM": []}]}
-{"Acellular pertussis": [{"preferredTerms": "Acne Vulgaris", "entityids": "UMLS/C0001144", "HPO": [], "MSH": ["MSH/D000152"], "RXNORM": []}]}
-{"Acne vulgaris": [{"preferredTerms": "Acute Coronary Syndrome", "entityids": "UMLS/C0948089", "HPO": ["HPO/HP:0033678"], "MSH": ["MSH/D054058"], "RXNORM": []}]}
-{"Acute coronary syndrome": [{"preferredTerms": "Leukemia, Myelocytic, Acute", "entityids": "UMLS/C0023467", "HPO": ["HPO/HP:0004808"], "MSH": ["MSH/D015470"], "RXNORM": []}]}
-{"Acute myeloid leukemia": [{"preferredTerms": "Adrenocortical carcinoma", "entityids": "UMLS/C0206686", "HPO": ["HPO/HP:0006744"], "MSH": ["MSH/D018268"], "RXNORM": []}]}
-{"Adrenocortical carcinoma": [{}]}
+{"Chronic Obstructive Airway Disease": [{"preferredTerms": "Chronic Obstructive Airway Disease", "entityids": "UMLS/C0024117", "HPO": ["HPO/HP:0006510"], "MSH": ["MSH/D029424"], "RXNORM": []}]}
+{"AIDS": [{"preferredTerms": "Acquired Immunodeficiency Syndrome", "entityids": "UMLS/C0001175", "HPO": [], "MSH": ["MSH/D000163"], "RXNORM": []}]}
+{"Acellular pertussis": [{"preferredTerms": "Pertussis", "entityids": "UMLS/C0043167", "HPO": [], "MSH": ["MSH/D014917"], "RXNORM": []}]}
+{"Acne vulgaris": [{"preferredTerms": "Acne Vulgaris", "entityids": "UMLS/C0001144", "HPO": [], "MSH": ["MSH/D000152"], "RXNORM": []}]}
+{"Acute coronary syndrome": [{"preferredTerms": "Acute Coronary Syndrome", "entityids": "UMLS/C0948089", "HPO": ["HPO/HP:0033678"], "MSH": ["MSH/D054058"], "RXNORM": []}]}
+{"Acute myeloid leukemia": [{"preferredTerms": "Leukemia, Myelocytic, Acute", "entityids": "UMLS/C0023467", "HPO": ["HPO/HP:0004808"], "MSH": ["MSH/D015470"], "RXNORM": []}]}
+{"Adrenocortical carcinoma": [{"preferredTerms": "Adrenocortical carcinoma", "entityids": "UMLS/C0206686", "HPO": ["HPO/HP:0006744"], "MSH": ["MSH/D018268"], "RXNORM": []}]}
 {"Advanced breast cancer": [{"preferredTerms": "Malignant Neoplasms", "entityids": "UMLS/C0006826", "HPO": ["HPO/HP:0002664"], "MSH": ["MSH/D009369"], "RXNORM": []}]}
-{"Alcoholism": [{"preferredTerms": "Allergic Conjunctivitis", "entityids": "UMLS/C0009766", "HPO": ["HPO/HP:0007879"], "MSH": ["MSH/D003233"], "RXNORM": []}]}
-{"Allergic conjunctivitis": [{"preferredTerms": "Alopecia", "entityids": "UMLS/C0002170", "HPO": ["HPO/HP:0001596", "HPO/HP:0002293"], "MSH": ["MSH/D000505"], "RXNORM": []}]}
-{"Alopecia": [{"preferredTerms": "Alzheimer's Disease", "entityids": "UMLS/C0002395", "HPO": ["HPO/HP:0002511"], "MSH": ["MSH/D000544"], "RXNORM": []}]}
-{"Alzheimer's disease": [{"preferredTerms": "Amyloidosis", "entityids": "UMLS/C0002726", "HPO": ["HPO/HP:0011034"], "MSH": ["MSH/D000686"], "RXNORM": []}]}
-{"Amyloidosis": [{"preferredTerms": "Anemia", "entityids": "UMLS/C0002871", "HPO": ["HPO/HP:0001903"], "MSH": ["MSH/D000740"], "RXNORM": []}]}
-{"Anaemia": [{}]}
-{"Analgesia": [{"preferredTerms": "Ankylosing spondylitis", "entityids": "UMLS/C0038013", "HPO": [], "MSH": ["MSH/D013167"], "RXNORM": []}]}
-{"Ankylosing spondylitis": [{"preferredTerms": "Anxiety Disorders", "entityids": "UMLS/C0003469", "HPO": [], "MSH": ["MSH/D001008"], "RXNORM": []}]}
-{"Anxiety disorders": [{"preferredTerms": "Cardiac Arrhythmia", "entityids": "UMLS/C0003811", "HPO": ["HPO/HP:0011675"], "MSH": ["MSH/D001145"], "RXNORM": []}]}
-{"Arrhythmia, cardiac": [{"preferredTerms": "Asthma", "entityids": "UMLS/C0004096", "HPO": ["HPO/HP:0002099"], "MSH": ["MSH/D001249"], "RXNORM": []}]}
+{"Alcoholism": [{}]}
+{"Allergic conjunctivitis": [{"preferredTerms": "Allergic Conjunctivitis", "entityids": "UMLS/C0009766", "HPO": ["HPO/HP:0007879"], "MSH": ["MSH/D003233"], "RXNORM": []}]}
+{"Alopecia": [{"preferredTerms": "Alopecia", "entityids": "UMLS/C0002170", "HPO": ["HPO/HP:0001596", "HPO/HP:0002293"], "MSH": ["MSH/D000505"], "RXNORM": []}]}
+{"Alzheimer's disease": [{"preferredTerms": "Alzheimer's Disease", "entityids": "UMLS/C0002395", "HPO": ["HPO/HP:0002511"], "MSH": ["MSH/D000544"], "RXNORM": []}]}
+{"Amyloidosis": [{"preferredTerms": "Amyloidosis", "entityids": "UMLS/C0002726", "HPO": ["HPO/HP:0011034"], "MSH": ["MSH/D000686"], "RXNORM": []}]}
+{"Anaemia": [{"preferredTerms": "Anemia", "entityids": "UMLS/C0002871", "HPO": ["HPO/HP:0001903"], "MSH": ["MSH/D000740"], "RXNORM": []}]}
+{"Analgesia": [{}]}
+{"Ankylosing spondylitis": [{"preferredTerms": "Ankylosing spondylitis", "entityids": "UMLS/C0038013", "HPO": [], "MSH": ["MSH/D013167"], "RXNORM": []}]}
+{"Anxiety disorders": [{"preferredTerms": "Anxiety Disorders", "entityids": "UMLS/C0003469", "HPO": [], "MSH": ["MSH/D001008"], "RXNORM": []}]}
+{"Arrhythmia, cardiac": [{"preferredTerms": "Cardiac Arrhythmia", "entityids": "UMLS/C0003811", "HPO": ["HPO/HP:0011675"], "MSH": ["MSH/D001145"], "RXNORM": []}]}
 {"Asthma": [{"preferredTerms": "Asthma", "entityids": "UMLS/C0004096", "HPO": ["HPO/HP:0002099"], "MSH": ["MSH/D001249"], "RXNORM": []}]}
-{"Asthma and rhinitis": [{"preferredTerms": "Rhinitis", "entityids": "UMLS/C0035455", "HPO": ["HPO/HP:0012384"], "MSH": ["MSH/D012220"], "RXNORM": []}, {"preferredTerms": "Atherosclerosis", "entityids": "UMLS/C0004153", "HPO": ["HPO/HP:0002621", "HPO/HP:0002635"], "MSH": ["MSH/D050197"], "RXNORM": []}]}
-{"Atherosclerosis": [{"preferredTerms": "Atrophic", "entityids": "UMLS/C0333641", "HPO": [], "MSH": ["MSH/D001284"], "RXNORM": []}]}
+{"Asthma and rhinitis": [{"preferredTerms": "Asthma", "entityids": "UMLS/C0004096", "HPO": ["HPO/HP:0002099"], "MSH": ["MSH/D001249"], "RXNORM": []}, {"preferredTerms": "Rhinitis", "entityids": "UMLS/C0035455", "HPO": ["HPO/HP:0012384"], "MSH": ["MSH/D012220"], "RXNORM": []}]}
+{"Atherosclerosis": [{"preferredTerms": "Atherosclerosis", "entityids": "UMLS/C0004153", "HPO": ["HPO/HP:0002621", "HPO/HP:0002635"], "MSH": ["MSH/D050197"], "RXNORM": []}]}
 {"Atrophy, geographic": [{"preferredTerms": "Atrophic", "entityids": "UMLS/C0333641", "HPO": [], "MSH": ["MSH/D001284"], "RXNORM": []}]}
-{"Atrophy, muscular": [{"preferredTerms": "Attention deficit hyperactivity disorder", "entityids": "UMLS/C1263846", "HPO": ["HPO/HP:0007018"], "MSH": ["MSH/D001289"], "RXNORM": []}]}
-{"Attention deficit hyperactivity disorder (adhd)": [{"preferredTerms": "Autoimmune Diseases", "entityids": "UMLS/C0004364", "HPO": ["HPO/HP:0002960"], "MSH": ["MSH/D001327"], "RXNORM": []}]}
-{"Autoimmune diseases": [{"preferredTerms": "Precursor B-cell lymphoblastic leukemia", "entityids": "UMLS/C1292769", "HPO": [], "MSH": [], "RXNORM": []}]}
-{"B-cell acute lymphoblastic leukemia, relapsed b-cell acute lymphoblastic leukemia, refractory b-cell acute lymphoblastic leukemia": [{"preferredTerms": "Recurrent B-Cell Small Lymphocytic Lymphoma", "entityids": "UMLS/C0855096", "HPO": [], "MSH": [], "RXNORM": []}, {"preferredTerms": "Acute lymphocytic leukemia", "entityids": "UMLS/C0023449", "HPO": ["HPO/HP:0006721"], "MSH": [], "RXNORM": []}, {"preferredTerms": "Bipolar Disorder", "entityids": "UMLS/C0005586", "HPO": ["HPO/HP:0007302"], "MSH": ["MSH/D001714"], "RXNORM": []}]}
-{"Bipolar disorder": [{"preferredTerms": "Mixed bipolar I disorder", "entityids": "UMLS/C0236780", "HPO": [], "MSH": [], "RXNORM": []}]}
-{"Bipolar i disorder": [{}]}
+{"Atrophy, muscular": [{"preferredTerms": "Atrophic", "entityids": "UMLS/C0333641", "HPO": [], "MSH": ["MSH/D001284"], "RXNORM": []}]}
+{"Attention deficit hyperactivity disorder (adhd)": [{"preferredTerms": "Attention deficit hyperactivity disorder", "entityids": "UMLS/C1263846", "HPO": ["HPO/HP:0007018"], "MSH": ["MSH/D001289"], "RXNORM": []}]}
+{"Autoimmune diseases": [{"preferredTerms": "Autoimmune Diseases", "entityids": "UMLS/C0004364", "HPO": ["HPO/HP:0002960"], "MSH": ["MSH/D001327"], "RXNORM": []}]}
+{"B-cell acute lymphoblastic leukemia, relapsed b-cell acute lymphoblastic leukemia, refractory b-cell acute lymphoblastic leukemia": [{"preferredTerms": "Precursor B-cell lymphoblastic leukemia", "entityids": "UMLS/C1292769", "HPO": [], "MSH": [], "RXNORM": []}, {"preferredTerms": "Recurrent B-Cell Small Lymphocytic Lymphoma", "entityids": "UMLS/C0855096", "HPO": [], "MSH": [], "RXNORM": []}, {"preferredTerms": "Acute lymphocytic leukemia", "entityids": "UMLS/C0023449", "HPO": ["HPO/HP:0006721"], "MSH": [], "RXNORM": []}]}
+{"Bacterial skin infections": [{"preferredTerms": "Recurrent bacterial skin infections", "entityids": "UMLS/C1835686", "HPO": ["HPO/HP:0005406"], "MSH": [], "RXNORM": []}]}
+{"Bipolar disorder": [{"preferredTerms": "Bipolar Disorder", "entityids": "UMLS/C0005586", "HPO": ["HPO/HP:0007302"], "MSH": ["MSH/D001714"], "RXNORM": []}]}
+{"Bipolar i disorder": [{"preferredTerms": "Mixed bipolar I disorder", "entityids": "UMLS/C0236780", "HPO": [], "MSH": [], "RXNORM": []}]}
 {"Bladder pain": [{"preferredTerms": "Pain", "entityids": "UMLS/C0030193", "HPO": ["HPO/HP:0012531"], "MSH": ["MSH/D010146"], "RXNORM": []}]}
 {"Breast cancer": [{"preferredTerms": "Malignant Neoplasms", "entityids": "UMLS/C0006826", "HPO": ["HPO/HP:0002664"], "MSH": ["MSH/D009369"], "RXNORM": []}]}
-{"Breast neoplasms": [{"preferredTerms": "Neoplasms", "entityids": "UMLS/C0027651", "HPO": ["HPO/HP:0002664"], "MSH": ["MSH/D009369"], "RXNORM": []}, {"preferredTerms": "Bronchiectasis", "entityids": "UMLS/C0006267", "HPO": ["HPO/HP:0002110"], "MSH": ["MSH/D001987"], "RXNORM": []}]}
-{"Bronchiectasis": [{"preferredTerms": "Bronchitis", "entityids": "UMLS/C0006277", "HPO": ["HPO/HP:0012387"], "MSH": ["MSH/D001991"], "RXNORM": []}]}
-{"Bronchitis, chronic": [{"preferredTerms": "Bronchospasm", "entityids": "UMLS/C0006266", "HPO": ["HPO/HP:0025428"], "MSH": ["MSH/D001986"], "RXNORM": []}]}
-{"Bronchospasm": [{"preferredTerms": "Cachexia", "entityids": "UMLS/C0006625", "HPO": ["HPO/HP:0004326"], "MSH": ["MSH/D002100"], "RXNORM": []}]}
-{"Cachexia": [{"preferredTerms": "Malignant Neoplasms", "entityids": "UMLS/C0006826", "HPO": ["HPO/HP:0002664"], "MSH": ["MSH/D009369"], "RXNORM": []}]}
+{"Breast neoplasms": [{"preferredTerms": "Neoplasms", "entityids": "UMLS/C0027651", "HPO": ["HPO/HP:0002664"], "MSH": ["MSH/D009369"], "RXNORM": []}]}
+{"Bronchiectasis": [{"preferredTerms": "Bronchiectasis", "entityids": "UMLS/C0006267", "HPO": ["HPO/HP:0002110"], "MSH": ["MSH/D001987"], "RXNORM": []}]}
+{"Bronchitis, chronic": [{"preferredTerms": "Bronchitis", "entityids": "UMLS/C0006277", "HPO": ["HPO/HP:0012387"], "MSH": ["MSH/D001991"], "RXNORM": []}]}
+{"Bronchospasm": [{"preferredTerms": "Bronchospasm", "entityids": "UMLS/C0006266", "HPO": ["HPO/HP:0025428"], "MSH": ["MSH/D001986"], "RXNORM": []}]}
+{"Cachexia": [{"preferredTerms": "Cachexia", "entityids": "UMLS/C0006625", "HPO": ["HPO/HP:0004326"], "MSH": ["MSH/D002100"], "RXNORM": []}]}
 {"Cancer": [{"preferredTerms": "Malignant Neoplasms", "entityids": "UMLS/C0006826", "HPO": ["HPO/HP:0002664"], "MSH": ["MSH/D009369"], "RXNORM": []}]}
 {"Cancer, advanced gastric": [{"preferredTerms": "Malignant Neoplasms", "entityids": "UMLS/C0006826", "HPO": ["HPO/HP:0002664"], "MSH": ["MSH/D009369"], "RXNORM": []}]}
 {"Cancer, breast": [{"preferredTerms": "Malignant Neoplasms", "entityids": "UMLS/C0006826", "HPO": ["HPO/HP:0002664"], "MSH": ["MSH/D009369"], "RXNORM": []}]}
-{"Cancer|neoplasms": [{"preferredTerms": "Neoplasms", "entityids": "UMLS/C0027651", "HPO": ["HPO/HP:0002664"], "MSH": ["MSH/D009369"], "RXNORM": []}, {"preferredTerms": "Carcinoid Tumor", "entityids": "UMLS/C0007095", "HPO": ["HPO/HP:0100570"], "MSH": ["MSH/D002276"], "RXNORM": []}]}
-{"Carcinoid tumor": [{"preferredTerms": "Carcinoma", "entityids": "UMLS/C0007097", "HPO": ["HPO/HP:0030731"], "MSH": ["MSH/D002277"], "RXNORM": []}]}
+{"Cancer|neoplasms": [{"preferredTerms": "Malignant Neoplasms", "entityids": "UMLS/C0006826", "HPO": ["HPO/HP:0002664"], "MSH": ["MSH/D009369"], "RXNORM": []}, {"preferredTerms": "Neoplasms", "entityids": "UMLS/C0027651", "HPO": ["HPO/HP:0002664"], "MSH": ["MSH/D009369"], "RXNORM": []}]}
+{"Carcinoid tumor": [{"preferredTerms": "Carcinoid Tumor", "entityids": "UMLS/C0007095", "HPO": ["HPO/HP:0100570"], "MSH": ["MSH/D002276"], "RXNORM": []}]}
 {"Carcinoma, hepatocellular": [{"preferredTerms": "Carcinoma", "entityids": "UMLS/C0007097", "HPO": ["HPO/HP:0030731"], "MSH": ["MSH/D002277"], "RXNORM": []}]}
 {"Carcinoma, midline": [{"preferredTerms": "Carcinoma", "entityids": "UMLS/C0007097", "HPO": ["HPO/HP:0030731"], "MSH": ["MSH/D002277"], "RXNORM": []}]}
 {"Carcinoma, renal cell": [{"preferredTerms": "Carcinoma", "entityids": "UMLS/C0007097", "HPO": ["HPO/HP:0030731"], "MSH": ["MSH/D002277"], "RXNORM": []}]}
-{"Carcinoma, small cell": [{"preferredTerms": "Chronic Lymphocytic Leukemia", "entityids": "UMLS/C0023434", "HPO": ["HPO/HP:0005550"], "MSH": ["MSH/D015451"], "RXNORM": []}, {"preferredTerms": "Cardiovascular Diseases", "entityids": "UMLS/C0007222", "HPO": ["HPO/HP:0001626"], "MSH": ["MSH/D002318"], "RXNORM": []}]}
-{"Cardiovascular disease": [{"preferredTerms": "Bilateral cataracts (disorder)", "entityids": "UMLS/C0521707", "HPO": [], "MSH": [], "RXNORM": []}]}
-{"Cataract": [{"preferredTerms": "Cerebrovascular accident", "entityids": "UMLS/C0038454", "HPO": ["HPO/HP:0001297"], "MSH": ["MSH/D020521"], "RXNORM": []}]}
-{"Cerebrovascular accident": [{"preferredTerms": "Cervical Intraepithelial Neoplasia", "entityids": "UMLS/C0206708", "HPO": ["HPO/HP:0032242"], "MSH": ["MSH/D018290"], "RXNORM": []}]}
-{"Cervical intraepithelial neoplasia": [{"preferredTerms": "Cholestasis", "entityids": "UMLS/C0008370", "HPO": ["HPO/HP:0001396"], "MSH": ["MSH/D002779"], "RXNORM": []}]}
+{"Carcinoma, small cell": [{"preferredTerms": "Carcinoma", "entityids": "UMLS/C0007097", "HPO": ["HPO/HP:0030731"], "MSH": ["MSH/D002277"], "RXNORM": []}, {"preferredTerms": "Chronic Lymphocytic Leukemia", "entityids": "UMLS/C0023434", "HPO": ["HPO/HP:0005550"], "MSH": ["MSH/D015451"], "RXNORM": []}]}
+{"Cardiovascular disease": [{"preferredTerms": "Cardiovascular Diseases", "entityids": "UMLS/C0007222", "HPO": ["HPO/HP:0001626"], "MSH": ["MSH/D002318"], "RXNORM": []}]}
+{"Cataract": [{"preferredTerms": "Bilateral cataracts (disorder)", "entityids": "UMLS/C0521707", "HPO": [], "MSH": [], "RXNORM": []}]}
+{"Cerebrovascular accident": [{"preferredTerms": "Cerebrovascular accident", "entityids": "UMLS/C0038454", "HPO": ["HPO/HP:0001297"], "MSH": ["MSH/D020521"], "RXNORM": []}]}
+{"Cervical intraepithelial neoplasia": [{"preferredTerms": "Cervical Intraepithelial Neoplasia", "entityids": "UMLS/C0206708", "HPO": ["HPO/HP:0032242"], "MSH": ["MSH/D018290"], "RXNORM": []}]}
 {"Cholestasis": [{"preferredTerms": "Cholestasis", "entityids": "UMLS/C0008370", "HPO": ["HPO/HP:0001396"], "MSH": ["MSH/D002779"], "RXNORM": []}]}
-{"Cholestasis, intrahepatic": [{}]}
+{"Cholestasis, intrahepatic": [{"preferredTerms": "Cholestasis", "entityids": "UMLS/C0008370", "HPO": ["HPO/HP:0001396"], "MSH": ["MSH/D002779"], "RXNORM": []}]}
 {"Chronic constipation": [{"preferredTerms": "Constipation", "entityids": "UMLS/C0009806", "HPO": ["HPO/HP:0002019"], "MSH": ["MSH/D003248"], "RXNORM": []}]}
 {"Chronic idiopathic urticaria (ciu)": [{"preferredTerms": "Idiopathic urticaria", "entityids": "UMLS/C0157741", "HPO": [], "MSH": [], "RXNORM": []}, {"preferredTerms": "Chronic Spontaneous Urticaria", "entityids": "UMLS/C0578870", "HPO": ["HPO/HP:0410133"], "MSH": ["MSH/D000080223"], "RXNORM": []}]}
 {"Chronic lymphocytic leukemia (cll)": [{"preferredTerms": "Lymphoid leukemia", "entityids": "UMLS/C0023448", "HPO": ["HPO/HP:0005526"], "MSH": ["MSH/D007945"], "RXNORM": []}]}
-{"Chronic myelogenous leukemia": [{"preferredTerms": "Myeloid Leukemia", "entityids": "UMLS/C0023470", "HPO": ["HPO/HP:0012324"], "MSH": ["MSH/D007951"], "RXNORM": []}]}
-{"Chronic myeloid leukemia (cml)": [{"preferredTerms": "Myeloid Leukemia", "entityids": "UMLS/C0023470", "HPO": ["HPO/HP:0012324"], "MSH": ["MSH/D007951"], "RXNORM": []}, {"preferredTerms": "Chronic Obstructive Airway Disease", "entityids": "UMLS/C0024117", "HPO": ["HPO/HP:0006510"], "MSH": ["MSH/D029424"], "RXNORM": []}]}
+{"Chronic myelogenous leukemia": [{"preferredTerms": "Myeloid Leukemia, Chronic", "entityids": "UMLS/C0023473", "HPO": ["HPO/HP:0005506"], "MSH": [], "RXNORM": []}]}
+{"Chronic myeloid leukemia (cml)": [{"preferredTerms": "Myeloid Leukemia", "entityids": "UMLS/C0023470", "HPO": ["HPO/HP:0012324"], "MSH": ["MSH/D007951"], "RXNORM": []}]}
 {"Chronic obstructive pulmonary disease (copd)": [{"preferredTerms": "Chronic Obstructive Airway Disease", "entityids": "UMLS/C0024117", "HPO": ["HPO/HP:0006510"], "MSH": ["MSH/D029424"], "RXNORM": []}]}
-{"Chronic plaque psoriasis": [{"preferredTerms": "Psoriasis", "entityids": "UMLS/C0033860", "HPO": ["HPO/HP:0003765"], "MSH": ["MSH/D011565"], "RXNORM": []}, {"preferredTerms": "Clostridium difficile infection", "entityids": "UMLS/C0343386", "HPO": [], "MSH": ["MSH/D003015"], "RXNORM": []}]}
-{"Clostridium difficile infection": [{"preferredTerms": "Cognition Disorders", "entityids": "UMLS/C0009241", "HPO": [], "MSH": ["MSH/D003072"], "RXNORM": []}]}
-{"Cognitive disorders": [{"preferredTerms": "Colitis", "entityids": "UMLS/C0009319", "HPO": ["HPO/HP:0002583"], "MSH": ["MSH/D003092"], "RXNORM": []}]}
-{"Colitis, ulcerative": [{"preferredTerms": "Ulcer", "entityids": "UMLS/C0041582", "HPO": [], "MSH": ["MSH/D014456"], "RXNORM": []}, {"preferredTerms": "Colorectal Neoplasms", "entityids": "UMLS/C0009404", "HPO": ["HPO/HP:0100834"], "MSH": ["MSH/D015179"], "RXNORM": []}]}
-{"Colorectal Neoplasms": [{}]}
-{"Constriction, bronchial": [{"preferredTerms": "Coronary Artery Disease", "entityids": "UMLS/C1956346", "HPO": ["HPO/HP:0001677"], "MSH": ["MSH/D003324"], "RXNORM": []}]}
-{"Coronary artery disease": [{}]}
-{"Corticosteroid refractory acute graft vs host disease": [{"preferredTerms": "Graft-vs-Host Disease", "entityids": "UMLS/C0018133", "HPO": [], "MSH": ["MSH/D006086"], "RXNORM": []}, {"preferredTerms": "Coughing", "entityids": "UMLS/C0010200", "HPO": ["HPO/HP:0012735"], "MSH": ["MSH/D003371"], "RXNORM": []}]}
-{"Cough": [{"preferredTerms": "Crohn Disease", "entityids": "UMLS/C0010346", "HPO": ["HPO/HP:0100280"], "MSH": ["MSH/D003424"], "RXNORM": []}]}
-{"Crohn's disease": [{"preferredTerms": "Cystic Fibrosis", "entityids": "UMLS/C0010674", "HPO": [], "MSH": ["MSH/D003550"], "RXNORM": []}]}
-{"Cystic fibrosis": [{"preferredTerms": "Dementia", "entityids": "UMLS/C0497327", "HPO": ["HPO/HP:0000726"], "MSH": ["MSH/D003704"], "RXNORM": []}]}
-{"Dementia": [{"preferredTerms": "Dentin Sensitivity", "entityids": "UMLS/C0011432", "HPO": [], "MSH": ["MSH/D003807"], "RXNORM": []}]}
-{"Dentin sensitivity": [{"preferredTerms": "Denture Retention", "entityids": "UMLS/C0011397", "HPO": [], "MSH": ["MSH/D003781"], "RXNORM": []}]}
-{"Denture retention": [{"preferredTerms": "Depressive disorder", "entityids": "UMLS/C0011581", "HPO": ["HPO/HP:0000716"], "MSH": ["MSH/D003866"], "RXNORM": []}]}
+{"Chronic plaque psoriasis": [{"preferredTerms": "Psoriasis", "entityids": "UMLS/C0033860", "HPO": ["HPO/HP:0003765"], "MSH": ["MSH/D011565"], "RXNORM": []}]}
+{"Clostridium difficile infection": [{"preferredTerms": "Clostridium difficile infection", "entityids": "UMLS/C0343386", "HPO": [], "MSH": ["MSH/D003015"], "RXNORM": []}]}
+{"Cognitive disorders": [{"preferredTerms": "Cognition Disorders", "entityids": "UMLS/C0009241", "HPO": [], "MSH": ["MSH/D003072"], "RXNORM": []}]}
+{"Colitis, ulcerative": [{"preferredTerms": "Colitis", "entityids": "UMLS/C0009319", "HPO": ["HPO/HP:0002583"], "MSH": ["MSH/D003092"], "RXNORM": []}, {"preferredTerms": "Ulcer", "entityids": "UMLS/C0041582", "HPO": [], "MSH": ["MSH/D014456"], "RXNORM": []}]}
+{"Colorectal Neoplasms": [{"preferredTerms": "Colorectal Neoplasms", "entityids": "UMLS/C0009404", "HPO": ["HPO/HP:0100834"], "MSH": ["MSH/D015179"], "RXNORM": []}]}
+{"Constriction, bronchial": [{}]}
+{"Coronary artery disease": [{"preferredTerms": "Coronary Artery Disease", "entityids": "UMLS/C1956346", "HPO": ["HPO/HP:0001677"], "MSH": ["MSH/D003324"], "RXNORM": []}]}
+{"Corticosteroid refractory acute graft vs host disease": [{"preferredTerms": "Bone Transplantation", "entityids": "UMLS/C0005976", "HPO": [], "MSH": ["MSH/D016025"], "RXNORM": []}, {"preferredTerms": "Graft-vs-Host Disease", "entityids": "UMLS/C0018133", "HPO": [], "MSH": ["MSH/D006086"], "RXNORM": []}]}
+{"Cough": [{"preferredTerms": "Coughing", "entityids": "UMLS/C0010200", "HPO": ["HPO/HP:0012735"], "MSH": ["MSH/D003371"], "RXNORM": []}]}
+{"Crohn's disease": [{"preferredTerms": "Crohn Disease", "entityids": "UMLS/C0010346", "HPO": ["HPO/HP:0100280"], "MSH": ["MSH/D003424"], "RXNORM": []}]}
+{"Cystic fibrosis": [{"preferredTerms": "Cystic Fibrosis", "entityids": "UMLS/C0010674", "HPO": [], "MSH": ["MSH/D003550"], "RXNORM": []}]}
+{"Dementia": [{"preferredTerms": "Dementia", "entityids": "UMLS/C0497327", "HPO": ["HPO/HP:0000726"], "MSH": ["MSH/D003704"], "RXNORM": []}]}
+{"Dentin sensitivity": [{"preferredTerms": "Dentin Sensitivity", "entityids": "UMLS/C0011432", "HPO": [], "MSH": ["MSH/D003807"], "RXNORM": []}]}
+{"Denture retention": [{"preferredTerms": "Denture Retention", "entityids": "UMLS/C0011397", "HPO": [], "MSH": ["MSH/D003781"], "RXNORM": []}]}
 {"Depressive disorder": [{"preferredTerms": "Depressive disorder", "entityids": "UMLS/C0011581", "HPO": ["HPO/HP:0000716"], "MSH": ["MSH/D003866"], "RXNORM": []}]}
-{"Depressive disorder and anxiety disorders": [{"preferredTerms": "Anxiety Disorders", "entityids": "UMLS/C0003469", "HPO": [], "MSH": ["MSH/D001008"], "RXNORM": []}, {"preferredTerms": "Depressive disorder", "entityids": "UMLS/C0011581", "HPO": ["HPO/HP:0000716"], "MSH": ["MSH/D003866"], "RXNORM": []}]}
-{"Depressive disorder, major": [{"preferredTerms": "Dermatitis", "entityids": "UMLS/C0011603", "HPO": ["HPO/HP:0011123"], "MSH": ["MSH/D003872"], "RXNORM": []}]}
-{"Dermatitis, atopic": [{"preferredTerms": "Cytarabine/Prednisone/Thioguanine/Vincristine", "entityids": "UMLS/C0279472", "HPO": [], "MSH": [], "RXNORM": []}, {"preferredTerms": "Dermatitis", "entityids": "UMLS/C0011603", "HPO": ["HPO/HP:0011123"], "MSH": ["MSH/D003872"], "RXNORM": []}]}
+{"Depressive disorder and anxiety disorders": [{"preferredTerms": "Depressive disorder", "entityids": "UMLS/C0011581", "HPO": ["HPO/HP:0000716"], "MSH": ["MSH/D003866"], "RXNORM": []}, {"preferredTerms": "Anxiety Disorders", "entityids": "UMLS/C0003469", "HPO": [], "MSH": ["MSH/D001008"], "RXNORM": []}]}
+{"Depressive disorder, major": [{"preferredTerms": "Depressive disorder", "entityids": "UMLS/C0011581", "HPO": ["HPO/HP:0000716"], "MSH": ["MSH/D003866"], "RXNORM": []}]}
+{"Dermatitis, atopic": [{"preferredTerms": "Dermatitis", "entityids": "UMLS/C0011603", "HPO": ["HPO/HP:0011123"], "MSH": ["MSH/D003872"], "RXNORM": []}, {"preferredTerms": "Cytarabine/Prednisone/Thioguanine/Vincristine", "entityids": "UMLS/C0279472", "HPO": [], "MSH": [], "RXNORM": []}]}
 {"Dermatitis, chronic": [{"preferredTerms": "Dermatitis", "entityids": "UMLS/C0011603", "HPO": ["HPO/HP:0011123"], "MSH": ["MSH/D003872"], "RXNORM": []}]}
-{"Dermatitis, seborrheic": [{"preferredTerms": "Seborrheic dermatitis", "entityids": "UMLS/C0036508", "HPO": ["HPO/HP:0001051"], "MSH": ["MSH/D012628"], "RXNORM": []}, {"preferredTerms": "Dermatologic disorders", "entityids": "UMLS/C0037274", "HPO": ["HPO/HP:0000951"], "MSH": ["MSH/D012871"], "RXNORM": []}]}
-{"Dermatologic disorders": [{"preferredTerms": "Diabetes Mellitus", "entityids": "UMLS/C0011849", "HPO": ["HPO/HP:0000819"], "MSH": ["MSH/D003920"], "RXNORM": []}]}
-{"Diabetes mellitus": [{"preferredTerms": "Diabetes Mellitus, Insulin-Dependent", "entityids": "UMLS/C0011854", "HPO": ["HPO/HP:0100651"], "MSH": ["MSH/D003922"], "RXNORM": []}]}
-{"Diabetes mellitus, type 1": [{"preferredTerms": "Diabetes Mellitus, Non-Insulin-Dependent", "entityids": "UMLS/C0011860", "HPO": ["HPO/HP:0005978"], "MSH": ["MSH/D003924"], "RXNORM": []}]}
-{"Diabetes mellitus, type 2": [{"preferredTerms": "Diabetic Nephropathy", "entityids": "UMLS/C0011881", "HPO": [], "MSH": ["MSH/D003928"], "RXNORM": []}]}
-{"Diabetic kidney disease": [{"preferredTerms": "Macular edema due to diabetes mellitus", "entityids": "UMLS/C0730285", "HPO": [], "MSH": [], "RXNORM": []}]}
-{"Diabetic macular edema": [{"preferredTerms": "Diabetic Neuralgia", "entityids": "UMLS/C0751074", "HPO": [], "MSH": ["MSH/D003929"], "RXNORM": []}]}
-{"Diabetic neuropathic pain": [{"preferredTerms": "Diphtheria", "entityids": "UMLS/C0012546", "HPO": [], "MSH": ["MSH/D004165"], "RXNORM": []}]}
-{"Diphtheria": [{"preferredTerms": "Adverse reaction to drug", "entityids": "UMLS/C0041755", "HPO": ["HPO/HP:0020172"], "MSH": ["MSH/D064420"], "RXNORM": []}]}
-{"Drug-related side effects and adverse reactions": [{"preferredTerms": "Adverse reactions", "entityids": "UMLS/C0559546", "HPO": [], "MSH": [], "RXNORM": []}, {"preferredTerms": "Dysentery", "entityids": "UMLS/C0013369", "HPO": [], "MSH": ["MSH/D004403"], "RXNORM": []}]}
-{"Dysentery, bacillary": [{"preferredTerms": "Dyslipidemias", "entityids": "UMLS/C0242339", "HPO": ["HPO/HP:0003119"], "MSH": ["MSH/D050171"], "RXNORM": []}]}
-{"Dyslipidaemias": [{"preferredTerms": "Eczema", "entityids": "UMLS/C0013595", "HPO": ["HPO/HP:0000964", "HPO/HP:0000976"], "MSH": ["MSH/D004485"], "RXNORM": []}]}
-{"Eczema": [{"preferredTerms": "Embolism", "entityids": "UMLS/C0013922", "HPO": [], "MSH": ["MSH/D004617"], "RXNORM": []}]}
-{"Embolism, pulmonary": [{"preferredTerms": "Airway Obstruction", "entityids": "UMLS/C0001883", "HPO": ["HPO/HP:0006536"], "MSH": ["MSH/D000402"], "RXNORM": []}]}
-{"Embryo transfer": [{"preferredTerms": "Endometriosis", "entityids": "UMLS/C0014175", "HPO": ["HPO/HP:0030127"], "MSH": ["MSH/D004715"], "RXNORM": []}]}
-{"Endometriosis": [{"preferredTerms": "Asthma", "entityids": "UMLS/C0004096", "HPO": ["HPO/HP:0002099"], "MSH": ["MSH/D001249"], "RXNORM": []}]}
-{"Eosinophilic asthma": [{"preferredTerms": "Epilepsy", "entityids": "UMLS/C0014544", "HPO": ["HPO/HP:0001250"], "MSH": ["MSH/D004827"], "RXNORM": []}]}
+{"Dermatitis, seborrheic": [{"preferredTerms": "Dermatitis", "entityids": "UMLS/C0011603", "HPO": ["HPO/HP:0011123"], "MSH": ["MSH/D003872"], "RXNORM": []}, {"preferredTerms": "Seborrheic dermatitis", "entityids": "UMLS/C0036508", "HPO": ["HPO/HP:0001051"], "MSH": ["MSH/D012628"], "RXNORM": []}]}
+{"Dermatologic disorders": [{"preferredTerms": "Dermatologic disorders", "entityids": "UMLS/C0037274", "HPO": ["HPO/HP:0000951"], "MSH": ["MSH/D012871"], "RXNORM": []}]}
+{"Diabetes mellitus": [{"preferredTerms": "Diabetes Mellitus", "entityids": "UMLS/C0011849", "HPO": ["HPO/HP:0000819"], "MSH": ["MSH/D003920"], "RXNORM": []}]}
+{"Diabetes mellitus, type 1": [{"preferredTerms": "Diabetes Mellitus, Insulin-Dependent", "entityids": "UMLS/C0011854", "HPO": ["HPO/HP:0100651"], "MSH": ["MSH/D003922"], "RXNORM": []}]}
+{"Diabetes mellitus, type 2": [{"preferredTerms": "Diabetes Mellitus, Non-Insulin-Dependent", "entityids": "UMLS/C0011860", "HPO": ["HPO/HP:0005978"], "MSH": ["MSH/D003924"], "RXNORM": []}]}
+{"Diabetic kidney disease": [{"preferredTerms": "Diabetic Nephropathy", "entityids": "UMLS/C0011881", "HPO": [], "MSH": ["MSH/D003928"], "RXNORM": []}]}
+{"Diabetic macular edema": [{"preferredTerms": "Macular edema due to diabetes mellitus", "entityids": "UMLS/C0730285", "HPO": [], "MSH": [], "RXNORM": []}]}
+{"Diabetic neuropathic pain": [{"preferredTerms": "Diabetic Neuralgia", "entityids": "UMLS/C0751074", "HPO": [], "MSH": ["MSH/D003929"], "RXNORM": []}]}
+{"Diphtheria": [{"preferredTerms": "Diphtheria", "entityids": "UMLS/C0012546", "HPO": [], "MSH": ["MSH/D004165"], "RXNORM": []}]}
+{"Drug-related side effects and adverse reactions": [{"preferredTerms": "Adverse reaction to drug", "entityids": "UMLS/C0041755", "HPO": ["HPO/HP:0020172"], "MSH": ["MSH/D064420"], "RXNORM": []}, {"preferredTerms": "Adverse reactions", "entityids": "UMLS/C0559546", "HPO": [], "MSH": [], "RXNORM": []}]}
+{"Dysentery, bacillary": [{"preferredTerms": "Dysentery", "entityids": "UMLS/C0013369", "HPO": [], "MSH": ["MSH/D004403"], "RXNORM": []}]}
+{"Dyslipidaemias": [{"preferredTerms": "Dyslipidemias", "entityids": "UMLS/C0242339", "HPO": ["HPO/HP:0003119"], "MSH": ["MSH/D050171"], "RXNORM": []}]}
+{"Eczema": [{"preferredTerms": "Eczema", "entityids": "UMLS/C0013595", "HPO": ["HPO/HP:0000964", "HPO/HP:0000976"], "MSH": ["MSH/D004485"], "RXNORM": []}]}
+{"Embolism, pulmonary": [{"preferredTerms": "Embolism", "entityids": "UMLS/C0013922", "HPO": [], "MSH": ["MSH/D004617"], "RXNORM": []}, {"preferredTerms": "Airway Obstruction", "entityids": "UMLS/C0001883", "HPO": ["HPO/HP:0006536"], "MSH": ["MSH/D000402"], "RXNORM": []}]}
+{"Embryo transfer": [{}]}
+{"Endometriosis": [{"preferredTerms": "Endometriosis", "entityids": "UMLS/C0014175", "HPO": ["HPO/HP:0030127"], "MSH": ["MSH/D004715"], "RXNORM": []}]}
+{"Eosinophilic asthma": [{"preferredTerms": "Asthma", "entityids": "UMLS/C0004096", "HPO": ["HPO/HP:0002099"], "MSH": ["MSH/D001249"], "RXNORM": []}]}
 {"Epilepsy": [{"preferredTerms": "Epilepsy", "entityids": "UMLS/C0014544", "HPO": ["HPO/HP:0001250"], "MSH": ["MSH/D004827"], "RXNORM": []}]}
 {"Epilepsy, partial": [{"preferredTerms": "Epilepsy", "entityids": "UMLS/C0014544", "HPO": ["HPO/HP:0001250"], "MSH": ["MSH/D004827"], "RXNORM": []}]}
-{"Epilepsy, tonic-clonic": [{"preferredTerms": "Tonic-Clonic Epilepsy", "entityids": "UMLS/C0014549", "HPO": [], "MSH": ["MSH/D004830"], "RXNORM": []}, {"preferredTerms": "Migraine Disorders", "entityids": "UMLS/C0149931", "HPO": ["HPO/HP:0002076"], "MSH": ["MSH/D008881"], "RXNORM": []}]}
-{"Episodic migraine headache": [{"preferredTerms": "Esophageal carcinoma", "entityids": "UMLS/C0152018", "HPO": ["HPO/HP:0011459"], "MSH": [], "RXNORM": []}]}
-{"Esophageal cancer": [{"preferredTerms": "Fascioliasis", "entityids": "UMLS/C0015652", "HPO": [], "MSH": ["MSH/D005211"], "RXNORM": []}]}
+{"Epilepsy, tonic-clonic": [{"preferredTerms": "Epilepsy", "entityids": "UMLS/C0014544", "HPO": ["HPO/HP:0001250"], "MSH": ["MSH/D004827"], "RXNORM": []}, {"preferredTerms": "Tonic-Clonic Epilepsy", "entityids": "UMLS/C0014549", "HPO": [], "MSH": ["MSH/D004830"], "RXNORM": []}]}
+{"Episodic migraine headache": [{"preferredTerms": "Migraine Disorders", "entityids": "UMLS/C0149931", "HPO": ["HPO/HP:0002076"], "MSH": ["MSH/D008881"], "RXNORM": []}]}
+{"Esophageal cancer": [{"preferredTerms": "Esophageal carcinoma", "entityids": "UMLS/C0152018", "HPO": ["HPO/HP:0011459"], "MSH": [], "RXNORM": []}]}
 {"Fascioliasis": [{"preferredTerms": "Fascioliasis", "entityids": "UMLS/C0015652", "HPO": [], "MSH": ["MSH/D005211"], "RXNORM": []}]}
-{"Fibrillation, atrial": [{"preferredTerms": "Fibromyalgia", "entityids": "UMLS/C0016053", "HPO": [], "MSH": ["MSH/D005356"], "RXNORM": []}]}
-{"Fibromyalgia syndrome, primary": [{"preferredTerms": "Focal Infection", "entityids": "UMLS/C0016397", "HPO": [], "MSH": ["MSH/D005490"], "RXNORM": []}]}
-{"Focal infection, dental": [{"preferredTerms": "Fracture", "entityids": "UMLS/C0016658", "HPO": ["HPO/HP:0020110"], "MSH": ["MSH/D050723"], "RXNORM": []}]}
-{"Fracture healing": [{"preferredTerms": "Gastrointestinal Neoplasms", "entityids": "UMLS/C0017185", "HPO": ["HPO/HP:0007378"], "MSH": ["MSH/D005770"], "RXNORM": []}]}
-{"Gastrointestinal Neoplasms": [{"preferredTerms": "Gastrointestinal Diseases", "entityids": "UMLS/C0017178", "HPO": ["HPO/HP:0011024"], "MSH": ["MSH/D005767"], "RXNORM": []}]}
-{"Gastrointestinal diseases": [{}]}
-{"Gastrointestinal motility": [{"preferredTerms": "Gastroparesis", "entityids": "UMLS/C0152020", "HPO": ["HPO/HP:0002578"], "MSH": ["MSH/D018589"], "RXNORM": []}]}
-{"Gastroparesis": [{"preferredTerms": "Gonorrhea", "entityids": "UMLS/C0018081", "HPO": [], "MSH": ["MSH/D006069"], "RXNORM": []}]}
-{"Gonorrhea": [{"preferredTerms": "Haemophilus influenzae type b", "entityids": "UMLS/C0121772", "HPO": [], "MSH": ["MSH/D019741"], "RXNORM": ["RXNORM/50937"]}]}
-{"Haemophilus influenzae type b": [{"preferredTerms": "Heart failure", "entityids": "UMLS/C0018801", "HPO": ["HPO/HP:0001635"], "MSH": ["MSH/D006333"], "RXNORM": []}]}
+{"Fibrillation, atrial": [{"preferredTerms": "Atrial Fibrillation", "entityids": "UMLS/C0004238", "HPO": ["HPO/HP:0005110"], "MSH": ["MSH/D001281"], "RXNORM": []}]}
+{"Fibromyalgia syndrome, primary": [{"preferredTerms": "Fibromyalgia", "entityids": "UMLS/C0016053", "HPO": [], "MSH": ["MSH/D005356"], "RXNORM": []}]}
+{"Focal infection, dental": [{"preferredTerms": "Focal Infection", "entityids": "UMLS/C0016397", "HPO": [], "MSH": ["MSH/D005490"], "RXNORM": []}]}
+{"Fracture healing": [{"preferredTerms": "Fracture", "entityids": "UMLS/C0016658", "HPO": ["HPO/HP:0020110"], "MSH": ["MSH/D050723"], "RXNORM": []}]}
+{"Gastrointestinal Neoplasms": [{"preferredTerms": "Gastrointestinal Neoplasms", "entityids": "UMLS/C0017185", "HPO": ["HPO/HP:0007378"], "MSH": ["MSH/D005770"], "RXNORM": []}]}
+{"Gastrointestinal diseases": [{"preferredTerms": "Gastrointestinal Diseases", "entityids": "UMLS/C0017178", "HPO": ["HPO/HP:0011024"], "MSH": ["MSH/D005767"], "RXNORM": []}]}
+{"Gastrointestinal motility": [{}]}
+{"Gastroparesis": [{"preferredTerms": "Gastroparesis", "entityids": "UMLS/C0152020", "HPO": ["HPO/HP:0002578"], "MSH": ["MSH/D018589"], "RXNORM": []}]}
+{"Gonorrhea": [{"preferredTerms": "Gonorrhea", "entityids": "UMLS/C0018081", "HPO": [], "MSH": ["MSH/D006069"], "RXNORM": []}]}
+{"Haemophilus influenzae type b": [{"preferredTerms": "Haemophilus influenzae type b", "entityids": "UMLS/C0121772", "HPO": [], "MSH": ["MSH/D019741"], "RXNORM": ["RXNORM/50937"]}]}
 {"Heart failure": [{"preferredTerms": "Heart failure", "entityids": "UMLS/C0018801", "HPO": ["HPO/HP:0001635"], "MSH": ["MSH/D006333"], "RXNORM": []}]}
 {"Heart failure with preserved ejection fraction": [{"preferredTerms": "Heart failure", "entityids": "UMLS/C0018801", "HPO": ["HPO/HP:0001635"], "MSH": ["MSH/D006333"], "RXNORM": []}]}
 {"Heart failure, chronic (chf)": [{"preferredTerms": "Heart failure", "entityids": "UMLS/C0018801", "HPO": ["HPO/HP:0001635"], "MSH": ["MSH/D006333"], "RXNORM": []}]}
-{"Heart failure, congestive": [{"preferredTerms": "Heart failure", "entityids": "UMLS/C0018801", "HPO": ["HPO/HP:0001635"], "MSH": ["MSH/D006333"], "RXNORM": []}]}
-{"Heart failure, congestive and microalbuminuria": [{"preferredTerms": "Microalbuminuria", "entityids": "UMLS/C0730345", "HPO": ["HPO/HP:0012594"], "MSH": [], "RXNORM": []}, {"preferredTerms": "Hepatitis A", "entityids": "UMLS/C0019159", "HPO": [], "MSH": ["MSH/D006506"], "RXNORM": []}]}
-{"Hepatitis a": [{"preferredTerms": "Hepatitis B", "entityids": "UMLS/C0019163", "HPO": [], "MSH": ["MSH/D006509"], "RXNORM": []}]}
+{"Heart failure, congestive": [{"preferredTerms": "Heart failure", "entityids": "UMLS/C0018801", "HPO": ["HPO/HP:0001635"], "MSH": ["MSH/D006333"], "RXNORM": []}, {"preferredTerms": "Congestion", "entityids": "UMLS/C0700148", "HPO": [], "MSH": [], "RXNORM": []}]}
+{"Heart failure, congestive and microalbuminuria": [{"preferredTerms": "Heart failure", "entityids": "UMLS/C0018801", "HPO": ["HPO/HP:0001635"], "MSH": ["MSH/D006333"], "RXNORM": []}, {"preferredTerms": "Microalbuminuria", "entityids": "UMLS/C0730345", "HPO": ["HPO/HP:0012594"], "MSH": [], "RXNORM": []}]}
+{"Hepatitis a": [{"preferredTerms": "Hepatitis A", "entityids": "UMLS/C0019159", "HPO": [], "MSH": ["MSH/D006506"], "RXNORM": []}]}
 {"Hepatitis b": [{"preferredTerms": "Hepatitis B", "entityids": "UMLS/C0019163", "HPO": [], "MSH": ["MSH/D006509"], "RXNORM": []}]}
-{"Hepatitis b, chronic": [{"preferredTerms": "Hepatitis C", "entityids": "UMLS/C0019196", "HPO": [], "MSH": ["MSH/D006526"], "RXNORM": []}]}
+{"Hepatitis b, chronic": [{"preferredTerms": "Hepatitis B", "entityids": "UMLS/C0019163", "HPO": [], "MSH": ["MSH/D006509"], "RXNORM": []}]}
 {"Hepatitis c": [{"preferredTerms": "Hepatitis C", "entityids": "UMLS/C0019196", "HPO": [], "MSH": ["MSH/D006526"], "RXNORM": []}]}
-{"Hepatitis c, chronic": [{"preferredTerms": "Liver carcinoma", "entityids": "UMLS/C2239176", "HPO": ["HPO/HP:0001402"], "MSH": ["MSH/D006528"], "RXNORM": []}]}
-{"Hepatocellular carcinoma (hcc)": [{}]}
-{"Her2-negative metastatic breast cancer": [{"preferredTerms": "Malignant neoplasm of breast", "entityids": "UMLS/C0006142", "HPO": [], "MSH": ["MSH/D001943"], "RXNORM": []}]}
+{"Hepatitis c, chronic": [{"preferredTerms": "Hepatitis C", "entityids": "UMLS/C0019196", "HPO": [], "MSH": ["MSH/D006526"], "RXNORM": []}]}
+{"Hepatocellular carcinoma (hcc)": [{"preferredTerms": "Liver carcinoma", "entityids": "UMLS/C2239176", "HPO": ["HPO/HP:0001402"], "MSH": ["MSH/D006528"], "RXNORM": []}]}
+{"Her2-negative metastatic breast cancer": [{"preferredTerms": "Neoplasm Metastasis", "entityids": "UMLS/C0027627", "HPO": [], "MSH": ["MSH/D009362"], "RXNORM": []}, {"preferredTerms": "Malignant Neoplasms", "entityids": "UMLS/C0006826", "HPO": ["HPO/HP:0002664"], "MSH": ["MSH/D009369"], "RXNORM": []}]}
 {"Her2/neu over-expressing locally advanced breast cancer or metastatic breast cancer": [{"preferredTerms": "Malignant Neoplasms", "entityids": "UMLS/C0006826", "HPO": ["HPO/HP:0002664"], "MSH": ["MSH/D009369"], "RXNORM": []}, {"preferredTerms": "Neoplasm Metastasis", "entityids": "UMLS/C0027627", "HPO": [], "MSH": ["MSH/D009362"], "RXNORM": []}]}
-{"Hereditary periodic fevers": [{"preferredTerms": "Fever", "entityids": "UMLS/C0015967", "HPO": ["HPO/HP:0001945"], "MSH": ["MSH/D005334"], "RXNORM": []}, {"preferredTerms": "Genital Herpes", "entityids": "UMLS/C0019342", "HPO": [], "MSH": ["MSH/D006558"], "RXNORM": []}]}
-{"Herpes genitalis": [{"preferredTerms": "Herpes Labialis", "entityids": "UMLS/C0019345", "HPO": [], "MSH": ["MSH/D006560"], "RXNORM": []}]}
-{"Herpes labialis": [{"preferredTerms": "Herpes Simplex Infections", "entityids": "UMLS/C0019348", "HPO": [], "MSH": ["MSH/D006561"], "RXNORM": []}]}
-{"Herpes simplex infection": [{"preferredTerms": "Herpes zoster disease", "entityids": "UMLS/C0019360", "HPO": [], "MSH": ["MSH/D006562"], "RXNORM": []}]}
-{"Herpes zoster": [{}]}
-{"Hip fracture": [{"preferredTerms": "Fracture", "entityids": "UMLS/C0016658", "HPO": ["HPO/HP:0020110"], "MSH": ["MSH/D050723"], "RXNORM": []}, {"preferredTerms": "HIV Infections", "entityids": "UMLS/C0019693", "HPO": [], "MSH": ["MSH/D015658"], "RXNORM": []}]}
-{"Hiv infections": [{"preferredTerms": "Huntington Disease", "entityids": "UMLS/C0020179", "HPO": [], "MSH": ["MSH/D006816"], "RXNORM": []}]}
-{"Huntington disease": [{"preferredTerms": "Hypercholesterolemia", "entityids": "UMLS/C0020443", "HPO": ["HPO/HP:0003124"], "MSH": ["MSH/D006937"], "RXNORM": []}]}
-{"Hypercholesterolemia": [{"preferredTerms": "Hypereosinophilic syndrome", "entityids": "UMLS/C1540912", "HPO": [], "MSH": ["MSH/D017681"], "RXNORM": []}]}
-{"Hypereosinophilic syndrome": [{"preferredTerms": "Hyperhidrosis disorder", "entityids": "UMLS/C0020458", "HPO": ["HPO/HP:0000975"], "MSH": ["MSH/D006945"], "RXNORM": []}]}
-{"Hyperhidrosis": [{"preferredTerms": "Hyperreactivity", "entityids": "UMLS/C4693174", "HPO": [], "MSH": [], "RXNORM": []}]}
-{"Hyperreactivity, bronchial": [{"preferredTerms": "Hypertensive disease", "entityids": "UMLS/C0020538", "HPO": ["HPO/HP:0000822"], "MSH": ["MSH/D006973"], "RXNORM": []}]}
+{"Hereditary periodic fevers": [{"preferredTerms": "Fever", "entityids": "UMLS/C0015967", "HPO": ["HPO/HP:0001945"], "MSH": ["MSH/D005334"], "RXNORM": []}]}
+{"Herpes genitalis": [{"preferredTerms": "Genital Herpes", "entityids": "UMLS/C0019342", "HPO": [], "MSH": ["MSH/D006558"], "RXNORM": []}]}
+{"Herpes labialis": [{"preferredTerms": "Herpes Labialis", "entityids": "UMLS/C0019345", "HPO": [], "MSH": ["MSH/D006560"], "RXNORM": []}]}
+{"Herpes simplex infection": [{"preferredTerms": "Herpes Simplex Infections", "entityids": "UMLS/C0019348", "HPO": [], "MSH": ["MSH/D006561"], "RXNORM": []}]}
+{"Herpes zoster": [{"preferredTerms": "Herpes zoster disease", "entityids": "UMLS/C0019360", "HPO": [], "MSH": ["MSH/D006562"], "RXNORM": []}]}
+{"Hip fracture": [{"preferredTerms": "Fracture", "entityids": "UMLS/C0016658", "HPO": ["HPO/HP:0020110"], "MSH": ["MSH/D050723"], "RXNORM": []}]}
+{"Hiv infections": [{"preferredTerms": "HIV Infections", "entityids": "UMLS/C0019693", "HPO": [], "MSH": ["MSH/D015658"], "RXNORM": []}]}
+{"Huntington disease": [{"preferredTerms": "Huntington Disease", "entityids": "UMLS/C0020179", "HPO": [], "MSH": ["MSH/D006816"], "RXNORM": []}]}
+{"Hypercholesterolemia": [{"preferredTerms": "Hypercholesterolemia", "entityids": "UMLS/C0020443", "HPO": ["HPO/HP:0003124"], "MSH": ["MSH/D006937"], "RXNORM": []}]}
+{"Hypereosinophilic syndrome": [{"preferredTerms": "Hypereosinophilic syndrome", "entityids": "UMLS/C1540912", "HPO": [], "MSH": ["MSH/D017681"], "RXNORM": []}]}
+{"Hyperhidrosis": [{"preferredTerms": "Hyperhidrosis disorder", "entityids": "UMLS/C0020458", "HPO": ["HPO/HP:0000975"], "MSH": ["MSH/D006945"], "RXNORM": []}]}
+{"Hyperreactivity, bronchial": [{"preferredTerms": "Hyperreactivity", "entityids": "UMLS/C4693174", "HPO": [], "MSH": [], "RXNORM": []}]}
 {"Hypertension": [{"preferredTerms": "Hypertensive disease", "entityids": "UMLS/C0020538", "HPO": ["HPO/HP:0000822"], "MSH": ["MSH/D006973"], "RXNORM": []}]}
-{"Hypertension, pulmonary": [{"preferredTerms": "Hypertriglyceridemia", "entityids": "UMLS/C0020557", "HPO": [], "MSH": ["MSH/D015228"], "RXNORM": []}]}
-{"Hypertriglyceridemia": [{"preferredTerms": "Hypertrophy", "entityids": "UMLS/C0020564", "HPO": [], "MSH": ["MSH/D006984"], "RXNORM": []}]}
-{"Hypertrophy, left ventricular": [{"preferredTerms": "Hypogonadism", "entityids": "UMLS/C0020619", "HPO": ["HPO/HP:0000135"], "MSH": ["MSH/D007006"], "RXNORM": []}]}
-{"Hypogonadism, male": [{"preferredTerms": "Idiopathic Pulmonary Fibrosis", "entityids": "UMLS/C1800706", "HPO": [], "MSH": ["MSH/D054990"], "RXNORM": []}]}
-{"Idiopathic pulmonary fibrosis": [{"preferredTerms": "Immune thrombocytopenic purpura", "entityids": "UMLS/C0398650", "HPO": ["HPO/HP:0001973"], "MSH": ["MSH/D016553"], "RXNORM": []}]}
-{"Idiopathic thrombocytopenic purpura": [{"preferredTerms": "Impetigo", "entityids": "UMLS/C0021099", "HPO": [], "MSH": ["MSH/D007169"], "RXNORM": []}]}
-{"Impetigo": [{"preferredTerms": "Communicable Diseases", "entityids": "UMLS/C0009450", "HPO": [], "MSH": ["MSH/D003141"], "RXNORM": []}]}
-{"Infection, human immunodeficiency virus": [{"preferredTerms": "HIV", "entityids": "UMLS/C0019682", "HPO": [], "MSH": ["MSH/D006678"], "RXNORM": []}, {"preferredTerms": "Communicable Diseases", "entityids": "UMLS/C0009450", "HPO": [], "MSH": ["MSH/D003141"], "RXNORM": []}]}
-{"Infection, human immunodeficiency virus i": [{"preferredTerms": "HIV", "entityids": "UMLS/C0019682", "HPO": [], "MSH": ["MSH/D006678"], "RXNORM": []}, {"preferredTerms": "Communicable Diseases", "entityids": "UMLS/C0009450", "HPO": [], "MSH": ["MSH/D003141"], "RXNORM": []}]}
-{"Infections, bacterial": [{"preferredTerms": "Bacteria", "entityids": "UMLS/C0004611", "HPO": [], "MSH": ["MSH/D001419"], "RXNORM": []}, {"preferredTerms": "Communicable Diseases", "entityids": "UMLS/C0009450", "HPO": [], "MSH": ["MSH/D003141"], "RXNORM": []}]}
+{"Hypertension, pulmonary": [{"preferredTerms": "Hypertensive disease", "entityids": "UMLS/C0020538", "HPO": ["HPO/HP:0000822"], "MSH": ["MSH/D006973"], "RXNORM": []}]}
+{"Hypertriglyceridemia": [{"preferredTerms": "Hypertriglyceridemia", "entityids": "UMLS/C0020557", "HPO": [], "MSH": ["MSH/D015228"], "RXNORM": []}]}
+{"Hypertrophy, left ventricular": [{"preferredTerms": "Hypertrophy", "entityids": "UMLS/C0020564", "HPO": [], "MSH": ["MSH/D006984"], "RXNORM": []}]}
+{"Hypogonadism, male": [{"preferredTerms": "Hypogonadism", "entityids": "UMLS/C0020619", "HPO": ["HPO/HP:0000135"], "MSH": ["MSH/D007006"], "RXNORM": []}]}
+{"Idiopathic pulmonary fibrosis": [{"preferredTerms": "Idiopathic Pulmonary Fibrosis", "entityids": "UMLS/C1800706", "HPO": [], "MSH": ["MSH/D054990"], "RXNORM": []}]}
+{"Idiopathic thrombocytopenic purpura": [{"preferredTerms": "Immune thrombocytopenic purpura", "entityids": "UMLS/C0398650", "HPO": ["HPO/HP:0001973"], "MSH": ["MSH/D016553"], "RXNORM": []}]}
+{"Impetigo": [{"preferredTerms": "Impetigo", "entityids": "UMLS/C0021099", "HPO": [], "MSH": ["MSH/D007169"], "RXNORM": []}]}
+{"Infection, human immunodeficiency virus": [{"preferredTerms": "Communicable Diseases", "entityids": "UMLS/C0009450", "HPO": [], "MSH": ["MSH/D003141"], "RXNORM": []}, {"preferredTerms": "HIV", "entityids": "UMLS/C0019682", "HPO": [], "MSH": ["MSH/D006678"], "RXNORM": []}]}
+{"Infection, human immunodeficiency virus i": [{"preferredTerms": "Communicable Diseases", "entityids": "UMLS/C0009450", "HPO": [], "MSH": ["MSH/D003141"], "RXNORM": []}, {"preferredTerms": "HIV", "entityids": "UMLS/C0019682", "HPO": [], "MSH": ["MSH/D006678"], "RXNORM": []}]}
+{"Infections, bacterial": [{"preferredTerms": "Communicable Diseases", "entityids": "UMLS/C0009450", "HPO": [], "MSH": ["MSH/D003141"], "RXNORM": []}, {"preferredTerms": "Bacteria", "entityids": "UMLS/C0004611", "HPO": [], "MSH": ["MSH/D001419"], "RXNORM": []}]}
 {"Infections, herpesviridae": [{"preferredTerms": "Communicable Diseases", "entityids": "UMLS/C0009450", "HPO": [], "MSH": ["MSH/D003141"], "RXNORM": []}]}
-{"Infections, human immunodeficiency virus and herpesviridae": [{"preferredTerms": "HIV", "entityids": "UMLS/C0019682", "HPO": [], "MSH": ["MSH/D006678"], "RXNORM": []}, {"preferredTerms": "Communicable Diseases", "entityids": "UMLS/C0009450", "HPO": [], "MSH": ["MSH/D003141"], "RXNORM": []}]}
+{"Infections, human immunodeficiency virus and herpesviridae": [{"preferredTerms": "Communicable Diseases", "entityids": "UMLS/C0009450", "HPO": [], "MSH": ["MSH/D003141"], "RXNORM": []}, {"preferredTerms": "HIV", "entityids": "UMLS/C0019682", "HPO": [], "MSH": ["MSH/D006678"], "RXNORM": []}]}
 {"Infections, meningococcal": [{"preferredTerms": "Communicable Diseases", "entityids": "UMLS/C0009450", "HPO": [], "MSH": ["MSH/D003141"], "RXNORM": []}]}
-{"Infections, papillomavirus": [{"preferredTerms": "Papillomavirus", "entityids": "UMLS/C0030358", "HPO": [], "MSH": [], "RXNORM": []}, {"preferredTerms": "Communicable Diseases", "entityids": "UMLS/C0009450", "HPO": [], "MSH": ["MSH/D003141"], "RXNORM": []}]}
-{"Infections, respiratory syncytial virus": [{"preferredTerms": "Respiratory syncytial virus", "entityids": "UMLS/C0035236", "HPO": [], "MSH": ["MSH/D012136"], "RXNORM": []}, {"preferredTerms": "Communicable Diseases", "entityids": "UMLS/C0009450", "HPO": [], "MSH": ["MSH/D003141"], "RXNORM": []}]}
+{"Infections, papillomavirus": [{"preferredTerms": "Communicable Diseases", "entityids": "UMLS/C0009450", "HPO": [], "MSH": ["MSH/D003141"], "RXNORM": []}, {"preferredTerms": "Papillomavirus", "entityids": "UMLS/C0030358", "HPO": [], "MSH": [], "RXNORM": []}]}
+{"Infections, respiratory syncytial virus": [{"preferredTerms": "Communicable Diseases", "entityids": "UMLS/C0009450", "HPO": [], "MSH": ["MSH/D003141"], "RXNORM": []}, {"preferredTerms": "Respiratory syncytial virus", "entityids": "UMLS/C0035236", "HPO": [], "MSH": ["MSH/D012136"], "RXNORM": []}]}
 {"Infections, respiratory tract": [{"preferredTerms": "Communicable Diseases", "entityids": "UMLS/C0009450", "HPO": [], "MSH": ["MSH/D003141"], "RXNORM": []}]}
 {"Infections, rotavirus": [{"preferredTerms": "Communicable Diseases", "entityids": "UMLS/C0009450", "HPO": [], "MSH": ["MSH/D003141"], "RXNORM": []}]}
 {"Infections, staphylococcal": [{"preferredTerms": "Communicable Diseases", "entityids": "UMLS/C0009450", "HPO": [], "MSH": ["MSH/D003141"], "RXNORM": []}]}
-{"Infections, streptococcal": [{"preferredTerms": "Inflammatory Bowel Diseases", "entityids": "UMLS/C0021390", "HPO": ["HPO/HP:0002037"], "MSH": ["MSH/D015212"], "RXNORM": []}]}
-{"Inflammatory bowel diseases": [{"preferredTerms": "Influenza", "entityids": "UMLS/C0021400", "HPO": [], "MSH": ["MSH/D007251"], "RXNORM": []}]}
-{"Influenza": [{"preferredTerms": "influenza A virus", "entityids": "UMLS/C0029347", "HPO": [], "MSH": ["MSH/D009980"], "RXNORM": ["RXNORM/1312375"]}]}
-{"Influenza a virus, h1n1 subtype": [{}]}
-{"Insulin resistance": [{"preferredTerms": "Aspergillosis, Nervous System Invasive", "entityids": "UMLS/C0752341", "HPO": [], "MSH": ["MSH/D020953"], "RXNORM": []}]}
-{"Invasive aspergillosis / invasive mucormycosis": [{"preferredTerms": "Mucormycosis", "entityids": "UMLS/C0026718", "HPO": [], "MSH": ["MSH/D009091"], "RXNORM": []}, {"preferredTerms": "Invasive Candidiasis", "entityids": "UMLS/C1609535", "HPO": [], "MSH": ["MSH/D058365"], "RXNORM": []}]}
-{"Invasive candidiasis": [{"preferredTerms": "Invasive Fungal Infections", "entityids": "UMLS/C1262313", "HPO": ["HPO/HP:0020101"], "MSH": ["MSH/D000072742"], "RXNORM": []}]}
+{"Infections, streptococcal": [{"preferredTerms": "Communicable Diseases", "entityids": "UMLS/C0009450", "HPO": [], "MSH": ["MSH/D003141"], "RXNORM": []}]}
+{"Inflammatory bowel diseases": [{"preferredTerms": "Inflammatory Bowel Diseases", "entityids": "UMLS/C0021390", "HPO": ["HPO/HP:0002037"], "MSH": ["MSH/D015212"], "RXNORM": []}]}
+{"Influenza": [{"preferredTerms": "Influenza", "entityids": "UMLS/C0021400", "HPO": [], "MSH": ["MSH/D007251"], "RXNORM": []}]}
+{"Influenza a virus, h1n1 subtype": [{"preferredTerms": "influenza A virus", "entityids": "UMLS/C0029347", "HPO": [], "MSH": ["MSH/D009980"], "RXNORM": ["RXNORM/1312375"]}]}
+{"Insulin resistance": [{}]}
+{"Invasive aspergillosis / invasive mucormycosis": [{"preferredTerms": "Aspergillosis, Nervous System Invasive", "entityids": "UMLS/C0752341", "HPO": [], "MSH": ["MSH/D020953"], "RXNORM": []}, {"preferredTerms": "Mucormycosis", "entityids": "UMLS/C0026718", "HPO": [], "MSH": ["MSH/D009091"], "RXNORM": []}]}
+{"Invasive candidiasis": [{"preferredTerms": "Invasive Candidiasis", "entityids": "UMLS/C1609535", "HPO": [], "MSH": ["MSH/D058365"], "RXNORM": []}]}
 {"Invasive fungal infection": [{"preferredTerms": "Invasive Fungal Infections", "entityids": "UMLS/C1262313", "HPO": ["HPO/HP:0020101"], "MSH": ["MSH/D000072742"], "RXNORM": []}]}
-{"Invasive fungal infections": [{"preferredTerms": "Irritable Bowel Syndrome", "entityids": "UMLS/C0022104", "HPO": [], "MSH": ["MSH/D043183"], "RXNORM": []}]}
-{"Irritable bowel syndrome": [{"preferredTerms": "Transient Ischemic Attack", "entityids": "UMLS/C0007787", "HPO": ["HPO/HP:0002326"], "MSH": ["MSH/D002546"], "RXNORM": []}]}
-{"Ischaemic attack, transient": [{}]}
-{"Juvenile psoriatic arthritis, enthesitis-related arthritis": [{"preferredTerms": "Arthritis, Psoriatic", "entityids": "UMLS/C0003872", "HPO": [], "MSH": ["MSH/D015535"], "RXNORM": []}, {"preferredTerms": "Enthesitis-Related Arthritis", "entityids": "UMLS/C3495919", "HPO": [], "MSH": [], "RXNORM": []}, {"preferredTerms": "Lennox-Gastaut syndrome", "entityids": "UMLS/C0238111", "HPO": [], "MSH": ["MSH/D065768"], "RXNORM": []}]}
-{"Lennox-gastaut syndrome": [{"preferredTerms": "leukemia", "entityids": "UMLS/C0023418", "HPO": ["HPO/HP:0001909"], "MSH": ["MSH/D007938"], "RXNORM": []}]}
+{"Invasive fungal infections": [{"preferredTerms": "Invasive Fungal Infections", "entityids": "UMLS/C1262313", "HPO": ["HPO/HP:0020101"], "MSH": ["MSH/D000072742"], "RXNORM": []}]}
+{"Irritable bowel syndrome": [{"preferredTerms": "Irritable Bowel Syndrome", "entityids": "UMLS/C0022104", "HPO": [], "MSH": ["MSH/D043183"], "RXNORM": []}]}
+{"Ischaemic attack, transient": [{"preferredTerms": "Transient Ischemic Attack", "entityids": "UMLS/C0007787", "HPO": ["HPO/HP:0002326"], "MSH": ["MSH/D002546"], "RXNORM": []}]}
+{"Juvenile psoriatic arthritis, enthesitis-related arthritis": [{"preferredTerms": "Arthritis, Psoriatic", "entityids": "UMLS/C0003872", "HPO": [], "MSH": ["MSH/D015535"], "RXNORM": []}]}
+{"Lennox-gastaut syndrome": [{"preferredTerms": "Lennox-Gastaut syndrome", "entityids": "UMLS/C0238111", "HPO": [], "MSH": ["MSH/D065768"], "RXNORM": []}]}
 {"Leukaemia, lymphocytic, chronic": [{"preferredTerms": "leukemia", "entityids": "UMLS/C0023418", "HPO": ["HPO/HP:0001909"], "MSH": ["MSH/D007938"], "RXNORM": []}]}
-{"Leukaemia, myelocytic, acute": [{"preferredTerms": "Myeloid Leukemia", "entityids": "UMLS/C0023470", "HPO": ["HPO/HP:0012324"], "MSH": ["MSH/D007951"], "RXNORM": []}]}
-{"Liver diseases": [{}]}
+{"Leukaemia, myelocytic, acute": [{"preferredTerms": "leukemia", "entityids": "UMLS/C0023418", "HPO": ["HPO/HP:0001909"], "MSH": ["MSH/D007938"], "RXNORM": []}, {"preferredTerms": "Myeloid Leukemia", "entityids": "UMLS/C0023470", "HPO": ["HPO/HP:0012324"], "MSH": ["MSH/D007951"], "RXNORM": []}]}
+{"Liver diseases": [{"preferredTerms": "Liver diseases", "entityids": "UMLS/C0023895", "HPO": ["HPO/HP:0001392", "HPO/HP:0001410"], "MSH": ["MSH/D008107"], "RXNORM": []}]}
 {"Lower urinary tract symptoms / benign prostatic hyperplasia": [{"preferredTerms": "Symptoms", "entityids": "UMLS/C1457887", "HPO": [], "MSH": [], "RXNORM": []}, {"preferredTerms": "Benign Prostatic Hyperplasia", "entityids": "UMLS/C1704272", "HPO": ["HPO/HP:0008711"], "MSH": ["MSH/D011470"], "RXNORM": []}]}
 {"Lung cancer, non-small cell": [{"preferredTerms": "Malignant Neoplasms", "entityids": "UMLS/C0006826", "HPO": ["HPO/HP:0002664"], "MSH": ["MSH/D009369"], "RXNORM": []}, {"preferredTerms": "Non-Small Cell Carcinoma", "entityids": "UMLS/C1266002", "HPO": [], "MSH": [], "RXNORM": []}]}
 {"Lung injury, acute": [{"preferredTerms": "Traumatic injury", "entityids": "UMLS/C3263723", "HPO": [], "MSH": ["MSH/D014947"], "RXNORM": []}]}
 {"Lung injury, acute and respiratory distress syndrome, adult": [{"preferredTerms": "Traumatic injury", "entityids": "UMLS/C3263723", "HPO": [], "MSH": ["MSH/D014947"], "RXNORM": []}, {"preferredTerms": "Respiratory Distress Syndrome, Adult", "entityids": "UMLS/C0035222", "HPO": ["HPO/HP:0033677"], "MSH": ["MSH/D012128"], "RXNORM": []}]}
 {"Lupus erythematosus, cutaneous": [{"preferredTerms": "Lupus Erythematosus", "entityids": "UMLS/C0409974", "HPO": [], "MSH": [], "RXNORM": []}]}
-{"Lupus nephritis": [{"preferredTerms": "Nephritis", "entityids": "UMLS/C0027697", "HPO": ["HPO/HP:0000123"], "MSH": ["MSH/D009393"], "RXNORM": []}, {"preferredTerms": "Lymphoma", "entityids": "UMLS/C0024299", "HPO": ["HPO/HP:0002665"], "MSH": ["MSH/D008223"], "RXNORM": []}]}
+{"Lupus nephritis": [{"preferredTerms": "Nephritis", "entityids": "UMLS/C0027697", "HPO": ["HPO/HP:0000123"], "MSH": ["MSH/D009393"], "RXNORM": []}]}
 {"Lymphoma, follicular": [{"preferredTerms": "Lymphoma", "entityids": "UMLS/C0024299", "HPO": ["HPO/HP:0002665"], "MSH": ["MSH/D008223"], "RXNORM": []}]}
-{"Lymphoma, mantle-cell": [{"preferredTerms": "Malignant lymphoma, lymphocytic, intermediate differentiation, diffuse", "entityids": "UMLS/C0334634", "HPO": [], "MSH": ["MSH/D020522"], "RXNORM": []}, {"preferredTerms": "Lymphoma", "entityids": "UMLS/C0024299", "HPO": ["HPO/HP:0002665"], "MSH": ["MSH/D008223"], "RXNORM": []}]}
-{"Lymphoma, non-hodgkin": [{"preferredTerms": "Lymphoma, Non-Hodgkin", "entityids": "UMLS/C0024305", "HPO": ["HPO/HP:0012539"], "MSH": ["MSH/D008228"], "RXNORM": []}, {"preferredTerms": "Malaria", "entityids": "UMLS/C0024530", "HPO": [], "MSH": ["MSH/D008288"], "RXNORM": []}]}
+{"Lymphoma, mantle-cell": [{"preferredTerms": "Lymphoma", "entityids": "UMLS/C0024299", "HPO": ["HPO/HP:0002665"], "MSH": ["MSH/D008223"], "RXNORM": []}, {"preferredTerms": "Malignant lymphoma, lymphocytic, intermediate differentiation, diffuse", "entityids": "UMLS/C0334634", "HPO": [], "MSH": ["MSH/D020522"], "RXNORM": []}]}
+{"Lymphoma, non-hodgkin": [{"preferredTerms": "Lymphoma", "entityids": "UMLS/C0024299", "HPO": ["HPO/HP:0002665"], "MSH": ["MSH/D008223"], "RXNORM": []}, {"preferredTerms": "Lymphoma, Non-Hodgkin", "entityids": "UMLS/C0024305", "HPO": ["HPO/HP:0012539"], "MSH": ["MSH/D008228"], "RXNORM": []}]}
 {"Malaria": [{"preferredTerms": "Malaria", "entityids": "UMLS/C0024530", "HPO": [], "MSH": ["MSH/D008288"], "RXNORM": []}]}
 {"Malaria, falciparum": [{"preferredTerms": "Malaria", "entityids": "UMLS/C0024530", "HPO": [], "MSH": ["MSH/D008288"], "RXNORM": []}]}
-{"Malaria, vivax": [{"preferredTerms": "Mastocytosis", "entityids": "UMLS/C0024899", "HPO": ["HPO/HP:0100495"], "MSH": ["MSH/D008415"], "RXNORM": []}]}
-{"Mastocytosis": [{}]}
+{"Malaria, vivax": [{"preferredTerms": "Malaria", "entityids": "UMLS/C0024530", "HPO": [], "MSH": ["MSH/D008288"], "RXNORM": []}]}
+{"Mastocytosis": [{"preferredTerms": "Mastocytosis", "entityids": "UMLS/C0024899", "HPO": ["HPO/HP:0100495"], "MSH": ["MSH/D008415"], "RXNORM": []}]}
 {"Measles": [{"preferredTerms": "Measles", "entityids": "UMLS/C0025007", "HPO": [], "MSH": ["MSH/D008457"], "RXNORM": []}]}
 {"Measles, mumps, rubella": [{"preferredTerms": "Measles", "entityids": "UMLS/C0025007", "HPO": [], "MSH": ["MSH/D008457"], "RXNORM": []}, {"preferredTerms": "Mumps", "entityids": "UMLS/C0026780", "HPO": [], "MSH": ["MSH/D009107"], "RXNORM": []}, {"preferredTerms": "Rubella", "entityids": "UMLS/C0035920", "HPO": [], "MSH": ["MSH/D012409"], "RXNORM": []}]}
-{"Melanoma": [{"preferredTerms": "Meningitis", "entityids": "UMLS/C0025289", "HPO": ["HPO/HP:0001287"], "MSH": ["MSH/D008581"], "RXNORM": []}]}
-{"Meningitis, meningococcal": [{"preferredTerms": "Meningococcal Infections", "entityids": "UMLS/C0025303", "HPO": [], "MSH": ["MSH/D008589"], "RXNORM": []}]}
-{"Meningococcal disease": [{"preferredTerms": "Mental disorders", "entityids": "UMLS/C0004936", "HPO": [], "MSH": ["MSH/D001523"], "RXNORM": []}]}
-{"Mental disorders": [{"preferredTerms": "Metabolic Syndrome X", "entityids": "UMLS/C0524620", "HPO": [], "MSH": ["MSH/D024821"], "RXNORM": []}]}
-{"Metabolic syndrome x": [{"preferredTerms": "Neoplasm Metastasis", "entityids": "UMLS/C0027627", "HPO": [], "MSH": ["MSH/D009362"], "RXNORM": []}]}
-{"Metastases, brain": [{"preferredTerms": "Malignant neoplasm of breast", "entityids": "UMLS/C0006142", "HPO": [], "MSH": ["MSH/D001943"], "RXNORM": []}]}
-{"Metastatic breast cancer": [{"preferredTerms": "Metastatic melanoma", "entityids": "UMLS/C0278883", "HPO": [], "MSH": [], "RXNORM": []}]}
-{"Metastatic melanoma": [{"preferredTerms": "Metastatic Renal Cell Carcinoma", "entityids": "UMLS/C4721698", "HPO": [], "MSH": [], "RXNORM": []}]}
-{"Metastatic renal cell carcinoma": [{"preferredTerms": "Metastatic Triple-Negative Breast Carcinoma", "entityids": "UMLS/C4727787", "HPO": [], "MSH": [], "RXNORM": []}]}
-{"Metastatic triple-negative breast cancer": [{"preferredTerms": "Malignant Neoplasms", "entityids": "UMLS/C0006826", "HPO": ["HPO/HP:0002664"], "MSH": ["MSH/D009369"], "RXNORM": []}, {"preferredTerms": "Migraine Disorders", "entityids": "UMLS/C0149931", "HPO": ["HPO/HP:0002076"], "MSH": ["MSH/D008881"], "RXNORM": []}]}
+{"Melanoma": [{"preferredTerms": "melanoma", "entityids": "UMLS/C0025202", "HPO": ["HPO/HP:0002861"], "MSH": ["MSH/D008545"], "RXNORM": []}]}
+{"Meningitis, meningococcal": [{"preferredTerms": "Meningitis", "entityids": "UMLS/C0025289", "HPO": ["HPO/HP:0001287"], "MSH": ["MSH/D008581"], "RXNORM": []}]}
+{"Meningococcal disease": [{"preferredTerms": "Meningococcal Infections", "entityids": "UMLS/C0025303", "HPO": [], "MSH": ["MSH/D008589"], "RXNORM": []}]}
+{"Mental disorders": [{"preferredTerms": "Mental disorders", "entityids": "UMLS/C0004936", "HPO": [], "MSH": ["MSH/D001523"], "RXNORM": []}]}
+{"Metabolic syndrome x": [{"preferredTerms": "Metabolic Syndrome X", "entityids": "UMLS/C0524620", "HPO": [], "MSH": ["MSH/D024821"], "RXNORM": []}]}
+{"Metastases, brain": [{"preferredTerms": "Neoplasm Metastasis", "entityids": "UMLS/C0027627", "HPO": [], "MSH": ["MSH/D009362"], "RXNORM": []}]}
+{"Metastatic breast cancer": [{"preferredTerms": "Malignant neoplasm of breast", "entityids": "UMLS/C0006142", "HPO": [], "MSH": ["MSH/D001943"], "RXNORM": []}]}
+{"Metastatic melanoma": [{"preferredTerms": "Metastatic melanoma", "entityids": "UMLS/C0278883", "HPO": [], "MSH": [], "RXNORM": []}]}
+{"Metastatic renal cell carcinoma": [{"preferredTerms": "Metastatic Renal Cell Carcinoma", "entityids": "UMLS/C4721698", "HPO": [], "MSH": [], "RXNORM": []}]}
+{"Metastatic triple-negative breast cancer": [{"preferredTerms": "Triple Negative Breast Neoplasms", "entityids": "UMLS/C3539878", "HPO": [], "MSH": ["MSH/D064726"], "RXNORM": []}]}
 {"Migraine": [{"preferredTerms": "Migraine Disorders", "entityids": "UMLS/C0149931", "HPO": ["HPO/HP:0002076"], "MSH": ["MSH/D008881"], "RXNORM": []}]}
 {"Migraine disorders": [{"preferredTerms": "Migraine Disorders", "entityids": "UMLS/C0149931", "HPO": ["HPO/HP:0002076"], "MSH": ["MSH/D008881"], "RXNORM": []}]}
-{"Migraine disorders and premenstrual syndrome": [{"preferredTerms": "Premenstrual syndrome", "entityids": "UMLS/C0033046", "HPO": [], "MSH": ["MSH/D011293"], "RXNORM": []}, {"preferredTerms": "Migraine Disorders", "entityids": "UMLS/C0149931", "HPO": ["HPO/HP:0002076"], "MSH": ["MSH/D008881"], "RXNORM": []}]}
-{"Migraine, without aura": [{"preferredTerms": "Aura", "entityids": "UMLS/C0236018", "HPO": [], "MSH": ["MSH/D004827"], "RXNORM": []}]}
+{"Migraine disorders and premenstrual syndrome": [{"preferredTerms": "Migraine Disorders", "entityids": "UMLS/C0149931", "HPO": ["HPO/HP:0002076"], "MSH": ["MSH/D008881"], "RXNORM": []}, {"preferredTerms": "Premenstrual syndrome", "entityids": "UMLS/C0033046", "HPO": [], "MSH": ["MSH/D011293"], "RXNORM": []}]}
+{"Migraine, without aura": [{"preferredTerms": "Migraine Disorders", "entityids": "UMLS/C0149931", "HPO": ["HPO/HP:0002076"], "MSH": ["MSH/D008881"], "RXNORM": []}, {"preferredTerms": "Aura", "entityids": "UMLS/C0236018", "HPO": [], "MSH": ["MSH/D004827"], "RXNORM": []}]}
 {"Mild asthma and allergic rhinitis": [{"preferredTerms": "Asthma", "entityids": "UMLS/C0004096", "HPO": ["HPO/HP:0002099"], "MSH": ["MSH/D001249"], "RXNORM": []}, {"preferredTerms": "Allergic rhinitis (disorder)", "entityids": "UMLS/C2607914", "HPO": ["HPO/HP:0003193"], "MSH": ["MSH/D065631"], "RXNORM": []}]}
 {"Moderate to severe acute pain": [{"preferredTerms": "Pain", "entityids": "UMLS/C0030193", "HPO": ["HPO/HP:0012531"], "MSH": ["MSH/D010146"], "RXNORM": []}]}
 {"Moderate to severe acute post-operative pain": [{"preferredTerms": "Pain", "entityids": "UMLS/C0030193", "HPO": ["HPO/HP:0012531"], "MSH": ["MSH/D010146"], "RXNORM": []}]}
 {"Moderate to severe chronic plaque-type psoriasis": [{"preferredTerms": "Psoriasis", "entityids": "UMLS/C0033860", "HPO": ["HPO/HP:0003765"], "MSH": ["MSH/D011565"], "RXNORM": []}]}
-{"Moderate to severe scalp psoriasis": [{"preferredTerms": "Psoriasis", "entityids": "UMLS/C0033860", "HPO": ["HPO/HP:0003765"], "MSH": ["MSH/D011565"], "RXNORM": []}, {"preferredTerms": "Mood Disorders", "entityids": "UMLS/C0525045", "HPO": [], "MSH": ["MSH/D019964"], "RXNORM": []}]}
-{"Mood disorders": [{"preferredTerms": "Multiple Myeloma", "entityids": "UMLS/C0026764", "HPO": ["HPO/HP:0006775"], "MSH": ["MSH/D009101"], "RXNORM": []}]}
-{"Multiple myeloma (mm)": [{"preferredTerms": "Multiple Sclerosis", "entityids": "UMLS/C0026769", "HPO": [], "MSH": ["MSH/D009103"], "RXNORM": []}]}
+{"Moderate to severe scalp psoriasis": [{"preferredTerms": "Psoriasis", "entityids": "UMLS/C0033860", "HPO": ["HPO/HP:0003765"], "MSH": ["MSH/D011565"], "RXNORM": []}]}
+{"Mood disorders": [{"preferredTerms": "Mood Disorders", "entityids": "UMLS/C0525045", "HPO": [], "MSH": ["MSH/D019964"], "RXNORM": []}]}
+{"Multiple myeloma (mm)": [{"preferredTerms": "Multiple Myeloma", "entityids": "UMLS/C0026764", "HPO": ["HPO/HP:0006775"], "MSH": ["MSH/D009101"], "RXNORM": []}]}
 {"Multiple sclerosis": [{"preferredTerms": "Multiple Sclerosis", "entityids": "UMLS/C0026769", "HPO": [], "MSH": ["MSH/D009103"], "RXNORM": []}]}
-{"Multiple sclerosis, relapsing-remitting": [{"preferredTerms": "Mumps", "entityids": "UMLS/C0026780", "HPO": [], "MSH": ["MSH/D009107"], "RXNORM": []}]}
+{"Multiple sclerosis, relapsing-remitting": [{"preferredTerms": "Multiple Sclerosis", "entityids": "UMLS/C0026769", "HPO": [], "MSH": ["MSH/D009103"], "RXNORM": []}]}
 {"Mumps": [{"preferredTerms": "Mumps", "entityids": "UMLS/C0026780", "HPO": [], "MSH": ["MSH/D009107"], "RXNORM": []}]}
-{"Muscle atrophy": [{"preferredTerms": "Atrophic", "entityids": "UMLS/C0333641", "HPO": [], "MSH": ["MSH/D001284"], "RXNORM": []}, {"preferredTerms": "Myasthenia Gravis", "entityids": "UMLS/C0026896", "HPO": [], "MSH": ["MSH/D009157"], "RXNORM": []}]}
-{"Myasthenia gravis": [{"preferredTerms": "Mycoses", "entityids": "UMLS/C0026946", "HPO": [], "MSH": ["MSH/D009181"], "RXNORM": []}]}
-{"Mycoses": [{"preferredTerms": "MYELODYSPLASTIC SYNDROME", "entityids": "UMLS/C3463824", "HPO": ["HPO/HP:0002863"], "MSH": ["MSH/D009190"], "RXNORM": []}]}
-{"Myelodysplastic syndrome (mds)": [{"preferredTerms": "Primary Myelofibrosis", "entityids": "UMLS/C0001815", "HPO": [], "MSH": ["MSH/D055728"], "RXNORM": []}]}
-{"Myelofibrosis": [{"preferredTerms": "Nausea", "entityids": "UMLS/C0027497", "HPO": ["HPO/HP:0002018"], "MSH": ["MSH/D009325"], "RXNORM": []}]}
-{"Nausea and vomiting, chemotherapy-induced": [{"preferredTerms": "Vomiting", "entityids": "UMLS/C0042963", "HPO": ["HPO/HP:0002013"], "MSH": ["MSH/D014839"], "RXNORM": []}, {"preferredTerms": "Nausea", "entityids": "UMLS/C0027497", "HPO": ["HPO/HP:0002018"], "MSH": ["MSH/D009325"], "RXNORM": []}]}
-{"Nausea and vomiting, postoperative": [{"preferredTerms": "Vomiting", "entityids": "UMLS/C0042963", "HPO": ["HPO/HP:0002013"], "MSH": ["MSH/D014839"], "RXNORM": []}, {"preferredTerms": "Neisseria meningitidis", "entityids": "UMLS/C0027575", "HPO": [], "MSH": ["MSH/D009345"], "RXNORM": ["RXNORM/7288"]}]}
-{"Neisseria meningitidis": [{"preferredTerms": "Neoplasms", "entityids": "UMLS/C0027651", "HPO": ["HPO/HP:0002664"], "MSH": ["MSH/D009369"], "RXNORM": []}]}
+{"Muscle atrophy": [{"preferredTerms": "Atrophic", "entityids": "UMLS/C0333641", "HPO": [], "MSH": ["MSH/D001284"], "RXNORM": []}]}
+{"Myasthenia gravis": [{"preferredTerms": "Myasthenia Gravis", "entityids": "UMLS/C0026896", "HPO": [], "MSH": ["MSH/D009157"], "RXNORM": []}]}
+{"Mycoses": [{"preferredTerms": "Mycoses", "entityids": "UMLS/C0026946", "HPO": [], "MSH": ["MSH/D009181"], "RXNORM": []}]}
+{"Myelodysplastic syndrome (mds)": [{"preferredTerms": "MYELODYSPLASTIC SYNDROME", "entityids": "UMLS/C3463824", "HPO": ["HPO/HP:0002863"], "MSH": ["MSH/D009190"], "RXNORM": []}]}
+{"Myelofibrosis": [{"preferredTerms": "Primary Myelofibrosis", "entityids": "UMLS/C0001815", "HPO": [], "MSH": ["MSH/D055728"], "RXNORM": []}]}
+{"Nausea and vomiting, chemotherapy-induced": [{"preferredTerms": "Nausea", "entityids": "UMLS/C0027497", "HPO": ["HPO/HP:0002018"], "MSH": ["MSH/D009325"], "RXNORM": []}, {"preferredTerms": "Vomiting", "entityids": "UMLS/C0042963", "HPO": ["HPO/HP:0002013"], "MSH": ["MSH/D014839"], "RXNORM": []}]}
+{"Nausea and vomiting, postoperative": [{"preferredTerms": "Nausea", "entityids": "UMLS/C0027497", "HPO": ["HPO/HP:0002018"], "MSH": ["MSH/D009325"], "RXNORM": []}, {"preferredTerms": "Vomiting", "entityids": "UMLS/C0042963", "HPO": ["HPO/HP:0002013"], "MSH": ["MSH/D014839"], "RXNORM": []}]}
+{"Neisseria meningitidis": [{"preferredTerms": "Neisseria meningitidis", "entityids": "UMLS/C0027575", "HPO": [], "MSH": ["MSH/D009345"], "RXNORM": ["RXNORM/7288"]}]}
 {"Neoplasms": [{"preferredTerms": "Neoplasms", "entityids": "UMLS/C0027651", "HPO": ["HPO/HP:0002664"], "MSH": ["MSH/D009369"], "RXNORM": []}]}
 {"Neoplasms, head and neck": [{"preferredTerms": "Neoplasms", "entityids": "UMLS/C0027651", "HPO": ["HPO/HP:0002664"], "MSH": ["MSH/D009369"], "RXNORM": []}]}
 {"Neoplasms, prostate": [{"preferredTerms": "Neoplasms", "entityids": "UMLS/C0027651", "HPO": ["HPO/HP:0002664"], "MSH": ["MSH/D009369"], "RXNORM": []}]}
 {"Neoplasms|lung neoplasms": [{"preferredTerms": "Neoplasms", "entityids": "UMLS/C0027651", "HPO": ["HPO/HP:0002664"], "MSH": ["MSH/D009369"], "RXNORM": []}]}
-{"Neovascular age-related macular degeneration": [{"preferredTerms": "Macular degeneration", "entityids": "UMLS/C0024437", "HPO": ["HPO/HP:0000608"], "MSH": ["MSH/D008268"], "RXNORM": []}, {"preferredTerms": "Neuralgia", "entityids": "UMLS/C0027796", "HPO": ["HPO/HP:0033345"], "MSH": ["MSH/D009437"], "RXNORM": []}]}
-{"Neuralgia, postherpetic": [{"preferredTerms": "Neuroendocrine Tumors", "entityids": "UMLS/C0206754", "HPO": ["HPO/HP:0100634"], "MSH": ["MSH/D018358"], "RXNORM": []}]}
-{"Neuroendocrine tumors (net)": [{"preferredTerms": "Overactive Detrusor", "entityids": "UMLS/C0268849", "HPO": [], "MSH": ["MSH/D053201"], "RXNORM": []}]}
-{"Neurogenic detrusor overactivity": [{"preferredTerms": "Diabetic Neuropathies", "entityids": "UMLS/C0011882", "HPO": [], "MSH": ["MSH/D003929"], "RXNORM": []}]}
-{"Neuropathy, diabetic": [{"preferredTerms": "Spondylarthritis", "entityids": "UMLS/C0949690", "HPO": [], "MSH": ["MSH/D025241"], "RXNORM": []}]}
-{"Non-radiographic spondyloarthritis": [{"preferredTerms": "Non-Small Cell Lung Carcinoma", "entityids": "UMLS/C0007131", "HPO": ["HPO/HP:0030358"], "MSH": ["MSH/D002289"], "RXNORM": []}]}
+{"Neovascular age-related macular degeneration": [{"preferredTerms": "Macular degeneration", "entityids": "UMLS/C0024437", "HPO": ["HPO/HP:0000608"], "MSH": ["MSH/D008268"], "RXNORM": []}]}
+{"Neuralgia, postherpetic": [{"preferredTerms": "Neuralgia", "entityids": "UMLS/C0027796", "HPO": ["HPO/HP:0033345"], "MSH": ["MSH/D009437"], "RXNORM": []}, {"preferredTerms": "Postherpetic neuralgia", "entityids": "UMLS/C0032768", "HPO": [], "MSH": ["MSH/D051474"], "RXNORM": []}]}
+{"Neuroendocrine tumors (net)": [{"preferredTerms": "Neuroendocrine Tumors", "entityids": "UMLS/C0206754", "HPO": ["HPO/HP:0100634"], "MSH": ["MSH/D018358"], "RXNORM": []}]}
+{"Neurogenic detrusor overactivity": [{"preferredTerms": "Overactive Detrusor", "entityids": "UMLS/C0268849", "HPO": [], "MSH": ["MSH/D053201"], "RXNORM": []}]}
+{"Neuropathy, diabetic": [{"preferredTerms": "Diabetic Neuropathies", "entityids": "UMLS/C0011882", "HPO": [], "MSH": ["MSH/D003929"], "RXNORM": []}]}
+{"Non-radiographic spondyloarthritis": [{"preferredTerms": "Spondylarthritis", "entityids": "UMLS/C0949690", "HPO": [], "MSH": ["MSH/D025241"], "RXNORM": []}]}
 {"Non-small cell lung cancer": [{"preferredTerms": "Non-Small Cell Lung Carcinoma", "entityids": "UMLS/C0007131", "HPO": ["HPO/HP:0030358"], "MSH": ["MSH/D002289"], "RXNORM": []}]}
-{"Non-small cell lung carcinoma (nsclc)": [{"preferredTerms": "Obesity", "entityids": "UMLS/C0028754", "HPO": ["HPO/HP:0001513"], "MSH": ["MSH/D009765"], "RXNORM": []}]}
-{"Obesity": [{"preferredTerms": "Obsessive-Compulsive Disorder", "entityids": "UMLS/C0028768", "HPO": ["HPO/HP:0000722"], "MSH": ["MSH/D009771"], "RXNORM": []}]}
+{"Non-small cell lung carcinoma (nsclc)": [{"preferredTerms": "Non-Small Cell Lung Carcinoma", "entityids": "UMLS/C0007131", "HPO": ["HPO/HP:0030358"], "MSH": ["MSH/D002289"], "RXNORM": []}]}
+{"Obesity": [{"preferredTerms": "Obesity", "entityids": "UMLS/C0028754", "HPO": ["HPO/HP:0001513"], "MSH": ["MSH/D009765"], "RXNORM": []}]}
 {"Obsessive-compulsive disorder": [{"preferredTerms": "Obsessive-Compulsive Disorder", "entityids": "UMLS/C0028768", "HPO": ["HPO/HP:0000722"], "MSH": ["MSH/D009771"], "RXNORM": []}]}
-{"Obsessive-compulsive disorder and depressive disorder": [{"preferredTerms": "Depressive disorder", "entityids": "UMLS/C0011581", "HPO": ["HPO/HP:0000716"], "MSH": ["MSH/D003866"], "RXNORM": []}, {"preferredTerms": "Anesthesia, Obstetrical", "entityids": "UMLS/C0002922", "HPO": [], "MSH": ["MSH/D000773"], "RXNORM": []}]}
-{"Obstetric labour, premature": [{"preferredTerms": "Ocular Hypertension", "entityids": "UMLS/C0028840", "HPO": [], "MSH": ["MSH/D009798"], "RXNORM": []}]}
-{"Ocular hypertension": [{"preferredTerms": "Edema", "entityids": "UMLS/C0013604", "HPO": ["HPO/HP:0000969"], "MSH": ["MSH/D004487"], "RXNORM": []}]}
-{"Oedema, pulmonary": [{"preferredTerms": "Airway Obstruction", "entityids": "UMLS/C0001883", "HPO": ["HPO/HP:0006536"], "MSH": ["MSH/D000402"], "RXNORM": []}, {"preferredTerms": "Esophagitis", "entityids": "UMLS/C0014868", "HPO": ["HPO/HP:0100633"], "MSH": ["MSH/D004941"], "RXNORM": []}]}
-{"Oesophagitis, eosinophilic": [{"preferredTerms": "Eosinophilia", "entityids": "UMLS/C0014457", "HPO": ["HPO/HP:0001880"], "MSH": ["MSH/D004802"], "RXNORM": []}, {"preferredTerms": "Glaucoma, Open-Angle", "entityids": "UMLS/C0017612", "HPO": ["HPO/HP:0012108"], "MSH": ["MSH/D005902"], "RXNORM": []}]}
-{"Open-angle glaucoma": [{"preferredTerms": "Degenerative polyarthritis", "entityids": "UMLS/C0029408", "HPO": ["HPO/HP:0002758"], "MSH": ["MSH/D010003"], "RXNORM": []}]}
-{"Osteoarthritis": [{"preferredTerms": "Osteopenia", "entityids": "UMLS/C0029453", "HPO": ["HPO/HP:0000938"], "MSH": ["MSH/D001851"], "RXNORM": []}]}
-{"Osteopenia": [{"preferredTerms": "Osteoporosis", "entityids": "UMLS/C0029456", "HPO": ["HPO/HP:0000939"], "MSH": ["MSH/D010024"], "RXNORM": []}]}
+{"Obsessive-compulsive disorder and depressive disorder": [{"preferredTerms": "Obsessive-Compulsive Disorder", "entityids": "UMLS/C0028768", "HPO": ["HPO/HP:0000722"], "MSH": ["MSH/D009771"], "RXNORM": []}, {"preferredTerms": "Depressive disorder", "entityids": "UMLS/C0011581", "HPO": ["HPO/HP:0000716"], "MSH": ["MSH/D003866"], "RXNORM": []}]}
+{"Obstetric labour, premature": [{"preferredTerms": "Anesthesia, Obstetrical", "entityids": "UMLS/C0002922", "HPO": [], "MSH": ["MSH/D000773"], "RXNORM": []}]}
+{"Ocular hypertension": [{"preferredTerms": "Ocular Hypertension", "entityids": "UMLS/C0028840", "HPO": [], "MSH": ["MSH/D009798"], "RXNORM": []}]}
+{"Oedema, pulmonary": [{"preferredTerms": "Edema", "entityids": "UMLS/C0013604", "HPO": ["HPO/HP:0000969"], "MSH": ["MSH/D004487"], "RXNORM": []}]}
+{"Oesophagitis, eosinophilic": [{"preferredTerms": "Esophagitis", "entityids": "UMLS/C0014868", "HPO": ["HPO/HP:0100633"], "MSH": ["MSH/D004941"], "RXNORM": []}]}
+{"Open-angle glaucoma": [{"preferredTerms": "Glaucoma, Open-Angle", "entityids": "UMLS/C0017612", "HPO": ["HPO/HP:0012108"], "MSH": ["MSH/D005902"], "RXNORM": []}]}
+{"Osteoarthritis": [{"preferredTerms": "Degenerative polyarthritis", "entityids": "UMLS/C0029408", "HPO": ["HPO/HP:0002758"], "MSH": ["MSH/D010003"], "RXNORM": []}]}
+{"Osteopenia": [{"preferredTerms": "Osteopenia", "entityids": "UMLS/C0029453", "HPO": ["HPO/HP:0000938"], "MSH": ["MSH/D001851"], "RXNORM": []}]}
 {"Osteoporosis": [{"preferredTerms": "Osteoporosis", "entityids": "UMLS/C0029456", "HPO": ["HPO/HP:0000939"], "MSH": ["MSH/D010024"], "RXNORM": []}]}
 {"Osteoporosis, male": [{"preferredTerms": "Osteoporosis", "entityids": "UMLS/C0029456", "HPO": ["HPO/HP:0000939"], "MSH": ["MSH/D010024"], "RXNORM": []}]}
-{"Osteoporosis, postmenopausal": [{"preferredTerms": "Otitis Media", "entityids": "UMLS/C0029882", "HPO": ["HPO/HP:0000388"], "MSH": ["MSH/D010033"], "RXNORM": []}]}
-{"Otitis media": [{"preferredTerms": "Malignant neoplasm of ovary", "entityids": "UMLS/C1140680", "HPO": ["HPO/HP:0100615"], "MSH": ["MSH/D010051"], "RXNORM": []}]}
-{"Ovarian cancer": [{"preferredTerms": "ovarian neoplasm", "entityids": "UMLS/C0919267", "HPO": ["HPO/HP:0100615"], "MSH": ["MSH/D010051"], "RXNORM": []}]}
+{"Osteoporosis, postmenopausal": [{"preferredTerms": "Osteoporosis", "entityids": "UMLS/C0029456", "HPO": ["HPO/HP:0000939"], "MSH": ["MSH/D010024"], "RXNORM": []}]}
+{"Otitis media": [{"preferredTerms": "Otitis Media", "entityids": "UMLS/C0029882", "HPO": ["HPO/HP:0000388"], "MSH": ["MSH/D010033"], "RXNORM": []}]}
+{"Ovarian cancer": [{"preferredTerms": "Malignant neoplasm of ovary", "entityids": "UMLS/C1140680", "HPO": ["HPO/HP:0100615"], "MSH": ["MSH/D010051"], "RXNORM": []}]}
 {"Ovarian neoplasms": [{"preferredTerms": "ovarian neoplasm", "entityids": "UMLS/C0919267", "HPO": ["HPO/HP:0100615"], "MSH": ["MSH/D010051"], "RXNORM": []}]}
-{"Ovarian neoplasms|neoplasms|solid tumor|hepatic impairment": [{"preferredTerms": "Neoplasms", "entityids": "UMLS/C0027651", "HPO": ["HPO/HP:0002664"], "MSH": ["MSH/D009369"], "RXNORM": []}, {"preferredTerms": "Hepatic impairment", "entityids": "UMLS/C0948807", "HPO": [], "MSH": [], "RXNORM": []}, {"preferredTerms": "Pain", "entityids": "UMLS/C0030193", "HPO": ["HPO/HP:0012531"], "MSH": ["MSH/D010146"], "RXNORM": []}]}
-{"Pain, inflammatory": [{"preferredTerms": "Inflammation", "entityids": "UMLS/C0021368", "HPO": [], "MSH": ["MSH/D007249"], "RXNORM": []}, {"preferredTerms": "Pain", "entityids": "UMLS/C0030193", "HPO": ["HPO/HP:0012531"], "MSH": ["MSH/D010146"], "RXNORM": []}]}
-{"Pain, neuropathic": [{"preferredTerms": "Well Differentiated Pancreatic Endocrine Tumor", "entityids": "UMLS/C1337011", "HPO": [], "MSH": [], "RXNORM": []}]}
-{"Pancreatic neuroendocrine tumor (pnet)": [{"preferredTerms": "Pancreatitis", "entityids": "UMLS/C0030305", "HPO": ["HPO/HP:0001733"], "MSH": ["MSH/D010195"], "RXNORM": []}]}
-{"Pancreatitis, acute necrotizing": [{"preferredTerms": "Necrotizing granulomatous inflammation", "entityids": "UMLS/C0021386", "HPO": [], "MSH": [], "RXNORM": []}, {"preferredTerms": "Panic Disorder", "entityids": "UMLS/C0030319", "HPO": [], "MSH": ["MSH/D016584"], "RXNORM": []}]}
-{"Panic disorder": [{"preferredTerms": "Parkinson Disease", "entityids": "UMLS/C0030567", "HPO": [], "MSH": ["MSH/D010300"], "RXNORM": []}]}
+{"Ovarian neoplasms|neoplasms|solid tumor|hepatic impairment": [{"preferredTerms": "ovarian neoplasm", "entityids": "UMLS/C0919267", "HPO": ["HPO/HP:0100615"], "MSH": ["MSH/D010051"], "RXNORM": []}, {"preferredTerms": "Neoplasms", "entityids": "UMLS/C0027651", "HPO": ["HPO/HP:0002664"], "MSH": ["MSH/D009369"], "RXNORM": []}, {"preferredTerms": "Solid Neoplasm", "entityids": "UMLS/C0280100", "HPO": [], "MSH": [], "RXNORM": []}, {"preferredTerms": "Hepatic impairment", "entityids": "UMLS/C0948807", "HPO": [], "MSH": [], "RXNORM": []}]}
+{"Pain, inflammatory": [{"preferredTerms": "Pain", "entityids": "UMLS/C0030193", "HPO": ["HPO/HP:0012531"], "MSH": ["MSH/D010146"], "RXNORM": []}, {"preferredTerms": "Inflammation", "entityids": "UMLS/C0021368", "HPO": [], "MSH": ["MSH/D007249"], "RXNORM": []}]}
+{"Pain, neuropathic": [{"preferredTerms": "Pain", "entityids": "UMLS/C0030193", "HPO": ["HPO/HP:0012531"], "MSH": ["MSH/D010146"], "RXNORM": []}]}
+{"Pancreatic neuroendocrine tumor (pnet)": [{"preferredTerms": "Well Differentiated Pancreatic Endocrine Tumor", "entityids": "UMLS/C1337011", "HPO": [], "MSH": [], "RXNORM": []}]}
+{"Pancreatitis, acute necrotizing": [{"preferredTerms": "Pancreatitis", "entityids": "UMLS/C0030305", "HPO": ["HPO/HP:0001733"], "MSH": ["MSH/D010195"], "RXNORM": []}, {"preferredTerms": "Necrotizing granulomatous inflammation", "entityids": "UMLS/C0021386", "HPO": [], "MSH": [], "RXNORM": []}]}
+{"Panic disorder": [{"preferredTerms": "Panic Disorder", "entityids": "UMLS/C0030319", "HPO": [], "MSH": ["MSH/D016584"], "RXNORM": []}]}
 {"Parkinson disease": [{"preferredTerms": "Parkinson Disease", "entityids": "UMLS/C0030567", "HPO": [], "MSH": ["MSH/D010300"], "RXNORM": []}]}
-{"Parkinson's disease dementia": [{"preferredTerms": "Dementia", "entityids": "UMLS/C0497327", "HPO": ["HPO/HP:0000726"], "MSH": ["MSH/D003704"], "RXNORM": []}]}
-{"Partial onset seizures": [{"preferredTerms": "Seizures", "entityids": "UMLS/C0036572", "HPO": ["HPO/HP:0001250"], "MSH": ["MSH/D012640"], "RXNORM": []}, {"preferredTerms": "Neuralgia", "entityids": "UMLS/C0027796", "HPO": ["HPO/HP:0033345"], "MSH": ["MSH/D009437"], "RXNORM": []}]}
-{"Peripheral neuropathic pain": [{"preferredTerms": "Peripheral Neuropathy", "entityids": "UMLS/C0031117", "HPO": ["HPO/HP:0009830"], "MSH": [], "RXNORM": []}]}
-{"Peripheral neuropathies": [{}]}
-{"Persistent asthma": [{"preferredTerms": "Asthma", "entityids": "UMLS/C0004096", "HPO": ["HPO/HP:0002099"], "MSH": ["MSH/D001249"], "RXNORM": []}, {"preferredTerms": "Pertussis", "entityids": "UMLS/C0043167", "HPO": [], "MSH": ["MSH/D014917"], "RXNORM": []}]}
-{"Pertussis": [{}]}
-{"Philadelphia chromosome positive acute lymphoblastic leukemia (ph+ all)": [{"preferredTerms": "Acute lymphocytic leukemia", "entityids": "UMLS/C0023449", "HPO": ["HPO/HP:0006721"], "MSH": [], "RXNORM": []}, {"preferredTerms": "Psoriasis", "entityids": "UMLS/C0033860", "HPO": ["HPO/HP:0003765"], "MSH": ["MSH/D011565"], "RXNORM": []}]}
-{"Plaque psoriasis": [{"preferredTerms": "Pneumonia", "entityids": "UMLS/C0032285", "HPO": ["HPO/HP:0002090"], "MSH": ["MSH/D011014"], "RXNORM": []}]}
-{"Pneumonia, community-acquired": [{"preferredTerms": "Community-Acquired Infections", "entityids": "UMLS/C0206171", "HPO": [], "MSH": ["MSH/D017714"], "RXNORM": []}, {"preferredTerms": "Poliomyelitis", "entityids": "UMLS/C0032371", "HPO": [], "MSH": ["MSH/D011051"], "RXNORM": []}]}
-{"Poliomyelitis": [{"preferredTerms": "Multiple polyps", "entityids": "UMLS/C0334108", "HPO": [], "MSH": [], "RXNORM": []}]}
-{"Polyps, nasal": [{"preferredTerms": "Post-polycythemia vera myelofibrosis", "entityids": "UMLS/C3805232", "HPO": [], "MSH": [], "RXNORM": []}]}
-{"Post-polycythemia vera myelofibrosis (ppv-mf)": [{"preferredTerms": "Primary Myelofibrosis", "entityids": "UMLS/C0001815", "HPO": [], "MSH": ["MSH/D055728"], "RXNORM": []}, {"preferredTerms": "Post-Traumatic Stress Disorder", "entityids": "UMLS/C0038436", "HPO": ["HPO/HP:0033676"], "MSH": ["MSH/D013313"], "RXNORM": []}]}
-{"Post-traumatic stress disorder": [{"preferredTerms": "Postherpetic neuralgia", "entityids": "UMLS/C0032768", "HPO": [], "MSH": ["MSH/D051474"], "RXNORM": []}]}
-{"Postherpetic neuralgia (phn)": [{"preferredTerms": "Postherpetic neuralgia", "entityids": "UMLS/C0032768", "HPO": [], "MSH": ["MSH/D051474"], "RXNORM": []}, {"preferredTerms": "Postpartum Hemorrhage", "entityids": "UMLS/C0032797", "HPO": ["HPO/HP:0011891"], "MSH": ["MSH/D006473"], "RXNORM": []}]}
-{"Postpartum hemorrhage": [{"preferredTerms": "Premature Ejaculation", "entityids": "UMLS/C0033038", "HPO": ["HPO/HP:0012876"], "MSH": ["MSH/D061686"], "RXNORM": []}]}
-{"Premature ejaculation": [{"preferredTerms": "Premenstrual syndrome", "entityids": "UMLS/C0033046", "HPO": [], "MSH": ["MSH/D011293"], "RXNORM": []}]}
-{"Premenstrual syndrome": [{"preferredTerms": "Malignant neoplasm of prostate", "entityids": "UMLS/C0376358", "HPO": ["HPO/HP:0012125"], "MSH": ["MSH/D011471"], "RXNORM": []}]}
-{"Prostate cancer": [{"preferredTerms": "Prostatic Hyperplasia", "entityids": "UMLS/C2937421", "HPO": [], "MSH": ["MSH/D011470"], "RXNORM": []}]}
-{"Prostatic hyperplasia": [{"preferredTerms": "Psoriasis", "entityids": "UMLS/C0033860", "HPO": ["HPO/HP:0003765"], "MSH": ["MSH/D011565"], "RXNORM": []}]}
+{"Parkinson's disease dementia": [{"preferredTerms": "Parkinson Disease", "entityids": "UMLS/C0030567", "HPO": [], "MSH": ["MSH/D010300"], "RXNORM": []}, {"preferredTerms": "Dementia", "entityids": "UMLS/C0497327", "HPO": ["HPO/HP:0000726"], "MSH": ["MSH/D003704"], "RXNORM": []}]}
+{"Partial onset seizures": [{"preferredTerms": "Seizures", "entityids": "UMLS/C0036572", "HPO": ["HPO/HP:0001250"], "MSH": ["MSH/D012640"], "RXNORM": []}]}
+{"Peripheral neuropathic pain": [{"preferredTerms": "Neuralgia", "entityids": "UMLS/C0027796", "HPO": ["HPO/HP:0033345"], "MSH": ["MSH/D009437"], "RXNORM": []}]}
+{"Peripheral neuropathies": [{"preferredTerms": "Peripheral Neuropathy", "entityids": "UMLS/C0031117", "HPO": ["HPO/HP:0009830"], "MSH": [], "RXNORM": []}]}
+{"Persistent asthma": [{"preferredTerms": "Asthma", "entityids": "UMLS/C0004096", "HPO": ["HPO/HP:0002099"], "MSH": ["MSH/D001249"], "RXNORM": []}]}
+{"Pertussis": [{"preferredTerms": "Pertussis", "entityids": "UMLS/C0043167", "HPO": [], "MSH": ["MSH/D014917"], "RXNORM": []}]}
+{"Philadelphia chromosome positive acute lymphoblastic leukemia (ph+ all)": [{"preferredTerms": "Acute lymphocytic leukemia", "entityids": "UMLS/C0023449", "HPO": ["HPO/HP:0006721"], "MSH": [], "RXNORM": []}]}
+{"Plaque psoriasis": [{"preferredTerms": "Psoriasis", "entityids": "UMLS/C0033860", "HPO": ["HPO/HP:0003765"], "MSH": ["MSH/D011565"], "RXNORM": []}]}
+{"Pneumonia, community-acquired": [{"preferredTerms": "Pneumonia", "entityids": "UMLS/C0032285", "HPO": ["HPO/HP:0002090"], "MSH": ["MSH/D011014"], "RXNORM": []}, {"preferredTerms": "Community-Acquired Infections", "entityids": "UMLS/C0206171", "HPO": [], "MSH": ["MSH/D017714"], "RXNORM": []}]}
+{"Poliomyelitis": [{"preferredTerms": "Poliomyelitis", "entityids": "UMLS/C0032371", "HPO": [], "MSH": ["MSH/D011051"], "RXNORM": []}]}
+{"Polyps, nasal": [{"preferredTerms": "Multiple polyps", "entityids": "UMLS/C0334108", "HPO": [], "MSH": [], "RXNORM": []}]}
+{"Post-polycythemia vera myelofibrosis (ppv-mf)": [{"preferredTerms": "Post-polycythemia vera myelofibrosis", "entityids": "UMLS/C3805232", "HPO": [], "MSH": [], "RXNORM": []}, {"preferredTerms": "Primary Myelofibrosis", "entityids": "UMLS/C0001815", "HPO": [], "MSH": ["MSH/D055728"], "RXNORM": []}]}
+{"Post-traumatic stress disorder": [{"preferredTerms": "Post-Traumatic Stress Disorder", "entityids": "UMLS/C0038436", "HPO": ["HPO/HP:0033676"], "MSH": ["MSH/D013313"], "RXNORM": []}]}
+{"Postherpetic neuralgia (phn)": [{"preferredTerms": "Postherpetic neuralgia", "entityids": "UMLS/C0032768", "HPO": [], "MSH": ["MSH/D051474"], "RXNORM": []}]}
+{"Postpartum hemorrhage": [{"preferredTerms": "Postpartum Hemorrhage", "entityids": "UMLS/C0032797", "HPO": ["HPO/HP:0011891"], "MSH": ["MSH/D006473"], "RXNORM": []}]}
+{"Premature ejaculation": [{"preferredTerms": "Premature Ejaculation", "entityids": "UMLS/C0033038", "HPO": ["HPO/HP:0012876"], "MSH": ["MSH/D061686"], "RXNORM": []}]}
+{"Premenstrual syndrome": [{"preferredTerms": "Premenstrual syndrome", "entityids": "UMLS/C0033046", "HPO": [], "MSH": ["MSH/D011293"], "RXNORM": []}]}
+{"Prostate cancer": [{"preferredTerms": "Malignant Neoplasms", "entityids": "UMLS/C0006826", "HPO": ["HPO/HP:0002664"], "MSH": ["MSH/D009369"], "RXNORM": []}]}
+{"Prostatic hyperplasia": [{"preferredTerms": "Prostatic Hyperplasia", "entityids": "UMLS/C2937421", "HPO": [], "MSH": ["MSH/D011470"], "RXNORM": []}]}
 {"Psoriasis": [{"preferredTerms": "Psoriasis", "entityids": "UMLS/C0033860", "HPO": ["HPO/HP:0003765"], "MSH": ["MSH/D011565"], "RXNORM": []}]}
 {"Psoriasis, nail": [{"preferredTerms": "Psoriasis", "entityids": "UMLS/C0033860", "HPO": ["HPO/HP:0003765"], "MSH": ["MSH/D011565"], "RXNORM": []}]}
-{"Psoriasis, palmoplantar": [{"preferredTerms": "Arthritis, Psoriatic", "entityids": "UMLS/C0003872", "HPO": [], "MSH": ["MSH/D015535"], "RXNORM": []}]}
-{"Psoriatic arthritis": [{"preferredTerms": "Pulmonary arterial hypertension", "entityids": "UMLS/C2973725", "HPO": ["HPO/HP:0002092"], "MSH": ["MSH/D000081029"], "RXNORM": []}]}
-{"Pulmonary arterial hypertension": [{}]}
-{"Refractory partial seizures": [{"preferredTerms": "Seizures, Focal", "entityids": "UMLS/C0751495", "HPO": ["HPO/HP:0007359"], "MSH": ["MSH/D012640"], "RXNORM": []}, {"preferredTerms": "Renal Cell Carcinoma", "entityids": "UMLS/C0007134", "HPO": ["HPO/HP:0005584"], "MSH": ["MSH/D002292"], "RXNORM": []}]}
-{"Renal cell carcinoma": [{"preferredTerms": "Respiration Disorders", "entityids": "UMLS/C0035204", "HPO": [], "MSH": ["MSH/D012120"], "RXNORM": []}]}
-{"Respiratory disorders": [{"preferredTerms": "Respiratory Syncytial Virus Infections", "entityids": "UMLS/C0035235", "HPO": [], "MSH": ["MSH/D018357"], "RXNORM": []}]}
-{"Respiratory syncytial virus infections": [{"preferredTerms": "Restless Legs Syndrome", "entityids": "UMLS/C0035258", "HPO": ["HPO/HP:0012452"], "MSH": ["MSH/D012148"], "RXNORM": []}]}
-{"Restless legs syndrome": [{"preferredTerms": "Retinal Diseases", "entityids": "UMLS/C0035309", "HPO": ["HPO/HP:0000479", "HPO/HP:0000488"], "MSH": ["MSH/D012164"], "RXNORM": []}]}
-{"Retinal diseases": [{"preferredTerms": "Retinopathy of Prematurity", "entityids": "UMLS/C0035344", "HPO": ["HPO/HP:0500049"], "MSH": ["MSH/D012178"], "RXNORM": []}]}
-{"Retinopathy of prematurity": [{"preferredTerms": "Diabetic Retinopathy", "entityids": "UMLS/C0011884", "HPO": [], "MSH": ["MSH/D003930"], "RXNORM": []}]}
-{"Retinopathy, diabetic": [{"preferredTerms": "Rheumatoid Arthritis", "entityids": "UMLS/C0003873", "HPO": ["HPO/HP:0001370"], "MSH": ["MSH/D001172"], "RXNORM": []}]}
-{"Rheumatoid arthritis": [{"preferredTerms": "Rhinitis", "entityids": "UMLS/C0035455", "HPO": ["HPO/HP:0012384"], "MSH": ["MSH/D012220"], "RXNORM": []}]}
+{"Psoriasis, palmoplantar": [{"preferredTerms": "Psoriasis", "entityids": "UMLS/C0033860", "HPO": ["HPO/HP:0003765"], "MSH": ["MSH/D011565"], "RXNORM": []}]}
+{"Psoriatic arthritis": [{"preferredTerms": "Arthritis, Psoriatic", "entityids": "UMLS/C0003872", "HPO": [], "MSH": ["MSH/D015535"], "RXNORM": []}]}
+{"Pulmonary arterial hypertension": [{"preferredTerms": "Pulmonary arterial hypertension", "entityids": "UMLS/C2973725", "HPO": ["HPO/HP:0002092"], "MSH": ["MSH/D000081029"], "RXNORM": []}]}
+{"Refractory partial seizures": [{"preferredTerms": "Seizures, Focal", "entityids": "UMLS/C0751495", "HPO": ["HPO/HP:0007359"], "MSH": ["MSH/D012640"], "RXNORM": []}]}
+{"Renal cell carcinoma": [{"preferredTerms": "Renal Cell Carcinoma", "entityids": "UMLS/C0007134", "HPO": ["HPO/HP:0005584"], "MSH": ["MSH/D002292"], "RXNORM": []}]}
+{"Respiratory disorders": [{"preferredTerms": "Respiration Disorders", "entityids": "UMLS/C0035204", "HPO": [], "MSH": ["MSH/D012120"], "RXNORM": []}]}
+{"Respiratory syncytial virus infections": [{"preferredTerms": "Respiratory Syncytial Virus Infections", "entityids": "UMLS/C0035235", "HPO": [], "MSH": ["MSH/D018357"], "RXNORM": []}]}
+{"Restless legs syndrome": [{"preferredTerms": "Restless Legs Syndrome", "entityids": "UMLS/C0035258", "HPO": ["HPO/HP:0012452"], "MSH": ["MSH/D012148"], "RXNORM": []}]}
+{"Retinal diseases": [{"preferredTerms": "Retinal Diseases", "entityids": "UMLS/C0035309", "HPO": ["HPO/HP:0000479", "HPO/HP:0000488"], "MSH": ["MSH/D012164"], "RXNORM": []}]}
+{"Retinopathy of prematurity": [{"preferredTerms": "Retinopathy of Prematurity", "entityids": "UMLS/C0035344", "HPO": ["HPO/HP:0500049"], "MSH": ["MSH/D012178"], "RXNORM": []}]}
+{"Retinopathy, diabetic": [{"preferredTerms": "Diabetic Retinopathy", "entityids": "UMLS/C0011884", "HPO": [], "MSH": ["MSH/D003930"], "RXNORM": []}]}
+{"Rheumatoid arthritis": [{"preferredTerms": "Rheumatoid Arthritis", "entityids": "UMLS/C0003873", "HPO": ["HPO/HP:0001370"], "MSH": ["MSH/D001172"], "RXNORM": []}]}
 {"Rhinitis": [{"preferredTerms": "Rhinitis", "entityids": "UMLS/C0035455", "HPO": ["HPO/HP:0012384"], "MSH": ["MSH/D012220"], "RXNORM": []}]}
 {"Rhinitis, allergic, perennial": [{"preferredTerms": "Rhinitis", "entityids": "UMLS/C0035455", "HPO": ["HPO/HP:0012384"], "MSH": ["MSH/D012220"], "RXNORM": []}]}
 {"Rhinitis, allergic, perennial and seasonal": [{"preferredTerms": "Rhinitis", "entityids": "UMLS/C0035455", "HPO": ["HPO/HP:0012384"], "MSH": ["MSH/D012220"], "RXNORM": []}]}
 {"Rhinitis, allergic, seasonal": [{"preferredTerms": "Rhinitis", "entityids": "UMLS/C0035455", "HPO": ["HPO/HP:0012384"], "MSH": ["MSH/D012220"], "RXNORM": []}]}
-{"Rhinitis, vasomotor": [{"preferredTerms": "Rubella", "entityids": "UMLS/C0035920", "HPO": [], "MSH": ["MSH/D012409"], "RXNORM": []}]}
-{"Rubella": [{"preferredTerms": "Sarcoma", "entityids": "UMLS/C1261473", "HPO": ["HPO/HP:0100242"], "MSH": ["MSH/D012509"], "RXNORM": []}]}
-{"Sarcoma, soft tissue": [{"preferredTerms": "Schizophrenia", "entityids": "UMLS/C0036341", "HPO": ["HPO/HP:0100753"], "MSH": ["MSH/D012559"], "RXNORM": []}]}
-{"Schizophrenia": [{"preferredTerms": "Scleroderma", "entityids": "UMLS/C0011644", "HPO": ["HPO/HP:0100324"], "MSH": ["MSH/D012594"], "RXNORM": []}]}
-{"Scleroderma, systemic": [{}]}
-{"Secondary prevention of thromboembolic events": [{"preferredTerms": "Thromboembolism", "entityids": "UMLS/C0040038", "HPO": ["HPO/HP:0001907"], "MSH": ["MSH/D013923"], "RXNORM": []}, {"preferredTerms": "Epilepsy", "entityids": "UMLS/C0014544", "HPO": ["HPO/HP:0001250"], "MSH": ["MSH/D004827"], "RXNORM": []}]}
-{"Seizure disorder generalized tonic clonic": [{"preferredTerms": "Tonic - clonic seizures", "entityids": "UMLS/C0494475", "HPO": ["HPO/HP:0002069", "HPO/HP:0032677"], "MSH": ["MSH/D012640"], "RXNORM": []}, {"preferredTerms": "Seizures", "entityids": "UMLS/C0036572", "HPO": ["HPO/HP:0001250"], "MSH": ["MSH/D012640"], "RXNORM": []}]}
-{"Seizure, absence": [{"preferredTerms": "Amenorrhea", "entityids": "UMLS/C0002453", "HPO": ["HPO/HP:0000141"], "MSH": ["MSH/D000568"], "RXNORM": []}, {"preferredTerms": "Seizures", "entityids": "UMLS/C0036572", "HPO": ["HPO/HP:0001250"], "MSH": ["MSH/D012640"], "RXNORM": []}]}
-{"Seizures": [{"preferredTerms": "Septicemia", "entityids": "UMLS/C0036690", "HPO": ["HPO/HP:0100806"], "MSH": ["MSH/D018805"], "RXNORM": []}]}
-{"Sepsis": [{"preferredTerms": "Shigella sonnei", "entityids": "UMLS/C0036960", "HPO": [], "MSH": ["MSH/D012764"], "RXNORM": ["RXNORM/1491872"]}]}
-{"Shigella sonnei infection": [{"preferredTerms": "Anemia, Sickle Cell", "entityids": "UMLS/C0002895", "HPO": [], "MSH": ["MSH/D000755"], "RXNORM": []}]}
-{"Sickle cell disease": [{"preferredTerms": "Sinusitis", "entityids": "UMLS/C0037199", "HPO": ["HPO/HP:0000246"], "MSH": ["MSH/D012852"], "RXNORM": []}]}
+{"Rhinitis, vasomotor": [{"preferredTerms": "Rhinitis", "entityids": "UMLS/C0035455", "HPO": ["HPO/HP:0012384"], "MSH": ["MSH/D012220"], "RXNORM": []}]}
+{"Rubella": [{"preferredTerms": "Rubella", "entityids": "UMLS/C0035920", "HPO": [], "MSH": ["MSH/D012409"], "RXNORM": []}]}
+{"Sarcoma, soft tissue": [{"preferredTerms": "Sarcoma", "entityids": "UMLS/C1261473", "HPO": ["HPO/HP:0100242"], "MSH": ["MSH/D012509"], "RXNORM": []}]}
+{"Schizophrenia": [{"preferredTerms": "Schizophrenia", "entityids": "UMLS/C0036341", "HPO": ["HPO/HP:0100753"], "MSH": ["MSH/D012559"], "RXNORM": []}]}
+{"Scleroderma, systemic": [{"preferredTerms": "Scleroderma", "entityids": "UMLS/C0011644", "HPO": ["HPO/HP:0100324"], "MSH": ["MSH/D012594"], "RXNORM": []}]}
+{"Secondary prevention of thromboembolic events": [{"preferredTerms": "Thromboembolism", "entityids": "UMLS/C0040038", "HPO": ["HPO/HP:0001907"], "MSH": ["MSH/D013923"], "RXNORM": []}]}
+{"Seizure disorder generalized tonic clonic": [{"preferredTerms": "Epilepsy", "entityids": "UMLS/C0014544", "HPO": ["HPO/HP:0001250"], "MSH": ["MSH/D004827"], "RXNORM": []}, {"preferredTerms": "Tonic - clonic seizures", "entityids": "UMLS/C0494475", "HPO": ["HPO/HP:0002069", "HPO/HP:0032677"], "MSH": ["MSH/D012640"], "RXNORM": []}]}
+{"Seizure, absence": [{"preferredTerms": "Seizures", "entityids": "UMLS/C0036572", "HPO": ["HPO/HP:0001250"], "MSH": ["MSH/D012640"], "RXNORM": []}, {"preferredTerms": "Amenorrhea", "entityids": "UMLS/C0002453", "HPO": ["HPO/HP:0000141"], "MSH": ["MSH/D000568"], "RXNORM": []}]}
+{"Seizures": [{"preferredTerms": "Seizures", "entityids": "UMLS/C0036572", "HPO": ["HPO/HP:0001250"], "MSH": ["MSH/D012640"], "RXNORM": []}]}
+{"Sepsis": [{"preferredTerms": "Septicemia", "entityids": "UMLS/C0036690", "HPO": ["HPO/HP:0100806"], "MSH": ["MSH/D018805"], "RXNORM": []}]}
+{"Shigella sonnei infection": [{"preferredTerms": "Shigella sonnei", "entityids": "UMLS/C0036960", "HPO": [], "MSH": ["MSH/D012764"], "RXNORM": ["RXNORM/1491872"]}]}
+{"Sickle cell disease": [{"preferredTerms": "Anemia, Sickle Cell", "entityids": "UMLS/C0002895", "HPO": [], "MSH": ["MSH/D000755"], "RXNORM": []}]}
 {"Sinusitis": [{"preferredTerms": "Sinusitis", "entityids": "UMLS/C0037199", "HPO": ["HPO/HP:0000246"], "MSH": ["MSH/D012852"], "RXNORM": []}]}
-{"Sinusitis, acute": [{"preferredTerms": "Adie Syndrome", "entityids": "UMLS/C0001519", "HPO": [], "MSH": ["MSH/D000270"], "RXNORM": []}]}
-{"Sjoegren's syndrome": [{}]}
-{"Skin infections, bacterial": [{"preferredTerms": "Communicable Diseases", "entityids": "UMLS/C0009450", "HPO": [], "MSH": ["MSH/D003141"], "RXNORM": []}, {"preferredTerms": "Bacteria", "entityids": "UMLS/C0004611", "HPO": [], "MSH": ["MSH/D001419"], "RXNORM": []}, {"preferredTerms": "Sleep Disorders", "entityids": "UMLS/C0851578", "HPO": [], "MSH": ["MSH/D012893"], "RXNORM": []}]}
-{"Sleep disorders": [{}]}
-{"Sleep initiation and maintenance disorders": [{"preferredTerms": "Spinal Muscular Atrophy", "entityids": "UMLS/C0026847", "HPO": ["HPO/HP:0007269"], "MSH": ["MSH/D009134"], "RXNORM": []}]}
+{"Sinusitis, acute": [{"preferredTerms": "Sinusitis", "entityids": "UMLS/C0037199", "HPO": ["HPO/HP:0000246"], "MSH": ["MSH/D012852"], "RXNORM": []}]}
+{"Sjoegren's syndrome": [{"preferredTerms": "Adie Syndrome", "entityids": "UMLS/C0001519", "HPO": [], "MSH": ["MSH/D000270"], "RXNORM": []}]}
+{"Sleep disorders": [{"preferredTerms": "Sleep Disorders", "entityids": "UMLS/C0851578", "HPO": [], "MSH": ["MSH/D012893"], "RXNORM": []}]}
+{"Sleep initiation and maintenance disorders": [{}]}
 {"Sma - spinal muscular atrophy": [{"preferredTerms": "Spinal Muscular Atrophy", "entityids": "UMLS/C0026847", "HPO": ["HPO/HP:0007269"], "MSH": ["MSH/D009134"], "RXNORM": []}]}
 {"Smoking cessation": [{}]}
 {"Social phobia": [{"preferredTerms": "Phobic anxiety disorder", "entityids": "UMLS/C0349231", "HPO": [], "MSH": ["MSH/D010698"], "RXNORM": []}]}
 {"Soft tissue sarcoma": [{"preferredTerms": "Sarcoma", "entityids": "UMLS/C1261473", "HPO": ["HPO/HP:0100242"], "MSH": ["MSH/D012509"], "RXNORM": []}]}
 {"Solid tumor cancer with bone metastases": [{"preferredTerms": "Malignant Neoplasms", "entityids": "UMLS/C0006826", "HPO": ["HPO/HP:0002664"], "MSH": ["MSH/D009369"], "RXNORM": []}, {"preferredTerms": "Neoplasm Metastasis", "entityids": "UMLS/C0027627", "HPO": [], "MSH": ["MSH/D009362"], "RXNORM": []}]}
-{"Solid tumours": [{"preferredTerms": "Neoplasms", "entityids": "UMLS/C0027651", "HPO": ["HPO/HP:0002664"], "MSH": ["MSH/D009369"], "RXNORM": []}, {"preferredTerms": "Muscle Spasticity", "entityids": "UMLS/C0026838", "HPO": ["HPO/HP:0001257"], "MSH": ["MSH/D009128"], "RXNORM": []}]}
-{"Spasticity, post-stroke": [{"preferredTerms": "Spondylitis", "entityids": "UMLS/C0038012", "HPO": ["HPO/HP:0033631"], "MSH": ["MSH/D013166"], "RXNORM": []}]}
-{"Spondylitis, ankylosing": [{"preferredTerms": "Ankylosis", "entityids": "UMLS/C0003090", "HPO": ["HPO/HP:0031013"], "MSH": ["MSH/D000844"], "RXNORM": []}, {"preferredTerms": "Spondylarthritis", "entityids": "UMLS/C0949690", "HPO": [], "MSH": ["MSH/D025241"], "RXNORM": []}]}
-{"Spondyloarthritis": [{"preferredTerms": "Streptococcus agalactiae", "entityids": "UMLS/C0579233", "HPO": [], "MSH": ["MSH/D013292"], "RXNORM": ["RXNORM/1363918"]}]}
-{"Streptococcus agalactiae": [{"preferredTerms": "Streptococcus pneumoniae", "entityids": "UMLS/C0038410", "HPO": [], "MSH": ["MSH/D013296"], "RXNORM": ["RXNORM/1363917"]}]}
-{"Streptococcus pneumoniae": [{}]}
+{"Solid tumours": [{"preferredTerms": "Neoplasms", "entityids": "UMLS/C0027651", "HPO": ["HPO/HP:0002664"], "MSH": ["MSH/D009369"], "RXNORM": []}]}
+{"Spasticity, post-stroke": [{"preferredTerms": "Muscle Spasticity", "entityids": "UMLS/C0026838", "HPO": ["HPO/HP:0001257"], "MSH": ["MSH/D009128"], "RXNORM": []}]}
+{"Spondylitis, ankylosing": [{"preferredTerms": "Spondylitis", "entityids": "UMLS/C0038012", "HPO": ["HPO/HP:0033631"], "MSH": ["MSH/D013166"], "RXNORM": []}, {"preferredTerms": "Ankylosis", "entityids": "UMLS/C0003090", "HPO": ["HPO/HP:0031013"], "MSH": ["MSH/D000844"], "RXNORM": []}]}
+{"Spondyloarthritis": [{"preferredTerms": "Spondylarthritis", "entityids": "UMLS/C0949690", "HPO": [], "MSH": ["MSH/D025241"], "RXNORM": []}]}
+{"Streptococcus agalactiae": [{"preferredTerms": "Streptococcus agalactiae", "entityids": "UMLS/C0579233", "HPO": [], "MSH": ["MSH/D013292"], "RXNORM": ["RXNORM/1363918"]}]}
+{"Streptococcus pneumoniae": [{"preferredTerms": "Streptococcus pneumoniae", "entityids": "UMLS/C0038410", "HPO": [], "MSH": ["MSH/D013296"], "RXNORM": ["RXNORM/1363917"]}]}
 {"Substance dependence": [{}]}
-{"Systemic juvenile idiopathic arthritis (sjia)": [{"preferredTerms": "Juvenile arthritis", "entityids": "UMLS/C3495559", "HPO": ["HPO/HP:0005681"], "MSH": ["MSH/D001171"], "RXNORM": []}, {"preferredTerms": "Systemic onset juvenile chronic arthritis", "entityids": "UMLS/C1384600", "HPO": [], "MSH": [], "RXNORM": []}, {"preferredTerms": "Lupus Erythematosus, Systemic", "entityids": "UMLS/C0024141", "HPO": ["HPO/HP:0002725"], "MSH": ["MSH/D008180"], "RXNORM": []}]}
-{"Systemic lupus erythematosus": [{"preferredTerms": "Tendon Injuries", "entityids": "UMLS/C0039504", "HPO": [], "MSH": ["MSH/D013708"], "RXNORM": []}]}
-{"Tendon injuries": [{}]}
+{"Systemic juvenile idiopathic arthritis (sjia)": [{"preferredTerms": "Juvenile arthritis", "entityids": "UMLS/C3495559", "HPO": ["HPO/HP:0005681"], "MSH": ["MSH/D001171"], "RXNORM": []}, {"preferredTerms": "Systemic onset juvenile chronic arthritis", "entityids": "UMLS/C1384600", "HPO": [], "MSH": [], "RXNORM": []}]}
+{"Systemic lupus erythematosus": [{"preferredTerms": "Lupus Erythematosus, Systemic", "entityids": "UMLS/C0024141", "HPO": ["HPO/HP:0002725"], "MSH": ["MSH/D008180"], "RXNORM": []}]}
+{"Tendon injuries": [{"preferredTerms": "Traumatic injury", "entityids": "UMLS/C3263723", "HPO": [], "MSH": ["MSH/D014947"], "RXNORM": []}]}
 {"Tetanus": [{"preferredTerms": "Tetanus", "entityids": "UMLS/C0039614", "HPO": [], "MSH": ["MSH/D013742"], "RXNORM": []}]}
-{"Therapeutic treatment of inhalation anthrax": [{"preferredTerms": "Thromboembolism", "entityids": "UMLS/C0040038", "HPO": ["HPO/HP:0001907"], "MSH": ["MSH/D013923"], "RXNORM": []}]}
-{"Thromboembolism": [{"preferredTerms": "Thrombosis", "entityids": "UMLS/C0040053", "HPO": [], "MSH": ["MSH/D013927"], "RXNORM": []}]}
-{"Thrombosis, venous": [{}]}
-{"Thyroid cancer": [{"preferredTerms": "Malignant Neoplasms", "entityids": "UMLS/C0006826", "HPO": ["HPO/HP:0002664"], "MSH": ["MSH/D009369"], "RXNORM": []}, {"preferredTerms": "Tinnitus", "entityids": "UMLS/C0040264", "HPO": ["HPO/HP:0000360"], "MSH": ["MSH/D014012"], "RXNORM": []}]}
-{"Tinnitus": [{}]}
-{"Tobacco use disorder": [{"preferredTerms": "Tooth Erosion", "entityids": "UMLS/C0040436", "HPO": [], "MSH": ["MSH/D014077"], "RXNORM": []}]}
-{"Tooth erosion": [{"preferredTerms": "Toxoplasmosis", "entityids": "UMLS/C0040558", "HPO": [], "MSH": ["MSH/D014123"], "RXNORM": []}]}
-{"Toxoplasmosis": [{}]}
+{"Therapeutic treatment of inhalation anthrax": [{}]}
+{"Thromboembolism": [{"preferredTerms": "Thromboembolism", "entityids": "UMLS/C0040038", "HPO": ["HPO/HP:0001907"], "MSH": ["MSH/D013923"], "RXNORM": []}]}
+{"Thrombosis, venous": [{"preferredTerms": "Thrombosis", "entityids": "UMLS/C0040053", "HPO": [], "MSH": ["MSH/D013927"], "RXNORM": []}]}
+{"Thyroid cancer": [{"preferredTerms": "Malignant Neoplasms", "entityids": "UMLS/C0006826", "HPO": ["HPO/HP:0002664"], "MSH": ["MSH/D009369"], "RXNORM": []}]}
+{"Tinnitus": [{"preferredTerms": "Tinnitus", "entityids": "UMLS/C0040264", "HPO": ["HPO/HP:0000360"], "MSH": ["MSH/D014012"], "RXNORM": []}]}
+{"Tobacco use disorder": [{}]}
+{"Tooth erosion": [{"preferredTerms": "Tooth Erosion", "entityids": "UMLS/C0040436", "HPO": [], "MSH": ["MSH/D014077"], "RXNORM": []}]}
+{"Toxoplasmosis": [{"preferredTerms": "Toxoplasmosis", "entityids": "UMLS/C0040558", "HPO": [], "MSH": ["MSH/D014123"], "RXNORM": []}]}
 {"Transplantation, kidney": [{}]}
 {"Transplantation, liver": [{}]}
-{"Transplantation, organ": [{"preferredTerms": "Tuberculosis", "entityids": "UMLS/C0041296", "HPO": [], "MSH": ["MSH/D014376"], "RXNORM": []}]}
+{"Transplantation, organ": [{}]}
 {"Tuberculosis": [{"preferredTerms": "Tuberculosis", "entityids": "UMLS/C0041296", "HPO": [], "MSH": ["MSH/D014376"], "RXNORM": []}]}
-{"Tumors characterized by genetic abnormalities of alk": [{"preferredTerms": "Molecular Abnormality", "entityids": "UMLS/C0262496", "HPO": [], "MSH": [], "RXNORM": []}, {"preferredTerms": "Diabetes Mellitus, Non-Insulin-Dependent", "entityids": "UMLS/C0011860", "HPO": ["HPO/HP:0005978"], "MSH": ["MSH/D003924"], "RXNORM": []}]}
-{"Type 2 diabetes": [{"preferredTerms": "Typhoid Fever", "entityids": "UMLS/C0041466", "HPO": [], "MSH": ["MSH/D014435"], "RXNORM": []}]}
-{"Typhoid fever": [{"preferredTerms": "Ulcer", "entityids": "UMLS/C0041582", "HPO": [], "MSH": ["MSH/D014456"], "RXNORM": []}]}
-{"Ulcers, duodenal and gastric": [{}]}
+{"Tumors characterized by genetic abnormalities of alk": [{"preferredTerms": "Neoplasms", "entityids": "UMLS/C0027651", "HPO": ["HPO/HP:0002664"], "MSH": ["MSH/D009369"], "RXNORM": []}, {"preferredTerms": "Molecular Abnormality", "entityids": "UMLS/C0262496", "HPO": [], "MSH": [], "RXNORM": []}]}
+{"Type 2 diabetes": [{"preferredTerms": "Diabetes Mellitus, Non-Insulin-Dependent", "entityids": "UMLS/C0011860", "HPO": ["HPO/HP:0005978"], "MSH": ["MSH/D003924"], "RXNORM": []}]}
+{"Typhoid fever": [{"preferredTerms": "Typhoid Fever", "entityids": "UMLS/C0041466", "HPO": [], "MSH": ["MSH/D014435"], "RXNORM": []}]}
+{"Ulcers, duodenal and gastric": [{"preferredTerms": "Ulcer", "entityids": "UMLS/C0041582", "HPO": [], "MSH": ["MSH/D014456"], "RXNORM": []}]}
 {"Uncontrolled asthma": [{"preferredTerms": "Asthma", "entityids": "UMLS/C0004096", "HPO": ["HPO/HP:0002099"], "MSH": ["MSH/D001249"], "RXNORM": []}]}
-{"Urinary bladder, overactive": [{"preferredTerms": "Urinary Incontinence", "entityids": "UMLS/C0042024", "HPO": ["HPO/HP:0000020"], "MSH": ["MSH/D014549"], "RXNORM": []}]}
-{"Urinary incontinence": [{"preferredTerms": "Urologic Diseases", "entityids": "UMLS/C0042075", "HPO": [], "MSH": ["MSH/D014570"], "RXNORM": []}]}
-{"Urologic diseases": [{"preferredTerms": "Urticaria", "entityids": "UMLS/C0042109", "HPO": ["HPO/HP:0001025"], "MSH": ["MSH/D014581"], "RXNORM": []}]}
-{"Urticaria": [{"preferredTerms": "Chickenpox", "entityids": "UMLS/C0008049", "HPO": [], "MSH": ["MSH/D002644"], "RXNORM": []}]}
-{"Varicella": [{"preferredTerms": "Vascular Diseases", "entityids": "UMLS/C0042373", "HPO": [], "MSH": ["MSH/D014652"], "RXNORM": []}]}
-{"Vascular disease, peripheral": [{"preferredTerms": "Vasculitis", "entityids": "UMLS/C0042384", "HPO": ["HPO/HP:0002633"], "MSH": ["MSH/D014657"], "RXNORM": []}]}
-{"Vasculitis": [{"preferredTerms": "Virus Diseases", "entityids": "UMLS/C0042769", "HPO": [], "MSH": ["MSH/D014777"], "RXNORM": []}]}
-{"Virus diseases": [{"preferredTerms": "Vomiting", "entityids": "UMLS/C0042963", "HPO": ["HPO/HP:0002013"], "MSH": ["MSH/D014839"], "RXNORM": []}]}
-{"Vomiting": [{}]}
-{"Wet age related macular degeneration (amd)": [{"preferredTerms": "Macular degeneration", "entityids": "UMLS/C0024437", "HPO": ["HPO/HP:0000608"], "MSH": ["MSH/D008268"], "RXNORM": []}, {"preferredTerms": "Pertussis", "entityids": "UMLS/C0043167", "HPO": [], "MSH": ["MSH/D014917"], "RXNORM": []}]}
-{"Whole cell pertussis": [{"preferredTerms": "Injury wounds", "entityids": "UMLS/C0043250", "HPO": [], "MSH": ["MSH/D014947"], "RXNORM": []}]}
-{"Wound healing": [{}]}
+{"Urinary bladder, overactive": [{}]}
+{"Urinary incontinence": [{"preferredTerms": "Urinary Incontinence", "entityids": "UMLS/C0042024", "HPO": ["HPO/HP:0000020"], "MSH": ["MSH/D014549"], "RXNORM": []}]}
+{"Urologic diseases": [{"preferredTerms": "Urologic Diseases", "entityids": "UMLS/C0042075", "HPO": [], "MSH": ["MSH/D014570"], "RXNORM": []}]}
+{"Urticaria": [{"preferredTerms": "Urticaria", "entityids": "UMLS/C0042109", "HPO": ["HPO/HP:0001025"], "MSH": ["MSH/D014581"], "RXNORM": []}]}
+{"Varicella": [{"preferredTerms": "Chickenpox", "entityids": "UMLS/C0008049", "HPO": [], "MSH": ["MSH/D002644"], "RXNORM": []}]}
+{"Vascular disease, peripheral": [{"preferredTerms": "Vascular Diseases", "entityids": "UMLS/C0042373", "HPO": [], "MSH": ["MSH/D014652"], "RXNORM": []}]}
+{"Vasculitis": [{"preferredTerms": "Vasculitis", "entityids": "UMLS/C0042384", "HPO": ["HPO/HP:0002633"], "MSH": ["MSH/D014657"], "RXNORM": []}]}
+{"Virus diseases": [{"preferredTerms": "Virus Diseases", "entityids": "UMLS/C0042769", "HPO": [], "MSH": ["MSH/D014777"], "RXNORM": []}]}
+{"Vomiting": [{"preferredTerms": "Vomiting", "entityids": "UMLS/C0042963", "HPO": ["HPO/HP:0002013"], "MSH": ["MSH/D014839"], "RXNORM": []}]}
+{"Wet age related macular degeneration (amd)": [{"preferredTerms": "Macular degeneration", "entityids": "UMLS/C0024437", "HPO": ["HPO/HP:0000608"], "MSH": ["MSH/D008268"], "RXNORM": []}]}
+{"Whole cell pertussis": [{"preferredTerms": "Pertussis", "entityids": "UMLS/C0043167", "HPO": [], "MSH": ["MSH/D014917"], "RXNORM": []}]}
+{"Wound healing": [{"preferredTerms": "Injury wounds", "entityids": "UMLS/C0043250", "HPO": [], "MSH": ["MSH/D014947"], "RXNORM": []}]}

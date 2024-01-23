@@ -24,6 +24,7 @@ Atrophy, muscular
 Attention deficit hyperactivity disorder (adhd)
 Autoimmune diseases
 B-cell acute lymphoblastic leukemia, relapsed b-cell acute lymphoblastic leukemia, refractory b-cell acute lymphoblastic leukemia
+Bacterial skin infections
 Bipolar disorder
 Bipolar i disorder
 Bladder pain
@@ -300,7 +301,6 @@ Sickle cell disease
 Sinusitis
 Sinusitis, acute
 Sjoegren's syndrome
-Skin infections, bacterial
 Sleep disorders
 Sleep initiation and maintenance disorders
 Sma - spinal muscular atrophy

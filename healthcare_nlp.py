@@ -49,7 +49,7 @@ def get_json(json_form: str, category: str, corrections: dict, offset_text) -> s
                     else:
                         found = False
                         for existing_entity in temp_raw_ner[i]:
-                            if existing_entity[3] <=  stop and begin_offset <= existing_entity[4]:
+                            if existing_entity[3] <=  stop and begin_offset < existing_entity[4]:
                                 if entity["confidence"] > existing_entity[2]:
                                     found = True
                                     temp_raw_ner[i].remove(existing_entity)

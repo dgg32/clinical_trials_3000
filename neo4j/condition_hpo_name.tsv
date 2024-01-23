@@ -1,270 +1,384 @@
 HPO	name
-HP:0011025	Abnormal cardiovascular system physiology
-HP:0001626	Abnormality of the cardiovascular system
-HP:0000118	Phenotypic abnormality
-HP:0000001	All
-HP:0011123	Inflammatory abnormality of the skin
-HP:0012649	Increased inflammatory response
-HP:0011122	Abnormality of skin physiology
-HP:0012647	Abnormal inflammatory response
-HP:0000951	Abnormality of the skin
-HP:0010978	Abnormality of immune system physiology
-HP:0001574	Abnormality of the integument
-HP:0002715	Abnormality of the immune system
-HP:0032263	Increased blood pressure
-HP:0030972	Abnormal systemic blood pressure
-HP:0002017	Nausea and vomiting
-HP:0011458	Abdominal symptom
-HP:0025032	Abnormality of digestive system physiology
-HP:0025031	Abnormality of the digestive system
-HP:0011793	Neoplasm by anatomical site
-HP:0002664	Neoplasm
-HP:0000366	Abnormality of the nose
-HP:0000271	Abnormality of the face
-HP:0000234	Abnormality of the head
-HP:0000152	Abnormality of head or neck
-HP:0002795	Abnormal respiratory system physiology
-HP:0100326	Immunologic hypersensitivity
-HP:0002086	Abnormality of the respiratory system
-HP:0002488	Acute leukemia
-HP:0001909	Leukemia
-HP:0004377	Hematological neoplasm
-HP:0001881	Abnormal leukocyte morphology
-HP:0001871	Abnormality of blood and blood-forming tissues
-HP:0010987	Abnormal cellular immune system morphology
-HP:0032251	Abnormal immune system morphology
-HP:0012638	Abnormal nervous system physiology
-HP:0000707	Abnormality of the nervous system
-HP:0000819	Diabetes mellitus
-HP:0001952	Glucose intolerance
-HP:0000818	Abnormality of the endocrine system
-HP:0011014	Abnormal glucose homeostasis
-HP:0012337	Abnormal homeostasis
-HP:0001939	Abnormality of metabolism/homeostasis
-HP:0031466	Impairment in personality functioning
-HP:0000708	Atypical behavior
-HP:0011446	Abnormality of higher mental function
-HP:0034930	Digestive system neoplasm
-HP:0011024	Abnormality of the gastrointestinal tract
-HP:0004349	Reduced bone mineral density
-HP:0004348	Abnormality of bone mineral density
-HP:0011849	Abnormal bone ossification
-HP:0003330	Abnormal bone structure
-HP:0011842	Abnormal skeletal morphology
-HP:0000924	Abnormality of the skeletal system
-HP:0033127	Abnormality of the musculoskeletal system
-HP:0001098	Abnormal fundus morphology
-HP:0004329	Abnormal posterior eye segment morphology
-HP:0012372	Abnormal eye morphology
-HP:0000478	Abnormality of the eye
-HP:0000479	Abnormal retinal morphology
-HP:0002315	Headache
-HP:0003202	Skeletal muscle atrophy
-HP:0030236	Abnormality of muscle size
-HP:0011805	Abnormal skeletal muscle morphology
-HP:0003011	Abnormality of the musculature
-HP:0004386	Gastrointestinal inflammation
-HP:0002250	Abnormal large intestine morphology
-HP:0012719	Functional abnormality of the gastrointestinal tract
-HP:0002242	Abnormal intestine morphology
-HP:0012718	Morphological abnormality of the gastrointestinal tract
-HP:0025033	Abnormality of digestive system morphology
-HP:0020169	Abnormal drug response
-HP:0011792	Neoplasm by histology
-HP:0100568	Neoplasm of the endocrine system
-HP:0100007	Neoplasm of the peripheral nervous system
-HP:0004375	Neoplasm of the nervous system
-HP:0000759	Abnormal peripheral nervous system morphology
-HP:0012639	Abnormal nervous system morphology
-HP:0001824	Weight loss
-HP:0004325	Decreased body weight
-HP:0004323	Abnormality of body weight
-HP:0001507	Growth abnormality
-HP:0010785	Gonadal neoplasm
-HP:0000137	Abnormality of the ovary
-HP:0010787	Genital neoplasm
-HP:0000008	Abnormal morphology of female internal genitalia
-HP:0000078	Abnormality of the genital system
-HP:0007379	Neoplasm of the genitourinary tract
-HP:0010460	Abnormality of the female genitalia
-HP:0000812	Abnormal internal genitalia
-HP:0000119	Abnormality of the genitourinary system
-HP:0012243	Abnormal reproductive system morphology
-HP:0025427	Abnormal bronchus physiology
-HP:0000245	Abnormal paranasal sinus morphology
-HP:0011821	Abnormal facial skeleton morphology
-HP:0002087	Abnormality of the upper respiratory tract
-HP:0000929	Abnormal skull morphology
-HP:0012252	Abnormal respiratory system morphology
-HP:0009121	Abnormal axial skeleton morphology
-HP:0001072	Thickened skin
-HP:0011121	Abnormality of skin morphology
-HP:0000140	Abnormality of the menstrual cycle
-HP:0030012	Abnormal female reproductive system physiology
-HP:0000080	Abnormality of reproductive system physiology
-HP:0030956	Abnormality of cardiovascular system electrophysiology
-HP:0001025	Urticaria
-HP:0011276	Vascular skin abnormality
-HP:0002597	Abnormality of the vasculature
-HP:0011354	Generalized abnormality of skin
-HP:0031432	Restricted or repetitive behaviors or interests
-HP:0000009	Functional abnormality of the bladder
-HP:0031064	Impaired continence
-HP:0000014	Abnormality of the bladder
-HP:0031058	Impairment of activities of daily living
-HP:0010936	Abnormality of the lower urinary tract
-HP:0025142	Constitutional symptom
-HP:0000079	Abnormality of the urinary system
-HP:0008775	Abnormal prostate morphology
-HP:0000022	Abnormal male internal genitalia morphology
-HP:0010461	Abnormality of the male genitalia
-HP:0100787	Prostate neoplasm
-HP:0033019	Male reproductive system neoplasm
-HP:0002493	Upper motor neuron dysfunction
-HP:0001276	Hypertonia
-HP:0011442	Abnormal central motor function
-HP:0003808	Abnormal muscle tone
-HP:0011804	Abnormal muscle physiology
-HP:0031492	Epithelial neoplasm
-HP:0000752	Hyperactivity
-HP:0000736	Short attention span
-HP:5200045	Reduced impulse control
-HP:5200044	Reduced attention regulation
-HP:0008373	Puberty and gonadal disorders
-HP:0012592	Albuminuria
-HP:0020129	Abnormal urine protein level
-HP:0033354	Abnormal urine metabolite level
-HP:0003110	Abnormality of urine homeostasis
-HP:0011277	Abnormality of the urinary system physiology
-HP:0001369	Arthritis
-HP:0001367	Abnormal joint morphology
-HP:0001977	Abnormal thrombosis
-HP:0000964	Eczema
-HP:0002665	Lymphoma
-HP:0012393	Allergy
-HP:0000509	Conjunctivitis
-HP:0025337	Red eye
-HP:0100533	Inflammatory abnormality of the eye
-HP:0000502	Abnormal conjunctiva morphology
-HP:0008047	Abnormality of the vasculature of the eye
-HP:0012373	Abnormal eye physiology
-HP:0030669	Abnormal ocular adnexa morphology
-HP:0032039	Abnormality of the ocular adnexa
-HP:0000315	Abnormality of the orbital region
-HP:0032241	Cervical neoplasm
-HP:0012888	Abnormal uterine cervix morphology
-HP:0000130	Abnormality of the uterus
-HP:0000370	Abnormality of the middle ear
-HP:0031703	Abnormal ear morphology
-HP:0000598	Abnormality of the ear
-HP:0000364	Hearing abnormality
-HP:0031704	Abnormal ear physiology
-HP:0002037	Inflammation of the large intestine
-HP:0002621	Atherosclerosis
-HP:0100545	Arterial stenosis
-HP:0006704	Abnormal coronary artery morphology
-HP:0002634	Arteriosclerosis
-HP:0011004	Abnormal systemic arterial morphology
-HP:0033353	Abnormal blood vessel morphology
-HP:0025015	Abnormal vascular morphology
-HP:0030680	Abnormality of cardiovascular system morphology
-HP:0100526	Neoplasm of the lung
-HP:0100606	Neoplasm of the respiratory system
-HP:0002088	Abnormal lung morphology
-HP:0002011	Morphological central nervous system abnormality
-HP:0007378	Neoplasm of the gastrointestinal tract
-HP:0002896	Neoplasm of the liver
-HP:0001392	Abnormality of the liver
-HP:0002012	Abnormality of the abdominal organs
-HP:0020064	Abnormal eosinophil count
-HP:0001974	Leukocytosis
-HP:0001879	Abnormal eosinophil morphology
-HP:0032309	Abnormal granulocyte count
-HP:0011893	Abnormal leukocyte count
-HP:0001911	Abnormal granulocyte morphology
-HP:0010974	Abnormal myeloid leukocyte morphology
-HP:0000501	Glaucoma
-HP:0011032	Abnormality of fluid regulation
-HP:0006536	Airway obstruction
-HP:0004324	Increased body weight
-HP:0011450	Unusual CNS infection
-HP:0032158	Unusual infection by anatomical site
-HP:0032101	Unusual infection
-HP:0025426	Abnormal bronchus morphology
-HP:0005607	Abnormal tracheobronchial morphology
-HP:0001268	Mental deterioration
-HP:0100543	Cognitive impairment
-HP:0033578	Pre-capillary pulmonary hypertension
-HP:0004890	Elevated pulmonary artery pressure
-HP:0030875	Abnormality of pulmonary circulation
-HP:0030163	Abnormal vascular physiology
-HP:0031678	Atherosclerotic lesion
-HP:0003107	Abnormal circulating cholesterol concentration
-HP:0003119	Abnormal circulating lipid concentration
-HP:0032180	Abnormal circulating metabolite concentration
-HP:0030126	Abnormal endometrium morphology
-HP:0031105	Abnormal uterus morphology
-HP:0011362	Abnormal hair quantity
-HP:0001595	Abnormal hair morphology
-HP:0011138	Abnormality of skin adnexa morphology
-HP:0100037	Abnormality of the scalp hair
-HP:0001596	Alopecia
-HP:0001965	Abnormal scalp morphology
-HP:0100494	Abnormal mast cell morphology
-HP:0100659	Abnormal cerebral vascular morphology
-HP:0012443	Abnormality of brain morphology
-HP:0001250	Seizure
-HP:0020219	Motor seizure
-HP:0002197	Generalized-onset seizure
-HP:0007550	Hypohidrosis or hyperhidrosis
-HP:0025276	Abnormality of skin adnexa physiology
-HP:0000488	Retinopathy
-HP:0012875	Abnormal ejaculation
-HP:0012874	Abnormal male reproductive system physiology
-HP:0012384	Rhinitis
-HP:0001877	Abnormal erythrocyte morphology
-HP:0002360	Sleep disturbance
-HP:0011947	Respiratory tract infection
-HP:0001873	Thrombocytopenia
-HP:0002960	Autoimmunity
-HP:0011873	Abnormal platelet count
-HP:0011875	Abnormal platelet morphology
-HP:0001872	Abnormality of thrombocytes
-HP:0020100	Unusual fungal infection
-HP:0002031	Abnormal esophagus morphology
-HP:0004297	Abnormality of the biliary system
-HP:0012531	Pain
-HP:0009726	Renal neoplasm
-HP:0000077	Abnormality of the kidney
-HP:0010786	Urinary tract neoplasm
-HP:0010935	Abnormality of the upper urinary tract
-HP:0002637	Cerebral ischemia
-HP:0001297	Stroke
-HP:0033401	Tissue ischemia
-HP:0025323	Abnormal arterial physiology
-HP:0004370	Abnormality of temperature regulation
-HP:0005558	Chronic leukemia
-HP:0100641	Neoplasm of the adrenal cortex
-HP:0100631	Neoplasm of the adrenal gland
-HP:0011732	Abnormality of adrenal morphology
-HP:0031071	Abnormal endocrine morphology
-HP:0000834	Abnormality of the adrenal glands
-HP:0001370	Rheumatoid arthritis
-HP:0000925	Abnormality of the vertebral column
-HP:0011890	Prolonged bleeding following procedure
-HP:0001892	Abnormal bleeding
-HP:0004887	Respiratory failure requiring assisted ventilation
-HP:0002093	Respiratory insufficiency
-HP:0000546	Retinal degeneration
-HP:0001103	Abnormal macular morphology
-HP:0012091	Abnormality of pancreas physiology
-HP:0001732	Abnormality of the pancreas
-HP:0100634	Neuroendocrine neoplasm
-HP:0100751	Esophageal neoplasm
-HP:0012288	Neoplasm of head and neck
-HP:0001376	Limitation of joint mobility
-HP:0011729	Abnormality of joint mobility
-HP:0034430	Abnormal joint physiology
-HP:0011843	Abnormal musculoskeletal physiology
-HP:0012211	Abnormal renal physiology
-HP:0100754	Mania
+HPO/HP:0002725	Lupus Erythematosus, Systemic
+HPO/HP:0003765	Psoriasis
+HPO/HP:0000822	Hypertensive disease
+HPO/HP:0002018	Nausea
+HPO/HP:0002013	Vomiting
+HPO/HP:0011123	Dermatitis
+HPO/HP:0012384	Rhinitis
+HPO/HP:0002099	Asthma
+HPO/HP:0033678	Acute Coronary Syndrome
+HPO/HP:0006536	Airway Obstruction
+HPO/HP:0001250	Seizures
+HPO/HP:0007302	Bipolar Disorder
+HPO/HP:0100651	Diabetes Mellitus, Insulin-Dependent
+HPO/HP:0000716	Depressive disorder
+HPO/HP:0005406	Recurrent bacterial skin infections
+HPO/HP:0002621	Atherosclerosis
+HPO/HP:0002635	Atherosclerosis
+HPO/HP:0020110	Fracture
+HPO/HP:0000939	Osteoporosis
+HPO/HP:0012452	Restless Legs Syndrome
+HPO/HP:0002511	Alzheimer's Disease
+HPO/HP:0005978	Diabetes Mellitus, Non-Insulin-Dependent
+HPO/HP:0002076	Migraine Disorders
+HPO/HP:0033345	Neuralgia
+HPO/HP:0001635	Heart failure
+HPO/HP:0002664	Malignant Neoplasms
+HPO/HP:0025428	Bronchospasm
+HPO/HP:0001370	Rheumatoid Arthritis
+HPO/HP:0000388	Otitis Media
+HPO/HP:0002090	Pneumonia
+HPO/HP:0012387	Bronchitis
+HPO/HP:0000246	Sinusitis
+HPO/HP:0001907	Thromboembolism
+HPO/HP:0100753	Schizophrenia
+HPO/HP:0009830	Peripheral Neuropathy
+HPO/HP:0000141	Amenorrhea
+HPO/HP:0410133	Chronic Spontaneous Urticaria
+HPO/HP:0000360	Tinnitus
+HPO/HP:0000722	Obsessive-Compulsive Disorder
+HPO/HP:0033676	Post-Traumatic Stress Disorder
+HPO/HP:0008711	Benign Prostatic Hyperplasia
+HPO/HP:0020101	Invasive Fungal Infections
+HPO/HP:0030731	Carcinoma
+HPO/HP:0100806	Septicemia
+HPO/HP:0100834	Colorectal Neoplasms
+HPO/HP:0012594	Microalbuminuria
+HPO/HP:0000135	Hypogonadism
+HPO/HP:0007378	Gastrointestinal Neoplasms
+HPO/HP:0001051	Seborrheic dermatitis
+HPO/HP:0002665	Lymphoma
+HPO/HP:0012539	Lymphoma, Non-Hodgkin
+HPO/HP:0001909	leukemia
+HPO/HP:0000020	Urinary Incontinence
+HPO/HP:0002037	Inflammatory Bowel Diseases
+HPO/HP:0003119	Dyslipidemias
+HPO/HP:0002578	Gastroparesis
+HPO/HP:0012531	Pain
+HPO/HP:0001513	Obesity
+HPO/HP:0012735	Coughing
+HPO/HP:0002326	Transient Ischemic Attack
+HPO/HP:0001297	Cerebrovascular accident
+HPO/HP:0004326	Cachexia
+HPO/HP:0012876	Premature Ejaculation
+HPO/HP:0002758	Degenerative polyarthritis
+HPO/HP:0005110	Atrial Fibrillation
+HPO/HP:0001626	Cardiovascular Diseases
+HPO/HP:0011675	Cardiac Arrhythmia
+HPO/HP:0100280	Crohn Disease
+HPO/HP:0030358	Non-Small Cell Lung Carcinoma
+HPO/HP:0001596	Alopecia
+HPO/HP:0002293	Alopecia
+HPO/HP:0002583	Colitis
+HPO/HP:0100615	Malignant neoplasm of ovary
+HPO/HP:0000819	Diabetes Mellitus
+HPO/HP:0100633	Esophagitis
+HPO/HP:0012108	Glaucoma, Open-Angle
+HPO/HP:0006510	Chronic Obstructive Airway Disease
+HPO/HP:0005506	Myeloid Leukemia, Chronic
+HPO/HP:0006775	Multiple Myeloma
+HPO/HP:0002863	MYELODYSPLASTIC SYNDROME
+HPO/HP:0002861	melanoma
+HPO/HP:0001392	Liver diseases
+HPO/HP:0001410	Liver diseases
+HPO/HP:0100242	Sarcoma
+HPO/HP:0000726	Dementia
+HPO/HP:0001903	Anemia
+HPO/HP:0000975	Hyperhidrosis disorder
+HPO/HP:0007879	Allergic Conjunctivitis
+HPO/HP:0002069	Tonic - clonic seizures
+HPO/HP:0032677	Tonic - clonic seizures
+HPO/HP:0001396	Cholestasis
+HPO/HP:0000938	Osteopenia
+HPO/HP:0007018	Attention deficit hyperactivity disorder
+HPO/HP:0011024	Gastrointestinal Diseases
+HPO/HP:0000479	Retinal Diseases
+HPO/HP:0000488	Retinal Diseases
+HPO/HP:0011891	Postpartum Hemorrhage
+HPO/HP:0003193	Allergic rhinitis (disorder)
+HPO/HP:0001677	Coronary Artery Disease
+HPO/HP:0011034	Amyloidosis
+HPO/HP:0002110	Bronchiectasis
+HPO/HP:0012324	Myeloid Leukemia
+HPO/HP:0005584	Renal Cell Carcinoma
+HPO/HP:0001973	Immune thrombocytopenic purpura
+HPO/HP:0000951	Dermatologic disorders
+HPO/HP:0100324	Scleroderma
+HPO/HP:0000969	Edema
+HPO/HP:0001402	Liver carcinoma
+HPO/HP:0007359	Seizures, Focal
+HPO/HP:0002633	Vasculitis
+HPO/HP:0002960	Autoimmune Diseases
+HPO/HP:0002092	Pulmonary arterial hypertension
+HPO/HP:0020172	Adverse reaction to drug
+HPO/HP:0001945	Fever
+HPO/HP:0005526	Lymphoid leukemia
+HPO/HP:0005550	Chronic Lymphocytic Leukemia
+HPO/HP:0000964	Eczema
+HPO/HP:0000976	Eczema
+HPO/HP:0100495	Mastocytosis
+HPO/HP:0004808	Leukemia, Myelocytic, Acute
+HPO/HP:0006744	Adrenocortical carcinoma
+HPO/HP:0030127	Endometriosis
+HPO/HP:0005681	Juvenile arthritis
+HPO/HP:0002019	Constipation
+HPO/HP:0001257	Muscle Spasticity
+HPO/HP:0033677	Respiratory Distress Syndrome, Adult
+HPO/HP:0032242	Cervical Intraepithelial Neoplasia
+HPO/HP:0007269	Spinal Muscular Atrophy
+HPO/HP:0006721	Acute lymphocytic leukemia
+HPO/HP:0100634	Neuroendocrine Tumors
+HPO/HP:0000608	Macular degeneration
+HPO/HP:0100570	Carcinoid Tumor
+HPO/HP:0001025	Urticaria
+HPO/HP:0001733	Pancreatitis
+HPO/HP:0001287	Meningitis
+HPO/HP:0003124	Hypercholesterolemia
+HPO/HP:0500049	Retinopathy of Prematurity
+HPO/HP:0033631	Spondylitis
+HPO/HP:0031013	Ankylosis
+HPO/HP:0000123	Nephritis
+HPO/HP:0011459	Esophageal carcinoma
+HPO/HP:0010978	Abnormality of immune system physiology
+HPO/HP:0002715	Abnormality of the immune system
+HPO/HP:0000118	Phenotypic abnormality
+HPO/HP:0000001	All
+HPO/HP:0012649	Increased inflammatory response
+HPO/HP:0011122	Abnormality of skin physiology
+HPO/HP:0012647	Abnormal inflammatory response
+HPO/HP:0001574	Abnormality of the integument
+HPO/HP:0032263	Increased blood pressure
+HPO/HP:0030972	Abnormal systemic blood pressure
+HPO/HP:0011025	Abnormal cardiovascular system physiology
+HPO/HP:0002017	Nausea and vomiting
+HPO/HP:0011458	Abdominal symptom
+HPO/HP:0025032	Abnormality of digestive system physiology
+HPO/HP:0025031	Abnormality of the digestive system
+HPO/HP:0011793	Neoplasm by anatomical site
+HPO/HP:0000366	Abnormality of the nose
+HPO/HP:0000271	Abnormality of the face
+HPO/HP:0000234	Abnormality of the head
+HPO/HP:0000152	Abnormality of head or neck
+HPO/HP:0002795	Abnormal respiratory system physiology
+HPO/HP:0100326	Immunologic hypersensitivity
+HPO/HP:0002086	Abnormality of the respiratory system
+HPO/HP:0012638	Abnormal nervous system physiology
+HPO/HP:0000707	Abnormality of the nervous system
+HPO/HP:0100754	Mania
+HPO/HP:0031466	Impairment in personality functioning
+HPO/HP:0000708	Atypical behavior
+HPO/HP:0011446	Abnormality of higher mental function
+HPO/HP:0001952	Glucose intolerance
+HPO/HP:0000818	Abnormality of the endocrine system
+HPO/HP:0011014	Abnormal glucose homeostasis
+HPO/HP:0012337	Abnormal homeostasis
+HPO/HP:0001939	Abnormality of metabolism/homeostasis
+HPO/HP:0002718	Recurrent bacterial infections
+HPO/HP:0001581	Recurrent skin infections
+HPO/HP:0002719	Recurrent infections
+HPO/HP:0032101	Unusual infection
+HPO/HP:0002634	Arteriosclerosis
+HPO/HP:0011004	Abnormal systemic arterial morphology
+HPO/HP:0033353	Abnormal blood vessel morphology
+HPO/HP:0025015	Abnormal vascular morphology
+HPO/HP:0002597	Abnormality of the vasculature
+HPO/HP:0030680	Abnormality of cardiovascular system morphology
+HPO/HP:0031678	Atherosclerotic lesion
+HPO/HP:0011842	Abnormal skeletal morphology
+HPO/HP:0000924	Abnormality of the skeletal system
+HPO/HP:0033127	Abnormality of the musculoskeletal system
+HPO/HP:0004349	Reduced bone mineral density
+HPO/HP:0004348	Abnormality of bone mineral density
+HPO/HP:0011849	Abnormal bone ossification
+HPO/HP:0003330	Abnormal bone structure
+HPO/HP:0002360	Sleep disturbance
+HPO/HP:0002011	Morphological central nervous system abnormality
+HPO/HP:0012639	Abnormal nervous system morphology
+HPO/HP:0002315	Headache
+HPO/HP:0025142	Constitutional symptom
+HPO/HP:0025427	Abnormal bronchus physiology
+HPO/HP:0001369	Arthritis
+HPO/HP:0001367	Abnormal joint morphology
+HPO/HP:0000370	Abnormality of the middle ear
+HPO/HP:0031703	Abnormal ear morphology
+HPO/HP:0000598	Abnormality of the ear
+HPO/HP:0011947	Respiratory tract infection
+HPO/HP:0002088	Abnormal lung morphology
+HPO/HP:0012252	Abnormal respiratory system morphology
+HPO/HP:0000245	Abnormal paranasal sinus morphology
+HPO/HP:0011821	Abnormal facial skeleton morphology
+HPO/HP:0002087	Abnormality of the upper respiratory tract
+HPO/HP:0000929	Abnormal skull morphology
+HPO/HP:0009121	Abnormal axial skeleton morphology
+HPO/HP:0001977	Abnormal thrombosis
+HPO/HP:0001871	Abnormality of blood and blood-forming tissues
+HPO/HP:0000140	Abnormality of the menstrual cycle
+HPO/HP:0030012	Abnormal female reproductive system physiology
+HPO/HP:0000080	Abnormality of reproductive system physiology
+HPO/HP:0000078	Abnormality of the genital system
+HPO/HP:0000119	Abnormality of the genitourinary system
+HPO/HP:0011276	Vascular skin abnormality
+HPO/HP:0011354	Generalized abnormality of skin
+HPO/HP:0011121	Abnormality of skin morphology
+HPO/HP:0000364	Hearing abnormality
+HPO/HP:0031704	Abnormal ear physiology
+HPO/HP:0031432	Restricted or repetitive behaviors or interests
+HPO/HP:0008775	Abnormal prostate morphology
+HPO/HP:0000022	Abnormal male internal genitalia morphology
+HPO/HP:0010461	Abnormality of the male genitalia
+HPO/HP:0000812	Abnormal internal genitalia
+HPO/HP:0012243	Abnormal reproductive system morphology
+HPO/HP:0020100	Unusual fungal infection
+HPO/HP:0031492	Epithelial neoplasm
+HPO/HP:0011792	Neoplasm by histology
+HPO/HP:0002250	Abnormal large intestine morphology
+HPO/HP:0034930	Digestive system neoplasm
+HPO/HP:0002242	Abnormal intestine morphology
+HPO/HP:0012718	Morphological abnormality of the gastrointestinal tract
+HPO/HP:0025033	Abnormality of digestive system morphology
+HPO/HP:0012592	Albuminuria
+HPO/HP:0020129	Abnormal urine protein level
+HPO/HP:0033354	Abnormal urine metabolite level
+HPO/HP:0003110	Abnormality of urine homeostasis
+HPO/HP:0011277	Abnormality of the urinary system physiology
+HPO/HP:0000079	Abnormality of the urinary system
+HPO/HP:0008373	Puberty and gonadal disorders
+HPO/HP:0004377	Hematological neoplasm
+HPO/HP:0001881	Abnormal leukocyte morphology
+HPO/HP:0010987	Abnormal cellular immune system morphology
+HPO/HP:0032251	Abnormal immune system morphology
+HPO/HP:0000009	Functional abnormality of the bladder
+HPO/HP:0031064	Impaired continence
+HPO/HP:0000014	Abnormality of the bladder
+HPO/HP:0031058	Impairment of activities of daily living
+HPO/HP:0010936	Abnormality of the lower urinary tract
+HPO/HP:0004386	Gastrointestinal inflammation
+HPO/HP:0012719	Functional abnormality of the gastrointestinal tract
+HPO/HP:0032180	Abnormal circulating metabolite concentration
+HPO/HP:0011804	Abnormal muscle physiology
+HPO/HP:0003011	Abnormality of the musculature
+HPO/HP:0004324	Increased body weight
+HPO/HP:0004323	Abnormality of body weight
+HPO/HP:0001507	Growth abnormality
+HPO/HP:0002637	Cerebral ischemia
+HPO/HP:0033401	Tissue ischemia
+HPO/HP:0100659	Abnormal cerebral vascular morphology
+HPO/HP:0025323	Abnormal arterial physiology
+HPO/HP:0012443	Abnormality of brain morphology
+HPO/HP:0030163	Abnormal vascular physiology
+HPO/HP:0001824	Weight loss
+HPO/HP:0004325	Decreased body weight
+HPO/HP:0012875	Abnormal ejaculation
+HPO/HP:0012874	Abnormal male reproductive system physiology
+HPO/HP:0001692	Atrial arrhythmia
+HPO/HP:0005115	Supraventricular arrhythmia
+HPO/HP:0030956	Abnormality of cardiovascular system electrophysiology
+HPO/HP:0100526	Neoplasm of the lung
+HPO/HP:0100606	Neoplasm of the respiratory system
+HPO/HP:0011362	Abnormal hair quantity
+HPO/HP:0001595	Abnormal hair morphology
+HPO/HP:0011138	Abnormality of skin adnexa morphology
+HPO/HP:0100037	Abnormality of the scalp hair
+HPO/HP:0001965	Abnormal scalp morphology
+HPO/HP:0010785	Gonadal neoplasm
+HPO/HP:0000137	Abnormality of the ovary
+HPO/HP:0010787	Genital neoplasm
+HPO/HP:0000008	Abnormal morphology of female internal genitalia
+HPO/HP:0007379	Neoplasm of the genitourinary tract
+HPO/HP:0010460	Abnormality of the female genitalia
+HPO/HP:0002031	Abnormal esophagus morphology
+HPO/HP:0000501	Glaucoma
+HPO/HP:0012373	Abnormal eye physiology
+HPO/HP:0000478	Abnormality of the eye
+HPO/HP:0005558	Chronic leukemia
+HPO/HP:0002012	Abnormality of the abdominal organs
+HPO/HP:0025155	Abnormality of hepatobiliary system physiology
+HPO/HP:0001268	Mental deterioration
+HPO/HP:0100543	Cognitive impairment
+HPO/HP:0001877	Abnormal erythrocyte morphology
+HPO/HP:0007550	Hypohidrosis or hyperhidrosis
+HPO/HP:0025276	Abnormality of skin adnexa physiology
+HPO/HP:0012393	Allergy
+HPO/HP:0000509	Conjunctivitis
+HPO/HP:0025337	Red eye
+HPO/HP:0100533	Inflammatory abnormality of the eye
+HPO/HP:0000502	Abnormal conjunctiva morphology
+HPO/HP:0008047	Abnormality of the vasculature of the eye
+HPO/HP:0030669	Abnormal ocular adnexa morphology
+HPO/HP:0012372	Abnormal eye morphology
+HPO/HP:0032039	Abnormality of the ocular adnexa
+HPO/HP:0000315	Abnormality of the orbital region
+HPO/HP:0020219	Motor seizure
+HPO/HP:0002197	Generalized-onset seizure
+HPO/HP:0004297	Abnormality of the biliary system
+HPO/HP:0000752	Hyperactivity
+HPO/HP:0000736	Short attention span
+HPO/HP:5200045	Reduced impulse control
+HPO/HP:5200044	Reduced attention regulation
+HPO/HP:0001098	Abnormal fundus morphology
+HPO/HP:0004329	Abnormal posterior eye segment morphology
+HPO/HP:0011890	Prolonged bleeding following procedure
+HPO/HP:0001892	Abnormal bleeding
+HPO/HP:0100545	Arterial stenosis
+HPO/HP:0006704	Abnormal coronary artery morphology
+HPO/HP:0025426	Abnormal bronchus morphology
+HPO/HP:0005607	Abnormal tracheobronchial morphology
+HPO/HP:0009726	Renal neoplasm
+HPO/HP:0000077	Abnormality of the kidney
+HPO/HP:0010786	Urinary tract neoplasm
+HPO/HP:0010935	Abnormality of the upper urinary tract
+HPO/HP:0001873	Thrombocytopenia
+HPO/HP:0011873	Abnormal platelet count
+HPO/HP:0011875	Abnormal platelet morphology
+HPO/HP:0001872	Abnormality of thrombocytes
+HPO/HP:0001072	Thickened skin
+HPO/HP:0011032	Abnormality of fluid regulation
+HPO/HP:0002896	Neoplasm of the liver
+HPO/HP:0033578	Pre-capillary pulmonary hypertension
+HPO/HP:0004890	Elevated pulmonary artery pressure
+HPO/HP:0030875	Abnormality of pulmonary circulation
+HPO/HP:0020169	Abnormal drug response
+HPO/HP:0004370	Abnormality of temperature regulation
+HPO/HP:0100494	Abnormal mast cell morphology
+HPO/HP:0001911	Abnormal granulocyte morphology
+HPO/HP:0010974	Abnormal myeloid leukocyte morphology
+HPO/HP:0002488	Acute leukemia
+HPO/HP:0100641	Neoplasm of the adrenal cortex
+HPO/HP:0100631	Neoplasm of the adrenal gland
+HPO/HP:0100568	Neoplasm of the endocrine system
+HPO/HP:0011732	Abnormality of adrenal morphology
+HPO/HP:0031071	Abnormal endocrine morphology
+HPO/HP:0000834	Abnormality of the adrenal glands
+HPO/HP:0030126	Abnormal endometrium morphology
+HPO/HP:0031105	Abnormal uterus morphology
+HPO/HP:0000130	Abnormality of the uterus
+HPO/HP:0002493	Upper motor neuron dysfunction
+HPO/HP:0001276	Hypertonia
+HPO/HP:0011442	Abnormal central motor function
+HPO/HP:0003808	Abnormal muscle tone
+HPO/HP:0004887	Respiratory failure requiring assisted ventilation
+HPO/HP:0002093	Respiratory insufficiency
+HPO/HP:0032241	Cervical neoplasm
+HPO/HP:0012888	Abnormal uterine cervix morphology
+HPO/HP:0003202	Skeletal muscle atrophy
+HPO/HP:0030236	Abnormality of muscle size
+HPO/HP:0011805	Abnormal skeletal muscle morphology
+HPO/HP:0100007	Neoplasm of the peripheral nervous system
+HPO/HP:0004375	Neoplasm of the nervous system
+HPO/HP:0000759	Abnormal peripheral nervous system morphology
+HPO/HP:0000546	Retinal degeneration
+HPO/HP:0001103	Abnormal macular morphology
+HPO/HP:0012091	Abnormality of pancreas physiology
+HPO/HP:0001732	Abnormality of the pancreas
+HPO/HP:0011450	Unusual CNS infection
+HPO/HP:0032158	Unusual infection by anatomical site
+HPO/HP:0003107	Abnormal circulating cholesterol concentration
+HPO/HP:0000925	Abnormality of the vertebral column
+HPO/HP:0001376	Limitation of joint mobility
+HPO/HP:0011729	Abnormality of joint mobility
+HPO/HP:0034430	Abnormal joint physiology
+HPO/HP:0011843	Abnormal musculoskeletal physiology
+HPO/HP:0012211	Abnormal renal physiology
+HPO/HP:0100751	Esophageal neoplasm
+HPO/HP:0012288	Neoplasm of head and neck

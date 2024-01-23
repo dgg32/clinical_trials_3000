@@ -110,11 +110,13 @@ if __name__ == "__main__":
     #print(recursive_get_parent_HPO("HP:0011458", umls_token))
 
 #### get may_be_prevented_by drugs of a disease
-    result = get_all_items("MSH", "D014839", "includeAdditionalRelationLabels=may_be_prevented_by", umls_token)
+    #result = get_all_items("MSH", "D014839", "includeAdditionalRelationLabels=may_be_prevented_by", umls_token)
 
-    assert len(result) == 40
-    print (result)
+    #assert len(result) == 40
+    #print (result)
     
 #### recursive get all parent HPO
-    print ("\n\n")
-    print(recursive_get_parent_HPO("HP:0011458", umls_token))
+    #print ("\n\n")
+    #print(recursive_get_parent_HPO("HP:0011458", umls_token))
+###
+    print (get_all_items("MSH", "D015282", "includeAdditionalRelationLabels=isa", umls_token))

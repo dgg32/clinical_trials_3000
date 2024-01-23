@@ -4,6 +4,14 @@ CREATE CONSTRAINT IF NOT EXISTS FOR (m:Medicine) REQUIRE m.UMLS IS UNIQUE
 ;
 CREATE CONSTRAINT IF NOT EXISTS FOR (t:Trial) REQUIRE t.id IS UNIQUE
 ;
+
+CREATE CONSTRAINT IF NOT EXISTS FOR (m:MedicineMSH) REQUIRE m.MSH IS UNIQUE
+;
+CREATE CONSTRAINT IF NOT EXISTS FOR (c:ConditionHPO) REQUIRE c.HPO IS UNIQUE
+;
+CREATE CONSTRAINT IF NOT EXISTS FOR (c:ConditionMSH) REQUIRE c.MSH IS UNIQUE
+;
+
 LOAD CSV WITH HEADERS FROM 'file:///conditions.tsv' AS row FIELDTERMINATOR '\t' MERGE (c:Condition {UMLS: row.UMLS, name: coalesce(row.name, ""), HPO: split(coalesce(row.HPO, ''), '|'), MSH: split(coalesce(row.MSH, ''), '|')})
 ;
 LOAD CSV WITH HEADERS FROM 'file:///medicines.tsv' AS row FIELDTERMINATOR '\t' MERGE (c:Medicine {UMLS: row.UMLS, name: coalesce(row.name, ""), HPO: split(coalesce(row.HPO, ''), '|'), MSH: split(coalesce(row.MSH, ''), '|')})
@@ -12,6 +20,12 @@ LOAD CSV WITH HEADERS FROM 'file:///clinical_study_data_request_com_all_sponsor.
 original_medicine: row.`Medicine or Vaccine (generic name)`, original_condition: row.`Medical Condition`, phase: row.Phase, url: coalesce(row.`Link to study details on ClinicalTrials.gov (if available)`, ''), date_added: row.`Date Added to this Site`,
 analysis_ready_data: row.`Analysis-ready dataset`})
 ;
+LOAD CSV WITH HEADERS FROM 'file:///condition_hpo_name.tsv' AS row FIELDTERMINATOR '\t' MERGE (c:ConditionHPO {HPO: row.HPO, name: row.name})
+;
+LOAD CSV WITH HEADERS FROM 'file:///condition_msh_name.tsv' AS row FIELDTERMINATOR '\t' MERGE (c:ConditionMSH {MSH: row.MSH, name: row.name})
+;
+LOAD CSV WITH HEADERS FROM 'file:///medicine_msh_name.tsv' AS row FIELDTERMINATOR '\t' MERGE (c:MedicineMSH {MSH: row.MSH, name: row.name})
+;
 
 
 LOAD CSV WITH HEADERS FROM 'file:///trial_conditions.tsv' AS row FIELDTERMINATOR '\t' MERGE (p1:Trial {id: row.from}) MERGE (p2:Condition {UMLS: row.to}) MERGE (p1)-[r:FOCUSES_ON]->(p2)
@@ -19,7 +33,21 @@ LOAD CSV WITH HEADERS FROM 'file:///trial_conditions.tsv' AS row FIELDTERMINATOR
 LOAD CSV WITH HEADERS FROM 'file:///trial_medicines.tsv' AS row FIELDTERMINATOR '\t' MERGE (p1:Trial {id: row.from}) MERGE (p2:Medicine {UMLS: row.to}) MERGE (p1)-[r:TESTS]->(p2)
 ;
 
+LOAD CSV WITH HEADERS FROM 'file:///condition_is_hpo.tsv' AS row FIELDTERMINATOR '\t' MERGE (p1:Condition {UMLS: row.from}) MERGE (p2:ConditionHPO {HPO: row.to}) MERGE (p1)-[r:HPO_IS_A]->(p2)
+;
+LOAD CSV WITH HEADERS FROM 'file:///hpo_is_a.tsv' AS row FIELDTERMINATOR '\t' MERGE (p1:ConditionHPO {HPO: row.from}) MERGE (p2:ConditionHPO {HPO: row.to}) MERGE (p1)-[r:HPO_BELONGS_TO]->(p2)
+;
 
+LOAD CSV WITH HEADERS FROM 'file:///condition_is_msh.tsv' AS row FIELDTERMINATOR '\t' MERGE (p1:Condition {UMLS: row.from}) MERGE (p2:ConditionMSH {MSH: row.to}) MERGE (p1)-[r:MSH_IS_A]->(p2)
+;
+
+LOAD CSV WITH HEADERS FROM 'file:///msh_may_be_treated_by.tsv' AS row FIELDTERMINATOR '\t' MATCH (p:ConditionMSH {MSH: row.MSH}) SET p.may_be_treated_by = split(coalesce(row.may_be_treated_by, ''), '|') 
+;
+
+LOAD CSV WITH HEADERS FROM 'file:///medicine_is_msh.tsv' AS row FIELDTERMINATOR '\t' MERGE (p1:Medicine {UMLS: row.from}) MERGE (p2:MedicineMSH {MSH: row.to}) MERGE (p1)-[r:MSH_IS_A]->(p2)
+;
+LOAD CSV WITH HEADERS FROM 'file:///medicine_msh_is_a.tsv' AS row FIELDTERMINATOR '\t' MERGE (p1:MedicineMSH {MSH: row.from}) MERGE (p2:MedicineMSH {MSH: row.to}) MERGE (p1)-[r:MSH_BELONGS_TO]->(p2)
+;
 
 MATCH (m1:Medicine) <-[:TESTS]- (t1:Trial) -[:FOCUSES_ON]->(c1:Condition) WITH c1, collect(DISTINCT m1.name) AS drug_list WHERE size(drug_list) > 1 RETURN c1.name, drug_list LIMIT 20;
 

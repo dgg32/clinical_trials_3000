@@ -1,0 +1,492 @@
+MSH	name
+MSH/C511911	belimumab
+MSH/D007166	Immunosuppressive Agents
+MSH/C055085	calcipotriene
+MSH/D003879	Dermatologic Agents
+MSH/C466951	benzoyl peroxide / clindamycin
+MSH/D000077261	carvedilol
+MSH/D058668	Adrenergic alpha-1 Receptor Antagonists
+MSH/D002121	Calcium Channel Blockers
+MSH/D000959	Antihypertensive Agents
+MSH/D000975	Antioxidants
+MSH/D014665	Vasodilator Agents
+MSH/D000319	Adrenergic beta-Antagonists
+MSH/D002990	clobetasol
+MSH/D005938	Glucocorticoids
+MSH/D000893	Anti-Inflammatory Agents
+MSH/C523187	fluticasone furoate
+MSH/D000068298	fluticasone
+MSH/D003879	Dermatologic Agents
+MSH/D018926	Anti-Allergic Agents
+MSH/D001993	Bronchodilator Agents
+MSH/D000893	Anti-Inflammatory Agents
+MSH/D000068297	Fluticasone Propionate, Salmeterol Xinafoate Drug Combination
+MSH/D005938	Glucocorticoids
+MSH/D001993	Bronchodilator Agents
+MSH/D013566	Sympathomimetics
+MSH/D000077425	fondaparinux sodium
+MSH/D065427	Factor Xa Inhibitors
+MSH/D000077213	lamotrigine
+MSH/D026941	Sodium Channel Blockers
+MSH/D002121	Calcium Channel Blockers
+MSH/D000927	Anticonvulsants
+MSH/D014150	Antipsychotic Agents
+MSH/C550701	otelixizumab
+MSH/D017374	paroxetine
+MSH/D017367	Selective Serotonin Reuptake Inhibitors
+MSH/D018687	Antidepressive Agents, Second-Generation
+MSH/D065690	Cytochrome P-450 CYP2D6 Inhibitors
+MSH/C508887	retapamulin
+MSH/D000900	Anti-Bacterial Agents
+MSH/C101866	ezogabine
+MSH/D049990	Membrane Transport Modulators
+MSH/D000927	Anticonvulsants
+MSH/C000592856	rilapladib
+MSH/C561716	ronacaleret
+MSH/C046649	ropinirole
+MSH/D018491	Dopamine Agonists
+MSH/D000978	Antiparkinson Agents
+MSH/D000077154	rosiglitazone
+MSH/D007004	Hypoglycemic Agents
+MSH/C000611385	naproxen / sumatriptan
+MSH/C086827	tazarotene
+MSH/D003879	Dermatologic Agents
+MSH/D013723	Teratogens
+MSH/D007641	Keratolytic Agents
+MSH/C534550	vestipitant
+MSH/D064729	Neurokinin-1 Receptor Antagonists
+MSH/C510352	human papillomavirus vaccine, L1 type 16, 18
+MSH/D022242	Polyvalent pneumococcal vaccine
+MSH/D004166	diphtheria antitoxin
+MSH/D007155	Immunologic Factors
+MSH/D013745	tetanus toxoid vaccine, inactivated
+MSH/D011055	Oral Poliovirus Vaccine
+MSH/C044237	Haemophilus influenzae type b polysaccharide vaccine
+MSH/C092872	streptococcal polysaccharide-tetanus toxoid conjugate vaccine
+MSH/D009108	Mumps Vaccine
+MSH/D012411	Rubella virus vaccine
+MSH/D019433	Chickenpox Vaccine
+MSH/D000946	Antigens, Fungal
+MSH/D007252	Influenza virus vaccine
+MSH/D014612	Vaccines
+MSH/D007155	Immunologic Factors
+MSH/D022243	Rotavirus Vaccines
+MSH/D053243	zanamivir
+MSH/D004791	Enzyme Inhibitors
+MSH/D000998	Antiviral Agents
+MSH/D000068538	dutasteride
+MSH/D058891	5-alpha Reductase Inhibitors
+MSH/C550468	vilanterol
+MSH/D000068299	salmeterol
+MSH/D058666	Adrenergic beta-2 Receptor Agonists
+MSH/D001993	Bronchodilator Agents
+MSH/C106538	abacavir
+MSH/D019380	Anti-HIV Agents
+MSH/D018894	Reverse Transcriptase Inhibitors
+MSH/C492871	abacavir / lamivudine
+MSH/D019259	lamivudine
+MSH/D019380	Anti-HIV Agents
+MSH/D018894	Reverse Transcriptase Inhibitors
+MSH/D015215	zidovudine
+MSH/D019380	Anti-HIV Agents
+MSH/D018894	Reverse Transcriptase Inhibitors
+MSH/D000963	Antimetabolites
+MSH/C562325	dolutegravir
+MSH/D019428	HIV Integrase Inhibitors
+MSH/C426859	fosamprenavir
+MSH/D019380	Anti-HIV Agents
+MSH/D017320	HIV Protease Inhibitors
+MSH/D000077592	maraviroc
+MSH/D023581	HIV Fusion Inhibitors
+MSH/D065100	CCR5 Receptor Antagonists
+MSH/D017762	nadroparin
+MSH/D005343	Fibrinolytic Agents
+MSH/D000925	Anticoagulants
+MSH/D022362	Hepatitis A Vaccines
+MSH/D000420	albuterol
+MSH/D058666	Adrenergic beta-2 Receptor Agonists
+MSH/D001993	Bronchodilator Agents
+MSH/D015149	Tocolytic Agents
+MSH/C534611	albiglutide
+MSH/D000097789	Glucagon-Like Peptide-1 Receptor Agonists
+MSH/D019980	amoxicillin / clavulanate
+MSH/D065093	beta-Lactamase Inhibitors
+MSH/D000900	Anti-Bacterial Agents
+MSH/D017706	lisinopril
+MSH/D002316	Cardiotonic Agents
+MSH/D000806	Angiotensin-Converting Enzyme Inhibitors
+MSH/D000959	Antihypertensive Agents
+MSH/C433226	Twinrix
+MSH/D018170	sumatriptan
+MSH/D058825	Serotonin 5-HT1 Receptor Agonists
+MSH/D014662	Vasoconstrictor Agents
+MSH/D000077483	valacyclovir
+MSH/D000998	Antiviral Agents
+MSH/C493155	RTS,S-AS02A vaccine
+MSH/D016642	bupropion
+MSH/D018687	Antidepressive Agents, Second-Generation
+MSH/D018765	Dopamine Uptake Inhibitors
+MSH/D065690	Cytochrome P-450 CYP2D6 Inhibitors
+MSH/D000077444	Smoking Cessation Agents
+MSH/D000069444	omalizumab
+MSH/D018926	Anti-Allergic Agents
+MSH/D018927	Anti-Asthmatic Agents
+MSH/C433247	Cilomilast
+MSH/D058988	Phosphodiesterase 4 Inhibitors
+MSH/C551147	denagliptin
+MSH/D008687	metformin
+MSH/D007004	Hypoglycemic Agents
+MSH/C520025	mirabegron
+MSH/D058667	Adrenergic beta-3 Receptor Agonists
+MSH/D064804	Urological Agents
+MSH/D000069464	solifenacin succinate
+MSH/D064804	Urological Agents
+MSH/D018727	Muscarinic Antagonists
+MSH/D000077409	tamsulosin
+MSH/D064804	Urological Agents
+MSH/D058668	Adrenergic alpha-1 Receptor Antagonists
+MSH/D014614	Vaccines, Recombinant
+MSH/C057619	glimepiride
+MSH/D007004	Hypoglycemic Agents
+MSH/D007166	Immunosuppressive Agents
+MSH/D000889	Anti-Arrhythmia Agents
+MSH/C106783	naratriptan
+MSH/D058825	Serotonin 5-HT1 Receptor Agonists
+MSH/D014662	Vasoconstrictor Agents
+MSH/D000077332	artesunate
+MSH/D000962	Antimalarials
+MSH/D000970	Antineoplastic Agents
+MSH/D000998	Antiviral Agents
+MSH/D012556	Schistosomicides
+MSH/C007030	chlorproguanil
+MSH/D000962	Antimalarials
+MSH/D003622	dapsone
+MSH/D005493	Folic Acid Antagonists
+MSH/D000890	Anti-Infective Agents
+MSH/D000962	Antimalarials
+MSH/D007917	Leprostatic Agents
+MSH/C572941	ipragliflozin
+MSH/D000077203	Sodium-Glucose Transporter 2 Inhibitors
+MSH/D000077551	micafungin
+MSH/D000935	Antifungal Agents
+MSH/C430916	regadenoson
+MSH/D058908	Adenosine A2 Receptor Agonists
+MSH/D016559	tacrolimus
+MSH/D007166	Immunosuppressive Agents
+MSH/D065095	Calcineurin Inhibitors
+MSH/C544831	Foretinib
+MSH/D022301	Herpes Simplex Virus Vaccines
+MSH/D008458	Measles Vaccine
+MSH/D022401	Meningococcal vaccine
+MSH/C529040	darapladib
+MSH/D064801	Phospholipase A2 Inhibitors
+MSH/D000077557	ibandronic acid
+MSH/D050071	Bone Density Conservation Agents
+MSH/D007654	ketoconazole
+MSH/D058888	14-alpha Demethylase Inhibitors
+MSH/D000935	Antifungal Agents
+MSH/D065692	Cytochrome P-450 CYP3A Inhibitors
+MSH/D017311	amlodipine
+MSH/D002121	Calcium Channel Blockers
+MSH/D000959	Antihypertensive Agents
+MSH/D014665	Vasodilator Agents
+MSH/D019808	losartan
+MSH/D047228	Angiotensin II Type 1 Receptor Blockers
+MSH/D000889	Anti-Arrhythmia Agents
+MSH/D000959	Antihypertensive Agents
+MSH/C040738	cefuroxime axetil
+MSH/D000900	Anti-Bacterial Agents
+MSH/C574213	dilmapimod
+MSH/C581856	refanezumab
+MSH/D000077430	nabumetone
+MSH/D052246	Cyclooxygenase 2 Inhibitors
+MSH/D000894	Anti-Inflammatory Agents, Non-Steroidal
+MSH/D011405	propafenone
+MSH/D061567	Voltage-Gated Sodium Channel Blockers
+MSH/D000889	Anti-Arrhythmia Agents
+MSH/C531958	lenvatinib
+MSH/D047428	Protein Kinase Inhibitors
+MSH/D000970	Antineoplastic Agents
+MSH/D004077	digoxin
+MSH/D004791	Enzyme Inhibitors
+MSH/D002316	Cardiotonic Agents
+MSH/D000889	Anti-Arrhythmia Agents
+MSH/C583420	Vercirnon
+MSH/D000077185	resveratrol
+MSH/D004791	Enzyme Inhibitors
+MSH/D000975	Antioxidants
+MSH/D010975	Platelet Aggregation Inhibitors
+MSH/D000069347	erlotinib
+MSH/D047428	Protein Kinase Inhibitors
+MSH/D000970	Antineoplastic Agents
+MSH/C434107	mepolizumab
+MSH/D019821	simvastatin
+MSH/D019161	Hydroxymethylglutaryl-CoA Reductase Inhibitors
+MSH/D000960	Hypolipidemic Agents
+MSH/D000924	Anticholesteremic Agents
+MSH/D000077208	remifentanil
+MSH/D000701	Analgesics, Opioid
+MSH/C555450	secukinumab
+MSH/C588122	batefenterol
+MSH/C047340	levocabastine
+MSH/D039563	Histamine H1 Antagonists, Non-Sedating
+MSH/C542124	raxibacumab
+MSH/D004656	enalapril
+MSH/D000806	Angiotensin-Converting Enzyme Inhibitors
+MSH/D000959	Antihypertensive Agents
+MSH/D000068718	rosuvastatin
+MSH/D019161	Hydroxymethylglutaryl-CoA Reductase Inhibitors
+MSH/D000924	Anticholesteremic Agents
+MSH/C508735	isavuconazonium sulfate
+MSH/D000935	Antifungal Agents
+MSH/C111827	brinzolamide
+MSH/D002257	Carbonic Anhydrase Inhibitors
+MSH/D000068338	everolimus
+MSH/D000091203	MTOR Inhibitors
+MSH/D007166	Immunosuppressive Agents
+MSH/C510790	indacaterol
+MSH/D006024	Glycopyrronium Bromide
+MSH/D000759	Adjuvants, Anesthesia
+MSH/D018727	Muscarinic Antagonists
+MSH/C498826	nilotinib
+MSH/D000078330	oxcarbazepine
+MSH/D061567	Voltage-Gated Sodium Channel Blockers
+MSH/D000927	Anticonvulsants
+MSH/D065701	Cytochrome P-450 CYP3A Inducers
+MSH/C000717211	sacubitril
+MSH/D000068756	valsartan
+MSH/D047228	Angiotensin II Type 1 Receptor Blockers
+MSH/D000959	Antihypertensive Agents
+MSH/D000069557	travoprost
+MSH/D000959	Antihypertensive Agents
+MSH/D000068876	fingolimod
+MSH/D007166	Immunosuppressive Agents
+MSH/D000081243	Sphingosine 1 Phosphate Receptor Modulators
+MSH/D000068836	rivastigmine
+MSH/D002800	Cholinesterase Inhibitors
+MSH/D018696	Neuroprotective Agents
+MSH/D000077767	panobinostat
+MSH/D056572	Histone Deacetylase Inhibitors
+MSH/D000970	Antineoplastic Agents
+MSH/D002434	cefadroxil
+MSH/D000900	Anti-Bacterial Agents
+MSH/C561454	omipalisib
+MSH/C586847	ceritinib
+MSH/D047428	Protein Kinase Inhibitors
+MSH/D000970	Antineoplastic Agents
+MSH/C561627	dabrafenib
+MSH/D047428	Protein Kinase Inhibitors
+MSH/D000970	Antineoplastic Agents
+MSH/C520809	eltrombopag
+MSH/D000077341	lapatinib
+MSH/D047428	Protein Kinase Inhibitors
+MSH/D000970	Antineoplastic Agents
+MSH/C516667	pazopanib
+MSH/C560077	trametinib
+MSH/D047428	Protein Kinase Inhibitors
+MSH/D000970	Antineoplastic Agents
+MSH/D000077211	zoledronic acid
+MSH/D050071	Bone Density Conservation Agents
+MSH/D000077556	alitretinoin
+MSH/D003879	Dermatologic Agents
+MSH/D000970	Antineoplastic Agents
+MSH/C581951	danirixin
+MSH/C000611924	fluticasone furoate-vilanterol trifenatate
+MSH/C000612856	gepotidacin
+MSH/D059003	Topoisomerase Inhibitors
+MSH/C000599718	Daprodustat
+MSH/C522194	Retosiban
+MSH/C541863	Camicinal
+MSH/C571185	epelsiban
+MSH/C543534	Losmapimod
+MSH/C093875	montelukast
+MSH/D020024	Leukotriene Antagonists
+MSH/D018927	Anti-Asthmatic Agents
+MSH/D065694	Cytochrome P-450 CYP1A2 Inducers
+MSH/D000069605	olopatadine hydrochloride
+MSH/D039563	Histamine H1 Antagonists, Non-Sedating
+MSH/D018926	Anti-Allergic Agents
+MSH/D000894	Anti-Inflammatory Agents, Non-Steroidal
+MSH/C081643	candesartan
+MSH/D047228	Angiotensin II Type 1 Receptor Blockers
+MSH/D000959	Antihypertensive Agents
+MSH/C077793	candesartan cilexetil
+MSH/D047228	Angiotensin II Type 1 Receptor Blockers
+MSH/D000959	Antihypertensive Agents
+MSH/C000629641	Nemiralisib
+MSH/D047428	Protein Kinase Inhibitors
+MSH/C509706	relacatib
+MSH/C055852	tafenoquine
+MSH/D000962	Antimalarials
+MSH/C414203	nepafenac
+MSH/D000894	Anti-Inflammatory Agents, Non-Steroidal
+MSH/C551441	perampanel
+MSH/C053001	adefovir
+MSH/D018894	Reverse Transcriptase Inhibitors
+MSH/D000998	Antiviral Agents
+MSH/C571829	tapinarof
+MSH/D001241	aspirin
+MSH/D005343	Fibrinolytic Agents
+MSH/D000894	Anti-Inflammatory Agents, Non-Steroidal
+MSH/D058633	Antipyretics
+MSH/D016861	Cyclooxygenase Inhibitors
+MSH/D010975	Platelet Aggregation Inhibitors
+MSH/D008774	methylphenidate
+MSH/D018765	Dopamine Uptake Inhibitors
+MSH/D000697	Central Nervous System Stimulants
+MSH/D000068582	certolizumab pegol
+MSH/D000079424	Tumor Necrosis Factor Inhibitors
+MSH/D007166	Immunosuppressive Agents
+MSH/D018501	Antirheumatic Agents
+MSH/D064750	rabeprazole
+MSH/D054328	Proton Pump Inhibitors
+MSH/D000897	Anti-Ulcer Agents
+MSH/D000077270	exenatide
+MSH/D000097789	Glucagon-Like Peptide-1 Receptor Agonists
+MSH/D054795	Incretins
+MSH/D019440	Anti-Obesity Agents
+MSH/C507357	mapatumumab
+MSH/D000970	Antineoplastic Agents
+MSH/D010121	oxytocin
+MSH/D010120	Oxytocics
+MSH/C490954	eribulin mesylate
+MSH/C079703	rufinamide
+MSH/D061567	Voltage-Gated Sodium Channel Blockers
+MSH/D000927	Anticonvulsants
+MSH/D004275	DNA, Ribosomal
+MSH/D061485	nicotine polacrilex
+MSH/C000599766	Otilimab
+MSH/D000077289	letrozole
+MSH/D047072	Aromatase Inhibitors
+MSH/D000970	Antineoplastic Agents
+MSH/D009538	nicotine
+MSH/D005731	Ganglionic Stimulants
+MSH/D018722	Nicotinic Agonists
+MSH/D000077444	Smoking Cessation Agents
+MSH/D022681	Infanrix
+MSH/C064764	PENTA natural heparin pentassacharide
+MSH/D005343	Fibrinolytic Agents
+MSH/D000925	Anticoagulants
+MSH/D011464	epoprostenol
+MSH/D000959	Antihypertensive Agents
+MSH/D010975	Platelet Aggregation Inhibitors
+MSH/D000077239	meloxicam
+MSH/D052246	Cyclooxygenase 2 Inhibitors
+MSH/D000894	Anti-Inflammatory Agents, Non-Steroidal
+MSH/C106716	Talnetant
+MSH/D000077732	fidaxomicin
+MSH/D000900	Anti-Bacterial Agents
+MSH/D000068698	tenofovir disoproxil fumarate
+MSH/D019380	Anti-HIV Agents
+MSH/D018894	Reverse Transcriptase Inhibitors
+MSH/D000998	Antiviral Agents
+MSH/D000068696	rilpivirine
+MSH/D019380	Anti-HIV Agents
+MSH/D018894	Reverse Transcriptase Inhibitors
+MSH/D002939	ciprofloxacin
+MSH/D059005	Topoisomerase II Inhibitors
+MSH/D000900	Anti-Bacterial Agents
+MSH/D065609	Cytochrome P-450 CYP1A2 Inhibitors
+MSH/D000068877	imatinib
+MSH/D047428	Protein Kinase Inhibitors
+MSH/D000970	Antineoplastic Agents
+MSH/D000077265	donepezil
+MSH/D002800	Cholinesterase Inhibitors
+MSH/D018697	Nootropic Agents
+MSH/C541220	canakinumab
+MSH/C527517	ofatumumab
+MSH/D000970	Antineoplastic Agents
+MSH/C059539	midostaurin
+MSH/D047428	Protein Kinase Inhibitors
+MSH/D000970	Antineoplastic Agents
+MSH/D020682	cefixime
+MSH/D000900	Anti-Bacterial Agents
+MSH/C000627869	naquotinib
+MSH/D047428	Protein Kinase Inhibitors
+MSH/D000970	Antineoplastic Agents
+MSH/D016729	leuprolide acetate
+MSH/D005300	Fertility Agents, Female
+MSH/D018931	Antineoplastic Agents, Hormonal
+MSH/C551528	Linsitinib
+MSH/C578989	siponimod
+MSH/D000081243	Sphingosine 1 Phosphate Receptor Modulators
+MSH/D000077682	triclabendazole
+MSH/D000980	Antiplatyhelmintic Agents
+MSH/D011739	pyrimethamine
+MSH/D005493	Folic Acid Antagonists
+MSH/D000962	Antimalarials
+MSH/D000981	Antiprotozoal Agents
+MSH/C540278	enzalutamide
+MSH/C523483	linaclotide
+MSH/D000074268	Guanylyl Cyclase C Agonists
+MSH/D019274	onabotulinumtoxinA
+MSH/D009465	Neuromuscular Agents
+MSH/D009498	Neurotoxins
+MSH/D065087	Acetylcholine Release Inhibitors
+MSH/C472067	levocetirizine
+MSH/D039563	Histamine H1 Antagonists, Non-Sedating
+MSH/D000068656	mometasone furoate
+MSH/D003879	Dermatologic Agents
+MSH/D018926	Anti-Allergic Agents
+MSH/D000893	Anti-Inflammatory Agents
+MSH/D000068759	formoterol fumarate
+MSH/D058666	Adrenergic beta-2 Receptor Agonists
+MSH/D001993	Bronchodilator Agents
+MSH/C584914	cabotegravir
+MSH/D019428	HIV Integrase Inhibitors
+MSH/D012254	ribavirin
+MSH/D000963	Antimetabolites
+MSH/D000998	Antiviral Agents
+MSH/C540383	ruxolitinib
+MSH/C120489	oligofructose
+MSH/D010368	Pectins
+MSH/D005503	Food Additives
+MSH/C000596550	lanadelumab
+MSH/C573971	umeclidinium
+MSH/D000077588	deferasirox
+MSH/D007502	Iron Chelating Agents
+MSH/C585539	alpelisib
+MSH/C000604875	fevipiprant
+MSH/C554645	molibresib
+MSH/D022541	Streptococcal Vaccines
+MSH/C000710948	onasemnogene abeparvovec-xioi
+MSH/C058381	pneumococcal polysaccharide, type 37
+MSH/D018073	Haemophilus Vaccines
+MSH/D018074	Vaccines, Conjugate
+MSH/D015282	octreotide
+MSH/D005765	Gastrointestinal Agents
+MSH/D018931	Antineoplastic Agents, Hormonal
+MSH/C000622091	brolucizumab
+MSH/C000614139	crizanlizumab
+MSH/D002266	carboxymethylcellulose sodium
+MSH/D054368	Laxatives
+MSH/D009536	niacinamide
+MSH/D014803	Vitamin B Complex
+MSH/D000961	Antilymphocyte Serum
+MSH/D007155	Immunologic Factors
+MSH/D007166	Immunosuppressive Agents
+MSH/D000077597	vildagliptin
+MSH/D007004	Hypoglycemic Agents
+MSH/D054873	Dipeptidyl-Peptidase IV Inhibitors
+MSH/D000077432	tapentadol
+MSH/D018759	Adrenergic Uptake Inhibitors
+MSH/D000701	Analgesics, Opioid
+MSH/C499715	alisporivir
+MSH/D006118	griseofulvin
+MSH/D000935	Antifungal Agents
+MSH/C000604315	fremanezumab
+MSH/D000068717	glatiramer acetate
+MSH/D007166	Immunosuppressive Agents
+MSH/D018501	Antirheumatic Agents
+MSH/D000276	Adjuvants, Immunologic
+MSH/C515492	reslizumab
+MSH/D018927	Anti-Asthmatic Agents
+MSH/C585830	Inclisiran
+MSH/C428744	Licarbazepine
+MSH/D000069287	capecitabine
+MSH/D000964	Antimetabolites, Antineoplastic
+MSH/D000069579	ranibizumab
+MSH/D020533	Angiogenesis Inhibitors
+MSH/D000077594	nivolumab
+MSH/D000074322	Antineoplastic Agents, Immunological
+MSH/D000082082	Immune Checkpoint Inhibitors

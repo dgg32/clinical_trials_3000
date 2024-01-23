@@ -1,0 +1,229 @@
+MSH	name
+MSH/D000152	Acne Vulgaris
+MSH/D008180	Lupus Erythematosus, Systemic
+MSH/D011565	Psoriasis
+MSH/D006973	Hypertensive disease
+MSH/D009325	Nausea
+MSH/D014839	Vomiting
+MSH/D003872	Dermatitis
+MSH/D012220	Rhinitis
+MSH/D001249	Asthma
+MSH/D054058	Acute Coronary Syndrome
+MSH/D004617	Embolism
+MSH/D000402	Airway Obstruction
+MSH/D013927	Thrombosis
+MSH/D019964	Mood Disorders
+MSH/D004827	Aura
+MSH/D001714	Bipolar Disorder
+MSH/D015228	Hypertriglyceridemia
+MSH/D003922	Diabetes Mellitus, Insulin-Dependent
+MSH/D003866	Depressive disorder
+MSH/D003141	Communicable Diseases
+MSH/D001419	Bacteria
+MSH/D050197	Atherosclerosis
+MSH/D050723	Fracture
+MSH/D010024	Osteoporosis
+MSH/D010300	Parkinson Disease
+MSH/D012148	Restless Legs Syndrome
+MSH/D000544	Alzheimer's Disease
+MSH/D003924	Diabetes Mellitus, Non-Insulin-Dependent
+MSH/D008881	Migraine Disorders
+MSH/D012893	Sleep Disorders
+MSH/D014917	Pertussis
+MSH/D004165	Diphtheria
+MSH/D006509	Hepatitis B
+MSH/D011051	Poliomyelitis
+MSH/D013742	Tetanus
+MSH/D019741	Haemophilus influenzae type b
+MSH/D009345	Neisseria meningitidis
+MSH/D008457	Measles
+MSH/D009107	Mumps
+MSH/D012409	Rubella
+MSH/D002644	Chickenpox
+MSH/D007251	Influenza
+MSH/D012640	Seizures, Focal
+MSH/D009437	Neuralgia
+MSH/D051474	Postherpetic neuralgia
+MSH/D008288	Malaria
+MSH/D001523	Mental disorders
+MSH/D006333	Heart failure
+MSH/D009369	Malignant Neoplasms
+MSH/D011470	Benign Prostatic Hyperplasia
+MSH/D001986	Bronchospasm
+MSH/D009103	Multiple Sclerosis
+MSH/D003929	Diabetic Neuralgia
+MSH/D001172	Rheumatoid Arthritis
+MSH/D006678	HIV
+MSH/D006506	Hepatitis A
+MSH/D010033	Otitis Media
+MSH/D011014	Pneumonia
+MSH/D017714	Community-Acquired Infections
+MSH/D013296	Streptococcus pneumoniae
+MSH/D001991	Bronchitis
+MSH/D012852	Sinusitis
+MSH/D013923	Thromboembolism
+MSH/D004830	Tonic-Clonic Epilepsy
+MSH/D012559	Schizophrenia
+MSH/D000568	Amenorrhea
+MSH/D005356	Fibromyalgia
+MSH/D006558	Genital Herpes
+MSH/D006561	Herpes Simplex Infections
+MSH/D006560	Herpes Labialis
+MSH/D001008	Anxiety Disorders
+MSH/D000080223	Chronic Spontaneous Urticaria
+MSH/D014012	Tinnitus
+MSH/D010698	Phobic anxiety disorder
+MSH/D009771	Obsessive-Compulsive Disorder
+MSH/D016584	Panic Disorder
+MSH/D013313	Post-Traumatic Stress Disorder
+MSH/D011293	Premenstrual syndrome
+MSH/D009980	influenza A virus
+MSH/D000072742	Invasive Fungal Infections
+MSH/D002277	Carcinoma
+MSH/D018805	Septicemia
+MSH/D001284	Atrophic
+MSH/D015179	Colorectal Neoplasms
+MSH/D006984	Hypertrophy
+MSH/D003930	Diabetic Retinopathy
+MSH/D007006	Hypogonadism
+MSH/D005770	Gastrointestinal Neoplasms
+MSH/D012628	Seborrheic dermatitis
+MSH/D007169	Impetigo
+MSH/D008223	Lymphoma
+MSH/D008228	Lymphoma, Non-Hodgkin
+MSH/D007938	leukemia
+MSH/D014549	Urinary Incontinence
+MSH/D014947	Injury wounds
+MSH/D015212	Inflammatory Bowel Diseases
+MSH/D050171	Dyslipidemias
+MSH/D018589	Gastroparesis
+MSH/D010146	Pain
+MSH/D007249	Inflammation
+MSH/D009765	Obesity
+MSH/D003371	Coughing
+MSH/D006526	Hepatitis C
+MSH/D002546	Transient Ischemic Attack
+MSH/D020521	Cerebrovascular accident
+MSH/D002100	Cachexia
+MSH/D061686	Premature Ejaculation
+MSH/D024821	Metabolic Syndrome X
+MSH/D010003	Degenerative polyarthritis
+MSH/D001281	Atrial Fibrillation
+MSH/D002318	Cardiovascular Diseases
+MSH/D001145	Cardiac Arrhythmia
+MSH/D003424	Crohn Disease
+MSH/D003072	Cognition Disorders
+MSH/D002289	Non-Small Cell Lung Carcinoma
+MSH/D000505	Alopecia
+MSH/D003092	Colitis
+MSH/D014456	Ulcer
+MSH/D010051	Malignant neoplasm of ovary
+MSH/D065768	Lennox-Gastaut syndrome
+MSH/D003920	Diabetes Mellitus
+MSH/D004941	Esophagitis
+MSH/D020953	Aspergillosis, Nervous System Invasive
+MSH/D009091	Mucormycosis
+MSH/D005902	Glaucoma, Open-Angle
+MSH/D009798	Ocular Hypertension
+MSH/D029424	Chronic Obstructive Airway Disease
+MSH/D009101	Multiple Myeloma
+MSH/D009190	MYELODYSPLASTIC SYNDROME
+MSH/D008545	melanoma
+MSH/D008107	Liver diseases
+MSH/D012509	Sarcoma
+MSH/D003704	Dementia
+MSH/D015535	Arthritis, Psoriatic
+MSH/D012120	Respiration Disorders
+MSH/D014435	Typhoid Fever
+MSH/D000740	Anemia
+MSH/D014652	Vascular Diseases
+MSH/D006816	Huntington Disease
+MSH/D000773	Anesthesia, Obstetrical
+MSH/D003550	Cystic Fibrosis
+MSH/D006945	Hyperhidrosis disorder
+MSH/D003233	Allergic Conjunctivitis
+MSH/D006562	Herpes zoster disease
+MSH/D017681	Hypereosinophilic syndrome
+MSH/D005490	Focal Infection
+MSH/D002779	Cholestasis
+MSH/D001851	Osteopenia
+MSH/D001289	Attention deficit hyperactivity disorder
+MSH/D005767	Gastrointestinal Diseases
+MSH/D012164	Retinal Diseases
+MSH/D006473	Postpartum Hemorrhage
+MSH/D065631	Allergic rhinitis (disorder)
+MSH/D013167	Ankylosing spondylitis
+MSH/D003324	Coronary Artery Disease
+MSH/D000686	Amyloidosis
+MSH/D008589	Meningococcal Infections
+MSH/D018357	Respiratory Syncytial Virus Infections
+MSH/D014376	Tuberculosis
+MSH/D001987	Bronchiectasis
+MSH/D014570	Urologic Diseases
+MSH/D001943	Malignant neoplasm of breast
+MSH/D053201	Overactive Detrusor
+MSH/D012764	Shigella sonnei
+MSH/D007951	Myeloid Leukemia
+MSH/D054990	Idiopathic Pulmonary Fibrosis
+MSH/D058365	Invasive Candidiasis
+MSH/D002292	Renal Cell Carcinoma
+MSH/D016553	Immune thrombocytopenic purpura
+MSH/D012871	Dermatologic disorders
+MSH/D006069	Gonorrhea
+MSH/D000163	Acquired Immunodeficiency Syndrome
+MSH/D012594	Scleroderma
+MSH/D004487	Edema
+MSH/D009362	Neoplasm Metastasis
+MSH/D012136	Respiratory syncytial virus
+MSH/D003015	Clostridium difficile infection
+MSH/D006528	Liver carcinoma
+MSH/D043183	Irritable Bowel Syndrome
+MSH/D014657	Vasculitis
+MSH/D001327	Autoimmune Diseases
+MSH/D004403	Dysentery
+MSH/D014777	Virus Diseases
+MSH/D000081029	Pulmonary arterial hypertension
+MSH/D064420	Adverse reaction to drug
+MSH/D005334	Fever
+MSH/D007945	Lymphoid leukemia
+MSH/D013292	Streptococcus agalactiae
+MSH/D015451	Chronic Lymphocytic Leukemia
+MSH/D020522	Malignant lymphoma, lymphocytic, intermediate differentiation, diffuse
+MSH/D004485	Eczema
+MSH/D008415	Mastocytosis
+MSH/D015470	Leukemia, Myelocytic, Acute
+MSH/D018268	Adrenocortical carcinoma
+MSH/D004715	Endometriosis
+MSH/D001171	Juvenile arthritis
+MSH/D005211	Fascioliasis
+MSH/D014123	Toxoplasmosis
+MSH/D003928	Diabetic Nephropathy
+MSH/D003248	Constipation
+MSH/D009128	Muscle Spasticity
+MSH/D014077	Tooth Erosion
+MSH/D055728	Primary Myelofibrosis
+MSH/D000270	Adie Syndrome
+MSH/D012128	Respiratory Distress Syndrome, Adult
+MSH/D018290	Cervical Intraepithelial Neoplasia
+MSH/D009181	Mycoses
+MSH/D009157	Myasthenia Gravis
+MSH/D003807	Dentin Sensitivity
+MSH/D009134	Spinal Muscular Atrophy
+MSH/D064726	Triple Negative Breast Neoplasms
+MSH/D018358	Neuroendocrine Tumors
+MSH/D008268	Macular degeneration
+MSH/D000755	Anemia, Sickle Cell
+MSH/D002276	Carcinoid Tumor
+MSH/D014581	Urticaria
+MSH/D003781	Denture Retention
+MSH/D010195	Pancreatitis
+MSH/D008581	Meningitis
+MSH/D015658	HIV Infections
+MSH/D025241	Spondylarthritis
+MSH/D006937	Hypercholesterolemia
+MSH/D012178	Retinopathy of Prematurity
+MSH/D013166	Spondylitis
+MSH/D000844	Ankylosis
+MSH/D009393	Nephritis
+MSH/D016025	Bone Transplantation
+MSH/D006086	Graft-vs-Host Disease
