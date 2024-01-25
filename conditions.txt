@@ -1,11 +1,14 @@
- Chronic Obstructive Airway Disease
 AIDS
 Acellular pertussis
 Acne vulgaris
 Acute coronary syndrome
+Acute lung injury
+Acute myelocytic leukaemia
 Acute myeloid leukemia
+Acute sinusitis
 Adrenocortical carcinoma
 Advanced breast cancer
+Advanced gastric cancer
 Alcoholism
 Allergic conjunctivitis
 Alopecia
@@ -15,42 +18,44 @@ Anaemia
 Analgesia
 Ankylosing spondylitis
 Anxiety disorders
-Arrhythmia, cardiac
 Asthma
 Asthma and rhinitis
 Atherosclerosis
-Atrophy, geographic
-Atrophy, muscular
+Atopic dermatitis
+Atrial fibrillation
 Attention deficit hyperactivity disorder (adhd)
 Autoimmune diseases
 B-cell acute lymphoblastic leukemia, relapsed b-cell acute lymphoblastic leukemia, refractory b-cell acute lymphoblastic leukemia
+Bacillary dysentery
+Bacterial infections
 Bacterial skin infections
 Bipolar disorder
 Bipolar i disorder
 Bladder pain
+Brain metastases
 Breast cancer
 Breast neoplasms
+Bronchial constriction
+Bronchial hyperreactivity
 Bronchiectasis
-Bronchitis, chronic
 Bronchospasm
 Cachexia
 Cancer
-Cancer, advanced gastric
-Cancer, breast
 Cancer|neoplasms
 Carcinoid tumor
-Carcinoma, hepatocellular
-Carcinoma, midline
-Carcinoma, renal cell
-Carcinoma, small cell
+Cardiac arrhythmia
 Cardiovascular disease
 Cataract
 Cerebrovascular accident
 Cervical intraepithelial neoplasia
+Chemotherapy-induced nausea and vomiting
 Cholestasis
-Cholestasis, intrahepatic
+Chronic Obstructive Airway Disease
+Chronic bronchitis
 Chronic constipation
+Chronic dermatitis
 Chronic idiopathic urticaria (ciu)
+Chronic lymphocytic leukaemia
 Chronic lymphocytic leukemia (cll)
 Chronic myelogenous leukemia
 Chronic myeloid leukemia (cml)
@@ -60,7 +65,8 @@ Clostridium difficile infection
 Cognitive disorders
 Colitis, ulcerative
 Colorectal Neoplasms
-Constriction, bronchial
+Congestive heart failure
+Congestive heart failure and microalbuminuria heart failure
 Coronary artery disease
 Corticosteroid refractory acute graft vs host disease
 Cough
@@ -71,52 +77,47 @@ Dentin sensitivity
 Denture retention
 Depressive disorder
 Depressive disorder and anxiety disorders
-Depressive disorder, major
-Dermatitis, atopic
-Dermatitis, chronic
-Dermatitis, seborrheic
 Dermatologic disorders
 Diabetes mellitus
-Diabetes mellitus, type 1
-Diabetes mellitus, type 2
 Diabetic kidney disease
 Diabetic macular edema
 Diabetic neuropathic pain
+Diabetic neuropathy
+Diabetic retinopathy
 Diphtheria
 Drug-related side effects and adverse reactions
-Dysentery, bacillary
 Dyslipidaemias
 Eczema
-Embolism, pulmonary
 Embryo transfer
 Endometriosis
 Eosinophilic asthma
+Eosinophilic esophagitis
 Epilepsy
-Epilepsy, partial
-Epilepsy, tonic-clonic
 Episodic migraine headache
 Esophageal cancer
 Fascioliasis
-Fibrillation, atrial
 Fibromyalgia syndrome, primary
 Focal infection, dental
+Follicular lymphoma
 Fracture healing
 Gastrointestinal Neoplasms
 Gastrointestinal diseases
 Gastrointestinal motility
 Gastroparesis
+Geographic atrophy
 Gonorrhea
+H1N1 subtype influenza A virus
 Haemophilus influenzae type b
+Head neoplasms and neck neoplasms
 Heart failure
 Heart failure with preserved ejection fraction
 Heart failure, chronic (chf)
-Heart failure, congestive
-Heart failure, congestive and microalbuminuria
 Hepatitis a
 Hepatitis b
 Hepatitis b, chronic
 Hepatitis c
 Hepatitis c, chronic
+Hepatocellular carcinoma
 Hepatocellular carcinoma (hcc)
 Her2-negative metastatic breast cancer
 Her2/neu over-expressing locally advanced breast cancer or metastatic breast cancer
@@ -125,73 +126,58 @@ Herpes genitalis
 Herpes labialis
 Herpes simplex infection
 Herpes zoster
+Herpesviridae infections
 Hip fracture
 Hiv infections
+Human immunodeficiency virus infection
+Human immunodeficiency virus infection and herpesviridae infections
 Huntington disease
 Hypercholesterolemia
 Hypereosinophilic syndrome
 Hyperhidrosis
-Hyperreactivity, bronchial
 Hypertension
-Hypertension, pulmonary
 Hypertriglyceridemia
-Hypertrophy, left ventricular
 Hypogonadism, male
 Idiopathic pulmonary fibrosis
 Idiopathic thrombocytopenic purpura
 Impetigo
-Infection, human immunodeficiency virus
-Infection, human immunodeficiency virus i
-Infections, bacterial
-Infections, herpesviridae
-Infections, human immunodeficiency virus and herpesviridae
-Infections, meningococcal
-Infections, papillomavirus
-Infections, respiratory syncytial virus
-Infections, respiratory tract
-Infections, rotavirus
-Infections, staphylococcal
-Infections, streptococcal
 Inflammatory bowel diseases
 Influenza
-Influenza a virus, h1n1 subtype
 Insulin resistance
+Intrahepatic cholestasis
 Invasive aspergillosis / invasive mucormycosis
 Invasive candidiasis
 Invasive fungal infection
 Invasive fungal infections
 Irritable bowel syndrome
-Ischaemic attack, transient
 Juvenile psoriatic arthritis, enthesitis-related arthritis
+Left ventricular hypertrophy
 Lennox-gastaut syndrome
-Leukaemia, lymphocytic, chronic
-Leukaemia, myelocytic, acute
 Liver diseases
 Lower urinary tract symptoms / benign prostatic hyperplasia
-Lung cancer, non-small cell
-Lung injury, acute
 Lung injury, acute and respiratory distress syndrome, adult
 Lupus erythematosus, cutaneous
 Lupus nephritis
-Lymphoma, follicular
-Lymphoma, mantle-cell
-Lymphoma, non-hodgkin
+Major depressive disorder
 Malaria
 Malaria, falciparum
 Malaria, vivax
+Male osteoporosis
+Mantle-cell lymphoma
 Mastocytosis
 Measles
 Measles, mumps, rubella
 Melanoma
 Meningitis, meningococcal
 Meningococcal disease
+Meningococcal infections
 Mental disorders
 Metabolic syndrome x
-Metastases, brain
 Metastatic breast cancer
 Metastatic melanoma
 Metastatic renal cell carcinoma
 Metastatic triple-negative breast cancer
+Midline carcinoma
 Migraine
 Migraine disorders
 Migraine disorders and premenstrual syndrome
@@ -204,52 +190,47 @@ Moderate to severe scalp psoriasis
 Mood disorders
 Multiple myeloma (mm)
 Multiple sclerosis
-Multiple sclerosis, relapsing-remitting
 Mumps
 Muscle atrophy
+Muscular atrophy
 Myasthenia gravis
 Mycoses
 Myelodysplastic syndrome (mds)
 Myelofibrosis
-Nausea and vomiting, chemotherapy-induced
-Nausea and vomiting, postoperative
+Nail psoriasis
+Nasal polyps
 Neisseria meningitidis
 Neoplasms
-Neoplasms, head and neck
-Neoplasms, prostate
 Neoplasms|lung neoplasms
 Neovascular age-related macular degeneration
-Neuralgia, postherpetic
 Neuroendocrine tumors (net)
 Neurogenic detrusor overactivity
-Neuropathy, diabetic
+Neuropathic pain
+Non-hodgkin lymphoma
 Non-radiographic spondyloarthritis
 Non-small cell lung cancer
 Non-small cell lung carcinoma (nsclc)
 Obesity
 Obsessive-compulsive disorder
 Obsessive-compulsive disorder and depressive disorder
-Obstetric labour, premature
 Ocular hypertension
-Oedema, pulmonary
-Oesophagitis, eosinophilic
 Open-angle glaucoma
 Osteoarthritis
 Osteopenia
 Osteoporosis
-Osteoporosis, male
-Osteoporosis, postmenopausal
 Otitis media
 Ovarian cancer
 Ovarian neoplasms
 Ovarian neoplasms|neoplasms|solid tumor|hepatic impairment
 Pain, inflammatory
-Pain, neuropathic
+Palmoplantar psoriasis
 Pancreatic neuroendocrine tumor (pnet)
 Pancreatitis, acute necrotizing
 Panic disorder
+Papillomavirus infections
 Parkinson disease
 Parkinson's disease dementia
+Partial epilepsy
 Partial onset seizures
 Peripheral neuropathic pain
 Peripheral neuropathies
@@ -259,38 +240,44 @@ Philadelphia chromosome positive acute lymphoblastic leukemia (ph+ all)
 Plaque psoriasis
 Pneumonia, community-acquired
 Poliomyelitis
-Polyps, nasal
 Post-polycythemia vera myelofibrosis (ppv-mf)
+Post-stroke spasticity
 Post-traumatic stress disorder
+Postherpetic neuralgia
 Postherpetic neuralgia (phn)
+Postmenopausal osteoporosis
+Postoperative nausea and vomiting
 Postpartum hemorrhage
 Premature ejaculation
+Premature obstetric labour
 Premenstrual syndrome
 Prostate cancer
+Prostate neoplasms
 Prostatic hyperplasia
 Psoriasis
-Psoriasis, nail
-Psoriasis, palmoplantar
 Psoriatic arthritis
 Pulmonary arterial hypertension
+Pulmonary edema
+Pulmonary embolism
+Pulmonary hypertension
 Refractory partial seizures
+Relapsing-remitting multiple sclerosis
 Renal cell carcinoma
 Respiratory disorders
 Respiratory syncytial virus infections
+Respiratory tract infections
 Restless legs syndrome
 Retinal diseases
 Retinopathy of prematurity
-Retinopathy, diabetic
 Rheumatoid arthritis
 Rhinitis
 Rhinitis, allergic, perennial
 Rhinitis, allergic, perennial and seasonal
 Rhinitis, allergic, seasonal
-Rhinitis, vasomotor
+Rotavirus infections
 Rubella
-Sarcoma, soft tissue
 Schizophrenia
-Scleroderma, systemic
+Seborrheic dermatitis
 Secondary prevention of thromboembolic events
 Seizure disorder generalized tonic clonic
 Seizure, absence
@@ -299,24 +286,25 @@ Sepsis
 Shigella sonnei infection
 Sickle cell disease
 Sinusitis
-Sinusitis, acute
 Sjoegren's syndrome
 Sleep disorders
 Sleep initiation and maintenance disorders
 Sma - spinal muscular atrophy
+Small cell carcinoma
 Smoking cessation
 Social phobia
 Soft tissue sarcoma
 Solid tumor cancer with bone metastases
 Solid tumours
-Spasticity, post-stroke
-Spondylitis, ankylosing
 Spondyloarthritis
+Staphylococcal infections
+Streptococcal infections
 Streptococcus agalactiae
 Streptococcus pneumoniae
 Substance dependence
 Systemic juvenile idiopathic arthritis (sjia)
 Systemic lupus erythematosus
+Systemic scleroderma
 Tendon injuries
 Tetanus
 Therapeutic treatment of inhalation anthrax
@@ -325,14 +313,18 @@ Thrombosis, venous
 Thyroid cancer
 Tinnitus
 Tobacco use disorder
+Tonic-clonic epilepsy
 Tooth erosion
 Toxoplasmosis
+Transient ischaemic attack
 Transplantation, kidney
 Transplantation, liver
 Transplantation, organ
 Tuberculosis
 Tumors characterized by genetic abnormalities of alk
+Type 1 diabetes mellitus
 Type 2 diabetes
+Type 2 diabetes mellitus
 Typhoid fever
 Ulcers, duodenal and gastric
 Uncontrolled asthma
@@ -343,6 +335,7 @@ Urticaria
 Varicella
 Vascular disease, peripheral
 Vasculitis
+Vasomotor rhinitis
 Virus diseases
 Vomiting
 Wet age related macular degeneration (amd)

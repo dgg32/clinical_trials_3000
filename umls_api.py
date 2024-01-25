@@ -102,7 +102,72 @@ def recursive_get_parent_HPO(hpo_id: str, umls_token: str):
     
     return result
 
+def search(query_name: str, umls_token: str):
 
+    url = f"https://uts-ws.nlm.nih.gov/rest/search/current?string={query_name}&apiKey={umls_token}"
+
+    response = requests.get(url).json()
+
+    #print ("response", response, type(response))
+
+    if "status" in response and str(response["status"]) == "404":
+        return ""
+    
+    else:
+
+        result = ""
+        
+        if "result" in response and "results" in response["result"]:
+            for r in response["result"]["results"]:
+                #print ("r", r)
+                if "ui" in r:
+                    result = r["ui"]
+                    return result
+        else:
+                
+            return result
+
+def get_MSH(umls: str, umls_token: str):
+    url = f"https://uts-ws.nlm.nih.gov/rest/content/current/CUI/{umls}/atoms?&apiKey={umls_token}"
+
+    response = requests.get(url).json()
+
+    if "status" in response and str(response["status"]) == "404":
+        return ""
+    
+    else:
+
+        result = ""
+        
+        if "result" in response:
+            for r in response["result"]:
+                if "rootSource" in r and r["rootSource"] == "MSH" and "code" in r:
+                    result = r["code"].split("/")[-1]
+                    return result
+        else:
+                
+            return result
+
+def get_name(MSH: str, umls_token: str):
+    url = f"https://uts-ws.nlm.nih.gov/rest/content/current/source/MSH/{MSH}?apiKey={umls_token}"
+
+    response = requests.get(url).json()
+
+    #print ("response", response, type(response))
+
+    if "status" in response and str(response["status"]) == "404":
+        return ""
+    
+    else:
+
+        result = ""
+        if "result" in response and "name" in response["result"]:
+            
+            result = response["result"]["name"]
+            return result
+        else:
+                
+            return result
 
 
 if __name__ == "__main__":
@@ -119,4 +184,13 @@ if __name__ == "__main__":
     #print ("\n\n")
     #print(recursive_get_parent_HPO("HP:0011458", umls_token))
 ###
-    print (get_all_items("MSH", "D015282", "includeAdditionalRelationLabels=isa", umls_token))
+    #print (get_all_items("MSH", "D015282", "includeAdditionalRelationLabels=isa", umls_token))
+    #print (search("Gsk2256098", umls_token))
+    #print (get_MSH("C2981865", umls_token))
+
+    #print (get_name("C000604998", umls_token))
+    #print (get_all_items("MSH", "C000604998", "includeAdditionalRelationLabels=mapped_to", umls_token))
+
+    name = get_MSH("C4305639", umls_token)
+
+    print (name, name == None)

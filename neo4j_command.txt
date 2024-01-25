@@ -4,6 +4,8 @@ CREATE CONSTRAINT IF NOT EXISTS FOR (m:Medicine) REQUIRE m.UMLS IS UNIQUE
 ;
 CREATE CONSTRAINT IF NOT EXISTS FOR (t:Trial) REQUIRE t.id IS UNIQUE
 ;
+CREATE CONSTRAINT IF NOT EXISTS FOR (s:Sponsor) REQUIRE s.name IS UNIQUE
+;
 
 CREATE CONSTRAINT IF NOT EXISTS FOR (m:MedicineMSH) REQUIRE m.MSH IS UNIQUE
 ;
@@ -14,9 +16,13 @@ CREATE CONSTRAINT IF NOT EXISTS FOR (c:ConditionMSH) REQUIRE c.MSH IS UNIQUE
 
 LOAD CSV WITH HEADERS FROM 'file:///conditions.tsv' AS row FIELDTERMINATOR '\t' MERGE (c:Condition {UMLS: row.UMLS, name: coalesce(row.name, ""), HPO: split(coalesce(row.HPO, ''), '|'), MSH: split(coalesce(row.MSH, ''), '|')})
 ;
-LOAD CSV WITH HEADERS FROM 'file:///medicines.tsv' AS row FIELDTERMINATOR '\t' MERGE (c:Medicine {UMLS: row.UMLS, name: coalesce(row.name, ""), HPO: split(coalesce(row.HPO, ''), '|'), MSH: split(coalesce(row.MSH, ''), '|')})
+LOAD CSV WITH HEADERS FROM 'file:///medicines.tsv' AS row FIELDTERMINATOR '\t' MERGE (c:Medicine {UMLS: row.UMLS, name: coalesce(row.name, ""), HPO: split(coalesce(row.HPO, ''), '|'), MSH: split(coalesce(row.MSH, ''), '|'), RXNORM: split(coalesce(row.RXNORM, ''), '|'), other_name: coalesce(row.other_name, '')})
 ;
-LOAD CSV WITH HEADERS FROM 'file:///clinical_study_data_request_com_all_sponsor.tsv' AS row FIELDTERMINATOR '\t' MERGE (t:Trial {name: row.`Study Title`, id: row.`Posting ID`, sponsor: row.`Sponsor`, 
+
+LOAD CSV WITH HEADERS FROM 'file:///medicines_cryptic.tsv' AS row FIELDTERMINATOR '\t' MERGE (c:Medicine {UMLS: row.UMLS, name: coalesce(row.name, ""), HPO: split(coalesce(row.HPO, ''), '|'), MSH: split(coalesce(row.MSH, ''), '|'), RXNORM: split(coalesce(row.RXNORM, ''), '|'), other_name: coalesce(row.other_name, '')})
+;
+
+LOAD CSV WITH HEADERS FROM 'file:///clinical_study_data_request_com_all_sponsor.tsv' AS row FIELDTERMINATOR '\t' MERGE (t:Trial {name: row.`Study Title`, id: row.`Posting ID`, 
 original_medicine: row.`Medicine or Vaccine (generic name)`, original_condition: row.`Medical Condition`, phase: row.Phase, url: coalesce(row.`Link to study details on ClinicalTrials.gov (if available)`, ''), date_added: row.`Date Added to this Site`,
 analysis_ready_data: row.`Analysis-ready dataset`})
 ;
@@ -25,6 +31,8 @@ LOAD CSV WITH HEADERS FROM 'file:///condition_hpo_name.tsv' AS row FIELDTERMINAT
 LOAD CSV WITH HEADERS FROM 'file:///condition_msh_name.tsv' AS row FIELDTERMINATOR '\t' MERGE (c:ConditionMSH {MSH: row.MSH, name: row.name})
 ;
 LOAD CSV WITH HEADERS FROM 'file:///medicine_msh_name.tsv' AS row FIELDTERMINATOR '\t' MERGE (c:MedicineMSH {MSH: row.MSH, name: row.name})
+;
+LOAD CSV WITH HEADERS FROM 'file:///sponsors.tsv' AS row FIELDTERMINATOR '\t' MERGE (s:Sponsor {name: row.name})
 ;
 
 
@@ -46,7 +54,19 @@ LOAD CSV WITH HEADERS FROM 'file:///msh_may_be_treated_by.tsv' AS row FIELDTERMI
 
 LOAD CSV WITH HEADERS FROM 'file:///medicine_is_msh.tsv' AS row FIELDTERMINATOR '\t' MERGE (p1:Medicine {UMLS: row.from}) MERGE (p2:MedicineMSH {MSH: row.to}) MERGE (p1)-[r:MSH_IS_A]->(p2)
 ;
+
+LOAD CSV WITH HEADERS FROM 'file:///gsk_is_a.tsv' AS row FIELDTERMINATOR '\t' MERGE (p1:Medicine {UMLS: row.from}) MERGE (p2:MedicineMSH {MSH: row.to}) MERGE (p1)-[r:MSH_IS_A]->(p2)
+;
+
 LOAD CSV WITH HEADERS FROM 'file:///medicine_msh_is_a.tsv' AS row FIELDTERMINATOR '\t' MERGE (p1:MedicineMSH {MSH: row.from}) MERGE (p2:MedicineMSH {MSH: row.to}) MERGE (p1)-[r:MSH_BELONGS_TO]->(p2)
+;
+
+LOAD CSV WITH HEADERS FROM 'file:///medicine_msh_mapped_to.tsv' AS row FIELDTERMINATOR '\t' MERGE (p1:MedicineMSH {MSH: row.from}) MERGE (p2:MedicineMSH {MSH: row.to}) MERGE (p1)-[r:MSH_IS_MAPPED_TO]->(p2)
+;
+LOAD CSV WITH HEADERS FROM 'file:///trial_cryptic_drugs.tsv' AS row FIELDTERMINATOR '\t' MERGE (p1:Trial {id: row.from}) MERGE (p2:Medicine {UMLS: row.to}) MERGE (p1)-[r:TESTS]->(p2)
+;
+
+LOAD CSV WITH HEADERS FROM 'file:///trial_sponsors.tsv' AS row FIELDTERMINATOR '\t' MERGE (p1:Trial {id: row.from}) MERGE (s:Sponsor {name: row.to}) MERGE (p1)<-[r:Sponsors]-(s)
 ;
 
 MATCH (m1:Medicine) <-[:TESTS]- (t1:Trial) -[:FOCUSES_ON]->(c1:Condition) WITH c1, collect(DISTINCT m1.name) AS drug_list WHERE size(drug_list) > 1 RETURN c1.name, drug_list LIMIT 20;
