@@ -69,6 +69,10 @@ LOAD CSV WITH HEADERS FROM 'file:///trial_cryptic_drugs.tsv' AS row FIELDTERMINA
 LOAD CSV WITH HEADERS FROM 'file:///trial_sponsors.tsv' AS row FIELDTERMINATOR '\t' MERGE (p1:Trial {id: row.from}) MERGE (s:Sponsor {name: row.to}) MERGE (p1)<-[r:Sponsors]-(s)
 ;
 
+LOAD CSV WITH HEADERS FROM 'file:///condition_stats.tsv' AS row FIELDTERMINATOR '\t' MATCH (c:Condition) WHERE c.name = row.name SET c.death_number = row.`Deaths Number`, c.death_percent = row.`Deaths Percent`, c.deaths_rate = row.`Deaths Rate`, c.DALY_number = row.`DALYs (Disability-Adjusted Life Years) Number`, c.DALY_percent = row.`DALYs (Disability-Adjusted Life Years) Percent`, c.DALY_rate = row.`DALYs (Disability-Adjusted Life Years) Rate`
+;
+
+
 MATCH (m1:Medicine) <-[:TESTS]- (t1:Trial) -[:FOCUSES_ON]->(c1:Condition) WITH c1, collect(DISTINCT m1.name) AS drug_list WHERE size(drug_list) > 1 RETURN c1.name, drug_list LIMIT 20;
 
 MATCH (m1:Medicine) <-[:TESTS]- (t1:Trial) -[:FOCUSES_ON]->(c1:Condition {name:"Rhinitis"}) RETURN DISTINCT(m1.name) LIMIT 20;

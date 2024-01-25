@@ -33,7 +33,7 @@
 {"Bipolar i disorder": [{"preferredTerms": "Mixed bipolar I disorder", "entityids": "UMLS/C0236780", "HPO": [], "MSH": [], "RXNORM": []}]}
 {"Bladder pain": [{"preferredTerms": "Pain", "entityids": "UMLS/C0030193", "HPO": ["HPO/HP:0012531"], "MSH": ["MSH/D010146"], "RXNORM": []}]}
 {"Brain metastases": [{"preferredTerms": "Neoplasm Metastasis", "entityids": "UMLS/C0027627", "HPO": [], "MSH": ["MSH/D009362"], "RXNORM": []}]}
-{"Breast cancer": [{"preferredTerms": "Malignant Neoplasms", "entityids": "UMLS/C0006826", "HPO": ["HPO/HP:0002664"], "MSH": ["MSH/D009369"], "RXNORM": []}]}
+{"Breast cancer": [{"preferredTerms": "Malignant neoplasm of breast", "entityids": "UMLS/C0006142", "HPO": [], "MSH": ["MSH/D001943"], "RXNORM": []}]}
 {"Breast neoplasms": [{"preferredTerms": "Neoplasms", "entityids": "UMLS/C0027651", "HPO": ["HPO/HP:0002664"], "MSH": ["MSH/D009369"], "RXNORM": []}]}
 {"Bronchial constriction": [{"preferredTerms": "Constriction procedure", "entityids": "UMLS/C0009813", "HPO": [], "MSH": ["MSH/D003250"], "RXNORM": []}]}
 {"Bronchial hyperreactivity": [{"preferredTerms": "Bronchial Hyperreactivity", "entityids": "UMLS/C0085129", "HPO": [], "MSH": ["MSH/D016535"], "RXNORM": []}]}
@@ -251,7 +251,7 @@
 {"Premature ejaculation": [{"preferredTerms": "Premature Ejaculation", "entityids": "UMLS/C0033038", "HPO": ["HPO/HP:0012876"], "MSH": ["MSH/D061686"], "RXNORM": []}]}
 {"Premature obstetric labour": [{"preferredTerms": "Premature Obstetric Labor", "entityids": "UMLS/C0022876", "HPO": [], "MSH": ["MSH/D007752"], "RXNORM": []}]}
 {"Premenstrual syndrome": [{"preferredTerms": "Premenstrual syndrome", "entityids": "UMLS/C0033046", "HPO": [], "MSH": ["MSH/D011293"], "RXNORM": []}]}
-{"Prostate cancer": [{"preferredTerms": "Malignant Neoplasms", "entityids": "UMLS/C0006826", "HPO": ["HPO/HP:0002664"], "MSH": ["MSH/D009369"], "RXNORM": []}]}
+{"Prostate cancer": [{"preferredTerms": "Malignant neoplasm of prostate", "entityids": "UMLS/C0376358", "HPO": [], "MSH": ["MSH/D011471"], "RXNORM": []}]}
 {"Prostate neoplasms": [{"preferredTerms": "Prostatic Neoplasms", "entityids": "UMLS/C0033578", "HPO": ["HPO/HP:0100787"], "MSH": ["MSH/D011471"], "RXNORM": []}]}
 {"Prostatic hyperplasia": [{"preferredTerms": "Prostatic Hyperplasia", "entityids": "UMLS/C2937421", "HPO": [], "MSH": ["MSH/D011470"], "RXNORM": []}]}
 {"Psoriasis": [{"preferredTerms": "Psoriasis", "entityids": "UMLS/C0033860", "HPO": ["HPO/HP:0003765"], "MSH": ["MSH/D011565"], "RXNORM": []}]}
@@ -310,7 +310,7 @@
 {"Therapeutic treatment of inhalation anthrax": [{}]}
 {"Thromboembolism": [{"preferredTerms": "Thromboembolism", "entityids": "UMLS/C0040038", "HPO": ["HPO/HP:0001907"], "MSH": ["MSH/D013923"], "RXNORM": []}]}
 {"Thrombosis, venous": [{"preferredTerms": "Thrombosis", "entityids": "UMLS/C0040053", "HPO": [], "MSH": ["MSH/D013927"], "RXNORM": []}]}
-{"Thyroid cancer": [{"preferredTerms": "Malignant Neoplasms", "entityids": "UMLS/C0006826", "HPO": ["HPO/HP:0002664"], "MSH": ["MSH/D009369"], "RXNORM": []}]}
+{"Thyroid cancer": [{"preferredTerms": "Malignant neoplasm of thyroid", "entityids": "UMLS/C0007115", "HPO": [], "MSH": [], "RXNORM": []}]}
 {"Tinnitus": [{"preferredTerms": "Tinnitus", "entityids": "UMLS/C0040264", "HPO": ["HPO/HP:0000360"], "MSH": ["MSH/D014012"], "RXNORM": []}]}
 {"Tobacco use disorder": [{}]}
 {"Tonic-clonic epilepsy": [{"preferredTerms": "Tonic-Clonic Epilepsy", "entityids": "UMLS/C0014549", "HPO": [], "MSH": ["MSH/D004830"], "RXNORM": []}]}

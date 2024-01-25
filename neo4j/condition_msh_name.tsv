@@ -47,7 +47,7 @@ MSH/D051474	Postherpetic neuralgia
 MSH/D008288	Malaria
 MSH/D001523	Mental disorders
 MSH/D006333	Heart failure
-MSH/D011471	Prostatic Neoplasms
+MSH/D011471	Malignant neoplasm of prostate
 MSH/D011470	Benign Prostatic Hyperplasia
 MSH/D001986	Bronchospasm
 MSH/D009103	Multiple Sclerosis
@@ -156,6 +156,7 @@ MSH/D003550	Cystic Fibrosis
 MSH/D057092	Geographic Atrophy
 MSH/D009437	Neuralgia
 MSH/D006945	Hyperhidrosis disorder
+MSH/D001943	Malignant neoplasm of breast
 MSH/D003233	Allergic Conjunctivitis
 MSH/D006562	Herpes zoster disease
 MSH/D017681	Hypereosinophilic syndrome
@@ -175,7 +176,6 @@ MSH/D018357	Respiratory Syncytial Virus Infections
 MSH/D014376	Tuberculosis
 MSH/D001987	Bronchiectasis
 MSH/D014570	Urologic Diseases
-MSH/D001943	Malignant neoplasm of breast
 MSH/D053201	Overactive Detrusor
 MSH/D012764	Shigella sonnei
 MSH/D015470	Leukemia, Myelocytic, Acute
