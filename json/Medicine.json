@@ -1,0 +1,341 @@
+{"MSH": [""], "HPO": [""], "name": "benzoyl peroxide / salicylic acid", "UMLS": "UMLS/C2929668", "RXNORM": ["RXNORM/1008769"], "other_name": ""}
+{"MSH": ["MSH/C511911"], "HPO": [""], "name": "belimumab", "UMLS": "UMLS/C1723401", "RXNORM": ["RXNORM/1092437"], "other_name": ""}
+{"MSH": ["MSH/C055085"], "HPO": [""], "name": "calcipotriene", "UMLS": "UMLS/C0065767", "RXNORM": ["RXNORM/29365"], "other_name": ""}
+{"MSH": ["MSH/C466951"], "HPO": [""], "name": "benzoyl peroxide / clindamycin", "UMLS": "UMLS/C1720375", "RXNORM": ["RXNORM/646781"], "other_name": ""}
+{"MSH": ["MSH/D000077261"], "HPO": [""], "name": "carvedilol", "UMLS": "UMLS/C0054836", "RXNORM": ["RXNORM/20352"], "other_name": ""}
+{"MSH": [""], "HPO": [""], "name": "casopitant", "UMLS": "UMLS/C2347566", "RXNORM": [""], "other_name": ""}
+{"MSH": ["MSH/D002990"], "HPO": [""], "name": "clobetasol", "UMLS": "UMLS/C0008992", "RXNORM": ["RXNORM/2590"], "other_name": ""}
+{"MSH": [""], "HPO": [""], "name": "Darotropium Bromide", "UMLS": "UMLS/C2699560", "RXNORM": [""], "other_name": ""}
+{"MSH": ["MSH/C523187"], "HPO": [""], "name": "fluticasone furoate", "UMLS": "UMLS/C1948374", "RXNORM": ["RXNORM/705022"], "other_name": ""}
+{"MSH": ["MSH/D000068298"], "HPO": [""], "name": "fluticasone propionate", "UMLS": "UMLS/C0117996", "RXNORM": ["RXNORM/50121"], "other_name": ""}
+{"MSH": ["MSH/D000068297"], "HPO": [""], "UMLS": "UMLS/C1622832", "name": "Fluticasone Propionate, Salmeterol Xinafoate Drug Combination", "RXNORM": [""], "other_name": ""}
+{"MSH": ["MSH/D000077425"], "HPO": [""], "name": "fondaparinux sodium", "UMLS": "UMLS/C1099664", "RXNORM": ["RXNORM/322154"], "other_name": ""}
+{"MSH": ["MSH/D000077213"], "HPO": [""], "name": "lamotrigine", "UMLS": "UMLS/C0064636", "RXNORM": ["RXNORM/28439"], "other_name": ""}
+{"MSH": [""], "HPO": [""], "UMLS": "UMLS/C1532673", "name": "omega-3 acid ethyl esters (USP)", "RXNORM": ["RXNORM/484348"], "other_name": ""}
+{"MSH": ["MSH/C550701"], "HPO": [""], "name": "otelixizumab", "UMLS": "UMLS/C2935224", "RXNORM": [""], "other_name": ""}
+{"MSH": ["MSH/D017374"], "HPO": [""], "name": "paroxetine", "UMLS": "UMLS/C0070122", "RXNORM": ["RXNORM/32937"], "other_name": ""}
+{"MSH": ["MSH/C508887"], "HPO": [""], "name": "retapamulin", "UMLS": "UMLS/C1703334", "RXNORM": ["RXNORM/642274"], "other_name": ""}
+{"MSH": ["MSH/C101866"], "HPO": [""], "name": "ezogabine", "UMLS": "UMLS/C0530684", "RXNORM": ["RXNORM/1112990"], "other_name": ""}
+{"MSH": ["MSH/C000592856"], "HPO": [""], "name": "rilapladib", "UMLS": "UMLS/C2699087", "RXNORM": [""], "other_name": ""}
+{"MSH": ["MSH/C561716"], "HPO": [""], "name": "ronacaleret", "UMLS": "UMLS/C2825588", "RXNORM": [""], "other_name": ""}
+{"MSH": ["MSH/C046649"], "HPO": [""], "name": "ropinirole", "UMLS": "UMLS/C0244821", "RXNORM": ["RXNORM/72302"], "other_name": ""}
+{"MSH": ["MSH/D000077154"], "HPO": [""], "name": "rosiglitazone", "UMLS": "UMLS/C0289313", "RXNORM": ["RXNORM/84108"], "other_name": ""}
+{"MSH": ["MSH/C000611385"], "HPO": [""], "name": "naproxen / sumatriptan", "UMLS": "UMLS/C2343923", "RXNORM": ["RXNORM/797426"], "other_name": ""}
+{"MSH": ["MSH/C086827"], "HPO": [""], "name": "tazarotene", "UMLS": "UMLS/C0288792", "RXNORM": ["RXNORM/83947"], "other_name": ""}
+{"MSH": ["MSH/C534550"], "HPO": [""], "name": "vestipitant", "UMLS": "UMLS/C2607417", "RXNORM": [""], "other_name": ""}
+{"MSH": ["MSH/C510352"], "HPO": [""], "UMLS": "UMLS/C1721788", "name": "human papillomavirus vaccine, L1 type 16, 18", "RXNORM": [""], "other_name": ""}
+{"MSH": ["MSH/D022242"], "HPO": [""], "name": "Polyvalent pneumococcal vaccine", "UMLS": "UMLS/C0305065", "RXNORM": [""], "other_name": ""}
+{"MSH": ["MSH/D004166"], "HPO": [""], "name": "diphtheria antitoxin", "UMLS": "UMLS/C0012547", "RXNORM": ["RXNORM/3510"], "other_name": ""}
+{"MSH": ["MSH/D013745"], "HPO": [""], "name": "tetanus toxoid vaccine, inactivated", "UMLS": "UMLS/C0305062", "RXNORM": ["RXNORM/798306"], "other_name": ""}
+{"MSH": [""], "HPO": [""], "name": "hepatitis B surface antigen vaccine", "UMLS": "UMLS/C0062527", "RXNORM": ["RXNORM/797752"], "other_name": ""}
+{"MSH": ["MSH/D011055"], "HPO": [""], "name": "Oral Poliovirus Vaccine", "UMLS": "UMLS/C0032375", "RXNORM": [""], "other_name": ""}
+{"MSH": ["MSH/C044237"], "HPO": [""], "UMLS": "UMLS/C0062086", "name": "Haemophilus influenzae type b polysaccharide vaccine", "RXNORM": [""], "other_name": ""}
+{"MSH": [""], "HPO": [""], "UMLS": "UMLS/C0982332", "name": "acellular pertussis vaccine, inactivated", "RXNORM": ["RXNORM/798302"], "other_name": ""}
+{"MSH": ["MSH/C092872"], "HPO": [""], "UMLS": "UMLS/C0296104", "name": "streptococcal polysaccharide-tetanus toxoid conjugate vaccine", "RXNORM": [""], "other_name": ""}
+{"MSH": ["MSH/D009108"], "HPO": [""], "name": "Mumps Vaccine", "UMLS": "UMLS/C0026782", "RXNORM": [""], "other_name": ""}
+{"MSH": ["MSH/D012411"], "HPO": [""], "name": "Rubella virus vaccine", "UMLS": "UMLS/C0035923", "RXNORM": [""], "other_name": ""}
+{"MSH": ["MSH/D019433"], "HPO": [""], "name": "Chickenpox Vaccine", "UMLS": "UMLS/C0078048", "RXNORM": [""], "other_name": ""}
+{"MSH": ["MSH/D000946"], "HPO": [""], "name": "Antigens, Fungal", "UMLS": "UMLS/C0003330", "RXNORM": [""], "other_name": ""}
+{"MSH": ["MSH/D007252"], "HPO": [""], "name": "Influenza virus vaccine", "UMLS": "UMLS/C0021403", "RXNORM": [""], "other_name": ""}
+{"MSH": [""], "HPO": [""], "UMLS": "UMLS/C4290039", "name": "Fluzone Quadrivalent Influenza Vaccine", "RXNORM": [""], "other_name": ""}
+{"MSH": [""], "HPO": [""], "UMLS": "UMLS/C2981835", "name": "AS03-Adjuvanted H1N1 Pandemic Influenza Vaccine", "RXNORM": [""], "other_name": ""}
+{"MSH": ["MSH/D014612"], "HPO": [""], "name": "Vaccines", "UMLS": "UMLS/C0042210", "RXNORM": [""], "other_name": ""}
+{"MSH": ["MSH/D022243"], "HPO": [""], "name": "Rotavirus Vaccines", "UMLS": "UMLS/C0597418", "RXNORM": [""], "other_name": ""}
+{"MSH": ["MSH/D053243"], "HPO": [""], "name": "zanamivir", "UMLS": "UMLS/C0216660", "RXNORM": ["RXNORM/69722"], "other_name": ""}
+{"MSH": [""], "HPO": [""], "name": "Haemophilus B Conjugate Vaccine", "UMLS": "UMLS/C0717811", "RXNORM": [""], "other_name": ""}
+{"MSH": ["MSH/D000068538"], "HPO": [""], "name": "dutasteride", "UMLS": "UMLS/C0754659", "RXNORM": ["RXNORM/228790"], "other_name": ""}
+{"MSH": ["MSH/C550468"], "HPO": [""], "name": "vilanterol", "UMLS": "UMLS/C2935023", "RXNORM": ["RXNORM/1424884"], "other_name": ""}
+{"MSH": ["MSH/D000068299"], "HPO": [""], "name": "salmeterol", "UMLS": "UMLS/C0073992", "RXNORM": ["RXNORM/36117"], "other_name": ""}
+{"MSH": ["MSH/C106538"], "HPO": [""], "name": "abacavir", "UMLS": "UMLS/C0663655", "RXNORM": ["RXNORM/190521"], "other_name": ""}
+{"MSH": ["MSH/C492871"], "HPO": [""], "name": "abacavir / lamivudine", "UMLS": "UMLS/C1613391", "RXNORM": ["RXNORM/614534"], "other_name": ""}
+{"MSH": ["MSH/D019259"], "HPO": [""], "name": "lamivudine", "UMLS": "UMLS/C0209738", "RXNORM": ["RXNORM/68244"], "other_name": ""}
+{"MSH": ["MSH/D015215"], "HPO": [""], "name": "zidovudine", "UMLS": "UMLS/C0043474", "RXNORM": ["RXNORM/11413"], "other_name": ""}
+{"MSH": ["MSH/C562325"], "HPO": [""], "name": "dolutegravir", "UMLS": "UMLS/C3253985", "RXNORM": ["RXNORM/1433868"], "other_name": ""}
+{"MSH": ["MSH/C426859"], "HPO": [""], "name": "fosamprenavir", "UMLS": "UMLS/C1176315", "RXNORM": ["RXNORM/358262"], "other_name": ""}
+{"MSH": ["MSH/D000077592"], "HPO": [""], "name": "maraviroc", "UMLS": "UMLS/C1667052", "RXNORM": ["RXNORM/620216"], "other_name": ""}
+{"MSH": ["MSH/D017762"], "HPO": [""], "name": "nadroparin", "UMLS": "UMLS/C0206232", "RXNORM": ["RXNORM/67031"], "other_name": ""}
+{"MSH": [""], "HPO": [""], "name": "Fiboflapon", "UMLS": "UMLS/C4550339", "RXNORM": [""], "other_name": ""}
+{"MSH": ["MSH/D022362"], "HPO": [""], "name": "Hepatitis A Vaccines", "UMLS": "UMLS/C0170300", "RXNORM": [""], "other_name": ""}
+{"MSH": ["MSH/D000420"], "HPO": [""], "name": "albuterol", "UMLS": "UMLS/C0001927", "RXNORM": ["RXNORM/435"], "other_name": ""}
+{"MSH": [""], "HPO": [""], "name": "umeclidinium bromide", "UMLS": "UMLS/C3709474", "RXNORM": ["RXNORM/1487512"], "other_name": ""}
+{"MSH": ["MSH/C534611"], "HPO": [""], "name": "albiglutide", "UMLS": "UMLS/C2607479", "RXNORM": ["RXNORM/1534763"], "other_name": ""}
+{"MSH": ["MSH/D019980"], "HPO": [""], "name": "amoxicillin / clavulanate", "UMLS": "UMLS/C0054066", "RXNORM": ["RXNORM/19711"], "other_name": ""}
+{"MSH": ["MSH/D017706"], "HPO": [""], "name": "lisinopril", "UMLS": "UMLS/C0065374", "RXNORM": ["RXNORM/29046"], "other_name": ""}
+{"MSH": ["MSH/C433226"], "HPO": [""], "name": "Twinrix", "UMLS": "UMLS/C0593953", "RXNORM": ["RXNORM/153189"], "other_name": ""}
+{"MSH": ["MSH/D018170"], "HPO": [""], "name": "sumatriptan", "UMLS": "UMLS/C0075632", "RXNORM": ["RXNORM/37418"], "other_name": ""}
+{"MSH": ["MSH/D000077483"], "HPO": [""], "name": "valacyclovir", "UMLS": "UMLS/C0249458", "RXNORM": ["RXNORM/73645"], "other_name": ""}
+{"MSH": ["MSH/C493155"], "HPO": [""], "name": "RTS,S-AS02A vaccine", "UMLS": "UMLS/C1528874", "RXNORM": [""], "other_name": ""}
+{"MSH": ["MSH/D016642"], "HPO": [""], "name": "bupropion", "UMLS": "UMLS/C0085208", "RXNORM": ["RXNORM/42347"], "other_name": ""}
+{"MSH": ["MSH/D000069444"], "HPO": [""], "name": "omalizumab", "UMLS": "UMLS/C0966225", "RXNORM": ["RXNORM/302379"], "other_name": ""}
+{"MSH": ["MSH/C433247"], "HPO": [""], "name": "Cilomilast", "UMLS": "UMLS/C0968887", "RXNORM": [""], "other_name": ""}
+{"MSH": ["MSH/C551147"], "HPO": [""], "name": "denagliptin", "UMLS": "UMLS/C2699586", "RXNORM": [""], "other_name": ""}
+{"MSH": ["MSH/D008687"], "HPO": [""], "name": "metformin", "UMLS": "UMLS/C0025598", "RXNORM": ["RXNORM/6809"], "other_name": ""}
+{"MSH": ["MSH/C520025"], "HPO": [""], "name": "mirabegron", "UMLS": "UMLS/C2983812", "RXNORM": ["RXNORM/1300786"], "other_name": ""}
+{"MSH": ["MSH/D000069464"], "HPO": [""], "name": "solifenacin succinate", "UMLS": "UMLS/C1509436", "RXNORM": ["RXNORM/476588"], "other_name": ""}
+{"MSH": ["MSH/D000077409"], "HPO": [""], "name": "tamsulosin", "UMLS": "UMLS/C0257343", "RXNORM": ["RXNORM/77492"], "other_name": ""}
+{"MSH": [""], "HPO": [""], "name": "hepatitis A vaccine, inactivated", "UMLS": "UMLS/C0795623", "RXNORM": [""], "other_name": ""}
+{"MSH": ["MSH/D014614"], "HPO": [""], "name": "Vaccines, Recombinant", "UMLS": "UMLS/C0034862", "RXNORM": [""], "other_name": ""}
+{"MSH": ["MSH/C057619"], "HPO": [""], "name": "glimepiride", "UMLS": "UMLS/C0061323", "RXNORM": ["RXNORM/25789"], "other_name": ""}
+{"MSH": ["MSH/C106783"], "HPO": [""], "name": "naratriptan", "UMLS": "UMLS/C0540623", "RXNORM": ["RXNORM/141366"], "other_name": ""}
+{"MSH": ["MSH/D000077332"], "HPO": [""], "name": "artesunate", "UMLS": "UMLS/C0052432", "RXNORM": ["RXNORM/18346"], "other_name": ""}
+{"MSH": ["MSH/C007030"], "HPO": [""], "name": "chlorproguanil", "UMLS": "UMLS/C0055470", "RXNORM": [""], "other_name": ""}
+{"MSH": ["MSH/D003622"], "HPO": [""], "name": "dapsone", "UMLS": "UMLS/C0010980", "RXNORM": ["RXNORM/3108"], "other_name": ""}
+{"MSH": [""], "HPO": [""], "name": "Milveterol", "UMLS": "UMLS/C2698231", "RXNORM": [""], "other_name": ""}
+{"MSH": ["MSH/C572941"], "HPO": [""], "name": "ipragliflozin", "UMLS": "UMLS/C3492889", "RXNORM": [""], "other_name": ""}
+{"MSH": ["MSH/D000077551"], "HPO": [""], "name": "micafungin", "UMLS": "UMLS/C1120386", "RXNORM": ["RXNORM/325887"], "other_name": ""}
+{"MSH": ["MSH/C430916"], "HPO": [""], "name": "regadenoson", "UMLS": "UMLS/C1698215", "RXNORM": ["RXNORM/640062"], "other_name": ""}
+{"MSH": ["MSH/D016559"], "HPO": [""], "name": "tacrolimus", "UMLS": "UMLS/C0085149", "RXNORM": ["RXNORM/42316"], "other_name": ""}
+{"MSH": ["MSH/C544831"], "HPO": [""], "name": "Foretinib", "UMLS": "UMLS/C2973987", "RXNORM": [""], "other_name": ""}
+{"MSH": ["MSH/D022301"], "HPO": [""], "name": "Herpes Simplex Virus Vaccines", "UMLS": "UMLS/C0770688", "RXNORM": [""], "other_name": ""}
+{"MSH": ["MSH/D008458"], "HPO": [""], "name": "Measles Vaccine", "UMLS": "UMLS/C0025010", "RXNORM": [""], "other_name": ""}
+{"MSH": ["MSH/D022401"], "HPO": [""], "name": "Meningococcal vaccine", "UMLS": "UMLS/C0700144", "RXNORM": [""], "other_name": ""}
+{"MSH": ["MSH/C529040"], "HPO": [""], "name": "darapladib", "UMLS": "UMLS/C2348075", "RXNORM": [""], "other_name": ""}
+{"MSH": ["MSH/D000077557"], "HPO": [""], "name": "ibandronic acid", "UMLS": "UMLS/C0379200", "RXNORM": ["RXNORM/115265"], "other_name": ""}
+{"MSH": ["MSH/D007654"], "HPO": [""], "name": "ketoconazole", "UMLS": "UMLS/C0022625", "RXNORM": ["RXNORM/6135"], "other_name": ""}
+{"MSH": [""], "HPO": [""], "name": "tositumomab", "UMLS": "UMLS/C0879399", "RXNORM": ["RXNORM/263010"], "other_name": ""}
+{"MSH": ["MSH/D017311"], "HPO": [""], "name": "amlodipine", "UMLS": "UMLS/C0051696", "RXNORM": ["RXNORM/17767"], "other_name": ""}
+{"MSH": ["MSH/D019808"], "HPO": [""], "name": "losartan", "UMLS": "UMLS/C0126174", "RXNORM": ["RXNORM/52175"], "other_name": ""}
+{"MSH": ["MSH/C040738"], "HPO": [""], "name": "cefuroxime axetil", "UMLS": "UMLS/C0055015", "RXNORM": ["RXNORM/20493"], "other_name": ""}
+{"MSH": ["MSH/C574213"], "HPO": [""], "name": "dilmapimod", "UMLS": "UMLS/C3272846", "RXNORM": [""], "other_name": ""}
+{"MSH": ["MSH/C581856"], "HPO": [""], "name": "refanezumab", "UMLS": "UMLS/C4726669", "RXNORM": [""], "other_name": ""}
+{"MSH": ["MSH/D000077430"], "HPO": [""], "name": "nabumetone", "UMLS": "UMLS/C0068334", "RXNORM": ["RXNORM/31448"], "other_name": ""}
+{"MSH": ["MSH/D011405"], "HPO": [""], "name": "propafenone", "UMLS": "UMLS/C0033429", "RXNORM": ["RXNORM/8754"], "other_name": ""}
+{"MSH": ["MSH/C531958"], "HPO": [""], "name": "lenvatinib", "UMLS": "UMLS/C2986924", "RXNORM": ["RXNORM/1603296"], "other_name": ""}
+{"MSH": ["MSH/D004077"], "HPO": [""], "name": "digoxin", "UMLS": "UMLS/C0012265", "RXNORM": ["RXNORM/3407"], "other_name": ""}
+{"MSH": ["MSH/C583420"], "HPO": [""], "name": "Vercirnon", "UMLS": "UMLS/C3713948", "RXNORM": [""], "other_name": ""}
+{"MSH": ["MSH/D000077185"], "HPO": [""], "name": "resveratrol", "UMLS": "UMLS/C0073096", "RXNORM": ["RXNORM/1000492"], "other_name": ""}
+{"MSH": ["MSH/D000069347"], "HPO": [""], "name": "erlotinib", "UMLS": "UMLS/C1135135", "RXNORM": ["RXNORM/337525"], "other_name": ""}
+{"MSH": ["MSH/C434107"], "HPO": [""], "name": "mepolizumab", "UMLS": "UMLS/C0969324", "RXNORM": ["RXNORM/1720597"], "other_name": ""}
+{"MSH": ["MSH/D019821"], "HPO": [""], "name": "simvastatin", "UMLS": "UMLS/C0074554", "RXNORM": ["RXNORM/36567"], "other_name": ""}
+{"MSH": [""], "HPO": [""], "name": "Solcitinib", "UMLS": "UMLS/C4726763", "RXNORM": [""], "other_name": ""}
+{"MSH": [""], "HPO": [""], "name": "Recombinant Interleukin-18", "UMLS": "UMLS/C1527127", "RXNORM": [""], "other_name": ""}
+{"MSH": ["MSH/D000077208"], "HPO": [""], "name": "remifentanil", "UMLS": "UMLS/C0246631", "RXNORM": ["RXNORM/73032"], "other_name": ""}
+{"MSH": ["MSH/C555450"], "HPO": [""], "name": "secukinumab", "UMLS": "UMLS/C3179547", "RXNORM": ["RXNORM/1599788"], "other_name": ""}
+{"MSH": ["MSH/C588122"], "HPO": [""], "name": "batefenterol", "UMLS": "UMLS/C4519138", "RXNORM": [""], "other_name": ""}
+{"MSH": ["MSH/C047340"], "HPO": [""], "name": "levocabastine", "UMLS": "UMLS/C0064870", "RXNORM": ["RXNORM/28627"], "other_name": ""}
+{"MSH": ["MSH/C542124"], "HPO": [""], "name": "raxibacumab", "UMLS": "UMLS/C2717174", "RXNORM": ["RXNORM/1366567"], "other_name": ""}
+{"MSH": ["MSH/D004656"], "HPO": [""], "name": "enalapril", "UMLS": "UMLS/C0014025", "RXNORM": ["RXNORM/3827"], "other_name": ""}
+{"MSH": ["MSH/D000068718"], "HPO": [""], "name": "rosuvastatin", "UMLS": "UMLS/C0965129", "RXNORM": ["RXNORM/301542"], "other_name": ""}
+{"MSH": ["MSH/C508735"], "HPO": [""], "name": "isavuconazonium sulfate", "UMLS": "UMLS/C4018470", "RXNORM": ["RXNORM/1608321"], "other_name": ""}
+{"MSH": ["MSH/C111827"], "HPO": [""], "name": "brinzolamide", "UMLS": "UMLS/C0673966", "RXNORM": ["RXNORM/194881"], "other_name": ""}
+{"MSH": ["MSH/D000068338"], "HPO": [""], "name": "everolimus", "UMLS": "UMLS/C0541315", "RXNORM": ["RXNORM/141704"], "other_name": ""}
+{"MSH": ["MSH/C510790"], "HPO": [""], "name": "indacaterol", "UMLS": "UMLS/C1722260", "RXNORM": ["RXNORM/1114326"], "other_name": ""}
+{"MSH": ["MSH/D006024"], "HPO": [""], "name": "glycopyrrolate", "UMLS": "UMLS/C0017970", "RXNORM": ["RXNORM/4955"], "other_name": ""}
+{"MSH": ["MSH/C498826"], "HPO": [""], "name": "nilotinib", "UMLS": "UMLS/C1721377", "RXNORM": ["RXNORM/662281"], "other_name": ""}
+{"MSH": ["MSH/D006024"], "HPO": [""], "name": "glycopyrronium", "UMLS": "UMLS/C3814772", "RXNORM": ["RXNORM/1546438"], "other_name": ""}
+{"MSH": ["MSH/D000078330"], "HPO": [""], "name": "oxcarbazepine", "UMLS": "UMLS/C0069751", "RXNORM": ["RXNORM/32624"], "other_name": ""}
+{"MSH": ["MSH/C000717211"], "HPO": [""], "name": "sacubitril", "UMLS": "UMLS/C4033447", "RXNORM": ["RXNORM/1656328"], "other_name": ""}
+{"MSH": ["MSH/D000068756"], "HPO": [""], "name": "valsartan", "UMLS": "UMLS/C0216784", "RXNORM": ["RXNORM/69749"], "other_name": ""}
+{"MSH": ["MSH/D000069557"], "HPO": [""], "name": "travoprost", "UMLS": "UMLS/C0937916", "RXNORM": ["RXNORM/283809"], "other_name": ""}
+{"MSH": [""], "HPO": [""], "name": "amlodipine / benazepril", "UMLS": "UMLS/C0717411", "RXNORM": ["RXNORM/214223"], "other_name": ""}
+{"MSH": ["MSH/D000068876"], "HPO": [""], "name": "fingolimod", "UMLS": "UMLS/C1699926", "RXNORM": ["RXNORM/1012892"], "other_name": ""}
+{"MSH": ["MSH/D000068836"], "HPO": [""], "name": "rivastigmine", "UMLS": "UMLS/C0649350", "RXNORM": ["RXNORM/183379"], "other_name": ""}
+{"MSH": ["MSH/D000077767"], "HPO": [""], "name": "panobinostat", "UMLS": "UMLS/C1998098", "RXNORM": ["RXNORM/1603350"], "other_name": ""}
+{"MSH": ["MSH/D002434"], "HPO": [""], "name": "cefadroxil", "UMLS": "UMLS/C0007538", "RXNORM": ["RXNORM/2177"], "other_name": ""}
+{"MSH": ["MSH/C561454"], "HPO": [""], "name": "omipalisib", "UMLS": "UMLS/C4519177", "RXNORM": [""], "other_name": ""}
+{"MSH": ["MSH/C586847"], "HPO": [""], "name": "ceritinib", "UMLS": "UMLS/C3818721", "RXNORM": ["RXNORM/1535457"], "other_name": ""}
+{"MSH": ["MSH/C561627"], "HPO": [""], "name": "dabrafenib", "UMLS": "UMLS/C3467876", "RXNORM": ["RXNORM/1424911"], "other_name": ""}
+{"MSH": ["MSH/C520809"], "HPO": [""], "name": "eltrombopag", "UMLS": "UMLS/C1831905", "RXNORM": ["RXNORM/711942"], "other_name": ""}
+{"MSH": ["MSH/D000077341"], "HPO": [""], "name": "lapatinib", "UMLS": "UMLS/C1506770", "RXNORM": ["RXNORM/480167"], "other_name": ""}
+{"MSH": ["MSH/C516667"], "HPO": [""], "name": "pazopanib", "UMLS": "UMLS/C1831796", "RXNORM": ["RXNORM/714438"], "other_name": ""}
+{"MSH": ["MSH/C560077"], "HPO": [""], "name": "trametinib", "UMLS": "UMLS/C2697961", "RXNORM": ["RXNORM/1425099"], "other_name": ""}
+{"MSH": ["MSH/D000077211"], "HPO": [""], "name": "zoledronic acid", "UMLS": "UMLS/C0257685", "RXNORM": ["RXNORM/77655"], "other_name": ""}
+{"MSH": [""], "HPO": [""], "UMLS": "UMLS/C3273244", "name": "Vi Capsular Polysaccharide Typhoid Vaccine", "RXNORM": [""], "other_name": ""}
+{"MSH": ["MSH/D000077556"], "HPO": [""], "name": "alitretinoin", "UMLS": "UMLS/C0281666", "RXNORM": ["RXNORM/81864"], "other_name": ""}
+{"MSH": ["MSH/C581951"], "HPO": [""], "name": "danirixin", "UMLS": "UMLS/C4519256", "RXNORM": [""], "other_name": ""}
+{"MSH": ["MSH/C000611924"], "HPO": [""], "name": "fluticasone furoate-vilanterol trifenatate", "UMLS": "UMLS/C4020624", "RXNORM": [""], "other_name": ""}
+{"MSH": ["MSH/C000612856"], "HPO": [""], "name": "gepotidacin", "UMLS": "UMLS/C4309999", "RXNORM": [""], "other_name": ""}
+{"MSH": ["MSH/C000599718"], "HPO": [""], "name": "Daprodustat", "UMLS": "UMLS/C4519188", "RXNORM": [""], "other_name": ""}
+{"MSH": ["MSH/C522194"], "HPO": [""], "name": "Retosiban", "UMLS": "UMLS/C2699069", "RXNORM": [""], "other_name": ""}
+{"MSH": ["MSH/C541863"], "HPO": [""], "name": "Camicinal", "UMLS": "UMLS/C4519144", "RXNORM": [""], "other_name": ""}
+{"MSH": [""], "HPO": [""], "name": "Elubrixin", "UMLS": "UMLS/C4519321", "RXNORM": [""], "other_name": ""}
+{"MSH": ["MSH/C571185"], "HPO": [""], "name": "epelsiban", "UMLS": "UMLS/C3274566", "RXNORM": [""], "other_name": ""}
+{"MSH": [""], "HPO": [""], "name": "Linerixibat", "UMLS": "UMLS/C5238076", "RXNORM": [""], "other_name": ""}
+{"MSH": ["MSH/C543534"], "HPO": [""], "name": "Losmapimod", "UMLS": "UMLS/C3272847", "RXNORM": [""], "other_name": ""}
+{"MSH": ["MSH/C093875"], "HPO": [""], "name": "montelukast", "UMLS": "UMLS/C0298130", "RXNORM": ["RXNORM/88249"], "other_name": ""}
+{"MSH": ["MSH/D000069605"], "HPO": [""], "name": "olopatadine hydrochloride", "UMLS": "UMLS/C0771892", "RXNORM": ["RXNORM/236599"], "other_name": ""}
+{"MSH": ["MSH/C081643"], "HPO": [""], "name": "candesartan", "UMLS": "UMLS/C0717550", "RXNORM": ["RXNORM/214354"], "other_name": ""}
+{"MSH": ["MSH/C077793"], "HPO": [""], "name": "candesartan cilexetil", "UMLS": "UMLS/C0527379", "RXNORM": ["RXNORM/135481"], "other_name": ""}
+{"MSH": ["MSH/C000629641"], "HPO": [""], "name": "Nemiralisib", "UMLS": "UMLS/C5197976", "RXNORM": [""], "other_name": ""}
+{"MSH": ["MSH/C509706"], "HPO": [""], "name": "relacatib", "UMLS": "UMLS/C1700101", "RXNORM": [""], "other_name": ""}
+{"MSH": ["MSH/C055852"], "HPO": [""], "name": "tafenoquine", "UMLS": "UMLS/C0903411", "RXNORM": ["RXNORM/2054023"], "other_name": ""}
+{"MSH": [""], "HPO": [""], "name": "Herpes Zoster Vaccine 1437173A", "UMLS": "UMLS/C3272332", "RXNORM": [""], "other_name": ""}
+{"MSH": ["MSH/C414203"], "HPO": [""], "name": "nepafenac", "UMLS": "UMLS/C0961209", "RXNORM": ["RXNORM/298665"], "other_name": ""}
+{"MSH": ["MSH/C551441"], "HPO": [""], "name": "perampanel", "UMLS": "UMLS/C2698764", "RXNORM": ["RXNORM/1356552"], "other_name": ""}
+{"MSH": ["MSH/C053001"], "HPO": [""], "name": "adefovir", "UMLS": "UMLS/C0050175", "RXNORM": ["RXNORM/16521"], "other_name": ""}
+{"MSH": ["MSH/C571829"], "HPO": [""], "name": "tapinarof", "UMLS": "UMLS/C4541381", "RXNORM": [""], "other_name": ""}
+{"MSH": ["MSH/D001241"], "HPO": [""], "name": "aspirin", "UMLS": "UMLS/C0004057", "RXNORM": ["RXNORM/1191"], "other_name": ""}
+{"MSH": ["MSH/D008774"], "HPO": [""], "name": "methylphenidate", "UMLS": "UMLS/C0025810", "RXNORM": ["RXNORM/6901"], "other_name": ""}
+{"MSH": ["MSH/D000068582"], "HPO": [""], "name": "certolizumab pegol", "UMLS": "UMLS/C1872109", "RXNORM": ["RXNORM/709271"], "other_name": ""}
+{"MSH": ["MSH/D064750"], "HPO": [""], "name": "rabeprazole", "UMLS": "UMLS/C0378482", "RXNORM": ["RXNORM/114979"], "other_name": ""}
+{"MSH": ["MSH/D000077270"], "HPO": [""], "name": "exenatide", "UMLS": "UMLS/C0167117", "RXNORM": ["RXNORM/60548"], "other_name": ""}
+{"MSH": ["MSH/C507357"], "HPO": [""], "name": "mapatumumab", "UMLS": "UMLS/C1665688", "RXNORM": [""], "other_name": ""}
+{"MSH": ["MSH/D010121"], "HPO": [""], "name": "oxytocin", "UMLS": "UMLS/C0030095", "RXNORM": ["RXNORM/7824"], "other_name": ""}
+{"MSH": ["MSH/C490954"], "HPO": [""], "name": "eribulin mesylate", "UMLS": "UMLS/C2608038", "RXNORM": ["RXNORM/1045452"], "other_name": ""}
+{"MSH": ["MSH/C079703"], "HPO": [""], "name": "rufinamide", "UMLS": "UMLS/C0213404", "RXNORM": ["RXNORM/69036"], "other_name": ""}
+{"MSH": [""], "HPO": [""], "name": "meningococcal group B vaccine", "UMLS": "UMLS/C3859491", "RXNORM": ["RXNORM/1593128"], "other_name": ""}
+{"MSH": ["MSH/D004275"], "HPO": [""], "name": "DNA, Ribosomal", "UMLS": "UMLS/C0012933", "RXNORM": [""], "other_name": ""}
+{"MSH": ["MSH/D061485"], "HPO": [""], "name": "nicotine polacrilex", "UMLS": "UMLS/C0068722", "RXNORM": ["RXNORM/31765"], "other_name": ""}
+{"MSH": ["MSH/C000599766"], "HPO": [""], "name": "Otilimab", "UMLS": "UMLS/C4731002", "RXNORM": [""], "other_name": ""}
+{"MSH": ["MSH/D000068298"], "HPO": [""], "name": "fluticasone", "UMLS": "UMLS/C0082607", "RXNORM": ["RXNORM/41126"], "other_name": ""}
+{"MSH": ["MSH/D000077289"], "HPO": [""], "name": "letrozole", "UMLS": "UMLS/C0246421", "RXNORM": ["RXNORM/72965"], "other_name": ""}
+{"MSH": [""], "HPO": [""], "name": "Fosdevirine", "UMLS": "UMLS/C4550352", "RXNORM": [""], "other_name": ""}
+{"MSH": ["MSH/D009538"], "HPO": [""], "name": "nicotine", "UMLS": "UMLS/C0028040", "RXNORM": ["RXNORM/7407"], "other_name": ""}
+{"MSH": ["MSH/D022681"], "HPO": [""], "name": "Infanrix", "UMLS": "UMLS/C0728745", "RXNORM": ["RXNORM/224903"], "other_name": ""}
+{"MSH": ["MSH/C064764"], "HPO": [""], "UMLS": "UMLS/C0701492", "name": "PENTA natural heparin pentassacharide", "RXNORM": [""], "other_name": ""}
+{"MSH": ["MSH/D011464"], "HPO": [""], "name": "epoprostenol", "UMLS": "UMLS/C0033567", "RXNORM": ["RXNORM/8814"], "other_name": ""}
+{"MSH": [""], "HPO": [""], "name": "Serelaxin", "UMLS": "UMLS/C3700393", "RXNORM": [""], "other_name": ""}
+{"MSH": ["MSH/D000077239"], "HPO": [""], "name": "meloxicam", "UMLS": "UMLS/C0083381", "RXNORM": ["RXNORM/41493"], "other_name": ""}
+{"MSH": ["MSH/C106716"], "HPO": [""], "name": "Talnetant", "UMLS": "UMLS/C1701942", "RXNORM": [""], "other_name": ""}
+{"MSH": ["MSH/D000077732"], "HPO": [""], "name": "fidaxomicin", "UMLS": "UMLS/C0065023", "RXNORM": ["RXNORM/1111103"], "other_name": ""}
+{"MSH": ["MSH/D000068698"], "HPO": [""], "name": "tenofovir disoproxil fumarate", "UMLS": "UMLS/C1099776", "RXNORM": ["RXNORM/322248"], "other_name": ""}
+{"MSH": ["MSH/D000068696"], "HPO": [""], "name": "rilpivirine", "UMLS": "UMLS/C1566826", "RXNORM": ["RXNORM/1102270"], "other_name": ""}
+{"MSH": ["MSH/D002939"], "HPO": [""], "name": "ciprofloxacin", "UMLS": "UMLS/C0008809", "RXNORM": ["RXNORM/2551"], "other_name": ""}
+{"MSH": ["MSH/D000068877"], "HPO": [""], "name": "imatinib", "UMLS": "UMLS/C0935989", "RXNORM": ["RXNORM/282388"], "other_name": ""}
+{"MSH": ["MSH/D000077265"], "HPO": [""], "name": "donepezil", "UMLS": "UMLS/C0527316", "RXNORM": ["RXNORM/135447"], "other_name": ""}
+{"MSH": ["MSH/C541220"], "HPO": [""], "name": "canakinumab", "UMLS": "UMLS/C2718773", "RXNORM": ["RXNORM/853491"], "other_name": ""}
+{"MSH": ["MSH/D006024"], "HPO": [""], "name": "Glycopyrronium Bromide", "UMLS": "UMLS/C4082411", "RXNORM": [""], "other_name": ""}
+{"MSH": ["MSH/C527517"], "HPO": [""], "name": "ofatumumab", "UMLS": "UMLS/C1832027", "RXNORM": ["RXNORM/712566"], "other_name": ""}
+{"MSH": ["MSH/C059539"], "HPO": [""], "name": "midostaurin", "UMLS": "UMLS/C0526371", "RXNORM": ["RXNORM/1919083"], "other_name": ""}
+{"MSH": ["MSH/D020682"], "HPO": [""], "name": "cefixime", "UMLS": "UMLS/C0060400", "RXNORM": ["RXNORM/25033"], "other_name": ""}
+{"MSH": ["MSH/C000627869"], "HPO": [""], "name": "naquotinib", "UMLS": "UMLS/C4519293", "RXNORM": [""], "other_name": ""}
+{"MSH": ["MSH/D016729"], "HPO": [""], "name": "leuprolide acetate", "UMLS": "UMLS/C0700596", "RXNORM": ["RXNORM/203217"], "other_name": ""}
+{"MSH": [""], "HPO": [""], "name": "gilteritinib fumarate", "UMLS": "UMLS/C3896946", "RXNORM": ["RXNORM/2105823"], "other_name": ""}
+{"MSH": ["MSH/C551528"], "HPO": [""], "name": "Linsitinib", "UMLS": "UMLS/C2987649", "RXNORM": [""], "other_name": ""}
+{"MSH": [""], "HPO": [""], "name": "Peficitinib Hydrobromide", "UMLS": "UMLS/C5418498", "RXNORM": [""], "other_name": ""}
+{"MSH": ["MSH/C578989"], "HPO": [""], "name": "siponimod", "UMLS": "UMLS/C3657824", "RXNORM": ["RXNORM/2121085"], "other_name": ""}
+{"MSH": ["MSH/D000077682"], "HPO": [""], "name": "triclabendazole", "UMLS": "UMLS/C0077071", "RXNORM": ["RXNORM/2118525"], "other_name": ""}
+{"MSH": ["MSH/D011739"], "HPO": [""], "name": "pyrimethamine", "UMLS": "UMLS/C0034283", "RXNORM": ["RXNORM/9010"], "other_name": ""}
+{"MSH": ["MSH/C540278"], "HPO": [""], "name": "enzalutamide", "UMLS": "UMLS/C3496793", "RXNORM": ["RXNORM/1307298"], "other_name": ""}
+{"MSH": ["MSH/C523483"], "HPO": [""], "name": "linaclotide", "UMLS": "UMLS/C2000261", "RXNORM": ["RXNORM/1307404"], "other_name": ""}
+{"MSH": ["MSH/D019274"], "HPO": [""], "name": "onabotulinumtoxinA", "UMLS": "UMLS/C2719767", "RXNORM": ["RXNORM/860189"], "other_name": ""}
+{"MSH": ["MSH/C472067"], "HPO": [""], "name": "levocetirizine", "UMLS": "UMLS/C1174893", "RXNORM": ["RXNORM/356887"], "other_name": ""}
+{"MSH": ["MSH/D000068656"], "HPO": [""], "name": "mometasone furoate", "UMLS": "UMLS/C0066700", "RXNORM": ["RXNORM/30145"], "other_name": ""}
+{"MSH": ["MSH/D000068759"], "HPO": [""], "name": "formoterol fumarate", "UMLS": "UMLS/C0771469", "RXNORM": ["RXNORM/236216"], "other_name": ""}
+{"MSH": ["MSH/C584914"], "HPO": [""], "name": "cabotegravir", "UMLS": "UMLS/C4310385", "RXNORM": ["RXNORM/2475077"], "other_name": ""}
+{"MSH": [""], "HPO": [""], "name": "potassium nitrate / sodium fluoride", "UMLS": "UMLS/C2929521", "RXNORM": ["RXNORM/1008621"], "other_name": ""}
+{"MSH": ["MSH/D012254"], "HPO": [""], "name": "ribavirin", "UMLS": "UMLS/C0035525", "RXNORM": ["RXNORM/9344"], "other_name": ""}
+{"MSH": ["MSH/C540383"], "HPO": [""], "name": "ruxolitinib", "UMLS": "UMLS/C2931926", "RXNORM": ["RXNORM/1193326"], "other_name": ""}
+{"MSH": [""], "HPO": [""], "name": "Olodanrigan", "UMLS": "UMLS/C5420974", "RXNORM": [""], "other_name": ""}
+{"MSH": ["MSH/C120489"], "HPO": [""], "name": "oligofructose", "UMLS": "UMLS/C0907858", "RXNORM": [""], "other_name": ""}
+{"MSH": ["MSH/D010368"], "HPO": [""], "name": "Pectins", "UMLS": "UMLS/C0030744", "RXNORM": [""], "other_name": ""}
+{"MSH": ["MSH/C000596550"], "HPO": [""], "name": "lanadelumab", "UMLS": "UMLS/C4505508", "RXNORM": ["RXNORM/2055641"], "other_name": ""}
+{"MSH": ["MSH/C573971"], "HPO": [""], "name": "umeclidinium", "UMLS": "UMLS/C3661274", "RXNORM": ["RXNORM/1487514"], "other_name": ""}
+{"MSH": ["MSH/D000077588"], "HPO": [""], "name": "deferasirox", "UMLS": "UMLS/C1619629", "RXNORM": ["RXNORM/614373"], "other_name": ""}
+{"MSH": ["MSH/C585539"], "HPO": [""], "name": "alpelisib", "UMLS": "UMLS/C4055478", "RXNORM": ["RXNORM/2169285"], "other_name": ""}
+{"MSH": ["MSH/C000604875"], "HPO": [""], "name": "fevipiprant", "UMLS": "UMLS/C4076895", "RXNORM": [""], "other_name": ""}
+{"MSH": ["MSH/C554645"], "HPO": [""], "name": "molibresib", "UMLS": "UMLS/C4682384", "RXNORM": [""], "other_name": ""}
+{"MSH": ["MSH/D022541"], "HPO": [""], "name": "Streptococcal Vaccines", "UMLS": "UMLS/C0887906", "RXNORM": [""], "other_name": ""}
+{"MSH": ["MSH/C000710948"], "HPO": [""], "name": "onasemnogene abeparvovec-xioi", "UMLS": "UMLS/C5140521", "RXNORM": ["RXNORM/2170225"], "other_name": ""}
+{"MSH": ["MSH/C058381"], "HPO": [""], "name": "pneumococcal polysaccharide, type 37", "UMLS": "UMLS/C0245576", "RXNORM": [""], "other_name": ""}
+{"MSH": ["MSH/D018073"], "HPO": [""], "name": "Haemophilus Vaccines", "UMLS": "UMLS/C0206514", "RXNORM": [""], "other_name": ""}
+{"MSH": ["MSH/D018074"], "HPO": [""], "name": "Vaccines, Conjugate", "UMLS": "UMLS/C0206515", "RXNORM": [""], "other_name": ""}
+{"MSH": ["MSH/D015282"], "HPO": [""], "name": "octreotide", "UMLS": "UMLS/C0028833", "RXNORM": ["RXNORM/7617"], "other_name": ""}
+{"MSH": ["MSH/C000622091"], "HPO": [""], "name": "brolucizumab", "UMLS": "UMLS/C4550124", "RXNORM": ["RXNORM/2204915"], "other_name": ""}
+{"MSH": ["MSH/C000614139"], "HPO": [""], "name": "crizanlizumab", "UMLS": "UMLS/C4524703", "RXNORM": ["RXNORM/2262279"], "other_name": ""}
+{"MSH": ["MSH/D002266"], "HPO": [""], "name": "carboxymethylcellulose sodium", "UMLS": "UMLS/C0037487", "RXNORM": ["RXNORM/491498"], "other_name": ""}
+{"MSH": ["MSH/D009536"], "HPO": [""], "name": "niacinamide", "UMLS": "UMLS/C0028027", "RXNORM": ["RXNORM/7405"], "other_name": ""}
+{"MSH": ["MSH/D000961"], "HPO": [""], "name": "Antilymphocyte Serum", "UMLS": "UMLS/C0003372", "RXNORM": [""], "other_name": ""}
+{"MSH": ["MSH/D000077597"], "HPO": [""], "name": "vildagliptin", "UMLS": "UMLS/C1570906", "RXNORM": ["RXNORM/596554"], "other_name": ""}
+{"MSH": ["MSH/D000077432"], "HPO": [""], "name": "tapentadol", "UMLS": "UMLS/C2001271", "RXNORM": ["RXNORM/787390"], "other_name": ""}
+{"MSH": ["MSH/C499715"], "HPO": [""], "name": "alisporivir", "UMLS": "UMLS/C1567950", "RXNORM": [""], "other_name": ""}
+{"MSH": [""], "HPO": [""], "name": "degarelix acetate", "UMLS": "UMLS/C2718533", "RXNORM": ["RXNORM/835863"], "other_name": ""}
+{"MSH": ["MSH/D006118"], "HPO": [""], "name": "griseofulvin", "UMLS": "UMLS/C0018242", "RXNORM": ["RXNORM/5021"], "other_name": ""}
+{"MSH": ["MSH/C000604315"], "HPO": [""], "name": "fremanezumab", "UMLS": "UMLS/C4549503", "RXNORM": ["RXNORM/2056691"], "other_name": ""}
+{"MSH": ["MSH/D000068717"], "HPO": [""], "name": "glatiramer acetate", "UMLS": "UMLS/C0289884", "RXNORM": ["RXNORM/84375"], "other_name": ""}
+{"MSH": ["MSH/C515492"], "HPO": [""], "name": "reslizumab", "UMLS": "UMLS/C1869620", "RXNORM": ["RXNORM/1746889"], "other_name": ""}
+{"MSH": ["MSH/C585830"], "HPO": [""], "name": "Inclisiran", "UMLS": "UMLS/C4307388", "RXNORM": [""], "other_name": ""}
+{"MSH": ["MSH/C428744"], "HPO": [""], "name": "Licarbazepine", "UMLS": "UMLS/C1567854", "RXNORM": [""], "other_name": ""}
+{"MSH": [""], "HPO": [""], "name": "indacaterol maleate", "UMLS": "UMLS/C2920417", "RXNORM": ["RXNORM/1114325"], "other_name": ""}
+{"MSH": ["MSH/D000069287"], "HPO": [""], "name": "capecitabine", "UMLS": "UMLS/C0671970", "RXNORM": ["RXNORM/194000"], "other_name": ""}
+{"MSH": ["MSH/D000069579"], "HPO": [""], "name": "ranibizumab", "UMLS": "UMLS/C1566537", "RXNORM": ["RXNORM/595060"], "other_name": ""}
+{"MSH": [""], "HPO": [""], "name": "Melrilimab", "UMLS": "UMLS/C5421171", "RXNORM": [""], "other_name": ""}
+{"MSH": [""], "HPO": [""], "name": "tisagenlecleucel Injection", "UMLS": "UMLS/C4529946", "RXNORM": ["RXNORM/1986441"], "other_name": ""}
+{"MSH": ["MSH/D000077594"], "HPO": [""], "name": "nivolumab", "UMLS": "UMLS/C3657270", "RXNORM": ["RXNORM/1597876"], "other_name": ""}
+{"MSH": ["MSH/C549469"], "HPO": [""], "name": "Gsk256066", "UMLS": "UMLS/C2934026", "RXNORM": [""], "other_name": "6-((3-((dimethylamino)carbonyl)phenyl)sulfonyl)-8-methyl-4-((3-methyloxyphenyl)amino)-3-quinolinecarboxamide"}
+{"MSH": ["MSH/C581038"], "HPO": [""], "UMLS": "UMLS/C3659427", "name": "Gw870086", "RXNORM": [""], "other_name": "GW870086X"}
+{"MSH": ["MSH/C512301"], "HPO": [""], "UMLS": "UMLS/C1744311", "name": "Sb705498", "RXNORM": [""], "other_name": "SB 705498"}
+{"MSH": ["MSH/C000625977"], "HPO": [""], "UMLS": "UMLS/C4549166", "name": "Gsk2018682", "RXNORM": [""], "other_name": "GSK2018682"}
+{"MSH": ["MSH/C576936"], "HPO": [""], "UMLS": "UMLS/C3530051", "name": "Gw597901", "RXNORM": [""], "other_name": "GW597901"}
+{"MSH": ["MSH/D000077185"], "HPO": [""], "UMLS": "UMLS/C2002402", "name": "Srt501", "RXNORM": [""], "other_name": "Resveratrol"}
+{"MSH": ["MSH/C000593393"], "HPO": [""], "UMLS": "UMLS/C3886130", "name": "Gw766994", "RXNORM": [""], "other_name": "GW766994"}
+{"MSH": ["MSH/C558853"], "HPO": [""], "UMLS": "UMLS/C3177195", "name": "Gsk1004723", "RXNORM": [""], "other_name": "GSK 1004723"}
+{"MSH": ["MSH/C558852"], "HPO": [""], "UMLS": "UMLS/C3177194", "name": "Gsk835726", "RXNORM": [""], "other_name": "GSK 835726"}
+{"MSH": ["MSH/C562323"], "HPO": [""], "UMLS": "UMLS/C3253188", "name": "Gsk1018921", "RXNORM": [""], "other_name": "GSK 1018921"}
+{"MSH": ["MSH/C561922"], "HPO": [""], "UMLS": "UMLS/C3253619", "name": "Gsk931145", "RXNORM": [""], "other_name": "GSK 931145"}
+{"MSH": ["MSH/"], "HPO": [""], "name": "Gsk1059615", "UMLS": "UMLS/C2703119", "RXNORM": [""], "other_name": ""}
+{"MSH": ["MSH/C000608195"], "HPO": [""], "UMLS": "UMLS/C4278474", "name": "Gsk1070806", "RXNORM": [""], "other_name": "GSK1070806"}
+{"MSH": ["MSH/C587902"], "HPO": [""], "name": "Gsk1292263", "UMLS": "UMLS/C3852542", "RXNORM": [""], "other_name": "(1-(3-isopropyl-1,2,4-oxadiazol-5-yl)piperidin-4-yl)methyl methanesulfonate"}
+{"MSH": ["MSH/C583947"], "HPO": [""], "UMLS": "UMLS/C3711860", "name": "Gsk1322322", "RXNORM": [""], "other_name": "GSK1322322"}
+{"MSH": ["MSH/C557997"], "HPO": [""], "name": "Gsk1360707", "UMLS": "UMLS/C3713902", "RXNORM": [""], "other_name": "1-(3,4-dichlorophenyl)-6-(methoxymethyl)-4-azabicyclo(4.1.0)heptane"}
+{"MSH": ["MSH/C000604998"], "HPO": [""], "name": "Gsk1482160", "UMLS": "UMLS/C4079824", "RXNORM": [""], "other_name": "N-(2-chloro-3-(trifluoromethyl)benzyl)-N-methyl-5-oxopyrrolidine-2-carboxamide"}
+{"MSH": ["MSH/C568078"], "HPO": [""], "name": "Gsk1521498", "UMLS": "UMLS/C3253174", "RXNORM": [""], "other_name": "N-((3,5-difluoro-3'-(1H-1,2,4-triazol-3-yl)-4-biphenylyl)methyl)-2,3-dihydro-1H-inden-2-amine"}
+{"MSH": ["MSH/C587791"], "HPO": [""], "name": "Gsk163090", "UMLS": "UMLS/C3852548", "RXNORM": [""], "other_name": "1-(3-(2-(4-(2-methyl-5-quinolinyl)-1-piperazinyl)ethyl)phenyl)-2-imidazolidinone"}
+{"MSH": ["MSH/C000594852"], "HPO": [""], "UMLS": "UMLS/C4045451", "name": "Gsk2374697", "RXNORM": [""], "other_name": "GSK2374697"}
+{"MSH": ["MSH/C584220"], "HPO": [""], "UMLS": "UMLS/C3712181", "name": "Gsk239512", "RXNORM": [""], "other_name": "GSK239512"}
+{"MSH": ["MSH/C588298"], "HPO": [""], "UMLS": "UMLS/C3849072", "name": "Gsk2485852", "RXNORM": [""], "other_name": "GSK2485852"}
+{"MSH": ["MSH/C000604188"], "HPO": [""], "name": "Gsk256073", "UMLS": "UMLS/C4079835", "RXNORM": [""], "other_name": "8-chloro-3-pentyl-1H-purine-2,6(3H,7H)-dione"}
+{"MSH": ["MSH/C000590132"], "HPO": [""], "UMLS": "UMLS/C3851694", "name": "Gsk315234", "RXNORM": [""], "other_name": "GSK315234"}
+{"MSH": ["MSH/C561573"], "HPO": [""], "UMLS": "UMLS/C2347618", "name": "Gsk461364", "RXNORM": [""], "other_name": "GSK 461364"}
+{"MSH": ["MSH/C000594007"], "HPO": [""], "UMLS": "UMLS/C3886165", "name": "Gsk598809", "RXNORM": [""], "other_name": "GSK598809"}
+{"MSH": ["MSH/C582664"], "HPO": [""], "UMLS": "UMLS/C3658590", "name": "Gsk679586", "RXNORM": [""], "other_name": "GSK679586"}
+{"MSH": ["MSH/C409004"], "HPO": [""], "UMLS": "UMLS/C0914699", "name": "Gw274150", "RXNORM": [""], "other_name": "GW 274150"}
+{"MSH": ["MSH/C545367"], "HPO": [""], "UMLS": "UMLS/C2742038", "name": "Gw328267", "RXNORM": [""], "other_name": "GW 328267"}
+{"MSH": ["MSH/C000602898"], "HPO": [""], "UMLS": "UMLS/C4079641", "name": "Gw559090", "RXNORM": [""], "other_name": "GW559090"}
+{"MSH": ["MSH/C557781"], "HPO": [""], "name": "Sb649868", "UMLS": "UMLS/C3180886", "RXNORM": [""], "other_name": "N-((1-((5-(4-fluorophenyl)-2-methyl-4-thiazolyl)carbonyl)-2-piperidinyl)methyl)-4-benzofurancarboxamide"}
+{"MSH": ["MSH/C568644"], "HPO": [""], "UMLS": "UMLS/C3253012", "name": "Gsk1034702", "RXNORM": [""], "other_name": "GSK 1034702"}
+{"MSH": ["MSH/C584556"], "HPO": [""], "name": "Gsk424887", "UMLS": "UMLS/C3714228", "RXNORM": [""], "other_name": "N-(1-(3-chloro-1-naphthalenyl)ethyl)-2-(4-(4-fluorophenyl)-1-methyl-4-piperidinyl)-N-methylacetamide"}
+{"MSH": ["MSH/C000595241"], "HPO": [""], "UMLS": "UMLS/C4045304", "name": "Gsk2336805", "RXNORM": [""], "other_name": "GSK2336805"}
+{"MSH": ["MSH/C528328"], "HPO": [""], "UMLS": "UMLS/C2347443", "name": "Gsk690693", "RXNORM": [""], "other_name": "GSK690693"}
+{"MSH": ["MSH/C000600809"], "HPO": [""], "UMLS": "UMLS/C2981865", "name": "Gsk2256098", "RXNORM": [""], "other_name": "GSK2256098"}
+{"MSH": ["MSH/C000629862"], "HPO": [""], "UMLS": "UMLS/C5196682", "name": "Gsk1995057", "RXNORM": [""], "other_name": "GSK1995057"}
+{"MSH": ["MSH/"], "HPO": [""], "name": "Gsk1572932a", "UMLS": "UMLS/C2984506", "RXNORM": [""], "other_name": ""}
+{"MSH": ["MSH/C000603511"], "HPO": [""], "UMLS": "UMLS/C4079591", "name": "Gsk2245035", "RXNORM": [""], "other_name": "GSK2245035"}
+{"MSH": ["MSH/C000590928"], "HPO": [""], "name": "Gsk356278", "UMLS": "UMLS/C3886520", "RXNORM": [""], "other_name": "5-(5-((2,4-dimethylthiazol-5-yl)methyl)-1,3,4-oxadiazol-2-yl)-1-ethyl-N-(tetrahydro-2H-pyran-4-yl)-1H-pyrazolo(3,4-b)pyridin-4-amine"}
+{"MSH": ["MSH/C000705473"], "HPO": [""], "UMLS": "UMLS/C5392354", "name": "Gsk2618960", "RXNORM": [""], "other_name": "GSK2618960"}
+{"MSH": ["MSH/C000605830"], "HPO": [""], "UMLS": "UMLS/C4279387", "name": "Gsk2862277", "RXNORM": [""], "other_name": "GSK2862277"}
+{"MSH": ["MSH/C584201"], "HPO": [""], "name": "Gsk2256294", "UMLS": "UMLS/C3713989", "RXNORM": [""], "other_name": "N-((4-cyano-2-(trifluoromethyl)phenyl)methyl)-3-((4-methyl-6-(methylamino)-1,3,5-triazin-2-yl)amino)cyclohexanecarboxamide"}
+{"MSH": ["MSH/C000615596"], "HPO": [""], "UMLS": "UMLS/C4505911", "name": "Gsk2647544", "RXNORM": [""], "other_name": "GSK2647544"}
+{"MSH": ["MSH/"], "HPO": [""], "name": "Gsk2132231a", "UMLS": "UMLS/C4053638", "RXNORM": [""], "other_name": ""}
+{"MSH": ["MSH/"], "HPO": [""], "name": "Sb719125", "UMLS": "UMLS/C5576950", "RXNORM": [""], "other_name": ""}
+{"MSH": ["MSH/"], "HPO": [""], "name": "Gsk2302032a", "UMLS": "UMLS/C3896844", "RXNORM": [""], "other_name": ""}
+{"MSH": ["MSH/"], "HPO": [""], "name": "Gsk2302025a", "UMLS": "UMLS/C2985195", "RXNORM": [""], "other_name": ""}
+{"MSH": ["MSH/C000709571"], "HPO": [""], "UMLS": "UMLS/C4727783", "name": "Gsk2315698", "RXNORM": [""], "other_name": "miridesap"}
+{"MSH": ["MSH/"], "HPO": [""], "name": "gsk2398852", "UMLS": "UMLS/C4727784", "RXNORM": [""], "other_name": ""}
+{"MSH": ["MSH/C000627232"], "HPO": [""], "UMLS": "UMLS/C4705766", "name": "Gsk2881078", "RXNORM": [""], "other_name": "GSK2881078"}
+{"MSH": ["MSH/C000626978"], "HPO": [""], "UMLS": "UMLS/C4705543", "name": "Gsk3050002", "RXNORM": [""], "other_name": "GSK3050002"}
+{"MSH": ["MSH/C000627739"], "HPO": [""], "UMLS": "UMLS/C3827123", "name": "Gsk2636771", "RXNORM": [""], "other_name": "GSK2636771"}
+{"MSH": ["MSH/C000718753"], "HPO": [""], "UMLS": "UMLS/C5565730", "name": "Gsk2878175", "RXNORM": [""], "other_name": "GSK2878175"}
+{"MSH": ["MSH/C000622373"], "HPO": [""], "UMLS": "UMLS/C3827121", "name": "Gsk2849330", "RXNORM": [""], "other_name": "GSK2849330"}
+{"MSH": ["MSH/"], "HPO": [""], "name": "Gsk3117391", "UMLS": "UMLS/C5139715", "RXNORM": [""], "other_name": ""}
+{"MSH": ["MSH/C540176"], "HPO": [""], "name": "Gsk369796", "UMLS": "UMLS/C3884469", "RXNORM": [""], "other_name": "N-tert-butylisoquine"}
+{"MSH": ["MSH/C000632156"], "HPO": [""], "UMLS": "UMLS/C5198241", "name": "Asp8477", "RXNORM": [""], "other_name": "ASP8477"}
+{"MSH": ["MSH/"], "HPO": [""], "name": "Gsk2130579a", "UMLS": "UMLS/C2700264", "RXNORM": [""], "other_name": ""}
+{"MSH": ["MSH/C000628558"], "HPO": [""], "UMLS": "UMLS/C4742753", "name": "Gsk3008348", "RXNORM": [""], "other_name": "GSK3008348"}
+{"MSH": ["MSH/C000654586"], "HPO": [""], "UMLS": "UMLS/C5227418", "name": "Gsk2981278", "RXNORM": [""], "other_name": "GSK2981278"}
+{"MSH": ["MSH/C000708951"], "HPO": [""], "UMLS": "UMLS/C5392621", "name": "Gsk2982772", "RXNORM": [""], "other_name": "GSK2982772"}
+{"MSH": ["MSH/C000656065"], "HPO": [""], "UMLS": "UMLS/C5226839", "name": "Gsk2798745", "RXNORM": [""], "other_name": "GSK2798745"}
+{"MSH": ["MSH/"], "HPO": [""], "name": "Gsk2302024a", "UMLS": "UMLS/C3896845", "RXNORM": [""], "other_name": ""}
+{"MSH": ["MSH/C000629546"], "HPO": [""], "UMLS": "UMLS/C5196507", "name": "Gsk2838232", "RXNORM": [""], "other_name": "GSK-2838232"}
+{"MSH": ["MSH/C000707549"], "HPO": [""], "UMLS": "UMLS/C5392505", "name": "Gsk1940029", "RXNORM": [""], "other_name": "GSK1940029"}
+{"MSH": ["MSH/C000709851"], "HPO": [""], "UMLS": "UMLS/C5433906", "name": "Gsk3008356", "RXNORM": [""], "other_name": "GSK3008356"}
+{"MSH": ["MSH/C000603799"], "HPO": [""], "UMLS": "UMLS/C4078791", "name": "Gsk2292767", "RXNORM": [""], "other_name": "GSK2292767"}
+{"MSH": ["MSH/C556153"], "HPO": [""], "UMLS": "UMLS/C3179804", "name": "Gsk1557484a", "RXNORM": [""], "other_name": "pandemrix"}
+{"MSH": ["MSH/C559041"], "HPO": [""], "UMLS": "UMLS/C5442040", "name": "Gsk3052230", "RXNORM": [""], "other_name": "FP-1039"}
+{"MSH": ["MSH/C000706131"], "HPO": [""], "UMLS": "UMLS/C5392405", "name": "Gsk2981710", "RXNORM": [""], "other_name": "GSK2981710"}
+{"MSH": ["MSH/C000602008"], "HPO": [""], "UMLS": "UMLS/C3827120", "name": "Gsk2879552", "RXNORM": [""], "other_name": "GSK2879552"}
+{"MSH": ["MSH/C577920"], "HPO": [""], "UMLS": "UMLS/C3660728", "name": "Gsk2816126", "RXNORM": [""], "other_name": "GSK-2816126"}
+{"MSH": ["MSH/C000708087"], "HPO": [""], "UMLS": "UMLS/C5392742", "name": "Asp1707", "RXNORM": [""], "other_name": "opigolix"}
+{"MSH": ["MSH/C000633847"], "HPO": [""], "UMLS": "UMLS/C5198358", "name": "Asp8232", "RXNORM": [""], "other_name": "ASP8232"}
+{"MSH": ["MSH/C000719587"], "HPO": [""], "UMLS": "UMLS/C5565723", "name": "Asp3652", "RXNORM": [""], "other_name": "ASP3652"}
+{"MSH": ["MSH/C000626035"], "HPO": [""], "UMLS": "UMLS/C4548814", "name": "Cfz533", "RXNORM": [""], "other_name": "iscalimab"}
+{"MSH": ["MSH/C000712933"], "HPO": [""], "name": "Gsk1795091", "UMLS": "UMLS/C4287760", "RXNORM": [""], "other_name": "TLR4 agonist GSK1795091"}
+{"MSH": ["MSH/C000615784"], "HPO": [""], "UMLS": "UMLS/C4053679", "name": "Asp5878", "RXNORM": [""], "other_name": "ASP5878"}
+{"MSH": ["MSH/"], "HPO": [""], "name": "glycerol", "UMLS": "UMLS/C0017861", "RXNORM": [""], "other_name": ""}
+{"MSH": ["MSH/C000631066"], "HPO": [""], "UMLS": "UMLS/C5198173", "name": "Gsk2646264", "RXNORM": [""], "other_name": "GSK2646264"}
+{"MSH": ["MSH/C000723722"], "HPO": [""], "UMLS": "UMLS/C5772748", "name": "Gsk3640254", "RXNORM": [""], "other_name": "GSK3640254"}
+{"MSH": ["MSH/C560077"], "HPO": [""], "UMLS": "UMLS/C2703095", "name": "Gsk1120212", "RXNORM": [""], "other_name": "trametinib"}
+{"MSH": ["MSH/C000719547"], "HPO": [""], "name": "Sb257049", "UMLS": "UMLS/C5565453", "RXNORM": [""], "other_name": "RTS malaria vaccine"}
+{"MSH": ["MSH/"], "HPO": [""], "name": "Cad106", "UMLS": "UMLS/C4305639", "RXNORM": [""], "other_name": ""}
+{"MSH": ["MSH/C000628578"], "HPO": [""], "UMLS": "UMLS/C4742765", "name": "Cnp520", "RXNORM": [""], "other_name": "Umibecestat"}
+{"MSH": ["MSH/"], "HPO": [""], "name": "Asp0113", "UMLS": "UMLS/C3827159", "RXNORM": [""], "other_name": ""}

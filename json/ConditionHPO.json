@@ -1,0 +1,405 @@
+{"HPO": "HPO/HP:0002725", "name": "Lupus Erythematosus, Systemic"}
+{"HPO": "HPO/HP:0003765", "name": "Psoriasis"}
+{"HPO": "HPO/HP:0000822", "name": "Hypertensive disease"}
+{"HPO": "HPO/HP:0002013", "name": "Vomiting"}
+{"HPO": "HPO/HP:0011123", "name": "Dermatitis"}
+{"HPO": "HPO/HP:0006510", "name": "Chronic Obstructive Airway Disease"}
+{"HPO": "HPO/HP:0012384", "name": "Rhinitis"}
+{"HPO": "HPO/HP:0002099", "name": "Asthma"}
+{"HPO": "HPO/HP:0033678", "name": "Acute Coronary Syndrome"}
+{"HPO": "HPO/HP:0002204", "name": "Pulmonary Embolism"}
+{"HPO": "HPO/HP:0001250", "name": "Seizures"}
+{"HPO": "HPO/HP:0007302", "name": "Bipolar Disorder"}
+{"HPO": "HPO/HP:0100651", "name": "Diabetes Mellitus, Insulin-Dependent"}
+{"HPO": "HPO/HP:0000716", "name": "Depressive disorder"}
+{"HPO": "HPO/HP:0005406", "name": "Recurrent bacterial skin infections"}
+{"HPO": "HPO/HP:0002621", "name": "Atherosclerosis"}
+{"HPO": "HPO/HP:0002635", "name": "Atherosclerosis"}
+{"HPO": "HPO/HP:0020110", "name": "Fracture"}
+{"HPO": "HPO/HP:0000939", "name": "Osteoporosis"}
+{"HPO": "HPO/HP:0012452", "name": "Restless Legs Syndrome"}
+{"HPO": "HPO/HP:0002511", "name": "Alzheimer's Disease"}
+{"HPO": "HPO/HP:0005978", "name": "Diabetes Mellitus, Non-Insulin-Dependent"}
+{"HPO": "HPO/HP:0002076", "name": "Migraine Disorders"}
+{"HPO": "HPO/HP:0001635", "name": "Heart failure"}
+{"HPO": "HPO/HP:0100787", "name": "Prostatic Neoplasms"}
+{"HPO": "HPO/HP:0025428", "name": "Bronchospasm"}
+{"HPO": "HPO/HP:0001370", "name": "Rheumatoid Arthritis"}
+{"HPO": "HPO/HP:0100582", "name": "Nasal Polyps"}
+{"HPO": "HPO/HP:0011947", "name": "Respiratory Tract Infections"}
+{"HPO": "HPO/HP:0000388", "name": "Otitis Media"}
+{"HPO": "HPO/HP:0002090", "name": "Pneumonia"}
+{"HPO": "HPO/HP:0012387", "name": "Bronchitis"}
+{"HPO": "HPO/HP:0000246", "name": "Sinusitis"}
+{"HPO": "HPO/HP:0001907", "name": "Thromboembolism"}
+{"HPO": "HPO/HP:0100753", "name": "Schizophrenia"}
+{"HPO": "HPO/HP:0009830", "name": "Peripheral Neuropathy"}
+{"HPO": "HPO/HP:0000141", "name": "Amenorrhea"}
+{"HPO": "HPO/HP:0002018", "name": "Nausea"}
+{"HPO": "HPO/HP:0410133", "name": "Chronic Spontaneous Urticaria"}
+{"HPO": "HPO/HP:0001047", "name": "Dermatitis, Atopic"}
+{"HPO": "HPO/HP:0000360", "name": "Tinnitus"}
+{"HPO": "HPO/HP:0000722", "name": "Obsessive-Compulsive Disorder"}
+{"HPO": "HPO/HP:0033676", "name": "Post-Traumatic Stress Disorder"}
+{"HPO": "HPO/HP:0008711", "name": "Benign Prostatic Hyperplasia"}
+{"HPO": "HPO/HP:0002664", "name": "Malignant Neoplasms"}
+{"HPO": "HPO/HP:0005584", "name": "Renal Cell Carcinoma"}
+{"HPO": "HPO/HP:0100806", "name": "Septicemia"}
+{"HPO": "HPO/HP:0100834", "name": "Colorectal Neoplasms"}
+{"HPO": "HPO/HP:0001712", "name": "Left Ventricular Hypertrophy"}
+{"HPO": "HPO/HP:0012594", "name": "Microalbuminuria"}
+{"HPO": "HPO/HP:0000135", "name": "Hypogonadism"}
+{"HPO": "HPO/HP:0007378", "name": "Gastrointestinal Neoplasms"}
+{"HPO": "HPO/HP:0001051", "name": "Seborrheic dermatitis"}
+{"HPO": "HPO/HP:0012539", "name": "Lymphoma, Non-Hodgkin"}
+{"HPO": "HPO/HP:0005550", "name": "Chronic Lymphocytic Leukemia"}
+{"HPO": "HPO/HP:0000020", "name": "Urinary Incontinence"}
+{"HPO": "HPO/HP:0002037", "name": "Inflammatory Bowel Diseases"}
+{"HPO": "HPO/HP:0003119", "name": "Dyslipidemias"}
+{"HPO": "HPO/HP:0002578", "name": "Gastroparesis"}
+{"HPO": "HPO/HP:0012531", "name": "Pain"}
+{"HPO": "HPO/HP:0001513", "name": "Obesity"}
+{"HPO": "HPO/HP:0012735", "name": "Coughing"}
+{"HPO": "HPO/HP:0002326", "name": "Transient Ischemic Attack"}
+{"HPO": "HPO/HP:0001297", "name": "Cerebrovascular accident"}
+{"HPO": "HPO/HP:0004326", "name": "Cachexia"}
+{"HPO": "HPO/HP:0012876", "name": "Premature Ejaculation"}
+{"HPO": "HPO/HP:0002758", "name": "Degenerative polyarthritis"}
+{"HPO": "HPO/HP:0005110", "name": "Atrial Fibrillation"}
+{"HPO": "HPO/HP:0001626", "name": "Cardiovascular Diseases"}
+{"HPO": "HPO/HP:0011675", "name": "Cardiac Arrhythmia"}
+{"HPO": "HPO/HP:0100280", "name": "Crohn Disease"}
+{"HPO": "HPO/HP:0030358", "name": "Non-Small Cell Lung Carcinoma"}
+{"HPO": "HPO/HP:0001596", "name": "Alopecia"}
+{"HPO": "HPO/HP:0002293", "name": "Alopecia"}
+{"HPO": "HPO/HP:0002583", "name": "Colitis"}
+{"HPO": "HPO/HP:0033125", "name": "Lymphoma, Follicular"}
+{"HPO": "HPO/HP:0100615", "name": "Malignant neoplasm of ovary"}
+{"HPO": "HPO/HP:0000819", "name": "Diabetes Mellitus"}
+{"HPO": "HPO/HP:0012108", "name": "Glaucoma, Open-Angle"}
+{"HPO": "HPO/HP:0012126", "name": "Malignant neoplasm of stomach"}
+{"HPO": "HPO/HP:0012324", "name": "Myeloid Leukemia"}
+{"HPO": "HPO/HP:0006775", "name": "Multiple Myeloma"}
+{"HPO": "HPO/HP:0002863", "name": "MYELODYSPLASTIC SYNDROME"}
+{"HPO": "HPO/HP:0002861", "name": "melanoma"}
+{"HPO": "HPO/HP:0100242", "name": "Sarcoma"}
+{"HPO": "HPO/HP:0000726", "name": "Dementia"}
+{"HPO": "HPO/HP:0001903", "name": "Anemia"}
+{"HPO": "HPO/HP:0031609", "name": "Geographic Atrophy"}
+{"HPO": "HPO/HP:0033345", "name": "Neuralgia"}
+{"HPO": "HPO/HP:0000975", "name": "Hyperhidrosis disorder"}
+{"HPO": "HPO/HP:0007879", "name": "Allergic Conjunctivitis"}
+{"HPO": "HPO/HP:0002069", "name": "Tonic - clonic seizures"}
+{"HPO": "HPO/HP:0032677", "name": "Tonic - clonic seizures"}
+{"HPO": "HPO/HP:0001406", "name": "Intrahepatic Cholestasis"}
+{"HPO": "HPO/HP:0000938", "name": "Osteopenia"}
+{"HPO": "HPO/HP:0001402", "name": "Liver carcinoma"}
+{"HPO": "HPO/HP:0007018", "name": "Attention deficit hyperactivity disorder"}
+{"HPO": "HPO/HP:0011024", "name": "Gastrointestinal Diseases"}
+{"HPO": "HPO/HP:0000479", "name": "Retinal Diseases"}
+{"HPO": "HPO/HP:0000488", "name": "Retinal Diseases"}
+{"HPO": "HPO/HP:0011891", "name": "Postpartum Hemorrhage"}
+{"HPO": "HPO/HP:0003193", "name": "Allergic rhinitis (disorder)"}
+{"HPO": "HPO/HP:0001677", "name": "Coronary Artery Disease"}
+{"HPO": "HPO/HP:0011034", "name": "Amyloidosis"}
+{"HPO": "HPO/HP:0002110", "name": "Bronchiectasis"}
+{"HPO": "HPO/HP:0004808", "name": "Leukemia, Myelocytic, Acute"}
+{"HPO": "HPO/HP:0001973", "name": "Immune thrombocytopenic purpura"}
+{"HPO": "HPO/HP:0000951", "name": "Dermatologic disorders"}
+{"HPO": "HPO/HP:0100598", "name": "Pulmonary Edema"}
+{"HPO": "HPO/HP:0001396", "name": "Cholestasis"}
+{"HPO": "HPO/HP:0007359", "name": "Seizures, Focal"}
+{"HPO": "HPO/HP:0002633", "name": "Vasculitis"}
+{"HPO": "HPO/HP:0002960", "name": "Autoimmune Diseases"}
+{"HPO": "HPO/HP:0002092", "name": "Pulmonary arterial hypertension"}
+{"HPO": "HPO/HP:0020172", "name": "Adverse reaction to drug"}
+{"HPO": "HPO/HP:0001945", "name": "Fever"}
+{"HPO": "HPO/HP:0005526", "name": "Lymphoid leukemia"}
+{"HPO": "HPO/HP:0000964", "name": "Eczema"}
+{"HPO": "HPO/HP:0000976", "name": "Eczema"}
+{"HPO": "HPO/HP:0100495", "name": "Mastocytosis"}
+{"HPO": "HPO/HP:0025524", "name": "Palmoplantar psoriasis"}
+{"HPO": "HPO/HP:0033327", "name": "Psoriasis of nail"}
+{"HPO": "HPO/HP:0006744", "name": "Adrenocortical carcinoma"}
+{"HPO": "HPO/HP:0030127", "name": "Endometriosis"}
+{"HPO": "HPO/HP:0005681", "name": "Juvenile arthritis"}
+{"HPO": "HPO/HP:0002019", "name": "Constipation"}
+{"HPO": "HPO/HP:0001257", "name": "Muscle Spasticity"}
+{"HPO": "HPO/HP:0020101", "name": "Invasive Fungal Infections"}
+{"HPO": "HPO/HP:0033677", "name": "Respiratory Distress Syndrome, Adult"}
+{"HPO": "HPO/HP:0005506", "name": "Myeloid Leukemia, Chronic"}
+{"HPO": "HPO/HP:0032242", "name": "Cervical Intraepithelial Neoplasia"}
+{"HPO": "HPO/HP:0007269", "name": "Spinal Muscular Atrophy"}
+{"HPO": "HPO/HP:0006721", "name": "Acute lymphocytic leukemia"}
+{"HPO": "HPO/HP:0100634", "name": "Neuroendocrine Tumors"}
+{"HPO": "HPO/HP:0000608", "name": "Macular degeneration"}
+{"HPO": "HPO/HP:0100570", "name": "Carcinoid Tumor"}
+{"HPO": "HPO/HP:0001025", "name": "Urticaria"}
+{"HPO": "HPO/HP:0001733", "name": "Pancreatitis"}
+{"HPO": "HPO/HP:0001287", "name": "Meningitis"}
+{"HPO": "HPO/HP:0030731", "name": "Carcinoma"}
+{"HPO": "HPO/HP:0003124", "name": "Hypercholesterolemia"}
+{"HPO": "HPO/HP:0500049", "name": "Retinopathy of Prematurity"}
+{"HPO": "HPO/HP:0033726", "name": "Lupus Nephritis"}
+{"HPO": "HPO/HP:0011459", "name": "Esophageal carcinoma"}
+{"HPO": "HPO/HP:0010978", "name": "Abnormality of immune system physiology"}
+{"HPO": "HPO/HP:0002715", "name": "Abnormality of the immune system"}
+{"HPO": "HPO/HP:0000118", "name": "Phenotypic abnormality"}
+{"HPO": "HPO/HP:0000001", "name": "All"}
+{"HPO": "HPO/HP:0012649", "name": "Increased inflammatory response"}
+{"HPO": "HPO/HP:0011122", "name": "Abnormality of skin physiology"}
+{"HPO": "HPO/HP:0012647", "name": "Abnormal inflammatory response"}
+{"HPO": "HPO/HP:0001574", "name": "Abnormality of the integument"}
+{"HPO": "HPO/HP:0032263", "name": "Increased blood pressure"}
+{"HPO": "HPO/HP:0030972", "name": "Abnormal systemic blood pressure"}
+{"HPO": "HPO/HP:0011025", "name": "Abnormal cardiovascular system physiology"}
+{"HPO": "HPO/HP:0002017", "name": "Nausea and vomiting"}
+{"HPO": "HPO/HP:0011458", "name": "Abdominal symptom"}
+{"HPO": "HPO/HP:0025032", "name": "Abnormality of digestive system physiology"}
+{"HPO": "HPO/HP:0025031", "name": "Abnormality of the digestive system"}
+{"HPO": "HPO/HP:0011793", "name": "Neoplasm by anatomical site"}
+{"HPO": "HPO/HP:0006536", "name": "Airway obstruction"}
+{"HPO": "HPO/HP:0002795", "name": "Abnormal respiratory system physiology"}
+{"HPO": "HPO/HP:0002086", "name": "Abnormality of the respiratory system"}
+{"HPO": "HPO/HP:0000366", "name": "Abnormality of the nose"}
+{"HPO": "HPO/HP:0000271", "name": "Abnormality of the face"}
+{"HPO": "HPO/HP:0000234", "name": "Abnormality of the head"}
+{"HPO": "HPO/HP:0000152", "name": "Abnormality of head or neck"}
+{"HPO": "HPO/HP:0100326", "name": "Immunologic hypersensitivity"}
+{"HPO": "HPO/HP:0030875", "name": "Abnormality of pulmonary circulation"}
+{"HPO": "HPO/HP:0030163", "name": "Abnormal vascular physiology"}
+{"HPO": "HPO/HP:0002597", "name": "Abnormality of the vasculature"}
+{"HPO": "HPO/HP:0012638", "name": "Abnormal nervous system physiology"}
+{"HPO": "HPO/HP:0000707", "name": "Abnormality of the nervous system"}
+{"HPO": "HPO/HP:0100754", "name": "Mania"}
+{"HPO": "HPO/HP:0031466", "name": "Impairment in personality functioning"}
+{"HPO": "HPO/HP:0000708", "name": "Atypical behavior"}
+{"HPO": "HPO/HP:0011446", "name": "Abnormality of higher mental function"}
+{"HPO": "HPO/HP:0001952", "name": "Glucose intolerance"}
+{"HPO": "HPO/HP:0000818", "name": "Abnormality of the endocrine system"}
+{"HPO": "HPO/HP:0011014", "name": "Abnormal glucose homeostasis"}
+{"HPO": "HPO/HP:0012337", "name": "Abnormal homeostasis"}
+{"HPO": "HPO/HP:0001939", "name": "Abnormality of metabolism/homeostasis"}
+{"HPO": "HPO/HP:0002718", "name": "Recurrent bacterial infections"}
+{"HPO": "HPO/HP:0001581", "name": "Recurrent skin infections"}
+{"HPO": "HPO/HP:0002719", "name": "Recurrent infections"}
+{"HPO": "HPO/HP:0032101", "name": "Unusual infection"}
+{"HPO": "HPO/HP:0002634", "name": "Arteriosclerosis"}
+{"HPO": "HPO/HP:0011004", "name": "Abnormal systemic arterial morphology"}
+{"HPO": "HPO/HP:0033353", "name": "Abnormal blood vessel morphology"}
+{"HPO": "HPO/HP:0025015", "name": "Abnormal vascular morphology"}
+{"HPO": "HPO/HP:0030680", "name": "Abnormality of cardiovascular system morphology"}
+{"HPO": "HPO/HP:0031678", "name": "Atherosclerotic lesion"}
+{"HPO": "HPO/HP:0011842", "name": "Abnormal skeletal morphology"}
+{"HPO": "HPO/HP:0000924", "name": "Abnormality of the skeletal system"}
+{"HPO": "HPO/HP:0033127", "name": "Abnormality of the musculoskeletal system"}
+{"HPO": "HPO/HP:0004349", "name": "Reduced bone mineral density"}
+{"HPO": "HPO/HP:0004348", "name": "Abnormality of bone mineral density"}
+{"HPO": "HPO/HP:0011849", "name": "Abnormal bone ossification"}
+{"HPO": "HPO/HP:0003330", "name": "Abnormal bone structure"}
+{"HPO": "HPO/HP:0002360", "name": "Sleep disturbance"}
+{"HPO": "HPO/HP:0002011", "name": "Morphological central nervous system abnormality"}
+{"HPO": "HPO/HP:0012639", "name": "Abnormal nervous system morphology"}
+{"HPO": "HPO/HP:0002315", "name": "Headache"}
+{"HPO": "HPO/HP:0033019", "name": "Male reproductive system neoplasm"}
+{"HPO": "HPO/HP:0008775", "name": "Abnormal prostate morphology"}
+{"HPO": "HPO/HP:0010787", "name": "Genital neoplasm"}
+{"HPO": "HPO/HP:0000022", "name": "Abnormal male internal genitalia morphology"}
+{"HPO": "HPO/HP:0000078", "name": "Abnormality of the genital system"}
+{"HPO": "HPO/HP:0007379", "name": "Neoplasm of the genitourinary tract"}
+{"HPO": "HPO/HP:0010461", "name": "Abnormality of the male genitalia"}
+{"HPO": "HPO/HP:0000812", "name": "Abnormal internal genitalia"}
+{"HPO": "HPO/HP:0000119", "name": "Abnormality of the genitourinary system"}
+{"HPO": "HPO/HP:0012243", "name": "Abnormal reproductive system morphology"}
+{"HPO": "HPO/HP:0025427", "name": "Abnormal bronchus physiology"}
+{"HPO": "HPO/HP:0001369", "name": "Arthritis"}
+{"HPO": "HPO/HP:0001367", "name": "Abnormal joint morphology"}
+{"HPO": "HPO/HP:0000433", "name": "Abnormal nasal mucosa morphology"}
+{"HPO": "HPO/HP:0005105", "name": "Abnormal nasal morphology"}
+{"HPO": "HPO/HP:0002088", "name": "Abnormal lung morphology"}
+{"HPO": "HPO/HP:0012252", "name": "Abnormal respiratory system morphology"}
+{"HPO": "HPO/HP:0000370", "name": "Abnormality of the middle ear"}
+{"HPO": "HPO/HP:0031703", "name": "Abnormal ear morphology"}
+{"HPO": "HPO/HP:0000598", "name": "Abnormality of the ear"}
+{"HPO": "HPO/HP:0000245", "name": "Abnormal paranasal sinus morphology"}
+{"HPO": "HPO/HP:0011821", "name": "Abnormal facial skeleton morphology"}
+{"HPO": "HPO/HP:0002087", "name": "Abnormality of the upper respiratory tract"}
+{"HPO": "HPO/HP:0000929", "name": "Abnormal skull morphology"}
+{"HPO": "HPO/HP:0009121", "name": "Abnormal axial skeleton morphology"}
+{"HPO": "HPO/HP:0001977", "name": "Abnormal thrombosis"}
+{"HPO": "HPO/HP:0001871", "name": "Abnormality of blood and blood-forming tissues"}
+{"HPO": "HPO/HP:0000140", "name": "Abnormality of the menstrual cycle"}
+{"HPO": "HPO/HP:0030012", "name": "Abnormal female reproductive system physiology"}
+{"HPO": "HPO/HP:0000080", "name": "Abnormality of reproductive system physiology"}
+{"HPO": "HPO/HP:0011276", "name": "Vascular skin abnormality"}
+{"HPO": "HPO/HP:0011354", "name": "Generalized abnormality of skin"}
+{"HPO": "HPO/HP:0011121", "name": "Abnormality of skin morphology"}
+{"HPO": "HPO/HP:0000364", "name": "Hearing abnormality"}
+{"HPO": "HPO/HP:0031704", "name": "Abnormal ear physiology"}
+{"HPO": "HPO/HP:0031432", "name": "Restricted or repetitive behaviors or interests"}
+{"HPO": "HPO/HP:0009726", "name": "Renal neoplasm"}
+{"HPO": "HPO/HP:0000077", "name": "Abnormality of the kidney"}
+{"HPO": "HPO/HP:0010786", "name": "Urinary tract neoplasm"}
+{"HPO": "HPO/HP:0010935", "name": "Abnormality of the upper urinary tract"}
+{"HPO": "HPO/HP:0000079", "name": "Abnormality of the urinary system"}
+{"HPO": "HPO/HP:0002250", "name": "Abnormal large intestine morphology"}
+{"HPO": "HPO/HP:0034930", "name": "Digestive system neoplasm"}
+{"HPO": "HPO/HP:0002242", "name": "Abnormal intestine morphology"}
+{"HPO": "HPO/HP:0012718", "name": "Morphological abnormality of the gastrointestinal tract"}
+{"HPO": "HPO/HP:0025033", "name": "Abnormality of digestive system morphology"}
+{"HPO": "HPO/HP:0001711", "name": "Abnormal left ventricle morphology"}
+{"HPO": "HPO/HP:0001714", "name": "Ventricular hypertrophy"}
+{"HPO": "HPO/HP:0001713", "name": "Abnormal cardiac ventricle morphology"}
+{"HPO": "HPO/HP:0001627", "name": "Abnormal heart morphology"}
+{"HPO": "HPO/HP:0012592", "name": "Albuminuria"}
+{"HPO": "HPO/HP:0020129", "name": "Abnormal urine protein level"}
+{"HPO": "HPO/HP:0033354", "name": "Abnormal urine metabolite level"}
+{"HPO": "HPO/HP:0003110", "name": "Abnormality of urine homeostasis"}
+{"HPO": "HPO/HP:0011277", "name": "Abnormality of the urinary system physiology"}
+{"HPO": "HPO/HP:0008373", "name": "Puberty and gonadal disorders"}
+{"HPO": "HPO/HP:0002665", "name": "Lymphoma"}
+{"HPO": "HPO/HP:0004377", "name": "Hematological neoplasm"}
+{"HPO": "HPO/HP:0005558", "name": "Chronic leukemia"}
+{"HPO": "HPO/HP:0001909", "name": "Leukemia"}
+{"HPO": "HPO/HP:0001881", "name": "Abnormal leukocyte morphology"}
+{"HPO": "HPO/HP:0010987", "name": "Abnormal cellular immune system morphology"}
+{"HPO": "HPO/HP:0032251", "name": "Abnormal immune system morphology"}
+{"HPO": "HPO/HP:0000009", "name": "Functional abnormality of the bladder"}
+{"HPO": "HPO/HP:0031064", "name": "Impaired continence"}
+{"HPO": "HPO/HP:0000014", "name": "Abnormality of the bladder"}
+{"HPO": "HPO/HP:0031058", "name": "Impairment of activities of daily living"}
+{"HPO": "HPO/HP:0010936", "name": "Abnormality of the lower urinary tract"}
+{"HPO": "HPO/HP:0025142", "name": "Constitutional symptom"}
+{"HPO": "HPO/HP:0004386", "name": "Gastrointestinal inflammation"}
+{"HPO": "HPO/HP:0012719", "name": "Functional abnormality of the gastrointestinal tract"}
+{"HPO": "HPO/HP:0032180", "name": "Abnormal circulating metabolite concentration"}
+{"HPO": "HPO/HP:0011804", "name": "Abnormal muscle physiology"}
+{"HPO": "HPO/HP:0003011", "name": "Abnormality of the musculature"}
+{"HPO": "HPO/HP:0004324", "name": "Increased body weight"}
+{"HPO": "HPO/HP:0004323", "name": "Abnormality of body weight"}
+{"HPO": "HPO/HP:0001507", "name": "Growth abnormality"}
+{"HPO": "HPO/HP:0002637", "name": "Cerebral ischemia"}
+{"HPO": "HPO/HP:0033401", "name": "Tissue ischemia"}
+{"HPO": "HPO/HP:0100659", "name": "Abnormal cerebral vascular morphology"}
+{"HPO": "HPO/HP:0025323", "name": "Abnormal arterial physiology"}
+{"HPO": "HPO/HP:0012443", "name": "Abnormality of brain morphology"}
+{"HPO": "HPO/HP:0001824", "name": "Weight loss"}
+{"HPO": "HPO/HP:0004325", "name": "Decreased body weight"}
+{"HPO": "HPO/HP:0012875", "name": "Abnormal ejaculation"}
+{"HPO": "HPO/HP:0012874", "name": "Abnormal male reproductive system physiology"}
+{"HPO": "HPO/HP:0001692", "name": "Atrial arrhythmia"}
+{"HPO": "HPO/HP:0005115", "name": "Supraventricular arrhythmia"}
+{"HPO": "HPO/HP:0030956", "name": "Abnormality of cardiovascular system electrophysiology"}
+{"HPO": "HPO/HP:0100526", "name": "Neoplasm of the lung"}
+{"HPO": "HPO/HP:0100606", "name": "Neoplasm of the respiratory system"}
+{"HPO": "HPO/HP:0011362", "name": "Abnormal hair quantity"}
+{"HPO": "HPO/HP:0001595", "name": "Abnormal hair morphology"}
+{"HPO": "HPO/HP:0011138", "name": "Abnormality of skin adnexa morphology"}
+{"HPO": "HPO/HP:0100037", "name": "Abnormality of the scalp hair"}
+{"HPO": "HPO/HP:0001965", "name": "Abnormal scalp morphology"}
+{"HPO": "HPO/HP:0012191", "name": "B-cell lymphoma"}
+{"HPO": "HPO/HP:0010785", "name": "Gonadal neoplasm"}
+{"HPO": "HPO/HP:0000137", "name": "Abnormality of the ovary"}
+{"HPO": "HPO/HP:0000008", "name": "Abnormal morphology of female internal genitalia"}
+{"HPO": "HPO/HP:0010460", "name": "Abnormality of the female genitalia"}
+{"HPO": "HPO/HP:0000501", "name": "Glaucoma"}
+{"HPO": "HPO/HP:0012373", "name": "Abnormal eye physiology"}
+{"HPO": "HPO/HP:0000478", "name": "Abnormality of the eye"}
+{"HPO": "HPO/HP:0006753", "name": "Neoplasm of the stomach"}
+{"HPO": "HPO/HP:0002577", "name": "Abnormal stomach morphology"}
+{"HPO": "HPO/HP:0011792", "name": "Neoplasm by histology"}
+{"HPO": "HPO/HP:0001268", "name": "Mental deterioration"}
+{"HPO": "HPO/HP:0100543", "name": "Cognitive impairment"}
+{"HPO": "HPO/HP:0001877", "name": "Abnormal erythrocyte morphology"}
+{"HPO": "HPO/HP:0001105", "name": "Retinal atrophy"}
+{"HPO": "HPO/HP:0000546", "name": "Retinal degeneration"}
+{"HPO": "HPO/HP:0001098", "name": "Abnormal fundus morphology"}
+{"HPO": "HPO/HP:0004329", "name": "Abnormal posterior eye segment morphology"}
+{"HPO": "HPO/HP:0012372", "name": "Abnormal eye morphology"}
+{"HPO": "HPO/HP:0007550", "name": "Hypohidrosis or hyperhidrosis"}
+{"HPO": "HPO/HP:0025276", "name": "Abnormality of skin adnexa physiology"}
+{"HPO": "HPO/HP:0012393", "name": "Allergy"}
+{"HPO": "HPO/HP:0000509", "name": "Conjunctivitis"}
+{"HPO": "HPO/HP:0025337", "name": "Red eye"}
+{"HPO": "HPO/HP:0100533", "name": "Inflammatory abnormality of the eye"}
+{"HPO": "HPO/HP:0000502", "name": "Abnormal conjunctiva morphology"}
+{"HPO": "HPO/HP:0008047", "name": "Abnormality of the vasculature of the eye"}
+{"HPO": "HPO/HP:0030669", "name": "Abnormal ocular adnexa morphology"}
+{"HPO": "HPO/HP:0032039", "name": "Abnormality of the ocular adnexa"}
+{"HPO": "HPO/HP:0000315", "name": "Abnormality of the orbital region"}
+{"HPO": "HPO/HP:0020219", "name": "Motor seizure"}
+{"HPO": "HPO/HP:0002197", "name": "Generalized-onset seizure"}
+{"HPO": "HPO/HP:0031865", "name": "Abnormal liver physiology"}
+{"HPO": "HPO/HP:0004297", "name": "Abnormality of the biliary system"}
+{"HPO": "HPO/HP:0001392", "name": "Abnormality of the liver"}
+{"HPO": "HPO/HP:0002012", "name": "Abnormality of the abdominal organs"}
+{"HPO": "HPO/HP:0002896", "name": "Neoplasm of the liver"}
+{"HPO": "HPO/HP:0000752", "name": "Hyperactivity"}
+{"HPO": "HPO/HP:0000736", "name": "Short attention span"}
+{"HPO": "HPO/HP:5200045", "name": "Reduced impulse control"}
+{"HPO": "HPO/HP:5200044", "name": "Reduced attention regulation"}
+{"HPO": "HPO/HP:0011890", "name": "Prolonged bleeding following procedure"}
+{"HPO": "HPO/HP:0001892", "name": "Abnormal bleeding"}
+{"HPO": "HPO/HP:0100545", "name": "Arterial stenosis"}
+{"HPO": "HPO/HP:0006704", "name": "Abnormal coronary artery morphology"}
+{"HPO": "HPO/HP:0025426", "name": "Abnormal bronchus morphology"}
+{"HPO": "HPO/HP:0005607", "name": "Abnormal tracheobronchial morphology"}
+{"HPO": "HPO/HP:0002488", "name": "Acute leukemia"}
+{"HPO": "HPO/HP:0001873", "name": "Thrombocytopenia"}
+{"HPO": "HPO/HP:0011873", "name": "Abnormal platelet count"}
+{"HPO": "HPO/HP:0011875", "name": "Abnormal platelet morphology"}
+{"HPO": "HPO/HP:0001872", "name": "Abnormality of thrombocytes"}
+{"HPO": "HPO/HP:0000969", "name": "Edema"}
+{"HPO": "HPO/HP:0011032", "name": "Abnormality of fluid regulation"}
+{"HPO": "HPO/HP:0033578", "name": "Pre-capillary pulmonary hypertension"}
+{"HPO": "HPO/HP:0004890", "name": "Elevated pulmonary artery pressure"}
+{"HPO": "HPO/HP:0020169", "name": "Abnormal drug response"}
+{"HPO": "HPO/HP:0004370", "name": "Abnormality of temperature regulation"}
+{"HPO": "HPO/HP:0100494", "name": "Abnormal mast cell morphology"}
+{"HPO": "HPO/HP:0001911", "name": "Abnormal granulocyte morphology"}
+{"HPO": "HPO/HP:0010974", "name": "Abnormal myeloid leukocyte morphology"}
+{"HPO": "HPO/HP:0040189", "name": "Scaling skin"}
+{"HPO": "HPO/HP:0011124", "name": "Abnormal epidermal morphology"}
+{"HPO": "HPO/HP:0001597", "name": "Abnormality of the nail"}
+{"HPO": "HPO/HP:0100641", "name": "Neoplasm of the adrenal cortex"}
+{"HPO": "HPO/HP:0100631", "name": "Neoplasm of the adrenal gland"}
+{"HPO": "HPO/HP:0100568", "name": "Neoplasm of the endocrine system"}
+{"HPO": "HPO/HP:0011732", "name": "Abnormality of adrenal morphology"}
+{"HPO": "HPO/HP:0031071", "name": "Abnormal endocrine morphology"}
+{"HPO": "HPO/HP:0000834", "name": "Abnormality of the adrenal glands"}
+{"HPO": "HPO/HP:0030126", "name": "Abnormal endometrium morphology"}
+{"HPO": "HPO/HP:0031105", "name": "Abnormal uterus morphology"}
+{"HPO": "HPO/HP:0000130", "name": "Abnormality of the uterus"}
+{"HPO": "HPO/HP:0002493", "name": "Upper motor neuron dysfunction"}
+{"HPO": "HPO/HP:0001276", "name": "Hypertonia"}
+{"HPO": "HPO/HP:0011442", "name": "Abnormal central motor function"}
+{"HPO": "HPO/HP:0003808", "name": "Abnormal muscle tone"}
+{"HPO": "HPO/HP:0020100", "name": "Unusual fungal infection"}
+{"HPO": "HPO/HP:0004887", "name": "Respiratory failure requiring assisted ventilation"}
+{"HPO": "HPO/HP:0002093", "name": "Respiratory insufficiency"}
+{"HPO": "HPO/HP:0032241", "name": "Cervical neoplasm"}
+{"HPO": "HPO/HP:0012888", "name": "Abnormal uterine cervix morphology"}
+{"HPO": "HPO/HP:0003202", "name": "Skeletal muscle atrophy"}
+{"HPO": "HPO/HP:0030236", "name": "Abnormality of muscle size"}
+{"HPO": "HPO/HP:0011805", "name": "Abnormal skeletal muscle morphology"}
+{"HPO": "HPO/HP:0100007", "name": "Neoplasm of the peripheral nervous system"}
+{"HPO": "HPO/HP:0004375", "name": "Neoplasm of the nervous system"}
+{"HPO": "HPO/HP:0000759", "name": "Abnormal peripheral nervous system morphology"}
+{"HPO": "HPO/HP:0001103", "name": "Abnormal macular morphology"}
+{"HPO": "HPO/HP:0012091", "name": "Abnormality of pancreas physiology"}
+{"HPO": "HPO/HP:0001732", "name": "Abnormality of the pancreas"}
+{"HPO": "HPO/HP:0011450", "name": "Unusual CNS infection"}
+{"HPO": "HPO/HP:0032158", "name": "Unusual infection by anatomical site"}
+{"HPO": "HPO/HP:0031492", "name": "Epithelial neoplasm"}
+{"HPO": "HPO/HP:0003107", "name": "Abnormal circulating cholesterol concentration"}
+{"HPO": "HPO/HP:0000099", "name": "Glomerulonephritis"}
+{"HPO": "HPO/HP:0000123", "name": "Nephritis"}
+{"HPO": "HPO/HP:0000095", "name": "Abnormal renal glomerulus morphology"}
+{"HPO": "HPO/HP:0012211", "name": "Abnormal renal physiology"}
+{"HPO": "HPO/HP:0031263", "name": "Abnormal renal corpuscle morphology"}
+{"HPO": "HPO/HP:0012575", "name": "Abnormal nephron morphology"}
+{"HPO": "HPO/HP:0011035", "name": "Abnormal renal cortex morphology"}
+{"HPO": "HPO/HP:0012210", "name": "Abnormal renal morphology"}
+{"HPO": "HPO/HP:0100751", "name": "Esophageal neoplasm"}
+{"HPO": "HPO/HP:0012288", "name": "Neoplasm of head and neck"}
+{"HPO": "HPO/HP:0002031", "name": "Abnormal esophagus morphology"}

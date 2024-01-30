@@ -22,8 +22,8 @@ LOAD CSV WITH HEADERS FROM 'file:///medicines.tsv' AS row FIELDTERMINATOR '\t' M
 LOAD CSV WITH HEADERS FROM 'file:///medicines_cryptic.tsv' AS row FIELDTERMINATOR '\t' MERGE (c:Medicine {UMLS: row.UMLS, name: coalesce(row.name, ""), HPO: split(coalesce(row.HPO, ''), '|'), MSH: split(coalesce(row.MSH, ''), '|'), RXNORM: split(coalesce(row.RXNORM, ''), '|'), other_name: coalesce(row.other_name, '')})
 ;
 
-LOAD CSV WITH HEADERS FROM 'file:///clinical_study_data_request_com_all_sponsor.tsv' AS row FIELDTERMINATOR '\t' MERGE (t:Trial {name: row.`Study Title`, id: row.`Posting ID`, 
-original_medicine: row.`Medicine or Vaccine (generic name)`, original_condition: row.`Medical Condition`, phase: row.Phase, url: coalesce(row.`Link to study details on ClinicalTrials.gov (if available)`, ''), date_added: row.`Date Added to this Site`,
+LOAD CSV WITH HEADERS FROM 'file:///trials.tsv' AS row FIELDTERMINATOR '\t' MERGE (t:Trial {name: row.`Study Title`, id: row.`Posting ID`, 
+original_medicine: coalesce(row.`Medicine or Vaccine (generic name)`, ''), original_condition: coalesce(row.`Medical Condition`, ''), phase: coalesce(row.Phase, ''), url: coalesce(row.`Link to study details on ClinicalTrials.gov (if available)`, ''), date_added: row.`Date Added to this Site`,
 analysis_ready_data: row.`Analysis-ready dataset`})
 ;
 LOAD CSV WITH HEADERS FROM 'file:///condition_hpo_name.tsv' AS row FIELDTERMINATOR '\t' MERGE (c:ConditionHPO {HPO: row.HPO, name: row.name})

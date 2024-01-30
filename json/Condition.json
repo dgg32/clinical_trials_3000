@@ -1,0 +1,279 @@
+{"MSH": ["MSH/D000152"], "HPO": [""], "UMLS": "UMLS/C0001144", "name": "Acne Vulgaris"}
+{"MSH": ["MSH/D008180"], "HPO": ["HPO/HP:0002725"], "name": "Lupus Erythematosus, Systemic", "UMLS": "UMLS/C0024141"}
+{"DALY_percent": "0.001377652987", "death_percent": "0", "MSH": ["MSH/D011565"], "HPO": ["HPO/HP:0003765"], "DALY_rate": "45.30859006", "UMLS": "UMLS/C0033860", "name": "Psoriasis", "DALY_number": "3505736.127", "deaths_rate": "0", "death_number": "0"}
+{"MSH": ["MSH/D006973"], "HPO": ["HPO/HP:0000822"], "name": "Hypertensive disease", "UMLS": "UMLS/C0020538"}
+{"MSH": [""], "HPO": [""], "UMLS": "UMLS/C4687664", "name": "Refractory Chemotherapy-Induced Nausea and Vomiting"}
+{"MSH": ["MSH/D014839"], "HPO": ["HPO/HP:0002013"], "UMLS": "UMLS/C0042963", "name": "Vomiting"}
+{"DALY_percent": "0.003945653039", "death_percent": "0", "MSH": ["MSH/D003872"], "HPO": ["HPO/HP:0011123"], "DALY_rate": "130.0657507", "UMLS": "UMLS/C0011603", "name": "Dermatitis", "DALY_number": "10063791.45", "deaths_rate": "0", "death_number": "0"}
+{"MSH": ["MSH/D029424"], "HPO": ["HPO/HP:0006510"], "name": "Chronic Obstructive Airway Disease", "UMLS": "UMLS/C0024117"}
+{"MSH": ["MSH/D012220"], "HPO": ["HPO/HP:0012384"], "UMLS": "UMLS/C0035455", "name": "Rhinitis"}
+{"DALY_percent": "0.008481539868", "death_percent": "0.008157039567", "MSH": ["MSH/D001249"], "HPO": ["HPO/HP:0002099"], "DALY_rate": "278.5276295", "UMLS": "UMLS/C0004096", "name": "Asthma", "DALY_number": "21550976.8", "deaths_rate": "5.958919168", "death_number": "461069.2625"}
+{"MSH": ["MSH/D054058"], "HPO": ["HPO/HP:0033678"], "name": "Acute Coronary Syndrome", "UMLS": "UMLS/C0948089"}
+{"MSH": ["MSH/D011655"], "HPO": ["HPO/HP:0002204"], "name": "Pulmonary Embolism", "UMLS": "UMLS/C0034065"}
+{"MSH": ["MSH/D013927"], "HPO": [""], "UMLS": "UMLS/C0040053", "name": "Thrombosis"}
+{"MSH": ["MSH/D019964"], "HPO": [""], "UMLS": "UMLS/C0525045", "name": "Mood Disorders"}
+{"MSH": ["MSH/D004827"], "HPO": ["HPO/HP:0001250"], "UMLS": "UMLS/C0014544", "name": "Epilepsy"}
+{"DALY_percent": "0.003339779684", "death_percent": "0", "MSH": ["MSH/D001714"], "HPO": ["HPO/HP:0007302"], "DALY_rate": "109.8864727", "name": "Bipolar Disorder", "UMLS": "UMLS/C0005586", "DALY_number": "8502426.948", "deaths_rate": "0", "death_number": "0"}
+{"MSH": ["MSH/D015228"], "HPO": [""], "name": "Hypertriglyceridemia", "UMLS": "UMLS/C0020557"}
+{"DALY_percent": "0.001804305054", "death_percent": "0.001383912572", "MSH": ["MSH/D003922"], "HPO": ["HPO/HP:0100651"], "DALY_rate": "59.19773831", "name": "Diabetes Mellitus, Insulin-Dependent", "UMLS": "UMLS/C0011854", "DALY_number": "4580404.059", "deaths_rate": "1.011133887", "death_number": "78236.12678"}
+{"MSH": ["MSH/D003866"], "HPO": ["HPO/HP:0000716"], "name": "Depressive disorder", "UMLS": "UMLS/C0011581"}
+{"MSH": ["MSH/D001424"], "HPO": [""], "name": "Bacterial Infections", "UMLS": "UMLS/C0004623"}
+{"MSH": [""], "HPO": ["HPO/HP:0005406"], "name": "Recurrent bacterial skin infections", "UMLS": "UMLS/C1835686"}
+{"MSH": ["MSH/D050197"], "HPO": ["HPO/HP:0002621", "HPO/HP:0002635"], "name": "Atherosclerosis", "UMLS": "UMLS/C0004153"}
+{"MSH": ["MSH/D050723"], "HPO": ["HPO/HP:0020110"], "UMLS": "UMLS/C0016658", "name": "Fracture"}
+{"MSH": ["MSH/D010024"], "HPO": ["HPO/HP:0000939"], "UMLS": "UMLS/C0029456", "name": "Osteoporosis"}
+{"DALY_percent": "0.002483507045", "death_percent": "0.006421567405", "MSH": ["MSH/D010300"], "HPO": [""], "DALY_rate": "81.32658326", "name": "Parkinson Disease", "UMLS": "UMLS/C0030567", "DALY_number": "6292615.609", "deaths_rate": "4.690256289", "death_number": "362906.9211"}
+{"MSH": ["MSH/D012148"], "HPO": ["HPO/HP:0012452"], "name": "Restless Legs Syndrome", "UMLS": "UMLS/C0035258"}
+{"DALY_percent": "0.009965309975", "death_percent": "0.02872635933", "MSH": ["MSH/D000544"], "HPO": ["HPO/HP:0002511"], "DALY_rate": "326.6830949", "name": "Alzheimer's Disease", "UMLS": "UMLS/C0002395", "DALY_number": "25276988.9", "deaths_rate": "20.97942872", "death_number": "1623275.875"}
+{"DALY_percent": "0.02608729821", "death_percent": "0.02605994707", "MSH": ["MSH/D003924"], "HPO": ["HPO/HP:0005978"], "DALY_rate": "856.8666075", "UMLS": "UMLS/C0011860", "name": "Diabetes Mellitus, Non-Insulin-Dependent", "DALY_number": "66299750.62", "deaths_rate": "19.03639043", "death_number": "1472933.975"}
+{"DALY_percent": "0.01646216909", "death_percent": "0", "MSH": ["MSH/D008881"], "HPO": ["HPO/HP:0002076"], "DALY_rate": "543.8172315", "name": "Migraine Disorders", "UMLS": "UMLS/C0149931", "DALY_number": "42077665.9", "deaths_rate": "0", "death_number": "0"}
+{"MSH": ["MSH/D012893"], "HPO": [""], "name": "Sleep Disorders", "UMLS": "UMLS/C0851578"}
+{"MSH": ["MSH/D030361"], "HPO": [""], "name": "Human papilloma virus infection", "UMLS": "UMLS/C0343641"}
+{"MSH": ["MSH/D013290"], "HPO": [""], "name": "Streptococcal Infections", "UMLS": "UMLS/C0038395"}
+{"MSH": ["MSH/D014917"], "HPO": [""], "UMLS": "UMLS/C0043167", "name": "Pertussis"}
+{"DALY_percent": "0.0001443709996", "death_percent": "7.72e-05", "MSH": ["MSH/D004165"], "HPO": [""], "DALY_rate": "4.731909944", "UMLS": "UMLS/C0012546", "name": "Diphtheria", "DALY_number": "366129.8579", "deaths_rate": "0.05645101828", "death_number": "4367.877568"}
+{"DALY_percent": "0.0006369933867", "death_percent": "0.0005745227987", "MSH": ["MSH/D006509"], "HPO": [""], "DALY_rate": "20.86443551", "UMLS": "UMLS/C0019163", "name": "Hepatitis B", "DALY_number": "1614378.316", "deaths_rate": "0.4198292831", "death_number": "32484.14226"}
+{"MSH": ["MSH/D011051"], "HPO": [""], "UMLS": "UMLS/C0032371", "name": "Poliomyelitis"}
+{"DALY_percent": "0.0009137629763", "death_percent": "0.0006132280296", "MSH": ["MSH/D013742"], "HPO": [""], "DALY_rate": "29.93721043", "UMLS": "UMLS/C0039614", "name": "Tetanus", "DALY_number": "2316381.066", "deaths_rate": "0.4482570187", "death_number": "34683.72824"}
+{"MSH": ["MSH/D019741"], "HPO": [""], "name": "Haemophilus influenzae type b", "UMLS": "UMLS/C0121772"}
+{"MSH": ["MSH/D009345"], "HPO": [""], "name": "Neisseria meningitidis", "UMLS": "UMLS/C0027575"}
+{"DALY_percent": "0.00276994722", "death_percent": "0.001474493675", "MSH": ["MSH/D008457"], "HPO": [""], "DALY_rate": "90.79997135", "UMLS": "UMLS/C0025007", "name": "Measles", "DALY_number": "7025615.661", "deaths_rate": "1.077769439", "death_number": "83392.02904"}
+{"MSH": ["MSH/D009107"], "HPO": [""], "UMLS": "UMLS/C0026780", "name": "Mumps"}
+{"MSH": ["MSH/D012409"], "HPO": [""], "UMLS": "UMLS/C0035920", "name": "Rubella"}
+{"MSH": ["MSH/D002644"], "HPO": [""], "UMLS": "UMLS/C0008049", "name": "Chickenpox"}
+{"MSH": ["MSH/D007251"], "HPO": [""], "UMLS": "UMLS/C0021400", "name": "Influenza"}
+{"MSH": ["MSH/D012400"], "HPO": [""], "name": "Rotavirus Infections", "UMLS": "UMLS/C0035869"}
+{"MSH": ["MSH/D012640"], "HPO": ["HPO/HP:0001250"], "UMLS": "UMLS/C0036572", "name": "Seizures"}
+{"MSH": ["MSH/D051474"], "HPO": [""], "name": "Postherpetic neuralgia", "UMLS": "UMLS/C0032768"}
+{"DALY_percent": "0.01831878681", "death_percent": "0.01137307645", "MSH": ["MSH/D008288"], "HPO": [""], "DALY_rate": "600.1683164", "UMLS": "UMLS/C0024530", "name": "Malaria", "DALY_number": "46437811.16", "deaths_rate": "8.315138442", "death_number": "643380.8953"}
+{"DALY_percent": "0.04922671037", "death_percent": "5.63e-06", "MSH": ["MSH/D001523"], "HPO": [""], "DALY_rate": "1619.53984", "name": "Mental disorders", "UMLS": "UMLS/C0004936", "DALY_number": "125311322.1", "deaths_rate": "0.004113599735", "death_number": "318.2883242"}
+{"MSH": ["MSH/D006333"], "HPO": ["HPO/HP:0001635"], "name": "Congestive heart failure", "UMLS": "UMLS/C0018802"}
+{"MSH": ["MSH/D011471"], "HPO": ["HPO/HP:0100787"], "name": "Prostatic Neoplasms", "UMLS": "UMLS/C0033578"}
+{"MSH": ["MSH/D011470"], "HPO": [""], "name": "Prostatic Hyperplasia", "UMLS": "UMLS/C2937421"}
+{"MSH": ["MSH/D001986"], "HPO": ["HPO/HP:0025428"], "UMLS": "UMLS/C0006266", "name": "Bronchospasm"}
+{"DALY_percent": "0.0004573703494", "death_percent": "0.0003970539448", "MSH": ["MSH/D009103"], "HPO": [""], "DALY_rate": "14.98981766", "name": "Multiple Sclerosis", "UMLS": "UMLS/C0026769", "DALY_number": "1159831.838", "deaths_rate": "0.2900040872", "death_number": "22438.96365"}
+{"MSH": ["MSH/D003929"], "HPO": [""], "name": "Diabetic Neuropathies", "UMLS": "UMLS/C0011882"}
+{"DALY_percent": "0.001283365224", "death_percent": "0.0007857886244", "MSH": ["MSH/D001172"], "HPO": ["HPO/HP:0001370"], "DALY_rate": "42.16612677", "name": "Rheumatoid Arthritis", "UMLS": "UMLS/C0003873", "DALY_number": "3262589.141", "deaths_rate": "0.5739393039", "death_number": "44408.3506"}
+{"MSH": ["MSH/D016535"], "HPO": [""], "name": "Bronchial Hyperreactivity", "UMLS": "UMLS/C0085129"}
+{"MSH": ["MSH/D015658"], "HPO": [""], "UMLS": "UMLS/C0019693", "name": "HIV Infections"}
+{"MSH": ["MSH/D009298"], "HPO": ["HPO/HP:0100582"], "UMLS": "UMLS/C0027430", "name": "Nasal Polyps"}
+{"DALY_percent": "0.0009255784545", "death_percent": "0.0006947234055", "MSH": ["MSH/D006506"], "HPO": [""], "DALY_rate": "30.33761152", "UMLS": "UMLS/C0019159", "name": "Hepatitis A", "DALY_number": "2347361.959", "deaths_rate": "0.5076322569", "death_number": "39277.86629"}
+{"DALY_percent": "0.01461682293", "death_percent": "0", "MSH": ["MSH/D003866"], "HPO": [""], "DALY_rate": "480.8130744", "name": "Unipolar Depression", "UMLS": "UMLS/C0041696", "DALY_number": "37202741.53", "deaths_rate": "0", "death_number": "0"}
+{"MSH": ["MSH/D012141"], "HPO": ["HPO/HP:0011947"], "name": "Respiratory Tract Infections", "UMLS": "UMLS/C0035243"}
+{"MSH": ["MSH/D010033"], "HPO": ["HPO/HP:0000388"], "UMLS": "UMLS/C0029882", "name": "Otitis Media"}
+{"MSH": ["MSH/D011014"], "HPO": ["HPO/HP:0002090"], "UMLS": "UMLS/C0032285", "name": "Pneumonia"}
+{"MSH": ["MSH/D017714"], "HPO": [""], "name": "Community-Acquired Infections", "UMLS": "UMLS/C0206171"}
+{"MSH": ["MSH/D013296"], "HPO": [""], "name": "Streptococcus pneumoniae", "UMLS": "UMLS/C0038410"}
+{"MSH": ["MSH/D001991"], "HPO": ["HPO/HP:0012387"], "UMLS": "UMLS/C0006277", "name": "Bronchitis"}
+{"MSH": ["MSH/D012852"], "HPO": ["HPO/HP:0000246"], "UMLS": "UMLS/C0037199", "name": "Sinusitis"}
+{"MSH": ["MSH/D012223"], "HPO": [""], "name": "Rhinitis, Vasomotor", "UMLS": "UMLS/C0035460"}
+{"MSH": ["MSH/D013923"], "HPO": ["HPO/HP:0001907"], "name": "Thromboembolism", "UMLS": "UMLS/C0040038"}
+{"MSH": ["MSH/D004830"], "HPO": [""], "name": "Tonic-Clonic Epilepsy", "UMLS": "UMLS/C0014549"}
+{"MSH": ["MSH/D004828"], "HPO": [""], "name": "Epilepsies, Partial", "UMLS": "UMLS/C0014547"}
+{"DALY_percent": "0.005955320589", "death_percent": "0", "MSH": ["MSH/D012559"], "HPO": ["HPO/HP:0100753"], "DALY_rate": "195.2480431", "UMLS": "UMLS/C0036341", "name": "Schizophrenia", "DALY_number": "15107248.26", "deaths_rate": "0", "death_number": "0"}
+{"MSH": [""], "HPO": ["HPO/HP:0009830"], "name": "Peripheral Neuropathy", "UMLS": "UMLS/C0031117"}
+{"MSH": ["MSH/D000568"], "HPO": ["HPO/HP:0000141"], "UMLS": "UMLS/C0002453", "name": "Amenorrhea"}
+{"MSH": ["MSH/D005356"], "HPO": [""], "UMLS": "UMLS/C0016053", "name": "Fibromyalgia"}
+{"MSH": ["MSH/D006558"], "HPO": [""], "UMLS": "UMLS/C0019342", "name": "Genital Herpes"}
+{"MSH": ["MSH/D006561"], "HPO": [""], "name": "Herpes Simplex Infections", "UMLS": "UMLS/C0019348"}
+{"MSH": ["MSH/D006560"], "HPO": [""], "name": "Herpes Labialis", "UMLS": "UMLS/C0019345"}
+{"MSH": ["MSH/D006566"], "HPO": [""], "name": "Herpesviridae Infections", "UMLS": "UMLS/C0019372"}
+{"DALY_percent": "0.01126624243", "death_percent": "0", "MSH": ["MSH/D001008"], "HPO": [""], "DALY_rate": "370.6130089", "name": "Anxiety Disorders", "UMLS": "UMLS/C0003469", "DALY_number": "28676050.45", "deaths_rate": "0", "death_number": "0"}
+{"MSH": ["MSH/D009325"], "HPO": ["HPO/HP:0002018"], "UMLS": "UMLS/C0027497", "name": "Nausea"}
+{"MSH": ["MSH/D008589"], "HPO": [""], "name": "Meningococcal Infections", "UMLS": "UMLS/C0025303"}
+{"MSH": [""], "HPO": [""], "name": "Idiopathic urticaria", "UMLS": "UMLS/C0157741"}
+{"MSH": ["MSH/D000080223"], "HPO": ["HPO/HP:0410133"], "name": "Chronic Spontaneous Urticaria", "UMLS": "UMLS/C0578870"}
+{"DALY_percent": "0.002932691258", "death_percent": "0", "MSH": ["MSH/D003876"], "HPO": ["HPO/HP:0001047"], "DALY_rate": "96.67359384", "name": "Dermatitis, Atopic", "UMLS": "UMLS/C0011615", "DALY_number": "7480085.123", "deaths_rate": "0", "death_number": "0"}
+{"MSH": ["MSH/D014012"], "HPO": ["HPO/HP:0000360"], "UMLS": "UMLS/C0040264", "name": "Tinnitus"}
+{"MSH": ["MSH/D010698"], "HPO": [""], "name": "Phobic anxiety disorder", "UMLS": "UMLS/C0349231"}
+{"MSH": ["MSH/D009771"], "HPO": ["HPO/HP:0000722"], "name": "Obsessive-Compulsive Disorder", "UMLS": "UMLS/C0028768"}
+{"MSH": ["MSH/D016584"], "HPO": [""], "UMLS": "UMLS/C0030319", "name": "Panic Disorder"}
+{"MSH": ["MSH/D013313"], "HPO": ["HPO/HP:0033676"], "name": "Post-Traumatic Stress Disorder", "UMLS": "UMLS/C0038436"}
+{"MSH": [""], "HPO": [""], "UMLS": "UMLS/C1457887", "name": "Symptoms"}
+{"MSH": ["MSH/D011470"], "HPO": ["HPO/HP:0008711"], "name": "Benign Prostatic Hyperplasia", "UMLS": "UMLS/C1704272"}
+{"DALY_percent": "0.003125605172", "death_percent": "0", "MSH": ["MSH/D011293"], "HPO": [""], "DALY_rate": "103.0599952", "name": "Premenstrual syndrome", "UMLS": "UMLS/C0033046", "DALY_number": "7974230.667", "deaths_rate": "0", "death_number": "0"}
+{"MSH": ["MSH/D009980"], "HPO": [""], "name": "influenza A virus", "UMLS": "UMLS/C0029347"}
+{"MSH": ["MSH/D009181"], "HPO": [""], "UMLS": "UMLS/C0026946", "name": "Mycoses"}
+{"DALY_percent": "0.09927067752", "death_percent": "0.1783279183", "MSH": ["MSH/D009369"], "HPO": ["HPO/HP:0002664"], "DALY_rate": "3249.002917", "UMLS": "UMLS/C0027651", "name": "Neoplasms", "DALY_number": "251390451.3", "deaths_rate": "130.2705455", "death_number": "10079637.37"}
+{"MSH": ["MSH/D002292"], "HPO": ["HPO/HP:0005584"], "name": "Renal Cell Carcinoma", "UMLS": "UMLS/C0007134"}
+{"MSH": ["MSH/D018805"], "HPO": ["HPO/HP:0100806"], "UMLS": "UMLS/C0036690", "name": "Septicemia"}
+{"MSH": ["MSH/D009133"], "HPO": [""], "name": "Muscular Atrophy", "UMLS": "UMLS/C0026846"}
+{"MSH": ["MSH/D015179"], "HPO": ["HPO/HP:0100834"], "name": "Colorectal Neoplasms", "UMLS": "UMLS/C0009404"}
+{"MSH": ["MSH/D017379"], "HPO": ["HPO/HP:0001712"], "name": "Left Ventricular Hypertrophy", "UMLS": "UMLS/C0149721"}
+{"MSH": [""], "HPO": ["HPO/HP:0012594"], "name": "Microalbuminuria", "UMLS": "UMLS/C0730345"}
+{"MSH": ["MSH/D006333"], "HPO": ["HPO/HP:0001635"], "UMLS": "UMLS/C0018801", "name": "Heart failure"}
+{"MSH": ["MSH/D003930"], "HPO": [""], "name": "Diabetic Retinopathy", "UMLS": "UMLS/C0011884"}
+{"MSH": ["MSH/D007006"], "HPO": ["HPO/HP:0000135"], "UMLS": "UMLS/C0020619", "name": "Hypogonadism"}
+{"MSH": ["MSH/D005770"], "HPO": ["HPO/HP:0007378"], "name": "Gastrointestinal Neoplasms", "UMLS": "UMLS/C0017185"}
+{"MSH": ["MSH/D012628"], "HPO": ["HPO/HP:0001051"], "name": "Seborrheic dermatitis", "UMLS": "UMLS/C0036508"}
+{"MSH": ["MSH/D007169"], "HPO": [""], "UMLS": "UMLS/C0021099", "name": "Impetigo"}
+{"MSH": ["MSH/D004827"], "HPO": [""], "UMLS": "UMLS/C0236018", "name": "Aura"}
+{"DALY_percent": "0.002760602178", "death_percent": "0.004504761125", "MSH": ["MSH/D008228"], "HPO": ["HPO/HP:0012539"], "DALY_rate": "90.35684144", "name": "Lymphoma, Non-Hodgkin", "UMLS": "UMLS/C0024305", "DALY_number": "6991328.64", "deaths_rate": "3.290670461", "death_number": "254614.4627"}
+{"DALY_percent": "0.0003744806918", "death_percent": "0.0007894289027", "MSH": ["MSH/D015451"], "HPO": ["HPO/HP:0005550"], "DALY_rate": "12.25806694", "name": "Chronic Lymphocytic Leukemia", "UMLS": "UMLS/C0023434", "DALY_number": "948463.5931", "deaths_rate": "0.5765781236", "death_number": "44612.52833"}
+{"MSH": ["MSH/D014549"], "HPO": ["HPO/HP:0000020"], "name": "Urinary Incontinence", "UMLS": "UMLS/C0042024"}
+{"MSH": ["MSH/D014947"], "HPO": [""], "name": "Traumatic injury", "UMLS": "UMLS/C3263723"}
+{"MSH": ["MSH/D015212"], "HPO": ["HPO/HP:0002037"], "name": "Inflammatory Bowel Diseases", "UMLS": "UMLS/C0021390"}
+{"MSH": ["MSH/D050171"], "HPO": ["HPO/HP:0003119"], "UMLS": "UMLS/C0242339", "name": "Dyslipidemias"}
+{"MSH": ["MSH/D018589"], "HPO": ["HPO/HP:0002578"], "UMLS": "UMLS/C0152020", "name": "Gastroparesis"}
+{"MSH": ["MSH/D010146"], "HPO": ["HPO/HP:0012531"], "UMLS": "UMLS/C0030193", "name": "Pain"}
+{"MSH": ["MSH/D007249"], "HPO": [""], "UMLS": "UMLS/C0021368", "name": "Inflammation"}
+{"MSH": ["MSH/D009765"], "HPO": ["HPO/HP:0001513"], "UMLS": "UMLS/C0028754", "name": "Obesity"}
+{"MSH": ["MSH/D003371"], "HPO": ["HPO/HP:0012735"], "UMLS": "UMLS/C0010200", "name": "Coughing"}
+{"DALY_percent": "9.99e-05", "death_percent": "9.69e-05", "MSH": ["MSH/D006526"], "HPO": [""], "DALY_rate": "3.274351557", "UMLS": "UMLS/C0019196", "name": "Hepatitis C", "DALY_number": "253351.7934", "deaths_rate": "0.07085789923", "death_number": "5482.604886"}
+{"MSH": ["MSH/D002546"], "HPO": ["HPO/HP:0002326"], "name": "Transient Ischemic Attack", "UMLS": "UMLS/C0007787"}
+{"MSH": ["MSH/D020521"], "HPO": ["HPO/HP:0001297"], "name": "Cerebrovascular accident", "UMLS": "UMLS/C0038454"}
+{"MSH": ["MSH/D002100"], "HPO": ["HPO/HP:0004326"], "UMLS": "UMLS/C0006625", "name": "Cachexia"}
+{"MSH": ["MSH/D061686"], "HPO": ["HPO/HP:0012876"], "name": "Premature Ejaculation", "UMLS": "UMLS/C0033038"}
+{"MSH": ["MSH/D024821"], "HPO": [""], "name": "Metabolic Syndrome X", "UMLS": "UMLS/C0524620"}
+{"MSH": ["MSH/D015663"], "HPO": [""], "name": "Osteoporosis, Postmenopausal", "UMLS": "UMLS/C0029458"}
+{"DALY_percent": "0.007422163449", "death_percent": "0", "MSH": ["MSH/D010003"], "HPO": ["HPO/HP:0002758"], "DALY_rate": "244.8988943", "name": "Degenerative polyarthritis", "UMLS": "UMLS/C0029408", "DALY_number": "18948965.31", "deaths_rate": "0", "death_number": "0"}
+{"MSH": ["MSH/D001281"], "HPO": ["HPO/HP:0005110"], "name": "Atrial Fibrillation", "UMLS": "UMLS/C0004238"}
+{"DALY_percent": "0.1551885896", "death_percent": "0.3284106901", "MSH": ["MSH/D002318"], "HPO": ["HPO/HP:0001626"], "DALY_rate": "5080.572264", "name": "Cardiovascular Diseases", "UMLS": "UMLS/C0007222", "DALY_number": "393107481.5", "deaths_rate": "239.9042913", "death_number": "18562509.67"}
+{"MSH": ["MSH/D001145"], "HPO": ["HPO/HP:0011675"], "name": "Cardiac Arrhythmia", "UMLS": "UMLS/C0003811"}
+{"MSH": [""], "HPO": [""], "name": "Malignant neoplasm of thyroid", "UMLS": "UMLS/C0007115"}
+{"MSH": ["MSH/D003424"], "HPO": ["HPO/HP:0100280"], "UMLS": "UMLS/C0010346", "name": "Crohn Disease"}
+{"MSH": ["MSH/D009369"], "HPO": ["HPO/HP:0002664"], "name": "Malignant Neoplasms", "UMLS": "UMLS/C0006826"}
+{"MSH": ["MSH/D003072"], "HPO": [""], "name": "Cognition Disorders", "UMLS": "UMLS/C0009241"}
+{"MSH": ["MSH/D003250"], "HPO": [""], "name": "Constriction procedure", "UMLS": "UMLS/C0009813"}
+{"MSH": ["MSH/D002289"], "HPO": ["HPO/HP:0030358"], "name": "Non-Small Cell Lung Carcinoma", "UMLS": "UMLS/C0007131"}
+{"MSH": ["MSH/D000505"], "HPO": ["HPO/HP:0001596", "HPO/HP:0002293"], "UMLS": "UMLS/C0002170", "name": "Alopecia"}
+{"MSH": ["MSH/D003092"], "HPO": ["HPO/HP:0002583"], "UMLS": "UMLS/C0009319", "name": "Colitis"}
+{"MSH": ["MSH/D014456"], "HPO": [""], "UMLS": "UMLS/C0041582", "name": "Ulcer"}
+{"MSH": ["MSH/D008224"], "HPO": ["HPO/HP:0033125"], "name": "Lymphoma, Follicular", "UMLS": "UMLS/C0024301"}
+{"MSH": ["MSH/D010051"], "HPO": ["HPO/HP:0100615"], "UMLS": "UMLS/C0919267", "name": "ovarian neoplasm"}
+{"MSH": ["MSH/D065768"], "HPO": [""], "name": "Lennox-Gastaut syndrome", "UMLS": "UMLS/C0238111"}
+{"DALY_percent": "0.02789160327", "death_percent": "0.02744385964", "MSH": ["MSH/D003920"], "HPO": ["HPO/HP:0000819"], "DALY_rate": "916.0643458", "name": "Diabetes Mellitus", "UMLS": "UMLS/C0011849", "DALY_number": "70880154.68", "deaths_rate": "20.04752432", "death_number": "1551170.102"}
+{"MSH": ["MSH/D057765"], "HPO": [""], "name": "Eosinophilic esophagitis", "UMLS": "UMLS/C0341106"}
+{"MSH": ["MSH/D020953"], "HPO": [""], "UMLS": "UMLS/C0752341", "name": "Aspergillosis, Nervous System Invasive"}
+{"MSH": ["MSH/D009091"], "HPO": [""], "UMLS": "UMLS/C0026718", "name": "Mucormycosis"}
+{"MSH": ["MSH/D005902"], "HPO": ["HPO/HP:0012108"], "name": "Glaucoma, Open-Angle", "UMLS": "UMLS/C0017612"}
+{"MSH": ["MSH/D009798"], "HPO": [""], "name": "Ocular Hypertension", "UMLS": "UMLS/C0028840"}
+{"MSH": ["MSH/D013274"], "HPO": ["HPO/HP:0012126"], "name": "Malignant neoplasm of stomach", "UMLS": "UMLS/C0024623"}
+{"MSH": ["MSH/D007951"], "HPO": ["HPO/HP:0012324"], "name": "Myeloid Leukemia", "UMLS": "UMLS/C0023470"}
+{"MSH": ["MSH/D009101"], "HPO": ["HPO/HP:0006775"], "name": "Multiple Myeloma", "UMLS": "UMLS/C0026764"}
+{"MSH": ["MSH/D009190"], "HPO": ["HPO/HP:0002863"], "name": "MYELODYSPLASTIC SYNDROME", "UMLS": "UMLS/C3463824"}
+{"MSH": [""], "HPO": [""], "name": "Molecular Abnormality", "UMLS": "UMLS/C0262496"}
+{"MSH": ["MSH/D008545"], "HPO": ["HPO/HP:0002861"], "UMLS": "UMLS/C0025202", "name": "melanoma"}
+{"MSH": ["MSH/D004194"], "HPO": [""], "UMLS": "UMLS/C0012634", "name": "Disease"}
+{"MSH": ["MSH/D012509"], "HPO": ["HPO/HP:0100242"], "UMLS": "UMLS/C1261473", "name": "Sarcoma"}
+{"MSH": ["MSH/D003704"], "HPO": ["HPO/HP:0000726"], "UMLS": "UMLS/C0497327", "name": "Dementia"}
+{"MSH": ["MSH/D015535"], "HPO": [""], "name": "Arthritis, Psoriatic", "UMLS": "UMLS/C0003872"}
+{"MSH": ["MSH/D012120"], "HPO": [""], "name": "Respiration Disorders", "UMLS": "UMLS/C0035204"}
+{"MSH": ["MSH/D014435"], "HPO": [""], "UMLS": "UMLS/C0041466", "name": "Typhoid Fever"}
+{"MSH": ["MSH/D000740"], "HPO": ["HPO/HP:0001903"], "UMLS": "UMLS/C0002871", "name": "Anemia"}
+{"MSH": ["MSH/D014652"], "HPO": [""], "name": "Vascular Diseases", "UMLS": "UMLS/C0042373"}
+{"MSH": ["MSH/D006816"], "HPO": [""], "name": "Huntington Disease", "UMLS": "UMLS/C0020179"}
+{"MSH": ["MSH/D007752"], "HPO": [""], "name": "Premature Obstetric Labor", "UMLS": "UMLS/C0022876"}
+{"MSH": ["MSH/D003550"], "HPO": [""], "name": "Cystic Fibrosis", "UMLS": "UMLS/C0010674"}
+{"MSH": ["MSH/D057092"], "HPO": ["HPO/HP:0031609"], "name": "Geographic Atrophy", "UMLS": "UMLS/C1536085"}
+{"MSH": ["MSH/D009437"], "HPO": ["HPO/HP:0033345"], "UMLS": "UMLS/C0027796", "name": "Neuralgia"}
+{"MSH": ["MSH/D006945"], "HPO": ["HPO/HP:0000975"], "name": "Hyperhidrosis disorder", "UMLS": "UMLS/C0020458"}
+{"DALY_percent": "0.008142974907", "death_percent": "0.01239659538", "MSH": ["MSH/D001943"], "HPO": [""], "DALY_rate": "266.5642292", "name": "Malignant neoplasm of breast", "UMLS": "UMLS/C0006142", "DALY_number": "20625312.93", "deaths_rate": "9.055420187", "death_number": "700659.9334"}
+{"MSH": ["MSH/D003233"], "HPO": ["HPO/HP:0007879"], "name": "Allergic Conjunctivitis", "UMLS": "UMLS/C0009766"}
+{"MSH": ["MSH/D006562"], "HPO": [""], "name": "Herpes zoster disease", "UMLS": "UMLS/C0019360"}
+{"DALY_percent": "0.002619330855", "death_percent": "0", "MSH": [""], "HPO": [""], "DALY_rate": "86.28512612", "UMLS": "UMLS/C0521707", "name": "Bilateral cataracts (disorder)", "DALY_number": "6676281.109", "deaths_rate": "0", "death_number": "0"}
+{"MSH": ["MSH/D012640"], "HPO": ["HPO/HP:0002069", "HPO/HP:0032677"], "name": "Tonic - clonic seizures", "UMLS": "UMLS/C0494475"}
+{"MSH": ["MSH/D017681"], "HPO": [""], "name": "Hypereosinophilic syndrome", "UMLS": "UMLS/C1540912"}
+{"MSH": ["MSH/D005490"], "HPO": [""], "name": "Focal Infection", "UMLS": "UMLS/C0016397"}
+{"MSH": ["MSH/D002780"], "HPO": ["HPO/HP:0001406"], "name": "Intrahepatic Cholestasis", "UMLS": "UMLS/C0008372"}
+{"MSH": ["MSH/D001851"], "HPO": ["HPO/HP:0000938"], "UMLS": "UMLS/C0029453", "name": "Osteopenia"}
+{"DALY_percent": "0.004947940413", "death_percent": "0.008571929336", "MSH": ["MSH/D006528"], "HPO": ["HPO/HP:0001402"], "DALY_rate": "161.9189504", "name": "Liver carcinoma", "UMLS": "UMLS/C2239176", "DALY_number": "12528421.5", "deaths_rate": "6.262731584", "death_number": "484576.6407"}
+{"MSH": ["MSH/D001289"], "HPO": ["HPO/HP:0007018"], "UMLS": "UMLS/C1263846", "name": "Attention deficit hyperactivity disorder"}
+{"MSH": ["MSH/D005767"], "HPO": ["HPO/HP:0011024"], "name": "Gastrointestinal Diseases", "UMLS": "UMLS/C0017178"}
+{"MSH": ["MSH/D012164"], "HPO": ["HPO/HP:0000479", "HPO/HP:0000488"], "name": "Retinal Diseases", "UMLS": "UMLS/C0035309"}
+{"MSH": ["MSH/D006473"], "HPO": ["HPO/HP:0011891"], "name": "Postpartum Hemorrhage", "UMLS": "UMLS/C0032797"}
+{"MSH": ["MSH/D065631"], "HPO": ["HPO/HP:0003193"], "UMLS": "UMLS/C2607914", "name": "Allergic rhinitis (disorder)"}
+{"MSH": ["MSH/D013167"], "HPO": [""], "name": "Ankylosing spondylitis", "UMLS": "UMLS/C0038013"}
+{"MSH": ["MSH/D003324"], "HPO": ["HPO/HP:0001677"], "name": "Coronary Artery Disease", "UMLS": "UMLS/C1956346"}
+{"MSH": [""], "HPO": [""], "name": "Metastatic Renal Cell Carcinoma", "UMLS": "UMLS/C4721698"}
+{"MSH": ["MSH/D000686"], "HPO": ["HPO/HP:0011034"], "UMLS": "UMLS/C0002726", "name": "Amyloidosis"}
+{"MSH": ["MSH/D018357"], "HPO": [""], "UMLS": "UMLS/C0035235", "name": "Respiratory Syncytial Virus Infections"}
+{"DALY_percent": "0.01855731779", "death_percent": "0.02086874386", "MSH": ["MSH/D014376"], "HPO": [""], "DALY_rate": "607.8233662", "UMLS": "UMLS/C0041296", "name": "Tuberculosis", "DALY_number": "47030117.93", "deaths_rate": "15.24745139", "death_number": "1179766.157"}
+{"MSH": ["MSH/D001987"], "HPO": ["HPO/HP:0002110"], "UMLS": "UMLS/C0006267", "name": "Bronchiectasis"}
+{"MSH": ["MSH/D014570"], "HPO": [""], "name": "Urologic Diseases", "UMLS": "UMLS/C0042075"}
+{"MSH": ["MSH/D053201"], "HPO": [""], "name": "Overactive Detrusor", "UMLS": "UMLS/C0268849"}
+{"MSH": ["MSH/D012764"], "HPO": [""], "name": "Shigella sonnei", "UMLS": "UMLS/C0036960"}
+{"DALY_percent": "0.001208306889", "death_percent": "0.001664185702", "MSH": ["MSH/D015470"], "HPO": ["HPO/HP:0004808"], "DALY_rate": "39.54884438", "name": "Leukemia, Myelocytic, Acute", "UMLS": "UMLS/C0023467", "DALY_number": "3060077.842", "deaths_rate": "1.215595573", "death_number": "94056.27745"}
+{"MSH": ["MSH/D013203"], "HPO": [""], "name": "Staphylococcal Infections", "UMLS": "UMLS/C0038160"}
+{"MSH": ["MSH/D054990"], "HPO": [""], "name": "Idiopathic Pulmonary Fibrosis", "UMLS": "UMLS/C1800706"}
+{"MSH": ["MSH/D058365"], "HPO": [""], "name": "Invasive Candidiasis", "UMLS": "UMLS/C1609535"}
+{"MSH": ["MSH/D016553"], "HPO": ["HPO/HP:0001973"], "name": "Immune thrombocytopenic purpura", "UMLS": "UMLS/C0398650"}
+{"MSH": ["MSH/D012871"], "HPO": ["HPO/HP:0000951"], "name": "Dermatologic disorders", "UMLS": "UMLS/C0037274"}
+{"MSH": ["MSH/D006069"], "HPO": [""], "UMLS": "UMLS/C0018081", "name": "Gonorrhea"}
+{"DALY_percent": "0.01880522133", "death_percent": "0.01528829924", "MSH": ["MSH/D000163"], "HPO": [""], "DALY_rate": "615.6045487", "name": "Acquired Immunodeficiency Syndrome", "UMLS": "UMLS/C0001175", "DALY_number": "47632184.17", "deaths_rate": "11.16434633", "death_number": "863837.3475"}
+{"MSH": ["MSH/D012595"], "HPO": [""], "name": "Systemic Scleroderma", "UMLS": "UMLS/C0036421"}
+{"MSH": ["MSH/D011654"], "HPO": ["HPO/HP:0100598"], "name": "Pulmonary Edema", "UMLS": "UMLS/C0034063"}
+{"MSH": ["MSH/D002779"], "HPO": ["HPO/HP:0001396"], "UMLS": "UMLS/C0008370", "name": "Cholestasis"}
+{"MSH": ["MSH/D006976"], "HPO": [""], "name": "Pulmonary Hypertension", "UMLS": "UMLS/C0020542"}
+{"MSH": ["MSH/D009362"], "HPO": [""], "name": "Neoplasm Metastasis", "UMLS": "UMLS/C0027627"}
+{"MSH": ["MSH/D003015"], "HPO": [""], "name": "Clostridium difficile infection", "UMLS": "UMLS/C0343386"}
+{"MSH": ["MSH/D012640"], "HPO": ["HPO/HP:0007359"], "name": "Seizures, Focal", "UMLS": "UMLS/C0751495"}
+{"MSH": ["MSH/D043183"], "HPO": [""], "name": "Irritable Bowel Syndrome", "UMLS": "UMLS/C0022104"}
+{"MSH": ["MSH/D014657"], "HPO": ["HPO/HP:0002633"], "UMLS": "UMLS/C0042384", "name": "Vasculitis"}
+{"MSH": ["MSH/D001327"], "HPO": ["HPO/HP:0002960"], "name": "Autoimmune Diseases", "UMLS": "UMLS/C0004364"}
+{"MSH": ["MSH/D014947"], "HPO": [""], "UMLS": "UMLS/C0043250", "name": "Injury wounds"}
+{"MSH": ["MSH/D004405"], "HPO": [""], "name": "Dysentery, Bacillary", "UMLS": "UMLS/C1527298"}
+{"MSH": ["MSH/D014777"], "HPO": [""], "UMLS": "UMLS/C0042769", "name": "Virus Diseases"}
+{"MSH": ["MSH/D000081029"], "HPO": ["HPO/HP:0002092"], "name": "Pulmonary arterial hypertension", "UMLS": "UMLS/C2973725"}
+{"MSH": ["MSH/D064420"], "HPO": ["HPO/HP:0020172"], "name": "Adverse reaction to drug", "UMLS": "UMLS/C0041755"}
+{"MSH": [""], "HPO": [""], "name": "Adverse reactions", "UMLS": "UMLS/C0559546"}
+{"MSH": ["MSH/D005334"], "HPO": ["HPO/HP:0001945"], "UMLS": "UMLS/C0015967", "name": "Fever"}
+{"MSH": ["MSH/D007945"], "HPO": ["HPO/HP:0005526"], "name": "Lymphoid leukemia", "UMLS": "UMLS/C0023448"}
+{"MSH": ["MSH/D013292"], "HPO": [""], "name": "Streptococcus agalactiae", "UMLS": "UMLS/C0579233"}
+{"MSH": ["MSH/D018288"], "HPO": [""], "name": "Carcinoma, Small Cell", "UMLS": "UMLS/C0262584"}
+{"MSH": ["MSH/D020522"], "HPO": [""], "UMLS": "UMLS/C0334634", "name": "Malignant lymphoma, lymphocytic, intermediate differentiation, diffuse"}
+{"MSH": ["MSH/D004485"], "HPO": ["HPO/HP:0000964", "HPO/HP:0000976"], "UMLS": "UMLS/C0013595", "name": "Eczema"}
+{"MSH": ["MSH/D008415"], "HPO": ["HPO/HP:0100495"], "UMLS": "UMLS/C0024899", "name": "Mastocytosis"}
+{"MSH": [""], "HPO": ["HPO/HP:0025524"], "name": "Palmoplantar psoriasis", "UMLS": "UMLS/C4476828"}
+{"MSH": [""], "HPO": ["HPO/HP:0033327"], "name": "Psoriasis of nail", "UMLS": "UMLS/C0406322"}
+{"DALY_percent": "0.003412459468", "death_percent": "0.00861350331", "MSH": ["MSH/D011471"], "HPO": [""], "DALY_rate": "111.7274268", "name": "Malignant neoplasm of prostate", "UMLS": "UMLS/C0376358", "DALY_number": "8644870.119", "deaths_rate": "6.291932699", "death_number": "486836.0667"}
+{"MSH": ["MSH/D018268"], "HPO": ["HPO/HP:0006744"], "name": "Adrenocortical carcinoma", "UMLS": "UMLS/C0206686"}
+{"DALY_percent": "0.0008824717348", "death_percent": "1.59e-06", "MSH": ["MSH/D004715"], "HPO": ["HPO/HP:0030127"], "DALY_rate": "29.07972667", "UMLS": "UMLS/C0014175", "name": "Endometriosis", "DALY_number": "2250033.564", "deaths_rate": "0.001157975077", "death_number": "89.59791193"}
+{"MSH": [""], "HPO": [""], "UMLS": "UMLS/C0730285", "name": "Macular edema due to diabetes mellitus"}
+{"MSH": ["MSH/D001171"], "HPO": ["HPO/HP:0005681"], "name": "Juvenile arthritis", "UMLS": "UMLS/C3495559"}
+{"MSH": [""], "HPO": [""], "UMLS": "UMLS/C1384600", "name": "Systemic onset juvenile chronic arthritis"}
+{"MSH": ["MSH/D005211"], "HPO": [""], "UMLS": "UMLS/C0015652", "name": "Fascioliasis"}
+{"MSH": ["MSH/D014123"], "HPO": [""], "UMLS": "UMLS/C0040558", "name": "Toxoplasmosis"}
+{"MSH": ["MSH/D003928"], "HPO": [""], "name": "Diabetic Nephropathy", "UMLS": "UMLS/C0011881"}
+{"MSH": ["MSH/D003248"], "HPO": ["HPO/HP:0002019"], "UMLS": "UMLS/C0009806", "name": "Constipation"}
+{"DALY_percent": "0.002116793897", "death_percent": "0.003510837708", "MSH": ["MSH/D010051"], "HPO": ["HPO/HP:0100615"], "DALY_rate": "69.26993481", "name": "Malignant neoplasm of ovary", "UMLS": "UMLS/C1140680", "DALY_number": "5359736.7", "deaths_rate": "2.564304784", "death_number": "198412.1755"}
+{"MSH": ["MSH/D009128"], "HPO": ["HPO/HP:0001257"], "name": "Muscle Spasticity", "UMLS": "UMLS/C0026838"}
+{"MSH": ["MSH/D000072742"], "HPO": ["HPO/HP:0020101"], "name": "Invasive Fungal Infections", "UMLS": "UMLS/C1262313"}
+{"MSH": ["MSH/D014077"], "HPO": [""], "UMLS": "UMLS/C0040436", "name": "Tooth Erosion"}
+{"MSH": [""], "HPO": [""], "name": "Post-polycythemia vera myelofibrosis", "UMLS": "UMLS/C3805232"}
+{"MSH": ["MSH/D055728"], "HPO": [""], "name": "Primary Myelofibrosis", "UMLS": "UMLS/C0001815"}
+{"MSH": ["MSH/D003929"], "HPO": [""], "name": "Diabetic Neuralgia", "UMLS": "UMLS/C0751074"}
+{"MSH": ["MSH/D000270"], "HPO": [""], "UMLS": "UMLS/C0001519", "name": "Adie Syndrome"}
+{"MSH": ["MSH/D012128"], "HPO": ["HPO/HP:0033677"], "name": "Respiratory Distress Syndrome, Adult", "UMLS": "UMLS/C0035222"}
+{"DALY_percent": "0.0004144040752", "death_percent": "0.0005294697197", "MSH": [""], "HPO": ["HPO/HP:0005506"], "DALY_rate": "13.565924", "name": "Myeloid Leukemia, Chronic", "UMLS": "UMLS/C0023473", "DALY_number": "1049658.57", "deaths_rate": "0.3868294511", "death_number": "29930.79193"}
+{"MSH": ["MSH/D018290"], "HPO": ["HPO/HP:0032242"], "name": "Cervical Intraepithelial Neoplasia", "UMLS": "UMLS/C0206708"}
+{"MSH": ["MSH/D009157"], "HPO": [""], "name": "Myasthenia Gravis", "UMLS": "UMLS/C0026896"}
+{"MSH": ["MSH/D003807"], "HPO": [""], "name": "Dentin Sensitivity", "UMLS": "UMLS/C0011432"}
+{"MSH": ["MSH/D009134"], "HPO": ["HPO/HP:0007269"], "name": "Spinal Muscular Atrophy", "UMLS": "UMLS/C0026847"}
+{"MSH": ["MSH/D064726"], "HPO": [""], "name": "Triple Negative Breast Neoplasms", "UMLS": "UMLS/C3539878"}
+{"MSH": [""], "HPO": [""], "name": "Lupus Erythematosus", "UMLS": "UMLS/C0409974"}
+{"MSH": [""], "HPO": ["HPO/HP:0006721"], "name": "Acute lymphocytic leukemia", "UMLS": "UMLS/C0023449"}
+{"MSH": [""], "HPO": [""], "name": "Metastatic melanoma", "UMLS": "UMLS/C0278883"}
+{"MSH": ["MSH/D018358"], "HPO": ["HPO/HP:0100634"], "name": "Neuroendocrine Tumors", "UMLS": "UMLS/C0206754"}
+{"MSH": ["MSH/D008268"], "HPO": ["HPO/HP:0000608"], "name": "Macular degeneration", "UMLS": "UMLS/C0024437"}
+{"MSH": ["MSH/D006009"], "HPO": [""], "name": "Glycogen storage disease type II", "UMLS": "UMLS/C0017921"}
+{"DALY_percent": "0.001348736004", "death_percent": "0.0007413378651", "MSH": ["MSH/D000755"], "HPO": [""], "DALY_rate": "44.21135005", "name": "Anemia, Sickle Cell", "UMLS": "UMLS/C0002895", "DALY_number": "3420837.57", "deaths_rate": "0.541940535", "death_number": "41932.45718"}
+{"MSH": [""], "HPO": [""], "UMLS": "UMLS/C1337011", "name": "Well Differentiated Pancreatic Endocrine Tumor"}
+{"MSH": ["MSH/D002276"], "HPO": ["HPO/HP:0100570"], "name": "Carcinoid Tumor", "UMLS": "UMLS/C0007095"}
+{"DALY_percent": "0.001528903945", "death_percent": "0", "MSH": ["MSH/D014581"], "HPO": ["HPO/HP:0001025"], "DALY_rate": "50.38909702", "UMLS": "UMLS/C0042109", "name": "Urticaria", "DALY_number": "3898838.556", "deaths_rate": "0", "death_number": "0"}
+{"MSH": ["MSH/D003781"], "HPO": [""], "name": "Denture Retention", "UMLS": "UMLS/C0011397"}
+{"DALY_percent": "0.001437438051", "death_percent": "0.002035507052", "MSH": ["MSH/D010195"], "HPO": ["HPO/HP:0001733"], "DALY_rate": "47.05812456", "UMLS": "UMLS/C0030305", "name": "Pancreatitis", "DALY_number": "3641105.74", "deaths_rate": "1.486962428", "death_number": "115053.1918"}
+{"MSH": [""], "HPO": [""], "UMLS": "UMLS/C0021386", "name": "Necrotizing granulomatous inflammation"}
+{"MSH": [""], "HPO": [""], "UMLS": "UMLS/C0280100", "name": "Solid Neoplasm"}
+{"MSH": [""], "HPO": [""], "name": "Hepatic impairment", "UMLS": "UMLS/C0948807"}
+{"DALY_percent": "0.006441548282", "death_percent": "0.004177120858", "MSH": ["MSH/D008581"], "HPO": ["HPO/HP:0001287"], "DALY_rate": "211.092381", "UMLS": "UMLS/C0025289", "name": "Meningitis", "DALY_number": "16333198.3", "deaths_rate": "3.052957933", "death_number": "236221.54"}
+{"MSH": ["MSH/D002277"], "HPO": ["HPO/HP:0030731"], "UMLS": "UMLS/C0007097", "name": "Carcinoma"}
+{"MSH": ["MSH/D025241"], "HPO": [""], "name": "Spondylarthritis", "UMLS": "UMLS/C0949690"}
+{"MSH": ["MSH/D006937"], "HPO": ["HPO/HP:0003124"], "name": "Hypercholesterolemia", "UMLS": "UMLS/C0020443"}
+{"MSH": [""], "HPO": [""], "name": "Mixed bipolar I disorder", "UMLS": "UMLS/C0236780"}
+{"MSH": ["MSH/D012178"], "HPO": ["HPO/HP:0500049"], "name": "Retinopathy of Prematurity", "UMLS": "UMLS/C0035344"}
+{"MSH": [""], "HPO": [""], "name": "Enthesitis-Related Arthritis", "UMLS": "UMLS/C3495919"}
+{"MSH": ["MSH/D008181"], "HPO": ["HPO/HP:0033726"], "name": "Lupus Nephritis", "UMLS": "UMLS/C0024143"}
+{"MSH": ["MSH/D006086"], "HPO": [""], "name": "Graft-vs-Host Disease", "UMLS": "UMLS/C0018133"}
+{"MSH": [""], "HPO": [""], "UMLS": "UMLS/C1292769", "name": "Precursor B-cell lymphoblastic leukemia"}
+{"DALY_percent": "0.00460716888", "death_percent": "0.008810680473", "MSH": [""], "HPO": ["HPO/HP:0011459"], "DALY_rate": "150.7731166", "name": "Esophageal carcinoma", "UMLS": "UMLS/C0152018", "DALY_number": "11666016.56", "deaths_rate": "6.437083557", "death_number": "498067.063"}
