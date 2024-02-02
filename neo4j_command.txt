@@ -41,27 +41,27 @@ LOAD CSV WITH HEADERS FROM 'file:///trial_conditions.tsv' AS row FIELDTERMINATOR
 LOAD CSV WITH HEADERS FROM 'file:///trial_medicines.tsv' AS row FIELDTERMINATOR '\t' MERGE (p1:Trial {id: row.from}) MERGE (p2:Medicine {UMLS: row.to}) MERGE (p1)-[r:TESTS]->(p2)
 ;
 
-LOAD CSV WITH HEADERS FROM 'file:///condition_is_hpo.tsv' AS row FIELDTERMINATOR '\t' MERGE (p1:Condition {UMLS: row.from}) MERGE (p2:ConditionHPO {HPO: row.to}) MERGE (p1)-[r:HPO_IS_A]->(p2)
+LOAD CSV WITH HEADERS FROM 'file:///condition_is_hpo.tsv' AS row FIELDTERMINATOR '\t' MERGE (p1:Condition {UMLS: row.from}) MERGE (p2:ConditionHPO {HPO: row.to}) MERGE (p1)-[r:CONDITION_HPO_IS_A]->(p2)
 ;
-LOAD CSV WITH HEADERS FROM 'file:///hpo_is_a.tsv' AS row FIELDTERMINATOR '\t' MERGE (p1:ConditionHPO {HPO: row.from}) MERGE (p2:ConditionHPO {HPO: row.to}) MERGE (p1)-[r:HPO_BELONGS_TO]->(p2)
+LOAD CSV WITH HEADERS FROM 'file:///hpo_is_a.tsv' AS row FIELDTERMINATOR '\t' MERGE (p1:ConditionHPO {HPO: row.from}) MERGE (p2:ConditionHPO {HPO: row.to}) MERGE (p1)-[r:CONDITION_HPO_BELONGS_TO]->(p2)
 ;
 
-LOAD CSV WITH HEADERS FROM 'file:///condition_is_msh.tsv' AS row FIELDTERMINATOR '\t' MERGE (p1:Condition {UMLS: row.from}) MERGE (p2:ConditionMSH {MSH: row.to}) MERGE (p1)-[r:MSH_IS_A]->(p2)
+LOAD CSV WITH HEADERS FROM 'file:///condition_is_msh.tsv' AS row FIELDTERMINATOR '\t' MERGE (p1:Condition {UMLS: row.from}) MERGE (p2:ConditionMSH {MSH: row.to}) MERGE (p1)-[r:CONDITION_MSH_IS_A]->(p2)
 ;
 
 LOAD CSV WITH HEADERS FROM 'file:///msh_may_be_treated_by.tsv' AS row FIELDTERMINATOR '\t' MATCH (p:ConditionMSH {MSH: row.MSH}) SET p.may_be_treated_by = split(coalesce(row.may_be_treated_by, ''), '|') 
 ;
 
-LOAD CSV WITH HEADERS FROM 'file:///medicine_is_msh.tsv' AS row FIELDTERMINATOR '\t' MERGE (p1:Medicine {UMLS: row.from}) MERGE (p2:MedicineMSH {MSH: row.to}) MERGE (p1)-[r:MSH_IS_A]->(p2)
+LOAD CSV WITH HEADERS FROM 'file:///medicine_is_msh.tsv' AS row FIELDTERMINATOR '\t' MERGE (p1:Medicine {UMLS: row.from}) MERGE (p2:MedicineMSH {MSH: row.to}) MERGE (p1)-[r:MEDICINE_MSH_IS_A]->(p2)
 ;
 
-LOAD CSV WITH HEADERS FROM 'file:///gsk_is_a.tsv' AS row FIELDTERMINATOR '\t' MERGE (p1:Medicine {UMLS: row.from}) MERGE (p2:MedicineMSH {MSH: row.to}) MERGE (p1)-[r:MSH_IS_A]->(p2)
+LOAD CSV WITH HEADERS FROM 'file:///gsk_is_a.tsv' AS row FIELDTERMINATOR '\t' MERGE (p1:Medicine {UMLS: row.from}) MERGE (p2:MedicineMSH {MSH: row.to}) MERGE (p1)-[r:MEDICINE_MSH_IS_A]->(p2)
 ;
 
-LOAD CSV WITH HEADERS FROM 'file:///medicine_msh_is_a.tsv' AS row FIELDTERMINATOR '\t' MERGE (p1:MedicineMSH {MSH: row.from}) MERGE (p2:MedicineMSH {MSH: row.to}) MERGE (p1)-[r:MSH_BELONGS_TO]->(p2)
+LOAD CSV WITH HEADERS FROM 'file:///medicine_msh_is_a.tsv' AS row FIELDTERMINATOR '\t' MERGE (p1:MedicineMSH {MSH: row.from}) MERGE (p2:MedicineMSH {MSH: row.to}) MERGE (p1)-[r:MEDICINE_MSH_BELONGS_TO]->(p2)
 ;
 
-LOAD CSV WITH HEADERS FROM 'file:///medicine_msh_mapped_to.tsv' AS row FIELDTERMINATOR '\t' MERGE (p1:MedicineMSH {MSH: row.from}) MERGE (p2:MedicineMSH {MSH: row.to}) MERGE (p1)-[r:MSH_IS_MAPPED_TO]->(p2)
+LOAD CSV WITH HEADERS FROM 'file:///medicine_msh_mapped_to.tsv' AS row FIELDTERMINATOR '\t' MERGE (p1:MedicineMSH {MSH: row.from}) MERGE (p2:MedicineMSH {MSH: row.to}) MERGE (p1)-[r:MEDICINE_MSH_IS_MAPPED_TO]->(p2)
 ;
 LOAD CSV WITH HEADERS FROM 'file:///trial_cryptic_drugs.tsv' AS row FIELDTERMINATOR '\t' MERGE (p1:Trial {id: row.from}) MERGE (p2:Medicine {UMLS: row.to}) MERGE (p1)-[r:TESTS]->(p2)
 ;
