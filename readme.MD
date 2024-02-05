@@ -38,8 +38,13 @@ get_meta_data_experiment.ipynb
 
 to convert the clinical data to TSV
 
-5. Import the data into Neo4j and create dashboards in Looker Studio
+5. Import the data into Neo4j
 
+6. Run 
+```
+to_bigquery.ipynb
+```
+to export data to GCP and to create dashboard
 
 ## Authors
 
