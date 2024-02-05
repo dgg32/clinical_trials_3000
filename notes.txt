@@ -1,5 +1,0 @@
-MSH contains  may_be_treated_by. For example, Acne Vulgaris on https://uts.nlm.nih.gov/uts/umls/vocabulary/MSH/D000152:
-
-Acne Vulgaris may_be_treated_by adapalene
-Acne Vulgaris may_be_treated_by azelaic acid 
-
