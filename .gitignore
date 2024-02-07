@@ -159,3 +159,4 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 config.yaml
+clinical_study_data_request_com_all_sponsor.tsv
