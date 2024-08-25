@@ -1,0 +1,229 @@
+Graph DrugGraph
+MATCH
+(i:Drug)-[:MAY_TREAT]->(c:Disorder {name: "Alzheimer's Disease"})
+RETURN
+DISTINCT i.name AS drug_name
+
+
+
+SELECT Trials.StudyTitle, drug_for_disease.drug_name
+FROM Trials,
+GRAPH_TABLE(
+         DrugGraph
+            MATCH
+            (i:Drug)-[:MAY_TREAT]->(c:Disorder {name: "Alzheimer's Disease"})
+            RETURN
+            DISTINCT i.name AS drug_name
+      ) AS drug_for_disease
+
+WHERE drug_for_disease.drug_name IN UNNEST(Trials.PreferredUMLSName)
+
+
+
+
+
+
+SELECT DISTINCT Trials.StudyTitle, drug_for_disease.drug_name
+FROM Trials,
+GRAPH_TABLE(
+         DrugGraph
+            MATCH
+            (i:Drug)-[:HAS_MECHANISM_OF_ACTION]->(c:MOA {name: "Adrenergic beta2-Agonists"})
+            RETURN
+            DISTINCT i.name AS drug_name
+      ) AS drug_for_disease
+
+WHERE drug_for_disease.drug_name IN UNNEST(Trials.PreferredUMLSName)
+
+
+
+
+
+
+SELECT DISTINCT Trials.StudyTitle, drug_for_disease.drug_name, drug_for_disease.moa_name
+FROM Trials,
+GRAPH_TABLE(
+         DrugGraph
+            MATCH
+            (i:Drug)-[:MAY_TREAT]->(c:Disorder {name: "Asthma"})
+            RETURN
+            DISTINCT i
+
+            NEXT
+
+            MATCH (i) -[:HAS_MECHANISM_OF_ACTION]->(c:MOA)
+            RETURN i.name AS drug_name, c.name AS moa_name
+       ) AS drug_for_disease
+
+WHERE drug_for_disease.drug_name IN UNNEST(Trials.PreferredUMLSName)
+
+
+
+Graph DrugGraph
+MATCH (i:Drug) -[:HAS_MECHANISM_OF_ACTION]->(c:MOA)
+WITH i, COUNT(c) as number_of_moa
+MATCH (i)
+WHERE number_of_moa > 1
+RETURN i.name AS drug_name
+       
+
+Graph DrugGraph
+MATCH (i:Drug {name:"mercaptopurine"}) -[:HAS_MECHANISM_OF_ACTION]->(c:MOA)
+RETURN i.name AS drug_name, c.name AS moa_name
+
+
+
+
+
+WITH query_embedding AS (
+  SELECT
+    embeddings.values AS embedding_values
+  FROM
+    ml.predict(MODEL embeddingsmodel,
+      (
+      SELECT
+        'joint-related disorders' AS content))
+)
+
+SELECT
+  DISTINCT disorder.name,
+  cosine_distance(disorder.definitionEmbedding, b.embedding_values) AS distance,
+  
+FROM
+  `Disorder` AS disorder, query_embedding as b,
+  GRAPH_TABLE(
+    DrugGraph
+    MATCH
+                (i:Drug)-[:MAY_TREAT]->(c:Disorder)
+                RETURN DISTINCT i.name AS drug_name, c.name AS disorder_name
+    ) AS drug_for_disorder
+WHERE disorder.definitionEmbedding IS NOT NULL and disorder.definition <> ""
+ORDER BY
+  distance
+LIMIT 3
+
+
+
+
+
+
+
+WITH query_embedding AS (
+    SELECT
+        embeddings.values AS embedding_values
+    FROM
+        ml.predict(MODEL embeddingsmodel,
+        (
+        SELECT
+            'joint-related disorders' AS content))
+    )
+SELECT target_disease.name, target_disease.definition, target_disease.distance, drug_for_disorder.drug_name FROM (
+    SELECT
+        disorder.name,
+        disorder.definition,
+        cosine_distance(disorder.definitionEmbedding, b.embedding_values) AS distance
+        FROM
+        `Disorder` AS disorder, query_embedding as b
+        WHERE disorder.definitionEmbedding IS NOT NULL AND disorder.definition <> ""
+        ORDER BY
+        distance
+    ) AS target_disease,
+    GRAPH_TABLE(
+    DrugGraph
+    MATCH (i:Drug)-[:MAY_TREAT]->(c:Disorder)
+        RETURN DISTINCT i.name AS drug_name, c.name AS disorder_name
+    ) AS drug_for_disorder
+WHERE distance < 0.4 AND target_disease.name = drug_for_disorder.disorder_name
+ORDER BY target_disease.distance, drug_for_disorder.drug_name
+
+
+
+
+
+
+
+
+
+
+
+WITH query_embedding AS (
+    SELECT
+        embeddings.values AS embedding_values
+    FROM
+        ml.predict(MODEL embeddingsmodel,
+        (
+        SELECT
+            'joint-related disorders' AS content))
+    )
+SELECT target_disease.name, target_disease.definition, target_disease.distance, drug_for_disorder.drug_name, Trials.StudyTitle, Trials.LinkToClinicalTrials FROM (
+    SELECT
+        disorder.name,
+        disorder.definition,
+        cosine_distance(disorder.definitionEmbedding, b.embedding_values) AS distance
+        FROM
+        `Disorder` AS disorder, query_embedding as b
+        WHERE disorder.definitionEmbedding IS NOT NULL AND disorder.definition <> ""
+        ORDER BY
+        distance
+    ) AS target_disease,
+    GRAPH_TABLE(
+    DrugGraph
+    MATCH (i:Drug)-[:MAY_TREAT]->(c:Disorder)
+        RETURN DISTINCT i.name AS drug_name, c.name AS disorder_name
+    ) AS drug_for_disorder,
+    Trials
+WHERE distance < 0.4 AND target_disease.name = drug_for_disorder.disorder_name AND drug_for_disorder.drug_name IN UNNEST(Trials.PreferredUMLSName)
+ORDER BY target_disease.distance, drug_for_disorder.drug_name
+
+
+
+
+
+SELECT *
+FROM Trials
+WHERE SEARCH(StudyTitle_Tokens, 'tiotropium Bromide and Double Blind')
+
+
+
+
+
+
+
+WITH query_embedding AS (
+  SELECT
+    embeddings.values AS embedding_values
+  FROM
+    ml.predict(MODEL embeddingsmodel,
+      (
+      SELECT
+        'joint-related disorders' AS content))
+)
+
+SELECT target_disease.name, target_disease.definition, content AS LLMResponse
+  FROM (
+      SELECT
+        disorder.name,
+        disorder.definition,
+        cosine_distance(disorder.definitionEmbedding, b.embedding_values) AS distance
+        FROM
+        `Disorder` AS disorder, query_embedding as b
+        WHERE disorder.definitionEmbedding IS NOT NULL AND disorder.definition <> ""
+        ORDER BY
+        distance
+        LIMIT 3
+    ) AS target_disease,
+    ML.PREDICT(
+        MODEL LLMModel,
+        (   SELECT
+        name, definition,
+        CONCAT(
+                  "My right knee hurts when I walk long distances without knee pad. But with a knee pad, it can endure a 20 km walk\n",
+                  "Start your answer with 'Yes' or 'No' and explain why: Is ", name , " the cause?\n", 
+                  "Answer it with best of your ability even though you are not a medical professional."
+        ) AS prompt,
+        FROM Disorder
+        ),
+        STRUCT(512 AS maxOutputTokens)
+        ) AS LLM_processed
+  WHERE distance < 0.4 AND target_disease.name = LLM_processed.name
+

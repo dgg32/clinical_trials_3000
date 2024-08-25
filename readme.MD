@@ -16,7 +16,11 @@ Neo4j Desktop or AuraDB
 GCP account
 
 UMLS free tier
-  
+
+
+Enbale Vertex AI API in the GCP project, increase its quota (default 5)
+
+501 VECTOR INDEX is not available in granular instances in preview 12: VECTOR INDEX is not available in granular instances in preview
 
 # Run
 1. Set up the databases as described in the article. 
