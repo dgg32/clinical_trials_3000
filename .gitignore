@@ -160,3 +160,4 @@ cython_debug/
 #.idea/
 config.yaml
 clinical_study_data_request_com_all_sponsor.tsv
+.DS_Store

@@ -76,39 +76,6 @@ RETURN i.name AS drug_name, c.name AS moa_name
 
 
 WITH query_embedding AS (
-  SELECT
-    embeddings.values AS embedding_values
-  FROM
-    ml.predict(MODEL embeddingsmodel,
-      (
-      SELECT
-        'joint-related disorders' AS content))
-)
-
-SELECT
-  DISTINCT disorder.name,
-  cosine_distance(disorder.definitionEmbedding, b.embedding_values) AS distance,
-  
-FROM
-  `Disorder` AS disorder, query_embedding as b,
-  GRAPH_TABLE(
-    DrugGraph
-    MATCH
-                (i:Drug)-[:MAY_TREAT]->(c:Disorder)
-                RETURN DISTINCT i.name AS drug_name, c.name AS disorder_name
-    ) AS drug_for_disorder
-WHERE disorder.definitionEmbedding IS NOT NULL and disorder.definition <> ""
-ORDER BY
-  distance
-LIMIT 3
-
-
-
-
-
-
-
-WITH query_embedding AS (
     SELECT
         embeddings.values AS embedding_values
     FROM
@@ -178,10 +145,9 @@ ORDER BY target_disease.distance, drug_for_disorder.drug_name
 
 
 
-
 SELECT *
 FROM Trials
-WHERE SEARCH(StudyTitle_Tokens, 'tiotropium Bromide and Double Blind')
+WHERE SEARCH(StudyTitle_Tokens, 'tiotropium Bromide OR Double Blind')
 
 
 
@@ -227,3 +193,41 @@ SELECT target_disease.name, target_disease.definition, content AS LLMResponse
         ) AS LLM_processed
   WHERE distance < 0.4 AND target_disease.name = LLM_processed.name
 
+
+
+
+
+
+### for Data Studio
+
+
+
+###### this works
+SELECT DrugName, DisorderName FROM
+GRAPH_TABLE (
+  DrugGraph
+  MATCH
+  (i:Drug)-[:MAY_TREAT]->(c:Disorder)
+  RETURN i.name as DrugName, c.name as DisorderName
+)
+
+###### this does not work in Looker, even though it works in Spanner Studio
+GRAPH
+DrugGraph
+      MATCH
+      (i:Drug)-[:MAY_TREAT]->(c:Disorder)
+      RETURN i.name as DrugName, c.name as DisorderName
+
+
+##
+SELECT Trials.StudyTitle, drug_for_disease.drug_name, drug_for_disease.disorder_name
+FROM Trials,
+GRAPH_TABLE(
+         DrugGraph
+            MATCH
+            (i:Drug)-[:MAY_TREAT]->(c:Disorder)
+            RETURN
+            DISTINCT i.name AS drug_name, c.name AS disorder_name
+      ) AS drug_for_disease
+
+WHERE drug_for_disease.drug_name IN UNNEST(Trials.PreferredUMLSName)
