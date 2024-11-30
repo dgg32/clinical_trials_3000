@@ -1,0 +1,5 @@
+pandas==2.2.3
+pycurl==7.45.3
+PyYAML==6.0.2
+Requests==2.32.3
+tqdm==4.66.6
