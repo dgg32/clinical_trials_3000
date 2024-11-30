@@ -25,7 +25,7 @@ Enbale Vertex AI API in the GCP project, increase its quota (default 5)
 # Run
 1. Set up the databases as described in the article. 
   
-2. Install the necessary Python libraries (install.txt) and gcloud CLI
+2. Install the necessary Python libraries (requirements.txt) and gcloud CLI
 
 3. Fill the necessary API key information in config.yaml
 
